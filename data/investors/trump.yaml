@@ -1,0 +1,128 @@
+slug: trump
+display_name:
+  en: Donald Trump
+  zh-CN: 唐纳德·特朗普
+  zh-HK: 唐納德·特朗普
+tagline:
+  en: Real-estate developer, television personality, and two-term US president
+  zh-CN: 从房地产开发商，到电视节目明星，再到两度当选的美国总统
+  zh-HK: 從房地產開發商，到電視節目明星，再到兩度當選的美國總統
+role:
+  en: 45th and 47th President of the United States
+  zh-CN: 美国第 45 任与第 47 任总统
+  zh-HK: 美國第 45 任與第 47 任總統
+born: 1946
+portrait: /portraits/trump.jpg
+cik: ""
+holdings_source: "curated"
+skill_file: trump-skill.skill
+
+bio:
+  en: |
+    Donald Trump, born in Queens in 1946, took over his father Fred Trump's real estate business in 1971 and rebranded it as The Trump Organization, with a focus on Manhattan hotels, golf courses, and licensed-name towers worldwide. In 2004 he became a mainstream television figure as the host of NBC's The Apprentice, which ran for fourteen seasons and materially shaped his public brand.
+
+    Trump was elected the 45th President of the United States in 2016 and served one term through January 2021. After leaving office he took Trump Media & Technology Group (parent of the Truth Social platform) public via a SPAC merger in March 2024; the resulting ticker DJT became one of the most volatile meme-adjacent listings of that year. In November 2024 he was elected to a non-consecutive second term, becoming the 47th President.
+
+    This profile focuses on his publicly disclosed business activities and is intended as a neutral business-history summary rather than a political assessment.
+  zh-CN: |
+    唐纳德·特朗普，1946 年生于纽约皇后区，1971 年接手父亲 Fred Trump 的房地产业务，将其重塑为 The Trump Organization，业务核心集中在曼哈顿酒店、高尔夫球场以及全球授权品牌的大厦项目。2004 年，他以 NBC 电视节目《学徒》主持人的身份走入大众视野，该节目连续播出 14 季，显著塑造了他的公众形象。
+
+    2016 年他当选美国第 45 任总统，任期至 2021 年 1 月。离任后，他通过 SPAC 合并方式在 2024 年 3 月把 Trump Media & Technology Group（旗下平台 Truth Social 的母公司）送上市，代码 DJT 成为当年波动最剧烈的"meme 相关"标的之一。2024 年 11 月，他非连续再次当选，成为第 47 任美国总统。
+
+    本词条聚焦其公开披露的商业活动，作为中立的商业史摘要，不作政治评价。
+  zh-HK: |
+    唐納德·特朗普，1946 年生於紐約皇后區，1971 年接手父親 Fred Trump 的房地產業務，將其重塑為 The Trump Organization，業務核心集中在曼哈頓酒店、高爾夫球場以及全球授權品牌的大廈項目。2004 年，他以 NBC 電視節目《學徒》主持人的身份走入大眾視野，該節目連續播出 14 季，顯著塑造了他的公眾形象。
+
+    2016 年他當選美國第 45 任總統，任期至 2021 年 1 月。離任後，他透過 SPAC 合併方式在 2024 年 3 月把 Trump Media & Technology Group（旗下平台 Truth Social 的母公司）送上市，代碼 DJT 成為當年波動最劇烈的"迷因相關"標的之一。2024 年 11 月，他非連續再次當選，成為第 47 任美國總統。
+
+    本詞條聚焦其公開披露的商業活動，作為中立的商業史摘要，不作政治評價。
+
+philosophy:
+  - icon: "🏢"
+    title:
+      en: Brand as Asset
+      zh-CN: 品牌即资产
+      zh-HK: 品牌即資產
+    body:
+      en: License the name; let other capital carry the construction risk.
+      zh-CN: 对外授权品牌，让别人的资本承担建设风险。
+      zh-HK: 對外授權品牌，讓別人的資本承擔建設風險。
+  - icon: "📺"
+    title:
+      en: Media Distribution
+      zh-CN: 媒体即渠道
+      zh-HK: 媒體即渠道
+    body:
+      en: Treat direct-to-audience media as the primary distribution channel, bypassing intermediaries.
+      zh-CN: 把直达受众的媒体当作首要分发渠道，绕开中介。
+      zh-HK: 把直達受眾的媒體當作首要分發渠道，繞開中介。
+  - icon: "🎯"
+    title:
+      en: Negotiate From Position
+      zh-CN: 从姿态出发谈判
+      zh-HK: 從姿態出發談判
+    body:
+      en: Anchor high, keep the walk-away visible, close late.
+      zh-CN: 开价要高，让对方看到你可以走人，交易留到最后一刻落地。
+      zh-HK: 開價要高，讓對方看到你可以走人，交易留到最後一刻落地。
+
+quotes:
+  - text:
+      en: Deals are my art form. Other people paint beautifully or write poetry. I like making deals, preferably big deals.
+      zh-CN: 交易是我的艺术形式。别人画画、写诗，而我喜欢做交易——最好是大交易。
+      zh-HK: 交易是我的藝術形式。別人畫畫、寫詩，而我喜歡做交易——最好是大交易。
+    source: The Art of the Deal
+    year: 1987
+  - text:
+      en: Sometimes your best investments are the ones you don't make.
+      zh-CN: 有时你最好的投资，是没做的那一笔。
+      zh-HK: 有時你最好的投資，是沒做的那一筆。
+    source: The Art of the Deal
+    year: 1987
+  - text:
+      en: You have to think anyway, so why not think big?
+      zh-CN: 反正都要动脑子，为什么不想大的？
+      zh-HK: 反正都要動腦子，為什麼不想大的？
+
+milestones:
+  - year: 1971
+    event:
+      en: Took over his father's real-estate firm and rebranded it The Trump Organization
+      zh-CN: 接手父亲的房地产公司，改名为 The Trump Organization
+      zh-HK: 接手父親的房地產公司，改名為 The Trump Organization
+  - year: 2004
+    event:
+      en: Premiere of The Apprentice on NBC; show runs 14 seasons and cements his media profile
+      zh-CN: 《学徒》在 NBC 首播，连续播出 14 季，奠定其媒体形象
+      zh-HK: 《學徒》在 NBC 首播，連續播出 14 季，奠定其媒體形象
+  - year: 2017
+    event:
+      en: Inaugurated as 45th President of the United States
+      zh-CN: 就任美国第 45 任总统
+      zh-HK: 就任美國第 45 任總統
+  - year: 2024
+    event:
+      en: Trump Media & Technology Group (DJT) completes SPAC merger and lists on Nasdaq; re-elected as 47th President in November
+      zh-CN: Trump Media & Technology Group（DJT）完成 SPAC 合并登陆纳斯达克；11 月再度当选美国第 47 任总统
+      zh-HK: Trump Media & Technology Group（DJT）完成 SPAC 合併登陸納斯達克；11 月再度當選美國第 47 任總統
+
+notable_holdings:
+  - name: Trump Media & Technology Group (DJT)
+    kind: Listed equity
+    note:
+      en: Parent of the Truth Social platform; Trump is the controlling shareholder, holding roughly 53% of DJT shares as disclosed in 2024 filings. His stake is held via a revocable trust.
+      zh-CN: Truth Social 的母公司；按 2024 年披露，特朗普通过可撤销信托持有约 53% 的 DJT 股份，为控股股东。
+      zh-HK: Truth Social 的母公司；按 2024 年披露，特朗普透過可撤銷信託持有約 53% 的 DJT 股份，為控股股東。
+    disclosure_url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001849635&type=4
+  - name: The Trump Organization
+    kind: Private real estate
+    note:
+      en: Privately held real-estate, hotel, golf, and brand-licensing group founded by his father; operates properties and licensing deals globally. Audited ownership disclosed in federal financial-disclosure filings.
+      zh-CN: 由其父创办的私人控股集团，业务覆盖房地产、酒店、高尔夫及品牌授权；持股细节在联邦财产申报中披露。
+      zh-HK: 由其父創辦的私人控股集團，業務覆蓋房地產、酒店、高爾夫及品牌授權；持股細節在聯邦財產申報中披露。
+  - name: Mar-a-Lago Club
+    kind: Private real estate
+    note:
+      en: Palm Beach, Florida private club purchased in 1985; serves as Trump's primary residence and a central asset within The Trump Organization portfolio.
+      zh-CN: 1985 年购入的佛罗里达棕榈滩私人俱乐部；既是特朗普主要居所，也是 Trump Organization 旗下核心资产之一。
+      zh-HK: 1985 年購入的佛羅里達棕櫚灘私人俱樂部；既是特朗普主要居所，也是 Trump Organization 旗下核心資產之一。

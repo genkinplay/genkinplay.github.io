@@ -1,0 +1,128 @@
+slug: jensen-huang
+display_name:
+  en: Jensen Huang
+  zh-CN: 黄仁勋
+  zh-HK: 黃仁勳
+tagline:
+  en: The man who turned a GPU company into the AI infrastructure layer
+  zh-CN: 把一家显卡公司，做成了 AI 的基础设施
+  zh-HK: 把一家顯卡公司，做成了 AI 的基礎設施
+role:
+  en: Co-Founder, President & CEO, NVIDIA
+  zh-CN: 英伟达联合创始人、总裁兼 CEO
+  zh-HK: 輝達聯合創辦人、總裁兼 CEO
+born: 1963
+portrait: /portraits/jensen-huang.jpg
+cik: ""
+holdings_source: "curated"
+skill_file: jensen-huang-skill.skill
+
+bio:
+  en: |
+    Jensen Huang, born in Tainan in 1963 and raised partly in Kentucky and Oregon, co-founded NVIDIA at a Denny's in 1993 with Chris Malachowsky and Curtis Priem. Thirty-two years later he is still CEO of what has become the single most important compute supplier of the AI era. Huang's early career at AMD and LSI Logic taught him silicon economics; NVIDIA's first decade taught him that the GPU had applications far beyond graphics.
+
+    The decisive bet was CUDA in 2006 — a general-purpose programming model for GPUs that turned parallel compute into a developer platform. For years CUDA was derided as an expensive research project. By 2012 it was the substrate of AlexNet; by 2023 it was the moat underneath every frontier lab's training stack, and NVIDIA crossed $1 trillion in market cap. In 2024 it crossed $3 trillion.
+
+    Huang is famous for a leather jacket, a flat 40-person direct-report structure, and a managerial style that treats strategy as a living pair of hands — "the mission is the boss." He still insists NVIDIA is a platform company first, silicon second.
+  zh-CN: |
+    黄仁勋，1963 年生于台南，少年时在肯塔基与俄勒冈长大，1993 年在一家 Denny's 餐厅与 Chris Malachowsky、Curtis Priem 共同创立英伟达。三十二年后，他仍担任 CEO，公司已成为 AI 时代最核心的算力供应商。他早年在 AMD 与 LSI Logic 的经历让他掌握了硅芯片的经济学；英伟达的头十年让他意识到，GPU 的用途远远不止图形渲染。
+
+    决定性的一步是 2006 年推出的 CUDA——一套面向 GPU 的通用编程模型，把并行计算变成了一个开发者平台。多年里 CUDA 被视作烧钱的研究项目；2012 年它成为 AlexNet 的底座；2023 年它已是所有前沿实验室训练栈之下的护城河，英伟达市值突破 1 万亿美元，2024 年又突破 3 万亿美元。
+
+    他以标志性的黑色皮夹克、多达 40 人的扁平直汇报结构，以及"Mission is the boss"式的管理风格闻名。他至今坚持：英伟达是一家平台公司，硅芯片只是副产品。
+  zh-HK: |
+    黃仁勳，1963 年生於台南，少年時在肯塔基與俄勒岡長大，1993 年在一家 Denny's 餐廳與 Chris Malachowsky、Curtis Priem 共同創辦輝達。三十二年後，他仍擔任 CEO，公司已成為 AI 時代最核心的算力供應商。他早年在 AMD 與 LSI Logic 的經歷讓他掌握了矽晶片的經濟學；輝達的頭十年讓他意識到，GPU 的用途遠遠不止圖形渲染。
+
+    決定性的一步是 2006 年推出的 CUDA——一套面向 GPU 的通用程式設計模型，把平行運算變成了一個開發者平台。多年裡 CUDA 被視作燒錢的研究項目；2012 年它成為 AlexNet 的底座；2023 年它已是所有前沿實驗室訓練棧之下的護城河，輝達市值突破 1 萬億美元，2024 年又突破 3 萬億美元。
+
+    他以標誌性的黑色皮夾克、多達 40 人的扁平直匯報結構，以及"Mission is the boss"式的管理風格聞名。他至今堅持：輝達是一家平台公司，矽晶片只是副產品。
+
+philosophy:
+  - icon: "🧭"
+    title:
+      en: Platform First, Silicon Second
+      zh-CN: 先是平台，才是芯片
+      zh-HK: 先是平台，才是晶片
+    body:
+      en: Ship hardware to create the software ecosystem that makes the next hardware unavoidable.
+      zh-CN: 出硬件是为了养软件生态，生态长起来，下一代硬件就无可替代。
+      zh-HK: 出硬體是為了養軟體生態，生態長起來，下一代硬體就無可替代。
+  - icon: "♾️"
+    title:
+      en: Long-Termism as Survival
+      zh-CN: 长期主义即生存本身
+      zh-HK: 長期主義即生存本身
+    body:
+      en: CUDA took fifteen years to pay off. If you flinch, the platform dies.
+      zh-CN: CUDA 花了十五年才看见回报。中途退缩，平台就散了。
+      zh-HK: CUDA 花了十五年才看見回報。中途退縮，平台就散了。
+  - icon: "🧱"
+    title:
+      en: Mission Is the Boss
+      zh-CN: 使命才是老板
+      zh-HK: 使命才是老闆
+    body:
+      en: Flat org, 40 direct reports; people follow the mission, not the manager.
+      zh-CN: 扁平组织，四十人直汇报；员工追随使命，而不是管理者。
+      zh-HK: 扁平組織，四十人直匯報；員工追隨使命，而不是管理者。
+
+quotes:
+  - text:
+      en: Nobody wants you to succeed more than your competitors — because if you do, you force them to get better too.
+      zh-CN: 没人比你的竞争对手更希望你成功——因为你成功，他们就被逼着也变强。
+      zh-HK: 沒人比你的競爭對手更希望你成功——因為你成功，他們就被逼著也變強。
+  - text:
+      en: I hope suffering on you. I hope that you experience pain and suffering.
+      zh-CN: 我希望你吃苦，我希望你经历痛苦——因为这是性格长出来的地方。
+      zh-HK: 我希望你吃苦，我希望你經歷痛苦——因為這是性格長出來的地方。
+    source: Stanford GSB commencement
+    year: 2024
+  - text:
+      en: The more you buy, the more you save.
+      zh-CN: 买得越多，省得越多。
+      zh-HK: 買得越多，省得越多。
+    source: GTC keynote
+    year: 2024
+
+milestones:
+  - year: 1993
+    event:
+      en: Co-founded NVIDIA at a Denny's in San Jose
+      zh-CN: 在圣何塞一家 Denny's 餐厅共同创立英伟达
+      zh-HK: 在聖荷西一家 Denny's 餐廳共同創辦輝達
+  - year: 2006
+    event:
+      en: Launched CUDA, turning the GPU into a general-purpose parallel compute platform
+      zh-CN: 发布 CUDA，把 GPU 变成通用并行计算平台
+      zh-HK: 發佈 CUDA，把 GPU 變成通用並行運算平台
+  - year: 2012
+    event:
+      en: AlexNet trained on two GTX 580s — the moment deep learning adopted NVIDIA
+      zh-CN: AlexNet 用两块 GTX 580 训练成功，深度学习自此绑定英伟达
+      zh-HK: AlexNet 用兩塊 GTX 580 訓練成功，深度學習自此綁定輝達
+  - year: 2024
+    event:
+      en: NVIDIA crosses $3 trillion market cap, briefly the most valuable public company in the world
+      zh-CN: 英伟达市值突破 3 万亿美元，一度成为全球市值最高的上市公司
+      zh-HK: 輝達市值突破 3 萬億美元，一度成為全球市值最高的上市公司
+
+notable_holdings:
+  - name: NVIDIA (NVDA)
+    kind: Listed equity
+    note:
+      en: Huang holds roughly 3.5% of NVIDIA via direct and trust ownership — the bulk of his net worth and disclosed through SEC Form 4 filings. He has never sold his full stake.
+      zh-CN: 黄仁勋通过直接持有与信托合计约 3.5% 英伟达股份，占其身家绝大部分，通过 SEC Form 4 披露，从未清仓。
+      zh-HK: 黃仁勳透過直接持有與信託合計約 3.5% 輝達股份，佔其身家絕大部分，透過 SEC Form 4 披露，從未清倉。
+    disclosure_url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001045810&type=4
+  - name: Jen-Hsun & Lori Huang Foundation
+    kind: Charitable vehicle
+    note:
+      en: Huang and his wife have pledged a majority of their NVDA wealth to philanthropy; the foundation is the primary vehicle for those gifts.
+      zh-CN: 黄仁勋与妻子承诺捐出大部分英伟达财富用于慈善，该基金会是主要载体。
+      zh-HK: 黃仁勳與妻子承諾捐出大部分輝達財富用於慈善，該基金會是主要載體。
+  - name: Private tech portfolio (via family office)
+    kind: Private equity
+    note:
+      en: Huang has personally backed AI infrastructure startups including CoreWeave and several robotics/bio plays; most of this activity is disclosed only when portfolio companies file S-1s.
+      zh-CN: 通过家族办公室以个人身份投资 AI 基础设施创业公司，包括 CoreWeave 等；大部分信息只在被投公司提交 S-1 时才被披露。
+      zh-HK: 透過家族辦公室以個人身份投資 AI 基礎設施創業公司，包括 CoreWeave 等；大部分資訊只在被投公司提交 S-1 時才被披露。

@@ -1,0 +1,130 @@
+slug: musk
+display_name:
+  en: Elon Musk
+  zh-CN: 埃隆·马斯克
+  zh-HK: 埃隆·馬斯克
+tagline:
+  en: First-principles operator running five industrial bets at once
+  zh-CN: 用第一性原理，同时推进五场工业豪赌
+  zh-HK: 用第一性原理，同時推進五場工業豪賭
+role:
+  en: CEO of Tesla & SpaceX; Founder of xAI; Owner of X Corp
+  zh-CN: 特斯拉、SpaceX CEO；xAI 创始人；X Corp 所有者
+  zh-HK: 特斯拉、SpaceX CEO；xAI 創辦人；X Corp 擁有者
+born: 1971
+portrait: /portraits/musk.jpg
+cik: ""
+holdings_source: "curated"
+skill_file: musk-skill.skill
+
+bio:
+  en: |
+    Elon Musk, born in Pretoria in 1971, runs what is probably the most concentrated portfolio of operational bets in modern business: Tesla (EVs, energy storage, robotics), SpaceX (launch, Starlink, Starship), xAI (foundation models), Neuralink (brain-computer interfaces) and The Boring Company. He sold his stake in Zip2 in 1999 and co-founded X.com, which merged into PayPal — the 2002 eBay acquisition funded his entry into Tesla and SpaceX.
+
+    Tesla, which Musk joined as chairman and lead investor in 2004 and as CEO in 2008, went from near-bankruptcy in 2009 to becoming the world's most valuable automaker by 2021. SpaceX, started on money Musk said he had "seven figures" of runway for, is now the dominant orbital launch provider, with Starlink serving millions of subscribers. In 2022 Musk bought Twitter for $44 billion, renamed it X, and folded it into a broader "everything app" ambition alongside xAI.
+
+    Whether viewed as industrialist, provocateur or both, Musk's method is unusually consistent: reason from physics, compress schedules, vertically integrate, and treat public communication — including the controversies — as part of the strategy.
+  zh-CN: |
+    埃隆·马斯克，1971 年生于南非比勒陀利亚，名下同时运行着当今最集中的一组产业豪赌：特斯拉（电动车、储能、机器人）、SpaceX（火箭发射、星链、星舰）、xAI（基础模型）、Neuralink（脑机接口）与 The Boring Company（隧道）。他 1999 年卖掉 Zip2，随后创办 X.com，与 Confinity 合并成 PayPal，2002 年被 eBay 收购的套现为他进入特斯拉与 SpaceX 提供了初始资本。
+
+    特斯拉在 2004 年让他以董事长兼主要投资人身份加入、2008 年出任 CEO；2009 年濒临破产的公司，到 2021 年成为全球市值最高的车企。SpaceX 以他口中"七位数的跑道"起步，如今是全球最主要的轨道发射商，星链覆盖数百万用户。2022 年他以 440 亿美元收购推特，改名 X，并与 xAI 整合进"万能应用"叙事。
+
+    无论把他看作工业家、煽动者还是两者兼备，他的方法论意外地一致：从物理第一性原理出发，压缩项目时间表，推行垂直整合，并把公开发声——包括争议——当作战略的一部分。
+  zh-HK: |
+    埃隆·馬斯克，1971 年生於南非比勒陀利亞，名下同時運行著當今最集中的一組產業豪賭：特斯拉（電動車、儲能、機器人）、SpaceX（火箭發射、星鏈、星艦）、xAI（基礎模型）、Neuralink（腦機介面）與 The Boring Company（隧道）。他 1999 年賣掉 Zip2，隨後創辦 X.com，與 Confinity 合併成 PayPal，2002 年被 eBay 收購的套現為他進入特斯拉與 SpaceX 提供了初始資本。
+
+    特斯拉在 2004 年讓他以董事長兼主要投資人身份加入、2008 年出任 CEO；2009 年瀕臨破產的公司，到 2021 年成為全球市值最高的車企。SpaceX 以他口中"七位數的跑道"起步，如今是全球最主要的軌道發射商，星鏈覆蓋數百萬用戶。2022 年他以 440 億美元收購推特，改名 X，並與 xAI 整合進"萬能應用"敘事。
+
+    無論把他看作工業家、煽動者還是兩者兼備，他的方法論意外地一致：從物理第一性原理出發，壓縮項目時間表，推行垂直整合，並把公開發聲——包括爭議——當作戰略的一部分。
+
+philosophy:
+  - icon: "⚛️"
+    title:
+      en: First-Principles Reasoning
+      zh-CN: 第一性原理
+      zh-HK: 第一性原理
+    body:
+      en: Strip a problem down to physics and costs, then rebuild from scratch — not from analogy.
+      zh-CN: 把问题拆到物理与成本的最底层，从头搭起来，而不是靠类比。
+      zh-HK: 把問題拆到物理與成本的最底層，從頭搭起來，而不是靠類比。
+  - icon: "🏗️"
+    title:
+      en: Vertical Integration
+      zh-CN: 垂直整合
+      zh-HK: 垂直整合
+    body:
+      en: If the supply chain is the bottleneck, make the supply chain.
+      zh-CN: 如果供应链是瓶颈，那就自己做供应链。
+      zh-HK: 如果供應鏈是瓶頸，那就自己做供應鏈。
+  - icon: "⏱️"
+    title:
+      en: Compress the Schedule
+      zh-CN: 压缩时间表
+      zh-HK: 壓縮時間表
+    body:
+      en: Set a deadline that looks insane, miss it by less than the competition, ship anyway.
+      zh-CN: 设一个看起来疯狂的截止日期，比竞争对手少延误一点点，照样发货。
+      zh-HK: 設一個看起來瘋狂的截止日期，比競爭對手少延誤一點點，照樣發貨。
+
+quotes:
+  - text:
+      en: When something is important enough, you do it even if the odds are not in your favor.
+      zh-CN: 当一件事足够重要，哪怕胜算不在你这边，你也照做。
+      zh-HK: 當一件事足夠重要，哪怕勝算不在你這邊，你也照做。
+  - text:
+      en: The first step is to establish that something is possible; then probability will occur.
+      zh-CN: 第一步是确认事情"可能"，概率随后自会发生。
+      zh-HK: 第一步是確認事情"可能"，概率隨後自會發生。
+  - text:
+      en: I would like to die on Mars. Just not on impact.
+      zh-CN: 我希望死在火星上。只是别撞上去死。
+      zh-HK: 我希望死在火星上。只是別撞上去死。
+
+milestones:
+  - year: 2002
+    event:
+      en: Founded SpaceX with PayPal proceeds to cut launch cost and enable Mars settlement
+      zh-CN: 用 PayPal 套现的资金创立 SpaceX，目标是降低发射成本、实现火星殖民
+      zh-HK: 用 PayPal 套現的資金創立 SpaceX，目標是降低發射成本、實現火星殖民
+  - year: 2008
+    event:
+      en: Became Tesla CEO; Falcon 1 reaches orbit after three failures nearly bankrupted SpaceX
+      zh-CN: 出任特斯拉 CEO；Falcon 1 在三次失败、SpaceX 濒临破产后成功入轨
+      zh-HK: 出任特斯拉 CEO；Falcon 1 在三次失敗、SpaceX 瀕臨破產後成功入軌
+  - year: 2022
+    event:
+      en: Acquired Twitter for $44B and renamed it X
+      zh-CN: 以 440 亿美元收购推特并改名 X
+      zh-HK: 以 440 億美元收購推特並改名 X
+  - year: 2023
+    event:
+      en: Founded xAI to build frontier models integrated with X and Tesla autonomy
+      zh-CN: 创办 xAI，构建与 X 平台、特斯拉自动驾驶集成的前沿模型
+      zh-HK: 創辦 xAI，構建與 X 平台、特斯拉自動駕駛整合的前沿模型
+
+notable_holdings:
+  - name: Tesla (TSLA)
+    kind: Listed equity
+    note:
+      en: Roughly 13% ownership via common shares plus vested options. Musk's single largest public-market position; disclosed through Form 4 filings.
+      zh-CN: 约 13% 股权，由普通股加已归属期权构成；马斯克公开市场最大单一仓位，通过 Form 4 披露。
+      zh-HK: 約 13% 股權，由普通股加已歸屬期權構成；馬斯克公開市場最大單一倉位，透過 Form 4 披露。
+    disclosure_url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001494730&type=4
+  - name: SpaceX
+    kind: Private company
+    note:
+      en: Majority owner and CEO; SpaceX's 2024 tender valuations placed the company around $350B, making this stake Musk's most valuable asset.
+      zh-CN: 多数股东兼 CEO；2024 年老股收购把 SpaceX 估值推到约 3500 亿美元，是马斯克最值钱的资产。
+      zh-HK: 多數股東兼 CEO；2024 年老股收購把 SpaceX 估值推到約 3,500 億美元，是馬斯克最值錢的資產。
+  - name: xAI
+    kind: Private company
+    note:
+      en: Founder and controlling shareholder; xAI raised at a reported $50B+ valuation in 2024 and has been merged with X Corp.
+      zh-CN: 创始人与控股股东；xAI 2024 年融资估值据报道超 500 亿美元，已与 X Corp 合并。
+      zh-HK: 創辦人與控股股東；xAI 2024 年融資估值據報道超 500 億美元，已與 X Corp 合併。
+  - name: X Corp (formerly Twitter)
+    kind: Private company
+    note:
+      en: Wholly owned after the $44B 2022 take-private; debt-heavy but positioned as the distribution layer for xAI's Grok.
+      zh-CN: 2022 年 440 亿美元私有化后全资拥有；负债较重，被定位为 xAI 旗下 Grok 的分发层。
+      zh-HK: 2022 年 440 億美元私有化後全資擁有；負債較重，被定位為 xAI 旗下 Grok 的分發層。

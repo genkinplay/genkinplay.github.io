@@ -1,0 +1,132 @@
+slug: sam-altman
+display_name:
+  en: Sam Altman
+  zh-CN: 萨姆·奥特曼
+  zh-HK: 山姆·奧特曼
+tagline:
+  en: The founder-friendly capital allocator who rebuilt himself as AGI CEO
+  zh-CN: 从"创始人友好"的资本分配者，转身做 AGI 公司的 CEO
+  zh-HK: 從"創辦人友好"的資本分配者，轉身做 AGI 公司的 CEO
+role:
+  en: CEO, OpenAI; Chairman, Helion Energy
+  zh-CN: OpenAI CEO；Helion Energy 董事长
+  zh-HK: OpenAI CEO；Helion Energy 董事長
+born: 1985
+portrait: /portraits/sam-altman.jpg
+cik: ""
+holdings_source: "curated"
+skill_file: sam-altman-skill.skill
+
+bio:
+  en: |
+    Sam Altman, born in Chicago in 1985 and raised in St. Louis, dropped out of Stanford in 2005 to start Loopt, a YC-backed location app sold to Green Dot in 2012. He joined Y Combinator as a part-time partner that year, took over as president in 2014, and expanded YC into a continuous-capital vehicle that seeded Stripe, Airbnb, DoorDash, Instacart and Coinbase during his tenure.
+
+    In 2015 he co-founded OpenAI with Elon Musk and others, originally as a non-profit, and became CEO of the capped-profit subsidiary when Musk exited the board in 2018. Under Altman, OpenAI shipped GPT-3 (2020), ChatGPT (late 2022), and GPT-4 (2023), turning frontier language models from a research curiosity into the most rapidly adopted consumer technology ever measured. A five-day November 2023 board coup — and his reinstatement — became the defining AI corporate-governance story of the decade.
+
+    Notably, OpenAI has publicly stated Altman holds no direct equity in the company; his influence is structural rather than financial. Outside OpenAI, he is an active personal investor — notably the chairman and largest backer of Helion Energy — and an unusually loud advocate for the political economy of post-scarcity abundance.
+  zh-CN: |
+    萨姆·奥特曼，1985 年生于芝加哥，在圣路易斯长大，2005 年从斯坦福辍学创办 YC 孵化的位置类应用 Loopt，2012 年卖给 Green Dot。同年他以兼职合伙人身份加入 YC，2014 年出任总裁，把 YC 扩展为一个持续资本平台，在任期内孵化了 Stripe、Airbnb、DoorDash、Instacart、Coinbase 等一代公司。
+
+    2015 年他与 Elon Musk 等人共同创立 OpenAI，最初是非营利组织；2018 年 Musk 离开董事会后，他出任其"利润上限"子公司的 CEO。在他任内，OpenAI 先后发布 GPT-3（2020）、ChatGPT（2022 年底）、GPT-4（2023），把前沿大语言模型从研究珍品变成历史上采用速度最快的消费科技。2023 年 11 月的"五天董事会政变"以及他的回归，成为这个十年最具代表性的 AI 公司治理事件。
+
+    值得注意的是，OpenAI 公开声明 Altman 在公司没有直接股权——他的影响力更多来自治理与领导力，而非持股。公司之外，他是一位活跃的个人投资人，尤其是 Helion Energy 的董事长与最大支持者，并公开倡导"后稀缺时代"的政治经济叙事。
+  zh-HK: |
+    山姆·奧特曼，1985 年生於芝加哥，在聖路易斯長大，2005 年從史丹佛輟學創辦 YC 孵化的位置類應用 Loopt，2012 年賣給 Green Dot。同年他以兼職合夥人身份加入 YC，2014 年出任總裁，把 YC 擴展為一個持續資本平台，在任期內孵化了 Stripe、Airbnb、DoorDash、Instacart、Coinbase 等一代公司。
+
+    2015 年他與 Elon Musk 等人共同創立 OpenAI，最初是非營利組織；2018 年 Musk 離開董事會後，他出任其"利潤上限"子公司的 CEO。在他任內，OpenAI 先後發佈 GPT-3（2020）、ChatGPT（2022 年底）、GPT-4（2023），把前沿大語言模型從研究珍品變成歷史上採用速度最快的消費科技。2023 年 11 月的"五天董事會政變"以及他的回歸，成為這個十年最具代表性的 AI 公司治理事件。
+
+    值得注意的是，OpenAI 公開聲明 Altman 在公司沒有直接股權——他的影響力更多來自治理與領導力，而非持股。公司之外，他是一位活躍的個人投資人，尤其是 Helion Energy 的董事長與最大支持者，並公開倡導"後稀缺時代"的政治經濟敘事。
+
+philosophy:
+  - icon: "🧠"
+    title:
+      en: AGI Is Near
+      zh-CN: AGI 离我们很近
+      zh-HK: AGI 離我們很近
+    body:
+      en: Plan for the scenario where general-purpose AI arrives this decade — policy, compute, energy.
+      zh-CN: 按"通用人工智能在这个十年内到来"来规划：政策、算力、能源。
+      zh-HK: 按"通用人工智能在這個十年內到來"來規劃：政策、算力、能源。
+  - icon: "🌾"
+    title:
+      en: Abundance Thesis
+      zh-CN: 丰饶叙事
+      zh-HK: 豐饒敘事
+    body:
+      en: Cost of intelligence and cost of energy both falling toward zero reshape every other market.
+      zh-CN: 智能与能源的边际成本同步趋零，其他所有市场都会被重写。
+      zh-HK: 智能與能源的邊際成本同步趨零，其他所有市場都會被重寫。
+  - icon: "🤝"
+    title:
+      en: Founder-Friendly Capital
+      zh-CN: 对创始人友好的资本
+      zh-HK: 對創辦人友好的資本
+    body:
+      en: The rarest asset is a great founder — structure deals so they can stay in the driver's seat.
+      zh-CN: 最稀缺的资源是好创始人——条款要让他们继续坐在驾驶座上。
+      zh-HK: 最稀缺的資源是好創辦人——條款要讓他們繼續坐在駕駛座上。
+
+quotes:
+  - text:
+      en: The best founders just have a different relationship with reality.
+      zh-CN: 最好的创始人，跟"现实"有一种不一样的关系。
+      zh-HK: 最好的創辦人，跟"現實"有一種不一樣的關係。
+  - text:
+      en: A decade ago, the conventional wisdom was that AI would take the physical jobs first. It looks like the opposite.
+      zh-CN: 十年前人们以为 AI 会先取代体力劳动，事实看上去正好相反。
+      zh-HK: 十年前人們以為 AI 會先取代體力勞動，事實看上去正好相反。
+  - text:
+      en: Iterative deployment is how you give society time to adapt.
+      zh-CN: 渐进发布，是给社会留出适应时间的方式。
+      zh-HK: 漸進發佈，是給社會留出適應時間的方式。
+
+milestones:
+  - year: 2005
+    event:
+      en: Dropped out of Stanford; co-founded Loopt in YC's inaugural summer batch
+      zh-CN: 从斯坦福辍学；在 YC 首届夏季批次里共同创立 Loopt
+      zh-HK: 從史丹佛輟學；在 YC 首屆夏季批次裡共同創辦 Loopt
+  - year: 2014
+    event:
+      en: Named president of Y Combinator, succeeding Paul Graham
+      zh-CN: 接替 Paul Graham 出任 YC 总裁
+      zh-HK: 接替 Paul Graham 出任 YC 總裁
+  - year: 2019
+    event:
+      en: Became OpenAI CEO; led the creation of the capped-profit subsidiary and the Microsoft partnership
+      zh-CN: 出任 OpenAI CEO，搭建"利润上限"子公司并与微软达成战略合作
+      zh-HK: 出任 OpenAI CEO，搭建"利潤上限"子公司並與微軟達成戰略合作
+  - year: 2023
+    event:
+      en: ChatGPT reaches 100M users in two months; survives a five-day board ouster in November
+      zh-CN: ChatGPT 上线两个月用户破亿；11 月经历五天的董事会罢免风波后回归
+      zh-HK: ChatGPT 上線兩個月用戶破億；11 月經歷五天的董事會罷免風波後回歸
+
+notable_holdings:
+  - name: OpenAI
+    kind: AI lab (capped-profit)
+    note:
+      en: Officially, Altman holds no direct economic interest in OpenAI; his influence is exercised through the CEO role and governance, not through equity.
+      zh-CN: 官方披露：Altman 在 OpenAI 无直接经济权益，其影响力来自 CEO 职位与治理结构，而非股权。
+      zh-HK: 官方披露：Altman 在 OpenAI 無直接經濟權益，其影響力來自 CEO 職位與治理結構，而非股權。
+    disclosure_url: https://openai.com/our-structure
+  - name: Helion Energy
+    kind: Private company
+    note:
+      en: Chairman and largest investor; $375M lead in 2021. Altman's biggest personal bet, targeting commercial fusion electricity with a first MSFT PPA.
+      zh-CN: 董事长兼最大投资人；2021 年领投 3.75 亿美元，Altman 最大的个人押注，目标是商用聚变电力，与微软签下首份购电协议。
+      zh-HK: 董事長兼最大投資人；2021 年領投 3.75 億美元，Altman 最大的個人押注，目標是商用聚變電力，與微軟簽下首份購電協議。
+    disclosure_url: https://www.helionenergy.com/
+  - name: Reddit (RDDT)
+    kind: Listed equity
+    note:
+      en: Early and sizable pre-IPO backer; at the 2024 IPO Altman disclosed ~8.7% ownership, making him one of Reddit's largest outside holders.
+      zh-CN: 早期大额投资者；2024 年 IPO 时披露约 8.7% 股份，是 Reddit 最大的外部股东之一。
+      zh-HK: 早期大額投資者；2024 年 IPO 時披露約 8.7% 股份，是 Reddit 最大的外部股東之一。
+    disclosure_url: https://www.sec.gov/Archives/edgar/data/1713445/000162828024009743/
+  - name: Retro Biosciences
+    kind: Private company
+    note:
+      en: Altman personally funded Retro with $180M in 2022 to extend healthy human lifespan by 10 years — one of the larger solo checks in biotech history.
+      zh-CN: 2022 年以 1.8 亿美元个人出资支持 Retro，目标是让健康寿命延长 10 年——生物科技史上最大个人出资之一。
+      zh-HK: 2022 年以 1.8 億美元個人出資支持 Retro，目標是讓健康壽命延長 10 年——生物科技史上最大個人出資之一。
