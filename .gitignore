@@ -1,0 +1,34 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+
+# Node / Bun
+node_modules/
+bun.lockb
+.env
+.env.local
+.env.*.local
+
+# 本地脚手架 / 文档根（用户指令保留在本地）
+docs/
+
+# 构建产物 & 缓存
+dist/
+.cache/
+.vitepress/cache/
+.vitepress/dist/
+
+# 构建时生成的数据（CI 每次 fetch）
+data/holdings/
+data/changes/
+
+# 构建时从 skills/*.skill 拷入，不需版本控制
+public/skills/
+
+# Brainstorm / 临时会话
+.superpowers/
