@@ -1,0 +1,109 @@
+slug: buffett
+display_name:
+  en: Warren Buffett
+  zh-CN: 沃伦·巴菲特
+  zh-HK: 華倫·巴菲特
+tagline:
+  en: The Oracle of Omaha
+  zh-CN: 奥马哈的先知 · 价值投资的活化石
+  zh-HK: 奧馬哈的先知 · 價值投資的活化石
+role:
+  en: Chairman & CEO, Berkshire Hathaway
+  zh-CN: 伯克希尔·哈撒韦董事长兼 CEO
+  zh-HK: 伯克希爾·哈撒韋董事長兼 CEO
+born: 1930
+portrait: /portraits/buffett.jpg
+cik: "0001067983"
+holdings_source: "13f"
+skill_file: buffett-skill.skill
+
+bio:
+  en: |
+    Warren Buffett, born in Omaha in 1930, is the Chairman and CEO of Berkshire Hathaway. Trained under Benjamin Graham at Columbia, he translated value investing from an academic discipline into a half-century of compounding at scale.
+
+    Berkshire now holds over $270 billion in public equity, anchored by long-term positions in Apple, American Express, Bank of America and Coca-Cola. Buffett is famous for writing to shareholders "for a smart but non-financial sister" — dense letters built from farm analogies, insurance float logic, and Nebraska Furniture Mart stories.
+
+    He still lives in the same Omaha house he bought in 1958, eats McDonald's breakfast, and drinks Cherry Coke. The man most famous for rationality is also the most public about his failures — notably missing Google and Amazon.
+  zh-CN: |
+    沃伦·巴菲特，1930 年生于美国奥马哈，现任伯克希尔·哈撒韦董事长兼 CEO。他在哥伦比亚师从本杰明·格雷厄姆，把价值投资从一门学院派学问，变成了半个世纪的复利神话。
+
+    伯克希尔目前持有逾 2700 亿美元公开权益资产，长期重仓苹果、美国运通、美国银行、可口可乐。巴菲特以写给"聪明但不懂金融的妹妹"式的股东信闻名，用农场、保险浮存金、内布拉斯加家具城的故事，把复杂的投资逻辑讲成常识。
+
+    他至今住在 1958 年买的同一栋奥马哈老房子，吃麦当劳早餐，喝樱桃味可乐。以理性出名的他，也最坦然承认错误——他亲口说过，错过 Google 和 Amazon 是他"昂贵的失误"。
+  zh-HK: |
+    沃倫·巴菲特，1930 年生於美國奧馬哈，現任伯克希爾·哈撒韋董事長兼 CEO。他在哥倫比亞師從本傑明·格雷厄姆，把價值投資從一門學院派學問，變成了半個世紀的複利神話。
+
+    伯克希爾目前持有逾 2700 億美元公開權益資產，長期重倉蘋果、美國運通、美國銀行、可口可樂。巴菲特以寫給"聰明但不懂金融的妹妹"式的股東信聞名，用農場、保險浮存金、內布拉斯加傢具城的故事，把複雜的投資邏輯講成常識。
+
+    他至今住在 1958 年買的同一棟奧馬哈老房子，吃麥當勞早餐，喝櫻桃味可樂。以理性出名的他，也最坦然承認錯誤——他親口說過，錯過 Google 和 Amazon 是他"昂貴的失誤"。
+
+philosophy:
+  - icon: "🌊"
+    title:
+      en: Mr. Market
+      zh-CN: 市场先生
+      zh-HK: 市場先生
+    body:
+      en: Treat the market as a moody business partner, not an oracle. His bad moods are gifts.
+      zh-CN: 把市场当作情绪化的合伙人，不是预言家。他心情不好的时候，是礼物。
+      zh-HK: 把市場當作情緒化的合夥人，不是預言家。他心情不好的時候，是禮物。
+  - icon: "🏰"
+    title:
+      en: Economic Moat
+      zh-CN: 经济护城河
+      zh-HK: 經濟護城河
+    body:
+      en: Look for businesses that can price up year after year without losing customers.
+      zh-CN: 找那些年年涨价还不流失客户的生意。
+      zh-HK: 找那些年年漲價還不流失客戶的生意。
+  - icon: "🚜"
+    title:
+      en: Farm Logic
+      zh-CN: 农场逻辑
+      zh-HK: 農場邏輯
+    body:
+      en: If you bought a farm, you wouldn't check its price daily. Same for stocks.
+      zh-CN: 如果你买了一块农田，你不会每天查它的报价。股票同理。
+      zh-HK: 如果你買了一塊農田，你不會每天查它的報價。股票同理。
+
+quotes:
+  - text:
+      en: Only when the tide goes out do you discover who's been swimming naked.
+      zh-CN: 只有退潮了，才知道谁在裸泳。
+      zh-HK: 只有退潮了，才知道誰在裸泳。
+    source: 2001 Shareholder Letter
+    year: 2001
+  - text:
+      en: Price is what you pay. Value is what you get.
+      zh-CN: 价格是你付出的，价值是你得到的。
+      zh-HK: 價格是你付出的，價值是你得到的。
+    source: 2008 Shareholder Letter
+    year: 2008
+  - text:
+      en: Our favorite holding period is forever.
+      zh-CN: 我们最喜欢的持有期是——永远。
+      zh-HK: 我們最喜歡的持有期是——永遠。
+    source: 1988 Shareholder Letter
+    year: 1988
+
+milestones:
+  - year: 1956
+    event:
+      en: Founded Buffett Partnership
+      zh-CN: 成立巴菲特合伙公司
+      zh-HK: 成立巴菲特合夥公司
+  - year: 1965
+    event:
+      en: Took control of Berkshire Hathaway
+      zh-CN: 接管伯克希尔·哈撒韦
+      zh-HK: 接管伯克希爾·哈撒韋
+  - year: 1988
+    event:
+      en: Bought Coca-Cola, became long-term flagship
+      zh-CN: 买入可口可乐，成为长期旗舰仓位
+      zh-HK: 買入可口可樂，成為長期旗艦倉位
+  - year: 2016
+    event:
+      en: First purchase of Apple — biggest win of later career
+      zh-CN: 首次买入苹果——后期职业生涯最大赢家
+      zh-HK: 首次買入蘋果——後期職業生涯最大贏家
