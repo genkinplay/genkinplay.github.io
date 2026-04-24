@@ -1,0 +1,44 @@
+{
+  "name": "longbridge-investors",
+  "version": "0.1.0",
+  "description": "Longbridge Investors — a tri-lingual static site introducing famous investors with downloadable Claude Code skills",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "bun run fetch:data && bun run copy:skills && vitepress build docs",
+    "preview": "vitepress preview docs",
+    "fetch:data": "bun run scripts/fetch-data.ts",
+    "bootstrap:bios": "bun run scripts/bootstrap-bios.ts",
+    "copy:skills": "bun run scripts/copy-skills.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "vue-tsc --noEmit"
+  },
+  "dependencies": {
+    "vitepress": "^2.0.0-alpha.9",
+    "vue": "^3.5.0",
+    "vue-i18n": "^11.0.0",
+    "reka-ui": "^2.9.0",
+    "motion-v": "^2.2.0",
+    "@vueuse/core": "^14.0.0",
+    "gray-matter": "^4.0.3",
+    "js-yaml": "^4.1.0",
+    "markdown-it": "^14.1.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/js-yaml": "^4.0.9",
+    "@types/markdown-it": "^14.1.2",
+    "@vue/test-utils": "^2.4.6",
+    "@vitejs/plugin-vue": "^5.2.0",
+    "@rollup/plugin-yaml": "^4.1.2",
+    "@tailwindcss/vite": "^4.0.0",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.7.0",
+    "vue-tsc": "^2.2.0",
+    "vitest": "^2.1.0",
+    "happy-dom": "^15.11.0"
+  }
+}
