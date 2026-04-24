@@ -68,7 +68,7 @@
 
 ### 后续改进（未在本轮 Plan 中）
 - Layout.vue 目前简化为 DefaultTheme.Layout wrapper（T12 的 concern），可进一步接入 developers 的 Nav 定制
-- SSR 时 `detectLocale()` 在无 `window` 下退回 en（T15 的 concern），建议改成 VitePress `useData().lang`
+- ~~SSR 时 `detectLocale()` 在无 `window` 下退回 en~~ **已修**：新增 `useI18nSync` composable（照搬 developers），用 VitePress `useData().lang` 同步 vue-i18n locale，三语 SSR 产物文案正确切换
 - PlatformStats 的 hover 卡片内容仍是 developers 原有 SDK/markets 文本，语义与投资人站不完全匹配，可替换
 - UnoCSS 未接线（若未来要启用 `inspira/` 或 `Skill.vue` 完整功能可加）
 - 非 13F 投资人的 `cik` 留空；若 Cathie Wood 的 ARK 能查到 CIK，可切回 `holdings_source: "13f"` 以拿到真实 13F 数据
