@@ -29,16 +29,47 @@
 - [x] Task 17: 进度追踪更新
 
 ## Phase 4: 详情页组件
-_待完成_
+- [x] Task 18: InvestorHero（2 tests）
+- [x] Task 19: BioSection（1 test）
+- [x] Task 20: PhilosophyCards（1 test）
+- [x] Task 21: HoldingsTable（2 tests）
+- [x] Task 22: NotableHoldings（2 tests）
+- [x] Task 23: ChangesPanel（2 tests）
+- [x] Task 24: QuotesList（1 test）
+- [x] Task 25: MilestonesTimeline（1 test）
+- [x] Task 26: DownloadSkillCTA（2 tests）
 
 ## Phase 5: 详情页组合
-_待完成_
+- [x] Task 27: InvestorPage 组合 + VitePress `[slug].paths.ts` 动态路由
+- [x] Task 28: 剩余 5 位投资人 YAML（Cathie Wood / Musk / Huang / Altman / Trump）
 
 ## Phase 6: i18n 三语完成
-_待完成_
+- [x] Task 29: 三语 nav config + 三语动态路由落地
 
 ## Phase 7: 肖像与打磨
-_待完成_
+- [x] Task 30: 6 张首字母方块肖像占位图（JPG，待人工替换）
 
 ## Phase 8: 构建验证 + CI
-_待完成_
+- [x] Task 31: 完整构建验证（6 详情页 × 3 语言 + 首页 × 3 语言 + skills + portraits）
+- [x] Task 32: GitHub Actions workflow（定时 cron + fetch 兜底 + test + build + artifact）
+
+---
+
+## 交付总结
+
+- **43 个单测全部通过**（6 个脚本 + 9 个组件）
+- **静态构建产物**：
+  - 18 个投资人详情页（`{lang}/investors/{slug}.html`，6 人 × 3 语言）
+  - 3 个语言首页（`/`、`/zh-CN/`、`/zh-HK/`）
+  - 6 个可下载 `.skill` ZIP（`/skills/`）
+  - 6 张肖像图（`/portraits/`）
+- **数据管道**：`longbridge investors <CIK>` → `data/holdings/` + `data/changes/`，失败回退到 `.cache/`
+- **CI**：每周一定时拉取 + 构建 + artifact 上传；部署目标待确认
+
+### 后续改进（未在本轮 Plan 中）
+- Layout.vue 目前简化为 DefaultTheme.Layout wrapper（T12 的 concern），可进一步接入 developers 的 Nav 定制
+- SSR 时 `detectLocale()` 在无 `window` 下退回 en（T15 的 concern），建议改成 VitePress `useData().lang`
+- PlatformStats 的 hover 卡片内容仍是 developers 原有 SDK/markets 文本，语义与投资人站不完全匹配，可替换
+- UnoCSS 未接线（若未来要启用 `inspira/` 或 `Skill.vue` 完整功能可加）
+- 非 13F 投资人的 `cik` 留空；若 Cathie Wood 的 ARK 能查到 CIK，可切回 `holdings_source: "13f"` 以拿到真实 13F 数据
+- 部署 target 选定后再解注释 `.github/workflows/build-and-deploy.yml` 中的 deploy job

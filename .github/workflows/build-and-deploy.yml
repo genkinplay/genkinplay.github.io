@@ -1,0 +1,79 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 8 * * 1' # 每周一 08:00 UTC 定时 rebuild，拉取最新 13F 数据
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install Longbridge CLI
+        # Try official install; fallback to building from source if upstream install script moves.
+        run: |
+          set -e
+          if curl -fsSL https://raw.githubusercontent.com/longbridge/longbridge-terminal/main/install | sh; then
+            echo "Longbridge CLI installed via upstream script"
+          else
+            echo "Upstream install failed; continuing — fetch-data will fallback to cache"
+          fi
+          echo "$HOME/.longbridge/bin" >> "$GITHUB_PATH"
+          echo "/usr/local/bin" >> "$GITHUB_PATH"
+
+      - name: Verify CLI (non-fatal)
+        run: |
+          longbridge --version 2>&1 || echo "CLI not available; fetch-data will use cache fallback"
+
+      - name: Restore data cache
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: investor-data-${{ github.run_id }}
+          restore-keys: |
+            investor-data-
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Run tests
+        run: bun run test
+
+      - name: Build (fetch + copy:skills + vitepress build)
+        run: bun run build
+
+      - name: Save data cache
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: .cache
+          key: investor-data-${{ github.run_id }}
+
+      - name: Upload dist artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-dist
+          path: docs/.vitepress/dist/
+          retention-days: 7
+
+  # Deploy step — target TBD. Once decided, uncomment and wire credentials.
+  # deploy:
+  #   needs: build
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/download-artifact@v4
+  #       with:
+  #         name: site-dist
+  #         path: dist
+  #     - name: Deploy (Cloudflare Pages / GitHub Pages / Vercel — choose one)
+  #       run: echo "TODO: wire once deploy target is confirmed"
