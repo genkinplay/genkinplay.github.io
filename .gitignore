@@ -9,7 +9,8 @@ Thumbs.db
 
 # Node / Bun
 node_modules/
-bun.lockb
+bun.lockb         # 旧版 Bun 二进制锁文件（已弃用）
+# bun.lock 是现代 Bun 文本锁文件，需要提交以保证 CI frozen-lockfile 可重现
 .env
 .env.local
 .env.*.local
