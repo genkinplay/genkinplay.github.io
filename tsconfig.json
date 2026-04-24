@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "target": "ESNext",
+    "module": "ESNext",
+    "jsx": "preserve",
+    "moduleResolution": "bundler",
+    "strict": true,
+    "skipLibCheck": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUncheckedIndexedAccess": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "allowImportingTsExtensions": false,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "types": ["bun-types"],
+    "paths": {
+      "@scripts/*": ["./scripts/*"],
+      "@data/*": ["./data/*"]
+    }
+  },
+  "include": ["scripts/**/*", "tests/**/*", "docs/.vitepress/**/*"],
+  "exclude": ["node_modules", "dist", "docs/.vitepress/cache", "docs/.vitepress/dist"],
+  "vueCompilerOptions": {
+    "vitePressExtensions": [".md"]
+  }
+}
