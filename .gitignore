@@ -27,6 +27,7 @@ dist/
 # 构建时生成的数据（CI 每次 fetch）
 data/holdings/
 data/changes/
+data/insider-trades/
 
 # 构建时从 skills/*.skill 拷入，不需版本控制
 public/skills/
