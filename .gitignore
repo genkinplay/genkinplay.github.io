@@ -26,10 +26,9 @@ docs/.vitepress/dist/
 dist/
 .cache/
 
-# 构建时生成的数据（CI 每次 fetch）
-data/holdings/
-data/changes/
-data/insider-trades/
+# data/holdings/、data/changes/、data/insider-trades/ 改为入库 ——
+# 由开发者本地 `bun run fetch:data` 刷新后提交，CI 只读不拉，避免 CI 上装 longbridge CLI
+# 与触发 SEC EDGAR 限流。如需排除，在此重新加回。
 
 # 构建时从 skills/*.skill 拷入，不需版本控制
 public/skills/

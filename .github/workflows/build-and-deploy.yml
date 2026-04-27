@@ -3,9 +3,6 @@ name: Build and Deploy
 on:
   push:
     branches: [main]
-  schedule:
-    # 每周一 08:00 UTC 定时 rebuild，拉取最新 13F + Form 4 数据
-    - cron: '0 8 * * 1'
   workflow_dispatch:
 
 # 让 GITHUB_TOKEN 拥有写 Pages 与 OIDC 权限，由 deploy-pages 使用
@@ -21,7 +18,9 @@ concurrency:
 
 jobs:
   # ──────────────────────────────────────────────
-  # 1. Build：拉数据 + 跑测试 + 生成静态产物
+  # 1. Build：跑测试 + 用仓库里已提交的数据生成静态产物
+  #    数据由开发者本地通过 `bun run fetch:data` 刷新后提交，
+  #    CI 不再拉数据，因此不需要装 longbridge CLI 也不会触发限流。
   # ──────────────────────────────────────────────
   build:
     runs-on: ubuntu-latest
@@ -35,32 +34,9 @@ jobs:
           bun-version: latest
 
       - name: Configure Pages
-        # 计算 base path 等元数据；输出 base_path 形如 /<repo>/ 或 /
+        # 计算 base path 等元数据；user 站 → /，project 站 → /<repo>/
         id: pages
         uses: actions/configure-pages@v5
-
-      - name: Install Longbridge CLI
-        # 上游官方安装脚本；失败不阻塞，fetch:data 会自动回退到缓存
-        run: |
-          set -e
-          if curl -fsSL https://raw.githubusercontent.com/longbridge/longbridge-terminal/main/install | sh; then
-            echo "Longbridge CLI installed via upstream script"
-          else
-            echo "Upstream install failed — fetch:data will fall back to cached snapshots"
-          fi
-          echo "$HOME/.longbridge/bin" >> "$GITHUB_PATH"
-          echo "/usr/local/bin" >> "$GITHUB_PATH"
-
-      - name: Verify CLI (non-fatal)
-        run: longbridge --version 2>&1 || echo "CLI not available; will rely on cache"
-
-      - name: Restore data cache
-        uses: actions/cache@v4
-        with:
-          path: .cache
-          key: investor-data-${{ github.run_id }}
-          restore-keys: |
-            investor-data-
 
       - name: Install dependencies
         run: bun install --frozen-lockfile
@@ -68,19 +44,10 @@ jobs:
       - name: Run tests
         run: bun run test
 
-      - name: Build (fetch:data + copy:skills + vitepress build)
-        # VitePress base path 必须匹配最终部署 URL，否则资源 404
-        # GitHub Pages project 站为 /<repo>/；自定义域名下 base 由 configure-pages 推断
+      - name: Build (copy:skills + vitepress build，使用仓库里已提交的数据)
         env:
           VITEPRESS_BASE: ${{ steps.pages.outputs.base_path }}
         run: bun run build
-
-      - name: Save data cache
-        if: always()
-        uses: actions/cache/save@v4
-        with:
-          path: .cache
-          key: investor-data-${{ github.run_id }}
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

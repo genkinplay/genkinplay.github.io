@@ -1,0 +1,348 @@
+{
+  "accession_number": "0001193125-26-054580",
+  "cik": "0001067983",
+  "filing_date": "2026-02-17",
+  "firm": "BERKSHIRE HATHAWAY INC",
+  "holdings": [
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "share_type": "SH",
+      "shares": 227917808,
+      "value_usd": 61961735283,
+      "weight_pct": "22.60"
+    },
+    {
+      "cusip": "025816109",
+      "name": "AMERICAN EXPRESS CO",
+      "share_type": "SH",
+      "shares": 151610700,
+      "value_usd": 56088378465,
+      "weight_pct": "20.46"
+    },
+    {
+      "cusip": "060505104",
+      "name": "BANK AMERICA CORP",
+      "share_type": "SH",
+      "shares": 517295934,
+      "value_usd": 28451276370,
+      "weight_pct": "10.38"
+    },
+    {
+      "cusip": "191216100",
+      "name": "COCA COLA CO",
+      "share_type": "SH",
+      "shares": 400000000,
+      "value_usd": 27964000000,
+      "weight_pct": "10.20"
+    },
+    {
+      "cusip": "166764100",
+      "name": "CHEVRON CORP NEW",
+      "share_type": "SH",
+      "shares": 130156362,
+      "value_usd": 19837131131,
+      "weight_pct": "7.24"
+    },
+    {
+      "cusip": "615369105",
+      "name": "MOODYS CORP",
+      "share_type": "SH",
+      "shares": 24669778,
+      "value_usd": 12602556092,
+      "weight_pct": "4.60"
+    },
+    {
+      "cusip": "674599105",
+      "name": "OCCIDENTAL PETE CORP",
+      "share_type": "SH",
+      "shares": 264941431,
+      "value_usd": 10894391643,
+      "weight_pct": "3.97"
+    },
+    {
+      "cusip": "H1467J104",
+      "name": "CHUBB LIMITED",
+      "share_type": "SH",
+      "shares": 34249183,
+      "value_usd": 10689854998,
+      "weight_pct": "3.90"
+    },
+    {
+      "cusip": "500754106",
+      "name": "KRAFT HEINZ CO",
+      "share_type": "SH",
+      "shares": 325634818,
+      "value_usd": 7896644337,
+      "weight_pct": "2.88"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 17846142,
+      "value_usd": 5585842446,
+      "weight_pct": "2.04"
+    },
+    {
+      "cusip": "23918K108",
+      "name": "DAVITA INC",
+      "share_type": "SH",
+      "shares": 31759065,
+      "value_usd": 3608147375,
+      "weight_pct": "1.32"
+    },
+    {
+      "cusip": "501044101",
+      "name": "KROGER CO",
+      "share_type": "SH",
+      "shares": 50000000,
+      "value_usd": 3124000000,
+      "weight_pct": "1.14"
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "share_type": "SH",
+      "shares": 8297460,
+      "value_usd": 2910002197,
+      "weight_pct": "1.06"
+    },
+    {
+      "cusip": "829933100",
+      "name": "SIRIUS XM HOLDINGS INC",
+      "share_type": "SH",
+      "shares": 124807117,
+      "value_usd": 2495518305,
+      "weight_pct": "0.91"
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "share_type": "SH",
+      "shares": 3986648,
+      "value_usd": 2275897610,
+      "weight_pct": "0.83"
+    },
+    {
+      "cusip": "92343E102",
+      "name": "VERISIGN INC",
+      "share_type": "SH",
+      "shares": 8989880,
+      "value_usd": 2184091346,
+      "weight_pct": "0.80"
+    },
+    {
+      "cusip": "21036P108",
+      "name": "CONSTELLATION BRANDS INC",
+      "share_type": "SH",
+      "shares": 13000000,
+      "value_usd": 1793480000,
+      "weight_pct": "0.65"
+    },
+    {
+      "cusip": "14040H105",
+      "name": "CAPITAL ONE FINL CORP",
+      "share_type": "SH",
+      "shares": 7150000,
+      "value_usd": 1732874000,
+      "weight_pct": "0.63"
+    },
+    {
+      "cusip": "91324P102",
+      "name": "UNITEDHEALTH GROUP INC",
+      "share_type": "SH",
+      "shares": 5039564,
+      "value_usd": 1663610472,
+      "weight_pct": "0.61"
+    },
+    {
+      "cusip": "25754A201",
+      "name": "DOMINOS PIZZA INC",
+      "share_type": "SH",
+      "shares": 3350000,
+      "value_usd": 1396347000,
+      "weight_pct": "0.51"
+    },
+    {
+      "cusip": "02005N100",
+      "name": "ALLY FINL INC",
+      "share_type": "SH",
+      "shares": 29000000,
+      "value_usd": 1313410001,
+      "weight_pct": "0.48"
+    },
+    {
+      "cusip": "G0403H108",
+      "name": "AON PLC",
+      "share_type": "SH",
+      "shares": 3602995,
+      "value_usd": 1271424876,
+      "weight_pct": "0.46"
+    },
+    {
+      "cusip": "670346105",
+      "name": "NUCOR CORP",
+      "share_type": "SH",
+      "shares": 6407749,
+      "value_usd": 1045167939,
+      "weight_pct": "0.38"
+    },
+    {
+      "cusip": "530909308",
+      "name": "LIBERTY LIVE HOLDINGS INC",
+      "share_type": "SH",
+      "shares": 10917661,
+      "value_usd": 907912688,
+      "weight_pct": "0.33"
+    },
+    {
+      "cusip": "526057104",
+      "name": "LENNAR CORP",
+      "share_type": "SH",
+      "shares": 7050950,
+      "value_usd": 724837660,
+      "weight_pct": "0.26"
+    },
+    {
+      "cusip": "73278L105",
+      "name": "POOL CORP",
+      "share_type": "SH",
+      "shares": 3068885,
+      "value_usd": 702007444,
+      "weight_pct": "0.26"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 2276000,
+      "value_usd": 525346320,
+      "weight_pct": "0.19"
+    },
+    {
+      "cusip": "546347105",
+      "name": "LOUISIANA PAC CORP",
+      "share_type": "SH",
+      "shares": 5664793,
+      "value_usd": 457488683,
+      "weight_pct": "0.17"
+    },
+    {
+      "cusip": "530909100",
+      "name": "LIBERTY LIVE HOLDINGS INC",
+      "share_type": "SH",
+      "shares": 4986588,
+      "value_usd": 406406923,
+      "weight_pct": "0.15"
+    },
+    {
+      "cusip": "650111107",
+      "name": "NEW YORK TIMES CO",
+      "share_type": "SH",
+      "shares": 5065744,
+      "value_usd": 351663948,
+      "weight_pct": "0.13"
+    },
+    {
+      "cusip": "422806208",
+      "name": "HEICO CORP NEW",
+      "share_type": "SH",
+      "shares": 1294612,
+      "value_usd": 326798907,
+      "weight_pct": "0.12"
+    },
+    {
+      "cusip": "531229755",
+      "name": "LIBERTY MEDIA CORP DEL",
+      "share_type": "SH",
+      "shares": 3018555,
+      "value_usd": 297357853,
+      "weight_pct": "0.11"
+    },
+    {
+      "cusip": "16119P108",
+      "name": "CHARTER COMMUNICATIONS INC N",
+      "share_type": "SH",
+      "shares": 1060882,
+      "value_usd": 221459118,
+      "weight_pct": "0.08"
+    },
+    {
+      "cusip": "512816109",
+      "name": "LAMAR ADVERTISING CO NEW",
+      "share_type": "SH",
+      "shares": 1202410,
+      "value_usd": 152201058,
+      "weight_pct": "0.06"
+    },
+    {
+      "cusip": "G0176J109",
+      "name": "ALLEGION PLC",
+      "share_type": "SH",
+      "shares": 780133,
+      "value_usd": 124212776,
+      "weight_pct": "0.05"
+    },
+    {
+      "cusip": "62944T105",
+      "name": "NVR INC",
+      "share_type": "SH",
+      "shares": 11112,
+      "value_usd": 81037260,
+      "weight_pct": "0.03"
+    },
+    {
+      "cusip": "47233W109",
+      "name": "JEFFERIES FINL GROUP INC",
+      "share_type": "SH",
+      "shares": 433558,
+      "value_usd": 26867589,
+      "weight_pct": "0.01"
+    },
+    {
+      "cusip": "25243Q205",
+      "name": "DIAGEO PLC",
+      "share_type": "SH",
+      "shares": 227750,
+      "value_usd": 19647993,
+      "weight_pct": "0.01"
+    },
+    {
+      "cusip": "G9001E102",
+      "name": "LIBERTY LATIN AMERICA LTD",
+      "share_type": "SH",
+      "shares": 2396665,
+      "value_usd": 17711354,
+      "weight_pct": "0.01"
+    },
+    {
+      "cusip": "526057302",
+      "name": "LENNAR CORP",
+      "share_type": "SH",
+      "shares": 180980,
+      "value_usd": 17214818,
+      "weight_pct": "0.01"
+    },
+    {
+      "cusip": "G9001E128",
+      "name": "LIBERTY LATIN AMERICA LTD",
+      "share_type": "SH",
+      "shares": 1284020,
+      "value_usd": 9578789,
+      "weight_pct": "0.00"
+    },
+    {
+      "cusip": "047726302",
+      "name": "ATLANTA BRAVES HLDGS INC",
+      "share_type": "SH",
+      "shares": 115428,
+      "value_usd": 4553634,
+      "weight_pct": "0.00"
+    }
+  ],
+  "investor": "BERKSHIRE HATHAWAY INC",
+  "period": "2025-12-31",
+  "total_holdings": 42,
+  "total_value_usd": 274160086701
+}

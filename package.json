@@ -7,7 +7,8 @@
   "type": "module",
   "scripts": {
     "dev": "vitepress dev docs",
-    "build": "bun run fetch:data && bun run copy:skills && vitepress build docs",
+    "build": "bun run copy:skills && vitepress build docs",
+    "build:full": "bun run fetch:data && bun run build",
     "preview": "vitepress preview docs",
     "fetch:data": "bun run scripts/fetch-data.ts",
     "bootstrap:bios": "bun run scripts/bootstrap-bios.ts",

@@ -1,0 +1,412 @@
+{
+  "accession_number": "0001104659-26-013538",
+  "cik": "0001697748",
+  "filing_date": "2026-02-11",
+  "firm": "ARK Investment Management LLC",
+  "holdings": [
+    {
+      "cusip": "88160R101",
+      "name": "Tesla Inc",
+      "share_type": "SH",
+      "shares": 2914492,
+      "value_usd": 1310705149,
+      "weight_pct": "8.70"
+    },
+    {
+      "cusip": "82509L107",
+      "name": "Shopify Inc",
+      "share_type": "SH",
+      "shares": 3978898,
+      "value_usd": 640483134,
+      "weight_pct": "4.25"
+    },
+    {
+      "cusip": "77543R102",
+      "name": "Roku Inc",
+      "share_type": "SH",
+      "shares": 5881738,
+      "value_usd": 638109775,
+      "weight_pct": "4.24"
+    },
+    {
+      "cusip": "19260Q107",
+      "name": "Coinbase Global Inc",
+      "share_type": "SH",
+      "shares": 2541928,
+      "value_usd": 574831688,
+      "weight_pct": "3.82"
+    },
+    {
+      "cusip": "69608A108",
+      "name": "Palantir Technologies Inc",
+      "share_type": "SH",
+      "shares": 3231901,
+      "value_usd": 574470332,
+      "weight_pct": "3.81"
+    },
+    {
+      "cusip": "H17182108",
+      "name": "CRISPR Therapeutics AG",
+      "share_type": "SH",
+      "shares": 10522057,
+      "value_usd": 551776677,
+      "weight_pct": "3.66"
+    },
+    {
+      "cusip": "007903107",
+      "name": "Advanced Micro Devices Inc",
+      "share_type": "SH",
+      "shares": 2574779,
+      "value_usd": 551414664,
+      "weight_pct": "3.66"
+    },
+    {
+      "cusip": "770700102",
+      "name": "Robinhood Markets Inc",
+      "share_type": "SH",
+      "shares": 4806211,
+      "value_usd": 543582454,
+      "weight_pct": "3.61"
+    },
+    {
+      "cusip": "880770102",
+      "name": "Teradyne Inc",
+      "share_type": "SH",
+      "shares": 2356256,
+      "value_usd": 456077004,
+      "weight_pct": "3.03"
+    },
+    {
+      "cusip": "88023B103",
+      "name": "Tempus AI Inc",
+      "share_type": "SH",
+      "shares": 7557583,
+      "value_usd": 446275249,
+      "weight_pct": "2.96"
+    },
+    {
+      "cusip": "771049103",
+      "name": "ROBLOX Corp",
+      "share_type": "SH",
+      "shares": 4834337,
+      "value_usd": 391726313,
+      "weight_pct": "2.60"
+    },
+    {
+      "cusip": "07373V105",
+      "name": "Beam Therapeutics Inc",
+      "share_type": "SH",
+      "shares": 12467189,
+      "value_usd": 345590488,
+      "weight_pct": "2.29"
+    },
+    {
+      "cusip": "172573107",
+      "name": "Circle Internet Group Inc",
+      "share_type": "SH",
+      "shares": 4141628,
+      "value_usd": 328431132,
+      "weight_pct": "2.18"
+    },
+    {
+      "cusip": "023135106",
+      "name": "Amazon.com Inc",
+      "share_type": "SH",
+      "shares": 1212301,
+      "value_usd": 279823368,
+      "weight_pct": "1.86"
+    },
+    {
+      "cusip": "03945R102",
+      "name": "Archer Aviation Inc",
+      "share_type": "SH",
+      "shares": 35170701,
+      "value_usd": 264483673,
+      "weight_pct": "1.76"
+    },
+    {
+      "cusip": "50077B207",
+      "name": "Kratos Defense & Security Solutions Inc.",
+      "share_type": "SH",
+      "shares": 3454123,
+      "value_usd": 262202448,
+      "weight_pct": "1.74"
+    },
+    {
+      "cusip": "09175A206",
+      "name": "BitMine Immersion Technologies",
+      "share_type": "SH",
+      "shares": 9457330,
+      "value_usd": 256766510,
+      "weight_pct": "1.70"
+    },
+    {
+      "cusip": "90184D100",
+      "name": "Twist Bioscience Corp",
+      "share_type": "SH",
+      "shares": 7559495,
+      "value_usd": 239787194,
+      "weight_pct": "1.59"
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA Corp",
+      "share_type": "SH",
+      "shares": 1254577,
+      "value_usd": 233978549,
+      "weight_pct": "1.55"
+    },
+    {
+      "cusip": "874039100",
+      "name": "Taiwan Semiconductor Manufacturing Company Ltd",
+      "share_type": "SH",
+      "shares": 748580,
+      "value_usd": 227485976,
+      "weight_pct": "1.51"
+    },
+    {
+      "cusip": "852234103",
+      "name": "Block Inc",
+      "share_type": "SH",
+      "shares": 3371456,
+      "value_usd": 219448082,
+      "weight_pct": "1.46"
+    },
+    {
+      "cusip": "88025U109",
+      "name": "10X Genomics Inc",
+      "share_type": "SH",
+      "shares": 12667369,
+      "value_usd": 206604788,
+      "weight_pct": "1.37"
+    },
+    {
+      "cusip": "452327109",
+      "name": "Illumina Inc",
+      "share_type": "SH",
+      "shares": 1540351,
+      "value_usd": 202032394,
+      "weight_pct": "1.34"
+    },
+    {
+      "cusip": "040919102",
+      "name": "ARK 21Shares Bitcoin ETF",
+      "share_type": "SH",
+      "shares": 6871505,
+      "value_usd": 199548505,
+      "weight_pct": "1.32"
+    },
+    {
+      "cusip": "30303M102",
+      "name": "Meta Platforms Inc",
+      "share_type": "SH",
+      "shares": 298549,
+      "value_usd": 197069302,
+      "weight_pct": "1.31"
+    },
+    {
+      "cusip": "244199105",
+      "name": "Deere & Co",
+      "share_type": "SH",
+      "shares": 421907,
+      "value_usd": 196427428,
+      "weight_pct": "1.30"
+    },
+    {
+      "cusip": "G16910120",
+      "name": "Bullish",
+      "share_type": "SH",
+      "shares": 4821700,
+      "value_usd": 182597765,
+      "weight_pct": "1.21"
+    },
+    {
+      "cusip": "02079K107",
+      "name": "Alphabet Inc",
+      "share_type": "SH",
+      "shares": 545892,
+      "value_usd": 171300778,
+      "weight_pct": "1.14"
+    },
+    {
+      "cusip": "632307104",
+      "name": "Natera Inc",
+      "share_type": "SH",
+      "shares": 731110,
+      "value_usd": 167489887,
+      "weight_pct": "1.11"
+    },
+    {
+      "cusip": "92337F107",
+      "name": "Veracyte Inc",
+      "share_type": "SH",
+      "shares": 3887547,
+      "value_usd": 163665726,
+      "weight_pct": "1.09"
+    },
+    {
+      "cusip": "26142V105",
+      "name": "DraftKings Inc",
+      "share_type": "SH",
+      "shares": 4540766,
+      "value_usd": 156474781,
+      "weight_pct": "1.04"
+    },
+    {
+      "cusip": "773121108",
+      "name": "Rocket Lab Corp",
+      "share_type": "SH",
+      "shares": 2235260,
+      "value_usd": 155931738,
+      "weight_pct": "1.03"
+    },
+    {
+      "cusip": "75629V104",
+      "name": "Recursion Pharmaceuticals Inc",
+      "share_type": "SH",
+      "shares": 37316856,
+      "value_usd": 152625940,
+      "weight_pct": "1.01"
+    },
+    {
+      "cusip": "056752108",
+      "name": "Baidu Inc",
+      "share_type": "SH",
+      "shares": 1157878,
+      "value_usd": 151288286,
+      "weight_pct": "1.00"
+    },
+    {
+      "cusip": "21873S108",
+      "name": "CoreWeave Inc",
+      "share_type": "SH",
+      "shares": 1924256,
+      "value_usd": 137795948,
+      "weight_pct": "0.91"
+    },
+    {
+      "cusip": "009066101",
+      "name": "Airbnb Inc",
+      "share_type": "SH",
+      "shares": 980062,
+      "value_usd": 133014036,
+      "weight_pct": "0.88"
+    },
+    {
+      "cusip": "45826J105",
+      "name": "Intellia Therapeutics Inc",
+      "share_type": "SH",
+      "shares": 14207324,
+      "value_usd": 127723840,
+      "weight_pct": "0.85"
+    },
+    {
+      "cusip": "05605H100",
+      "name": "BWX Technologies Inc",
+      "share_type": "SH",
+      "shares": 667493,
+      "value_usd": 115369490,
+      "weight_pct": "0.77"
+    },
+    {
+      "cusip": "88339J105",
+      "name": "The Trade Desk Inc",
+      "share_type": "SH",
+      "shares": 2927539,
+      "value_usd": 111129371,
+      "weight_pct": "0.74"
+    },
+    {
+      "cusip": "69553P100",
+      "name": "PagerDuty Inc",
+      "share_type": "SH",
+      "shares": 8323386,
+      "value_usd": 109119591,
+      "weight_pct": "0.72"
+    },
+    {
+      "cusip": "83406F102",
+      "name": "SoFi Technologies Inc",
+      "share_type": "SH",
+      "shares": 4106060,
+      "value_usd": 107496642,
+      "weight_pct": "0.71"
+    },
+    {
+      "cusip": "008073108",
+      "name": "AeroVironment Inc",
+      "share_type": "SH",
+      "shares": 433129,
+      "value_usd": 104769574,
+      "weight_pct": "0.70"
+    },
+    {
+      "cusip": "01609W102",
+      "name": "Alibaba Group Holding Ltd",
+      "share_type": "SH",
+      "shares": 637808,
+      "value_usd": 93489860,
+      "weight_pct": "0.62"
+    },
+    {
+      "cusip": "502431109",
+      "name": "L3Harris Technologies Inc",
+      "share_type": "SH",
+      "shares": 309723,
+      "value_usd": 90925381,
+      "weight_pct": "0.60"
+    },
+    {
+      "cusip": "896239100",
+      "name": "Trimble Inc",
+      "share_type": "SH",
+      "shares": 1021098,
+      "value_usd": 80003028,
+      "weight_pct": "0.53"
+    },
+    {
+      "cusip": "81663L200",
+      "name": "GeneDx Holdings Corp",
+      "share_type": "SH",
+      "shares": 604561,
+      "value_usd": 78629240,
+      "weight_pct": "0.52"
+    },
+    {
+      "cusip": "40131M109",
+      "name": "Guardant Health Inc",
+      "share_type": "SH",
+      "shares": 691647,
+      "value_usd": 70644847,
+      "weight_pct": "0.47"
+    },
+    {
+      "cusip": "888787108",
+      "name": "Toast Inc",
+      "share_type": "SH",
+      "shares": 1966366,
+      "value_usd": 69825657,
+      "weight_pct": "0.46"
+    },
+    {
+      "cusip": "69404D108",
+      "name": "Pacific Biosciences of California, Inc.",
+      "share_type": "SH",
+      "shares": 37264228,
+      "value_usd": 69684106,
+      "weight_pct": "0.46"
+    },
+    {
+      "cusip": "25809K105",
+      "name": "DoorDash Inc",
+      "share_type": "SH",
+      "shares": 306339,
+      "value_usd": 69379657,
+      "weight_pct": "0.46"
+    }
+  ],
+  "investor": "ARK Investment Management LLC",
+  "period": "2025-12-31",
+  "total_holdings": 196,
+  "total_value_usd": 15067426139
+}
