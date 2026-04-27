@@ -13,8 +13,8 @@ role:
   zh-HK: ARK Invest 創辦人、CEO 兼首席投資官
 born: 1955
 portrait: /portraits/cathie-wood.jpg
-cik: ""
-holdings_source: "curated"
+cik: "0001697748"
+holdings_source: "13f"
 skill_file: cathie-wood-skill.skill
 
 bio:
@@ -102,32 +102,5 @@ milestones:
       zh-CN: ARK 比特币 ETF（ARKB）与首批现货 BTC ETF 同步上线
       zh-HK: ARK 比特幣 ETF（ARKB）與首批現貨 BTC ETF 同步上線
 
-notable_holdings:
-  - name: Tesla (TSLA)
-    kind: Listed equity
-    note:
-      en: ARKK's single largest and longest-held position; Wood maintains one of the highest sell-side or buy-side TSLA targets, built on a robotaxi and energy-storage thesis.
-      zh-CN: ARKK 第一大、持仓最久的重仓；伍德维持市场上最高的特斯拉目标价之一，核心论点是 Robotaxi 与储能业务。
-      zh-HK: ARKK 第一大、持倉最久的重倉；伍德維持市場上最高的特斯拉目標價之一，核心論點是 Robotaxi 與儲能業務。
-    disclosure_url: https://www.ark-funds.com/funds/arkk/
-  - name: Coinbase (COIN)
-    kind: Listed equity
-    note:
-      en: Top-five ARKK holding; ARK adds aggressively in crypto drawdowns and frames COIN as the regulated on-ramp to a digital asset economy.
-      zh-CN: ARKK 前五大重仓；ARK 在加密回撤期持续加仓，把 COIN 定位为数字资产经济的合规入口。
-      zh-HK: ARKK 前五大重倉；ARK 在加密回撤期持續加倉，把 COIN 定位為數字資產經濟的合規入口。
-    disclosure_url: https://www.ark-funds.com/funds/arkk/
-  - name: Roku (ROKU)
-    kind: Listed equity
-    note:
-      en: Long-held connected-TV bet; Wood kept adding through the 2022-23 drawdown on a streaming-ad reallocation thesis.
-      zh-CN: 长期持有的联网电视押注；伍德在 2022-23 回撤期持续加仓，看好流媒体广告迁移逻辑。
-      zh-HK: 長期持有的聯網電視押注；伍德在 2022-23 回撤期持續加倉，看好流媒體廣告遷移邏輯。
-    disclosure_url: https://www.ark-funds.com/funds/arkk/
-  - name: Tempus AI (TEM)
-    kind: Listed equity
-    note:
-      en: Multi-omic and AI-diagnostics holding; anchors ARK's "genomic revolution" thesis via ARKG and ARKK.
-      zh-CN: 多组学与 AI 诊断标的，支撑 ARK 在 ARKG 与 ARKK 中的"基因组革命"论点。
-      zh-HK: 多組學與 AI 診斷標的，支撐 ARK 在 ARKG 與 ARKK 中的"基因組革命"論點。
-    disclosure_url: https://www.ark-funds.com/funds/arkg/
+# notable_holdings 已移除：Cathie Wood 改用 13F 数据源（CIK 0001697748）
+# 由 scripts/fetch-data.ts 在构建期从 SEC EDGAR 拉真实持仓快照
