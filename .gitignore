@@ -26,6 +26,9 @@ docs/.vitepress/dist/
 dist/
 .cache/
 
+# 测试期间脚本生成的临时目录
+.tmp-*/
+
 # data/holdings/、data/changes/、data/insider-trades/ 改为入库 ——
 # 由开发者本地 `bun run fetch:data` 刷新后提交，CI 只读不拉，避免 CI 上装 longbridge CLI
 # 与触发 SEC EDGAR 限流。如需排除，在此重新加回。
