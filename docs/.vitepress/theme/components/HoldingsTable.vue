@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { computed } from 'vue'
+import { useData } from 'vitepress'
 
 interface Holding {
   cusip: string
@@ -8,6 +9,7 @@ interface Holding {
   shares: number
   value_usd: number
   weight_pct: string
+  ticker?: string | null
 }
 
 const props = defineProps<{
@@ -16,6 +18,18 @@ const props = defineProps<{
   label: string
   periodLabel: string
 }>()
+
+// 用当前路由 lang 拼 longbridge 行情页 URL
+const { lang } = useData()
+const longbridgeLang = computed(() => {
+  // longbridge.com 支持 zh-CN / zh-HK / en；其它降级到 en
+  if (lang.value === 'zh-CN') return 'zh-CN'
+  if (lang.value === 'zh-HK') return 'zh-HK'
+  return 'en'
+})
+
+const quoteUrl = (ticker: string): string =>
+  `https://longbridge.com/${longbridgeLang.value}/quote/${ticker}.US/topics`
 
 const rows = computed(() => props.holdings.slice(0, props.topN))
 
@@ -81,7 +95,16 @@ const barWidth = (pct: string): string => {
             Top {{ i + 1 }}
           </span>
         </div>
-        <h4 class="font-bold text-base leading-tight line-clamp-2 min-h-[2.5em]">{{ h.name }}</h4>
+        <h4 class="font-bold text-base leading-tight line-clamp-2 min-h-[2.5em]">
+          <a
+            v-if="h.ticker"
+            :href="quoteUrl(h.ticker)"
+            target="_blank"
+            rel="noopener"
+            class="hover:text-[var(--vp-c-brand-1,#00b8b8)] transition-colors"
+          >{{ h.name }} <span class="text-xs font-mono text-[var(--vp-c-text-3)]">{{ h.ticker }}</span></a>
+          <span v-else>{{ h.name }}</span>
+        </h4>
         <div class="flex items-baseline gap-2 mt-3">
           <span class="text-2xl font-bold tabular-nums text-[var(--vp-c-brand-1,#00b8b8)]">
             {{ h.weight_pct }}%
@@ -114,7 +137,16 @@ const barWidth = (pct: string): string => {
           {{ i + 4 }}
         </span>
         <div class="min-w-0">
-          <div class="font-medium text-sm truncate">{{ h.name }}</div>
+          <div class="font-medium text-sm truncate">
+            <a
+              v-if="h.ticker"
+              :href="quoteUrl(h.ticker)"
+              target="_blank"
+              rel="noopener"
+              class="hover:text-[var(--vp-c-brand-1,#00b8b8)] transition-colors"
+            >{{ h.name }} <span class="text-xs font-mono text-[var(--vp-c-text-3)]">{{ h.ticker }}</span></a>
+            <span v-else>{{ h.name }}</span>
+          </div>
           <div class="text-xs text-[var(--vp-c-text-3)] tabular-nums sm:hidden">
             {{ fmtShares(h.shares) }} sh · {{ h.weight_pct }}%
           </div>

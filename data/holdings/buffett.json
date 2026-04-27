@@ -10,7 +10,8 @@
       "share_type": "SH",
       "shares": 227917808,
       "value_usd": 61961735283,
-      "weight_pct": "22.60"
+      "weight_pct": "22.60",
+      "ticker": "AAPL"
     },
     {
       "cusip": "025816109",
@@ -18,7 +19,8 @@
       "share_type": "SH",
       "shares": 151610700,
       "value_usd": 56088378465,
-      "weight_pct": "20.46"
+      "weight_pct": "20.46",
+      "ticker": "AXP"
     },
     {
       "cusip": "060505104",
@@ -26,7 +28,8 @@
       "share_type": "SH",
       "shares": 517295934,
       "value_usd": 28451276370,
-      "weight_pct": "10.38"
+      "weight_pct": "10.38",
+      "ticker": "BAC"
     },
     {
       "cusip": "191216100",
@@ -34,7 +37,8 @@
       "share_type": "SH",
       "shares": 400000000,
       "value_usd": 27964000000,
-      "weight_pct": "10.20"
+      "weight_pct": "10.20",
+      "ticker": "KO"
     },
     {
       "cusip": "166764100",
@@ -42,7 +46,8 @@
       "share_type": "SH",
       "shares": 130156362,
       "value_usd": 19837131131,
-      "weight_pct": "7.24"
+      "weight_pct": "7.24",
+      "ticker": "CVX"
     },
     {
       "cusip": "615369105",
@@ -50,7 +55,8 @@
       "share_type": "SH",
       "shares": 24669778,
       "value_usd": 12602556092,
-      "weight_pct": "4.60"
+      "weight_pct": "4.60",
+      "ticker": "MCO"
     },
     {
       "cusip": "674599105",
@@ -58,7 +64,8 @@
       "share_type": "SH",
       "shares": 264941431,
       "value_usd": 10894391643,
-      "weight_pct": "3.97"
+      "weight_pct": "3.97",
+      "ticker": "OXY"
     },
     {
       "cusip": "H1467J104",
@@ -66,7 +73,8 @@
       "share_type": "SH",
       "shares": 34249183,
       "value_usd": 10689854998,
-      "weight_pct": "3.90"
+      "weight_pct": "3.90",
+      "ticker": "CB"
     },
     {
       "cusip": "500754106",
@@ -74,7 +82,8 @@
       "share_type": "SH",
       "shares": 325634818,
       "value_usd": 7896644337,
-      "weight_pct": "2.88"
+      "weight_pct": "2.88",
+      "ticker": "KHC"
     },
     {
       "cusip": "02079K305",
@@ -82,7 +91,8 @@
       "share_type": "SH",
       "shares": 17846142,
       "value_usd": 5585842446,
-      "weight_pct": "2.04"
+      "weight_pct": "2.04",
+      "ticker": "GOOGL"
     },
     {
       "cusip": "23918K108",
@@ -90,7 +100,8 @@
       "share_type": "SH",
       "shares": 31759065,
       "value_usd": 3608147375,
-      "weight_pct": "1.32"
+      "weight_pct": "1.32",
+      "ticker": "DVA"
     },
     {
       "cusip": "501044101",
@@ -98,7 +109,8 @@
       "share_type": "SH",
       "shares": 50000000,
       "value_usd": 3124000000,
-      "weight_pct": "1.14"
+      "weight_pct": "1.14",
+      "ticker": "KR"
     },
     {
       "cusip": "92826C839",
@@ -106,7 +118,8 @@
       "share_type": "SH",
       "shares": 8297460,
       "value_usd": 2910002197,
-      "weight_pct": "1.06"
+      "weight_pct": "1.06",
+      "ticker": "V"
     },
     {
       "cusip": "829933100",
@@ -114,7 +127,8 @@
       "share_type": "SH",
       "shares": 124807117,
       "value_usd": 2495518305,
-      "weight_pct": "0.91"
+      "weight_pct": "0.91",
+      "ticker": "SIRI"
     },
     {
       "cusip": "57636Q104",
@@ -122,7 +136,8 @@
       "share_type": "SH",
       "shares": 3986648,
       "value_usd": 2275897610,
-      "weight_pct": "0.83"
+      "weight_pct": "0.83",
+      "ticker": "MA"
     },
     {
       "cusip": "92343E102",
@@ -130,7 +145,8 @@
       "share_type": "SH",
       "shares": 8989880,
       "value_usd": 2184091346,
-      "weight_pct": "0.80"
+      "weight_pct": "0.80",
+      "ticker": "VRSN"
     },
     {
       "cusip": "21036P108",
@@ -138,7 +154,8 @@
       "share_type": "SH",
       "shares": 13000000,
       "value_usd": 1793480000,
-      "weight_pct": "0.65"
+      "weight_pct": "0.65",
+      "ticker": "STZ"
     },
     {
       "cusip": "14040H105",
@@ -146,7 +163,8 @@
       "share_type": "SH",
       "shares": 7150000,
       "value_usd": 1732874000,
-      "weight_pct": "0.63"
+      "weight_pct": "0.63",
+      "ticker": "COF"
     },
     {
       "cusip": "91324P102",
@@ -154,7 +172,8 @@
       "share_type": "SH",
       "shares": 5039564,
       "value_usd": 1663610472,
-      "weight_pct": "0.61"
+      "weight_pct": "0.61",
+      "ticker": "UNH"
     },
     {
       "cusip": "25754A201",
@@ -162,7 +181,8 @@
       "share_type": "SH",
       "shares": 3350000,
       "value_usd": 1396347000,
-      "weight_pct": "0.51"
+      "weight_pct": "0.51",
+      "ticker": "DPZ"
     },
     {
       "cusip": "02005N100",
@@ -170,7 +190,8 @@
       "share_type": "SH",
       "shares": 29000000,
       "value_usd": 1313410001,
-      "weight_pct": "0.48"
+      "weight_pct": "0.48",
+      "ticker": "ALLY"
     },
     {
       "cusip": "G0403H108",
@@ -178,7 +199,8 @@
       "share_type": "SH",
       "shares": 3602995,
       "value_usd": 1271424876,
-      "weight_pct": "0.46"
+      "weight_pct": "0.46",
+      "ticker": "AON"
     },
     {
       "cusip": "670346105",
@@ -186,7 +208,8 @@
       "share_type": "SH",
       "shares": 6407749,
       "value_usd": 1045167939,
-      "weight_pct": "0.38"
+      "weight_pct": "0.38",
+      "ticker": "NUE"
     },
     {
       "cusip": "530909308",
@@ -194,7 +217,8 @@
       "share_type": "SH",
       "shares": 10917661,
       "value_usd": 907912688,
-      "weight_pct": "0.33"
+      "weight_pct": "0.33",
+      "ticker": "LLYVA"
     },
     {
       "cusip": "526057104",
@@ -202,7 +226,8 @@
       "share_type": "SH",
       "shares": 7050950,
       "value_usd": 724837660,
-      "weight_pct": "0.26"
+      "weight_pct": "0.26",
+      "ticker": "LEN"
     },
     {
       "cusip": "73278L105",
@@ -210,7 +235,8 @@
       "share_type": "SH",
       "shares": 3068885,
       "value_usd": 702007444,
-      "weight_pct": "0.26"
+      "weight_pct": "0.26",
+      "ticker": "POOL"
     },
     {
       "cusip": "023135106",
@@ -218,7 +244,8 @@
       "share_type": "SH",
       "shares": 2276000,
       "value_usd": 525346320,
-      "weight_pct": "0.19"
+      "weight_pct": "0.19",
+      "ticker": "AMZN"
     },
     {
       "cusip": "546347105",
@@ -226,7 +253,8 @@
       "share_type": "SH",
       "shares": 5664793,
       "value_usd": 457488683,
-      "weight_pct": "0.17"
+      "weight_pct": "0.17",
+      "ticker": "LPX"
     },
     {
       "cusip": "530909100",
@@ -234,7 +262,8 @@
       "share_type": "SH",
       "shares": 4986588,
       "value_usd": 406406923,
-      "weight_pct": "0.15"
+      "weight_pct": "0.15",
+      "ticker": "LLYVA"
     },
     {
       "cusip": "650111107",
@@ -242,7 +271,8 @@
       "share_type": "SH",
       "shares": 5065744,
       "value_usd": 351663948,
-      "weight_pct": "0.13"
+      "weight_pct": "0.13",
+      "ticker": "NYT"
     },
     {
       "cusip": "422806208",
@@ -250,7 +280,8 @@
       "share_type": "SH",
       "shares": 1294612,
       "value_usd": 326798907,
-      "weight_pct": "0.12"
+      "weight_pct": "0.12",
+      "ticker": "HEI"
     },
     {
       "cusip": "531229755",
@@ -258,7 +289,8 @@
       "share_type": "SH",
       "shares": 3018555,
       "value_usd": 297357853,
-      "weight_pct": "0.11"
+      "weight_pct": "0.11",
+      "ticker": "LLYVK"
     },
     {
       "cusip": "16119P108",
@@ -266,7 +298,8 @@
       "share_type": "SH",
       "shares": 1060882,
       "value_usd": 221459118,
-      "weight_pct": "0.08"
+      "weight_pct": "0.08",
+      "ticker": "CHTR"
     },
     {
       "cusip": "512816109",
@@ -274,7 +307,8 @@
       "share_type": "SH",
       "shares": 1202410,
       "value_usd": 152201058,
-      "weight_pct": "0.06"
+      "weight_pct": "0.06",
+      "ticker": "LAMR"
     },
     {
       "cusip": "G0176J109",
@@ -282,7 +316,8 @@
       "share_type": "SH",
       "shares": 780133,
       "value_usd": 124212776,
-      "weight_pct": "0.05"
+      "weight_pct": "0.05",
+      "ticker": "ALLE"
     },
     {
       "cusip": "62944T105",
@@ -290,7 +325,8 @@
       "share_type": "SH",
       "shares": 11112,
       "value_usd": 81037260,
-      "weight_pct": "0.03"
+      "weight_pct": "0.03",
+      "ticker": "NVR"
     },
     {
       "cusip": "47233W109",
@@ -298,7 +334,8 @@
       "share_type": "SH",
       "shares": 433558,
       "value_usd": 26867589,
-      "weight_pct": "0.01"
+      "weight_pct": "0.01",
+      "ticker": "JEF"
     },
     {
       "cusip": "25243Q205",
@@ -306,7 +343,8 @@
       "share_type": "SH",
       "shares": 227750,
       "value_usd": 19647993,
-      "weight_pct": "0.01"
+      "weight_pct": "0.01",
+      "ticker": "DEO"
     },
     {
       "cusip": "G9001E102",
@@ -314,7 +352,8 @@
       "share_type": "SH",
       "shares": 2396665,
       "value_usd": 17711354,
-      "weight_pct": "0.01"
+      "weight_pct": "0.01",
+      "ticker": "LILA"
     },
     {
       "cusip": "526057302",
@@ -322,7 +361,8 @@
       "share_type": "SH",
       "shares": 180980,
       "value_usd": 17214818,
-      "weight_pct": "0.01"
+      "weight_pct": "0.01",
+      "ticker": "LEN"
     },
     {
       "cusip": "G9001E128",
@@ -330,7 +370,8 @@
       "share_type": "SH",
       "shares": 1284020,
       "value_usd": 9578789,
-      "weight_pct": "0.00"
+      "weight_pct": "0.00",
+      "ticker": "LILA"
     },
     {
       "cusip": "047726302",
@@ -338,7 +379,8 @@
       "share_type": "SH",
       "shares": 115428,
       "value_usd": 4553634,
-      "weight_pct": "0.00"
+      "weight_pct": "0.00",
+      "ticker": "BATRA"
     }
   ],
   "investor": "BERKSHIRE HATHAWAY INC",

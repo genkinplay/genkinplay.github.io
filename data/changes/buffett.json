@@ -10,7 +10,8 @@
       "prev_shares": 0,
       "prev_value_usd": 0,
       "shares": 10917661,
-      "value_usd": 907912688
+      "value_usd": 907912688,
+      "ticker": "LLYVA"
     },
     {
       "action": "NEW",
@@ -21,7 +22,8 @@
       "prev_shares": 0,
       "prev_value_usd": 0,
       "shares": 4986588,
-      "value_usd": 406406923
+      "value_usd": 406406923,
+      "ticker": "LLYVA"
     },
     {
       "action": "NEW",
@@ -32,7 +34,8 @@
       "prev_shares": 0,
       "prev_value_usd": 0,
       "shares": 5065744,
-      "value_usd": 351663948
+      "value_usd": 351663948,
+      "ticker": "NYT"
     },
     {
       "action": "NEW",
@@ -43,7 +46,8 @@
       "prev_shares": 0,
       "prev_value_usd": 0,
       "shares": 3018555,
-      "value_usd": 297357853
+      "value_usd": 297357853,
+      "ticker": "LLYVK"
     },
     {
       "action": "ADDED",
@@ -54,7 +58,8 @@
       "prev_shares": 238212764,
       "prev_value_usd": 60656116097,
       "shares": 227917808,
-      "value_usd": 61961735283
+      "value_usd": 61961735283,
+      "ticker": "AAPL"
     },
     {
       "action": "ADDED",
@@ -65,7 +70,8 @@
       "prev_shares": 151610700,
       "prev_value_usd": 50359010112,
       "shares": 151610700,
-      "value_usd": 56088378465
+      "value_usd": 56088378465,
+      "ticker": "AXP"
     },
     {
       "action": "ADDED",
@@ -76,7 +82,8 @@
       "prev_shares": 400000000,
       "prev_value_usd": 26528000000,
       "shares": 400000000,
-      "value_usd": 27964000000
+      "value_usd": 27964000000,
+      "ticker": "KO"
     },
     {
       "action": "ADDED",
@@ -87,7 +94,8 @@
       "prev_shares": 122064792,
       "prev_value_usd": 18955441549,
       "shares": 130156362,
-      "value_usd": 19837131131
+      "value_usd": 19837131131,
+      "ticker": "CVX"
     },
     {
       "action": "ADDED",
@@ -98,7 +106,8 @@
       "prev_shares": 24669778,
       "prev_value_usd": 11754655821,
       "shares": 24669778,
-      "value_usd": 12602556092
+      "value_usd": 12602556092,
+      "ticker": "MCO"
     },
     {
       "action": "ADDED",
@@ -109,7 +118,8 @@
       "prev_shares": 31332895,
       "prev_value_usd": 8843709614,
       "shares": 34249183,
-      "value_usd": 10689854998
+      "value_usd": 10689854998,
+      "ticker": "CB"
     },
     {
       "action": "ADDED",
@@ -120,7 +130,8 @@
       "prev_shares": 17846142,
       "prev_value_usd": 4338397121,
       "shares": 17846142,
-      "value_usd": 5585842446
+      "value_usd": 5585842446,
+      "ticker": "GOOGL"
     },
     {
       "action": "ADDED",
@@ -131,7 +142,8 @@
       "prev_shares": 8297460,
       "prev_value_usd": 2832586895,
       "shares": 8297460,
-      "value_usd": 2910002197
+      "value_usd": 2910002197,
+      "ticker": "V"
     },
     {
       "action": "ADDED",
@@ -142,7 +154,8 @@
       "prev_shares": 3986648,
       "prev_value_usd": 2267645249,
       "shares": 3986648,
-      "value_usd": 2275897610
+      "value_usd": 2275897610,
+      "ticker": "MA"
     },
     {
       "action": "ADDED",
@@ -153,7 +166,8 @@
       "prev_shares": 7150000,
       "prev_value_usd": 1519947000,
       "shares": 7150000,
-      "value_usd": 1732874000
+      "value_usd": 1732874000,
+      "ticker": "COF"
     },
     {
       "action": "ADDED",
@@ -164,7 +178,8 @@
       "prev_shares": 2981945,
       "prev_value_usd": 1287335476,
       "shares": 3350000,
-      "value_usd": 1396347000
+      "value_usd": 1396347000,
+      "ticker": "DPZ"
     },
     {
       "action": "ADDED",
@@ -175,7 +190,8 @@
       "prev_shares": 29000000,
       "prev_value_usd": 1136800000,
       "shares": 29000000,
-      "value_usd": 1313410001
+      "value_usd": 1313410001,
+      "ticker": "ALLY"
     },
     {
       "action": "ADDED",
@@ -186,7 +202,8 @@
       "prev_shares": 6407749,
       "prev_value_usd": 867801447,
       "shares": 6407749,
-      "value_usd": 1045167939
+      "value_usd": 1045167939,
+      "ticker": "NUE"
     },
     {
       "action": "ADDED",
@@ -197,7 +214,8 @@
       "prev_shares": 1202110,
       "prev_value_usd": 147162306,
       "shares": 1202410,
-      "value_usd": 152201058
+      "value_usd": 152201058,
+      "ticker": "LAMR"
     },
     {
       "action": "REDUCED",
@@ -208,7 +226,8 @@
       "prev_shares": 568070012,
       "prev_value_usd": 29306731919,
       "shares": 517295934,
-      "value_usd": 28451276370
+      "value_usd": 28451276370,
+      "ticker": "BAC"
     },
     {
       "action": "REDUCED",
@@ -219,7 +238,8 @@
       "prev_shares": 264941431,
       "prev_value_usd": 12518482615,
       "shares": 264941431,
-      "value_usd": 10894391643
+      "value_usd": 10894391643,
+      "ticker": "OXY"
     },
     {
       "action": "REDUCED",
@@ -230,7 +250,8 @@
       "prev_shares": 325634818,
       "prev_value_usd": 8479530661,
       "shares": 325634818,
-      "value_usd": 7896644337
+      "value_usd": 7896644337,
+      "ticker": "KHC"
     },
     {
       "action": "REDUCED",
@@ -241,7 +262,8 @@
       "prev_shares": 32160579,
       "prev_value_usd": 4273176132,
       "shares": 31759065,
-      "value_usd": 3608147375
+      "value_usd": 3608147375,
+      "ticker": "DVA"
     },
     {
       "action": "REDUCED",
@@ -252,7 +274,8 @@
       "prev_shares": 50000000,
       "prev_value_usd": 3370500001,
       "shares": 50000000,
-      "value_usd": 3124000000
+      "value_usd": 3124000000,
+      "ticker": "KR"
     },
     {
       "action": "REDUCED",
@@ -263,7 +286,8 @@
       "prev_shares": 124807117,
       "prev_value_usd": 2904885649,
       "shares": 124807117,
-      "value_usd": 2495518305
+      "value_usd": 2495518305,
+      "ticker": "SIRI"
     },
     {
       "action": "REDUCED",
@@ -274,7 +298,8 @@
       "prev_shares": 8989880,
       "prev_value_usd": 2513300752,
       "shares": 8989880,
-      "value_usd": 2184091346
+      "value_usd": 2184091346,
+      "ticker": "VRSN"
     },
     {
       "action": "REDUCED",
@@ -285,7 +310,8 @@
       "prev_shares": 10000000,
       "prev_value_usd": 2195700000,
       "shares": 2276000,
-      "value_usd": 525346320
+      "value_usd": 525346320,
+      "ticker": "AMZN"
     },
     {
       "action": "REDUCED",
@@ -296,7 +322,8 @@
       "prev_shares": 13400000,
       "prev_value_usd": 1804578000,
       "shares": 13000000,
-      "value_usd": 1793480000
+      "value_usd": 1793480000,
+      "ticker": "STZ"
     },
     {
       "action": "REDUCED",
@@ -307,7 +334,8 @@
       "prev_shares": 5039564,
       "prev_value_usd": 1740161449,
       "shares": 5039564,
-      "value_usd": 1663610472
+      "value_usd": 1663610472,
+      "ticker": "UNH"
     },
     {
       "action": "REDUCED",
@@ -318,7 +346,8 @@
       "prev_shares": 4100000,
       "prev_value_usd": 1461978000,
       "shares": 3602995,
-      "value_usd": 1271424876
+      "value_usd": 1271424876,
+      "ticker": "AON"
     },
     {
       "action": "REDUCED",
@@ -329,7 +358,8 @@
       "prev_shares": 3458885,
       "prev_value_usd": 1072496472,
       "shares": 3068885,
-      "value_usd": 702007444
+      "value_usd": 702007444,
+      "ticker": "POOL"
     },
     {
       "action": "REDUCED",
@@ -340,7 +370,8 @@
       "prev_shares": 7050950,
       "prev_value_usd": 888701738,
       "shares": 7050950,
-      "value_usd": 724837660
+      "value_usd": 724837660,
+      "ticker": "LEN"
     },
     {
       "action": "REDUCED",
@@ -351,7 +382,8 @@
       "prev_shares": 5664793,
       "prev_value_usd": 503260211,
       "shares": 5664793,
-      "value_usd": 457488683
+      "value_usd": 457488683,
+      "ticker": "LPX"
     },
     {
       "action": "REDUCED",
@@ -362,7 +394,8 @@
       "prev_shares": 1294612,
       "prev_value_usd": 328947963,
       "shares": 1294612,
-      "value_usd": 326798907
+      "value_usd": 326798907,
+      "ticker": "HEI"
     },
     {
       "action": "REDUCED",
@@ -373,7 +406,8 @@
       "prev_shares": 1060882,
       "prev_value_usd": 291853943,
       "shares": 1060882,
-      "value_usd": 221459118
+      "value_usd": 221459118,
+      "ticker": "CHTR"
     },
     {
       "action": "REDUCED",
@@ -384,7 +418,8 @@
       "prev_shares": 780133,
       "prev_value_usd": 138356588,
       "shares": 780133,
-      "value_usd": 124212776
+      "value_usd": 124212776,
+      "ticker": "ALLE"
     },
     {
       "action": "REDUCED",
@@ -395,7 +430,8 @@
       "prev_shares": 11112,
       "prev_value_usd": 89281142,
       "shares": 11112,
-      "value_usd": 81037260
+      "value_usd": 81037260,
+      "ticker": "NVR"
     },
     {
       "action": "REDUCED",
@@ -406,7 +442,8 @@
       "prev_shares": 433558,
       "prev_value_usd": 28363364,
       "shares": 433558,
-      "value_usd": 26867589
+      "value_usd": 26867589,
+      "ticker": "JEF"
     },
     {
       "action": "REDUCED",
@@ -417,7 +454,8 @@
       "prev_shares": 2630792,
       "prev_value_usd": 21809266,
       "shares": 2396665,
-      "value_usd": 17711354
+      "value_usd": 17711354,
+      "ticker": "LILA"
     },
     {
       "action": "REDUCED",
@@ -428,7 +466,8 @@
       "prev_shares": 227750,
       "prev_value_usd": 21734183,
       "shares": 227750,
-      "value_usd": 19647993
+      "value_usd": 19647993,
+      "ticker": "DEO"
     },
     {
       "action": "REDUCED",
@@ -439,7 +478,8 @@
       "prev_shares": 180980,
       "prev_value_usd": 21715790,
       "shares": 180980,
-      "value_usd": 17214818
+      "value_usd": 17214818,
+      "ticker": "LEN"
     },
     {
       "action": "REDUCED",
@@ -450,7 +490,8 @@
       "prev_shares": 1284020,
       "prev_value_usd": 10837129,
       "shares": 1284020,
-      "value_usd": 9578789
+      "value_usd": 9578789,
+      "ticker": "LILA"
     },
     {
       "action": "REDUCED",
@@ -461,7 +502,8 @@
       "prev_shares": 223645,
       "prev_value_usd": 9301396,
       "shares": 115428,
-      "value_usd": 4553634
+      "value_usd": 4553634,
+      "ticker": "BATRA"
     },
     {
       "action": "EXITED",
@@ -472,7 +514,8 @@
       "prev_shares": 10917661,
       "prev_value_usd": 1058685587,
       "shares": 0,
-      "value_usd": 0
+      "value_usd": 0,
+      "ticker": "LLYVK"
     },
     {
       "action": "EXITED",
@@ -483,7 +526,8 @@
       "prev_shares": 4986588,
       "prev_value_usd": 470235248,
       "shares": 0,
-      "value_usd": 0
+      "value_usd": 0,
+      "ticker": "LLYVK"
     },
     {
       "action": "EXITED",
@@ -494,7 +538,8 @@
       "prev_shares": 3018555,
       "prev_value_usd": 315288070,
       "shares": 0,
-      "value_usd": 0
+      "value_usd": 0,
+      "ticker": "LLYVK"
     }
   ],
   "cik": "0001067983",

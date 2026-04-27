@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
+import { useData } from 'vitepress'
 
 type Action = 'NEW' | 'ADDED' | 'REDUCED' | 'EXITED'
 interface ChangeItem {
@@ -10,6 +11,7 @@ interface ChangeItem {
   value_usd: number
   delta_pct: string
   delta_usd: number
+  ticker?: string | null
 }
 
 const props = defineProps<{
@@ -45,6 +47,15 @@ const hoverAction = ref<Action>('NEW')
 const displayedChanges = computed(() =>
   props.data.changes.filter((ch) => ch.action === hoverAction.value).slice(0, 10),
 )
+
+const { lang } = useData()
+const longbridgeLang = computed(() => {
+  if (lang.value === 'zh-CN') return 'zh-CN'
+  if (lang.value === 'zh-HK') return 'zh-HK'
+  return 'en'
+})
+const quoteUrl = (ticker: string): string =>
+  `https://longbridge.com/${longbridgeLang.value}/quote/${ticker}.US/topics`
 </script>
 
 <template>
@@ -76,9 +87,16 @@ const displayedChanges = computed(() =>
         :key="ch.cusip + i"
         class="py-2 flex items-center justify-between"
       >
-        <div>
+        <div class="min-w-0">
           <span :class="['text-xs font-bold uppercase mr-2', actionColor[ch.action]]">{{ ch.action }}</span>
-          {{ ch.name }}
+          <a
+            v-if="ch.ticker"
+            :href="quoteUrl(ch.ticker)"
+            target="_blank"
+            rel="noopener"
+            class="hover:text-[var(--vp-c-brand-1,#00b8b8)] transition-colors"
+          >{{ ch.name }} <span class="text-xs font-mono text-[var(--vp-c-text-3)]">{{ ch.ticker }}</span></a>
+          <span v-else>{{ ch.name }}</span>
         </div>
         <span class="text-[var(--vp-c-text-2)] tabular-nums">{{ ch.delta_pct }}</span>
       </div>
