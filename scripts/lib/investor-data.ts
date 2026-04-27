@@ -43,6 +43,11 @@ export interface Investor {
   quotes: QuoteItem[]
   milestones: MilestoneItem[]
   notable_holdings?: NotableHolding[]
+  // Optional: when this investor is also a Form 4 insider (officer/director/10%+ owner)
+  // of a listed company, set ticker (e.g. "NVDA.US") and an owner-name substring
+  // used to filter the SEC Form 4 feed to this person's trades.
+  insider_ticker?: string
+  insider_owner_match?: string
 }
 
 export function loadInvestorYaml(content: string): Investor {

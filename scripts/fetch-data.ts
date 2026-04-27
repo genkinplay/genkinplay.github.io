@@ -2,17 +2,21 @@ import { readdirSync, readFileSync, writeFileSync, existsSync, mkdirSync, copyFi
 import { join } from 'node:path'
 import { loadInvestorYaml, validateInvestor, type Investor } from './lib/investor-data'
 import { runInvestorsCli } from './lib/cli'
+import { runInsiderTrades, filterByOwner, type InsiderTrade } from './lib/insider-trades'
 
 export interface FetchReport {
   successes: string[]
   fallbacks: string[]
   failures: string[]
   skipped: string[]
+  insider_successes: string[]
+  insider_failures: string[]
 }
 
 export interface FetchOptions {
   root?: string
   runCli?: (cik: string, opts: { sub?: 'changes' }) => Promise<unknown>
+  runInsider?: (symbol: string, count?: number) => Promise<InsiderTrade[]>
 }
 
 function ensureDir(p: string): void {
@@ -72,17 +76,67 @@ async function fetchOne(
   }
 }
 
+async function fetchInsider(
+  inv: Investor,
+  runInsider: NonNullable<FetchOptions['runInsider']>,
+  root: string,
+  report: FetchReport,
+): Promise<void> {
+  if (!inv.insider_ticker) return
+
+  const path = join(root, 'data/insider-trades', `${inv.slug}.json`)
+  const cache = join(root, '.cache/insider-trades', `${inv.slug}.json`)
+
+  try {
+    const raw = await runInsider(inv.insider_ticker, 200)
+    const trades = inv.insider_owner_match
+      ? filterByOwner(raw, inv.insider_owner_match)
+      : raw
+    const payload = {
+      ticker: inv.insider_ticker,
+      owner_match: inv.insider_owner_match ?? null,
+      fetched_at: new Date().toISOString(),
+      total_count: trades.length,
+      trades,
+    }
+    const json = JSON.stringify(payload, null, 2)
+    writeFileSync(path, json)
+    ensureDir(join(root, '.cache/insider-trades'))
+    writeFileSync(cache, json)
+    report.insider_successes.push(inv.slug)
+  } catch (err) {
+    if (existsSync(cache)) {
+      copyFileSync(cache, path)
+      report.insider_successes.push(`${inv.slug} (cache)`)
+      console.warn(`[fetch-data] ${inv.slug} insider fell back to cache: ${(err as Error).message}`)
+    } else {
+      report.insider_failures.push(inv.slug)
+      console.error(`[fetch-data] ${inv.slug} insider failed without cache: ${(err as Error).message}`)
+    }
+  }
+}
+
 export async function fetchAllInvestors(opts: FetchOptions = {}): Promise<FetchReport> {
   const root = opts.root ?? process.cwd()
   const runCli = opts.runCli ?? ((cik, o) => runInvestorsCli(cik, o as never))
+  const runInsider = opts.runInsider ?? ((sym, count) => runInsiderTrades(sym, { count }))
 
   ensureDir(join(root, 'data/holdings'))
   ensureDir(join(root, 'data/changes'))
+  ensureDir(join(root, 'data/insider-trades'))
 
-  const report: FetchReport = { successes: [], fallbacks: [], failures: [], skipped: [] }
+  const report: FetchReport = {
+    successes: [],
+    fallbacks: [],
+    failures: [],
+    skipped: [],
+    insider_successes: [],
+    insider_failures: [],
+  }
   const investors = loadAllInvestors(join(root, 'data/investors'))
   for (const inv of investors) {
     await fetchOne(inv, runCli, root, report)
+    await fetchInsider(inv, runInsider, root, report)
   }
 
   console.log('[fetch-data]', report)
