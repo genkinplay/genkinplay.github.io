@@ -51,8 +51,8 @@ const badge = computed<string | null>(() => {
 
     <div class="investor-card__body min-w-0 flex-1">
       <h3 class="font-bold text-lg leading-tight truncate">{{ name }}</h3>
-      <p class="text-xs text-[var(--vp-c-text-2)] mt-1.5 leading-relaxed">{{ tagline }}</p>
-      <div v-if="badge" class="mt-2 text-xs font-semibold text-[var(--vp-c-brand-1,#00b8b8)] tabular-nums">{{ badge }}</div>
+      <p class="text-sm text-[var(--vp-c-text-2)] mt-1.5 leading-relaxed">{{ tagline }}</p>
+      <div v-if="badge" class="mt-2 text-sm font-semibold text-[var(--vp-c-brand-1,#00b8b8)] tabular-nums">{{ badge }}</div>
     </div>
   </a>
 </template>

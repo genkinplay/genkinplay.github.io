@@ -13,8 +13,8 @@ const sorted = computed(() => [...props.milestones].sort((a, b) => a.year - b.ye
 </script>
 
 <template>
-  <section class="max-w-3xl mx-auto px-6 py-7">
-    <div class="text-xs font-semibold uppercase tracking-wider text-[var(--vp-c-text-2)] mb-4">{{ label }}</div>
+  <section class="max-w-7xl mx-auto px-6 py-7">
+    <div class="text-xl font-bold text-[var(--vp-c-text-1)] mb-4">{{ label }}</div>
     <ol class="relative border-l-2 border-[var(--vp-c-divider)] pl-6 space-y-6">
       <li v-for="m in sorted" :key="m.year" data-milestone class="relative">
         <span class="absolute -left-[31px] top-1.5 w-3 h-3 rounded-full bg-[var(--vp-c-brand-1,#00b8b8)]"></span>

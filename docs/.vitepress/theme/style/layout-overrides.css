@@ -34,15 +34,69 @@
   margin-left: -0.5rem; /* tailwind -ml-2 */
 }
 
-/* Brand: nav 标题 LONGBRIDGE 大写、紧凑字距、加粗 */
-.VPNavBarTitle .title {
-  font-weight: 800;
-  letter-spacing: 0.02em;
-  font-size: 1.25rem;
+/* Brand: nav 上的宽版 logo（bars + LONGBRIDGE 一体）保持合理高度 */
+.VPNavBarTitle .title img.VPImage {
+  height: 26px;
+  width: auto;
 }
 
-/* Logo 图标稍微紧贴一点 */
-.VPNavBarTitle .title img.VPImage {
-  height: 28px;
-  margin-right: 0.5rem;
+/* 业务组件里的链接全部去掉默认下划线（VitePress 把 .vp-doc 下的 a 加了 underline） */
+.vp-doc .investor-card,
+.vp-doc .holding-top-card,
+.vp-doc .holding-row,
+.vp-doc .change-row,
+.vp-doc [data-holding] a,
+.vp-doc [data-change] a,
+.vp-doc .investor-card a,
+.vp-doc .hero-download {
+  text-decoration: none !important;
+}
+
+/* 详情页正文容器加宽。
+ *
+ * VitePress 默认有两层宽度限制（无侧栏页面）：
+ *   1. .VPDoc .container  —— 在 1440+ 锁 1104px
+ *   2. .VPDoc .content    —— 一直锁 752px / 784px（真正决定文本可视宽度的就是它）
+ * 不解开 .content，单放开 .container 视觉上几乎看不出区别。
+ *
+ * 这里两层一起放宽，并把组件里用的 max-w-7xl (1280px) 一并提升，
+ * 避免外层放开但组件自己还卡在 1280px。 */
+@media (min-width: 960px) {
+  .VPDoc:not(.has-sidebar) .container,
+  .VPDoc:not(.has-sidebar) .content {
+    max-width: 1120px !important;
+  }
+  .VPDoc .max-w-7xl {
+    max-width: 1120px !important;
+  }
+}
+
+@media (min-width: 1280px) {
+  .VPDoc:not(.has-sidebar) .container,
+  .VPDoc:not(.has-sidebar) .content {
+    max-width: 1200px !important;
+  }
+  .VPDoc .max-w-7xl {
+    max-width: 1200px !important;
+  }
+}
+
+@media (min-width: 1440px) {
+  .VPDoc:not(.has-sidebar) .container,
+  .VPDoc:not(.has-sidebar) .content {
+    max-width: 1280px !important;
+  }
+  .VPDoc .max-w-7xl {
+    max-width: 1280px !important;
+  }
+}
+
+@media (min-width: 1600px) {
+  .VPDoc:not(.has-sidebar) .container,
+  .VPDoc:not(.has-sidebar) .content {
+    max-width: 1380px !important;
+  }
+  .VPDoc .max-w-7xl {
+    max-width: 1380px !important;
+  }
 }

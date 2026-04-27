@@ -1,5 +1,5 @@
 ---
-title: Longbridge Investors
+title: Longbridge
 layout: home
 aside: false
 ---

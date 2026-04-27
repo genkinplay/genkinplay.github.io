@@ -33,18 +33,59 @@ const role    = computed(() => props.investor.role[props.lang])
 const aumB    = computed(() => props.aum ? (props.aum / 1e9).toFixed(2) : null)
 const is13f   = computed(() => props.investor.holdings_source === '13f')
 const skillHref = computed(() => props.investor.skill_file ? `/skills/${props.investor.skill_file}` : null)
+
+// 日期本地化：YYYY-MM-DD → en: "Dec 31, 2025" / zh-CN/HK: "2025 年 12 月 31 日"
+const periodLabel = computed(() => {
+  if (!props.period) return null
+  const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(props.period)
+  if (!m) return props.period
+  const [, y, mo, d] = m
+  if (props.lang === 'zh-CN' || props.lang === 'zh-HK') {
+    return `${y} 年 ${parseInt(mo!, 10)} 月 ${parseInt(d!, 10)} 日`
+  }
+  // en: "Dec 31, 2025"
+  const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+  return `${months[parseInt(mo!, 10) - 1]} ${parseInt(d!, 10)}, ${y}`
+})
+
+// "As of" 三语标签（en 句首大写，与 ·分隔的独立短语习惯一致）
+const asOfLabel = computed(() => {
+  if (props.lang === 'zh-CN') return '截至'
+  if (props.lang === 'zh-HK') return '截至'
+  return 'As of'
+})
+
+// Badge 调色板：按 philosophy 索引轮转上色，每位投资人前 3-5 条哲学
+// 拿到不同的视觉色系，避免单调。色值用 hex 直接写以保证 dark/light 都可读
+const BADGE_PALETTE: { bg: string; text: string; ring: string }[] = [
+  { bg: '#e6fffe', text: '#00746f', ring: '#7dd3cf' }, // teal
+  { bg: '#fff1d6', text: '#9a6700', ring: '#f0c876' }, // amber
+  { bg: '#ffe8d9', text: '#9c3a0c', ring: '#ffb088' }, // orange
+  { bg: '#e8f0ff', text: '#1f4dbb', ring: '#90b3ff' }, // blue
+  { bg: '#f3e8ff', text: '#6b21a8', ring: '#c4a4ef' }, // purple
+  { bg: '#fce7f3', text: '#9d174d', ring: '#f0a3c8' }, // pink
+]
+
+function badgeStyle(index: number) {
+  const c = BADGE_PALETTE[index % BADGE_PALETTE.length]!
+  return {
+    backgroundColor: c.bg,
+    color: c.text,
+    '--badge-ring': c.ring,
+  }
+}
 </script>
 
 <template>
   <section class="border-b border-[var(--vp-c-divider)]">
-    <div class="max-w-5xl mx-auto px-6 py-16 flex flex-col md:flex-row items-center md:items-start gap-10">
+    <div class="max-w-7xl mx-auto px-6 py-16 flex flex-col md:flex-row items-center md:items-start gap-10">
       <img
         :src="investor.portrait"
         :alt="name"
         class="w-32 h-32 md:w-48 md:h-48 rounded-full object-cover shadow-xl shrink-0"
       />
       <div class="flex-1 w-full">
-        <div v-if="is13f" class="text-xs font-semibold uppercase tracking-wider text-[var(--vp-c-brand-1,#00b8b8)] mb-2">
+        <div v-if="is13f" class="text-sm font-semibold uppercase tracking-wider text-[var(--vp-c-brand-1,#00b8b8)] mb-2">
           13F Filer
         </div>
 
@@ -70,7 +111,7 @@ const skillHref = computed(() => props.investor.skill_file ? `/skills/${props.in
         <p class="text-lg text-[var(--vp-c-text-2)] mt-3">{{ tagline }}</p>
         <p class="text-sm text-[var(--vp-c-text-2)] mt-1">{{ role }}</p>
 
-        <!-- 投资哲学标签：tabindex/focusable 让键盘也能触发 tooltip -->
+        <!-- 投资哲学 badge：按索引轮换色块；hover/focus 显示完整说明 -->
         <div
           v-if="investor.philosophy?.length"
           class="philosophy-tags mt-4 flex flex-wrap gap-2"
@@ -79,14 +120,14 @@ const skillHref = computed(() => props.investor.skill_file ? `/skills/${props.in
             v-for="(p, i) in investor.philosophy"
             :key="i"
             tabindex="0"
-            class="philosophy-tag relative inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-medium border border-[var(--vp-c-divider)] bg-[var(--vp-c-bg-soft)] text-[var(--vp-c-text-1)] hover:border-[var(--vp-c-brand-1,#00b8b8)] hover:text-[var(--vp-c-brand-1,#00b8b8)] focus:outline-none focus:ring-2 focus:ring-[var(--vp-c-brand-1,#00b8b8)] cursor-help transition-colors"
+            :style="badgeStyle(i)"
+            class="philosophy-tag relative inline-flex items-center px-3 py-1 rounded-md text-sm font-semibold tracking-tight cursor-help transition-all"
           >
-            <span aria-hidden="true">{{ p.icon }}</span>
-            <span>{{ p.title[lang] }}</span>
+            {{ p.title[lang] }}
             <!-- Tooltip：CSS-only，hover/focus 触发 -->
             <span
               role="tooltip"
-              class="philosophy-tooltip pointer-events-none absolute bottom-full left-0 mb-2 w-64 max-w-[80vw] px-3 py-2 rounded-lg text-xs font-normal leading-relaxed text-white bg-[var(--vp-c-text-1)] shadow-lg opacity-0 invisible translate-y-1 transition-all z-20"
+              class="philosophy-tooltip pointer-events-none absolute bottom-full left-0 mb-2 w-64 max-w-[80vw] px-3 py-2 rounded-lg text-sm font-normal leading-relaxed text-white bg-[var(--vp-c-text-1)] shadow-lg opacity-0 invisible translate-y-1 transition-all z-20"
             >{{ p.body[lang] }}</span>
           </span>
         </div>
@@ -95,7 +136,7 @@ const skillHref = computed(() => props.investor.skill_file ? `/skills/${props.in
           <span v-if="aumB">${{ aumB }}B</span>
           <span v-if="aumB">&nbsp;·&nbsp;</span>
           <span>CIK {{ investor.cik }}</span>
-          <span v-if="period">&nbsp;·&nbsp;as of {{ period }}</span>
+          <span v-if="periodLabel">&nbsp;·&nbsp;{{ asOfLabel }} {{ periodLabel }}</span>
         </div>
       </div>
     </div>
@@ -103,6 +144,13 @@ const skillHref = computed(() => props.investor.skill_file ? `/skills/${props.in
 </template>
 
 <style scoped>
+.philosophy-tag:hover,
+.philosophy-tag:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px var(--badge-ring, #7dd3cf);
+  transform: translateY(-1px);
+}
+
 .philosophy-tag:hover .philosophy-tooltip,
 .philosophy-tag:focus .philosophy-tooltip,
 .philosophy-tag:focus-within .philosophy-tooltip {

@@ -72,7 +72,7 @@ const is13f = computed(() => investor.value?.holdings_source === '13f')
       :holdings="holdings.holdings"
       :top-n="20"
       :label="t('detail.holdings_13f')"
-      :period-label="`${t('detail.as_of')} ${holdings.period}`"
+      :period="holdings.period"
     />
 
     <NotableHoldings

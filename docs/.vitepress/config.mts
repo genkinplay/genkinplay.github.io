@@ -17,7 +17,10 @@ const __dirname = dirname(fileURLToPath(import.meta.url))
 // CI 通过 actions/configure-pages 输出 base_path 注入到 VITEPRESS_BASE。
 const base = process.env.VITEPRESS_BASE || '/'
 
-const LOGO = 'https://assets.wbrks.com/assets/logo/logo1.png'
+// nav 上的 logo：本地的宽版（bars + LONGBRIDGE 文字一体），从 longbridge-com-hk.png 去掉 Hong Kong 后裁切而来
+const LOGO_NAV = '/brand/logo.png'
+// 浏览器 tab favicon：方形的纯 bars 图标（宽版图比例不适合 favicon）
+const LOGO_ICON = 'https://assets.wbrks.com/assets/logo/logo1.png'
 
 // 通用 nav 构造：根据 locale 拼 longbridge.com 的对应页面
 // VitePress 默认外链 (https://...) 会带 target="_blank" + 外部图标；
@@ -35,7 +38,7 @@ function buildNav(lang: 'en' | 'zh-CN' | 'zh-HK') {
     { text: labels.home,      link: 'https://longbridge.com/',                          ...sameTab },
     { text: labels.community, link: `https://longbridge.com/${lang}/topics`,            ...sameTab },
     { text: labels.news,      link: `https://longbridge.com/${lang}/news`,              ...sameTab },
-    { text: labels.about,     link: `https://longbridge.com/hk/${lang}/about`,          ...sameTab },
+    { text: labels.about,     link: `https://longbridge.com/${lang}/about`,             ...sameTab },
   ]
 }
 
@@ -49,8 +52,8 @@ export default defineConfig({
 
   // 浏览器 tab favicon + Apple touch icon
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: LOGO }],
-    ['link', { rel: 'apple-touch-icon', href: LOGO }],
+    ['link', { rel: 'icon', type: 'image/png', href: LOGO_ICON }],
+    ['link', { rel: 'apple-touch-icon', href: LOGO_ICON }],
   ],
 
   // Exclude spec/plan meta docs from the VitePress content tree
@@ -66,6 +69,10 @@ export default defineConfig({
       lang: 'en',
       themeConfig: {
         nav: buildNav('en'),
+        lastUpdated: {
+          text: 'Updated',
+          formatOptions: { dateStyle: 'long', forceLocale: true },
+        },
       },
     },
     'zh-CN': {
@@ -73,6 +80,10 @@ export default defineConfig({
       lang: 'zh-CN',
       themeConfig: {
         nav: buildNav('zh-CN'),
+        lastUpdated: {
+          text: '更新于',
+          formatOptions: { dateStyle: 'long', forceLocale: true },
+        },
       },
     },
     'zh-HK': {
@@ -80,6 +91,10 @@ export default defineConfig({
       lang: 'zh-HK',
       themeConfig: {
         nav: buildNav('zh-HK'),
+        lastUpdated: {
+          text: '更新於',
+          formatOptions: { dateStyle: 'long', forceLocale: true },
+        },
       },
     },
   },
@@ -101,8 +116,9 @@ export default defineConfig({
   },
 
   themeConfig: {
-    logo: LOGO,
-    siteTitle: 'LONGBRIDGE',
+    logo: LOGO_NAV,
+    // 新的宽版 logo 已含 "LONGBRIDGE" 字样，不再叠加 siteTitle 文字
+    siteTitle: false,
     socialLinks: [],
   },
 })

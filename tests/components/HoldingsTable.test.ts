@@ -9,7 +9,7 @@ const HOLDINGS = [
 
 describe('HoldingsTable', () => {
   it('renders top N rows with name, weight, value', () => {
-    const w = mount(HoldingsTable, { props: { holdings: HOLDINGS, topN: 2, label: 'Top Holdings', periodLabel: 'as of 2025-12-31' }})
+    const w = mount(HoldingsTable, { props: { holdings: HOLDINGS, topN: 2, label: 'Top Holdings', period: '2025-12-31' }})
     expect(w.findAll('[data-holding]')).toHaveLength(2)
     expect(w.text()).toContain('APPLE INC')
     expect(w.text()).toContain('22.60%')
@@ -21,7 +21,7 @@ describe('HoldingsTable', () => {
       cusip: String(i), name: `STOCK ${i}`, share_type: 'SH',
       shares: 1000, value_usd: 1_000_000_000, weight_pct: '1.00',
     }))
-    const w = mount(HoldingsTable, { props: { holdings: many, topN: 20, label: 'x', periodLabel: 'x' }})
+    const w = mount(HoldingsTable, { props: { holdings: many, topN: 20, label: 'x', period: '2025-12-31' }})
     expect(w.findAll('[data-holding]')).toHaveLength(20)
   })
 })

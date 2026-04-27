@@ -28,12 +28,12 @@ describe('ChangesPanel', () => {
     expect(w.text()).not.toContain('HPQ')
   })
 
-  it('switches list when hovering another action card', async () => {
+  it('switches list when clicking another action card', async () => {
     const w = mount(ChangesPanel, { props: { data: CHANGES, label: 'Changes' }})
     const buttons = w.findAll('button')
     const addedBtn = buttons.find((b) => b.text().includes('ADDED'))
     expect(addedBtn).toBeDefined()
-    await addedBtn!.trigger('mouseenter')
+    await addedBtn!.trigger('click')
     expect(w.text()).toContain('OXY')
     expect(w.text()).not.toContain('NYT')
   })
