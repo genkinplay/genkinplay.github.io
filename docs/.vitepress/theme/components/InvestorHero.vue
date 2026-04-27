@@ -3,6 +3,12 @@ import { computed } from 'vue'
 
 type Lang = 'en' | 'zh-CN' | 'zh-HK'
 
+interface PhilosophyTag {
+  icon: string
+  title: Record<Lang, string>
+  body: Record<Lang, string>
+}
+
 const props = defineProps<{
   investor: {
     display_name: Record<Lang, string>
@@ -12,6 +18,7 @@ const props = defineProps<{
     holdings_source: '13f' | 'curated'
     cik: string
     skill_file?: string
+    philosophy?: PhilosophyTag[]
   }
   lang: Lang
   period?: string
@@ -63,6 +70,27 @@ const skillHref = computed(() => props.investor.skill_file ? `/skills/${props.in
         <p class="text-lg text-[var(--vp-c-text-2)] mt-3">{{ tagline }}</p>
         <p class="text-sm text-[var(--vp-c-text-2)] mt-1">{{ role }}</p>
 
+        <!-- 投资哲学标签：tabindex/focusable 让键盘也能触发 tooltip -->
+        <div
+          v-if="investor.philosophy?.length"
+          class="philosophy-tags mt-4 flex flex-wrap gap-2"
+        >
+          <span
+            v-for="(p, i) in investor.philosophy"
+            :key="i"
+            tabindex="0"
+            class="philosophy-tag relative inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full text-xs font-medium border border-[var(--vp-c-divider)] bg-[var(--vp-c-bg-soft)] text-[var(--vp-c-text-1)] hover:border-[var(--vp-c-brand-1,#00b8b8)] hover:text-[var(--vp-c-brand-1,#00b8b8)] focus:outline-none focus:ring-2 focus:ring-[var(--vp-c-brand-1,#00b8b8)] cursor-help transition-colors"
+          >
+            <span aria-hidden="true">{{ p.icon }}</span>
+            <span>{{ p.title[lang] }}</span>
+            <!-- Tooltip：CSS-only，hover/focus 触发 -->
+            <span
+              role="tooltip"
+              class="philosophy-tooltip pointer-events-none absolute bottom-full left-0 mb-2 w-64 max-w-[80vw] px-3 py-2 rounded-lg text-xs font-normal leading-relaxed text-white bg-[var(--vp-c-text-1)] shadow-lg opacity-0 invisible translate-y-1 transition-all z-20"
+            >{{ p.body[lang] }}</span>
+          </span>
+        </div>
+
         <div v-if="is13f" class="mt-4 text-sm text-[var(--vp-c-brand-1,#00b8b8)]">
           <span v-if="aumB">${{ aumB }}B</span>
           <span v-if="aumB">&nbsp;·&nbsp;</span>
@@ -73,3 +101,13 @@ const skillHref = computed(() => props.investor.skill_file ? `/skills/${props.in
     </div>
   </section>
 </template>
+
+<style scoped>
+.philosophy-tag:hover .philosophy-tooltip,
+.philosophy-tag:focus .philosophy-tooltip,
+.philosophy-tag:focus-within .philosophy-tooltip {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+</style>

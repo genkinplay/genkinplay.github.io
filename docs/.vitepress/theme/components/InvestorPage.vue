@@ -4,7 +4,7 @@ import { useI18n } from 'vue-i18n'
 import { useData } from 'vitepress'
 import InvestorHero from './InvestorHero.vue'
 import BioSection from './BioSection.vue'
-import PhilosophyCards from './PhilosophyCards.vue'
+// PhilosophyCards 已移除：投资哲学改为 Hero 顶部的 hover 标签展示
 import HoldingsTable from './HoldingsTable.vue'
 import NotableHoldings from './NotableHoldings.vue'
 import ChangesPanel from './ChangesPanel.vue'
@@ -66,13 +66,6 @@ const is13f = computed(() => investor.value?.holdings_source === '13f')
     />
 
     <BioSection :bio="investor.bio" :lang="lang" :label="t('detail.bio')" />
-
-    <PhilosophyCards
-      v-if="investor.philosophy?.length"
-      :items="investor.philosophy"
-      :lang="lang"
-      :label="t('detail.philosophy')"
-    />
 
     <HoldingsTable
       v-if="is13f && holdings?.holdings?.length"
