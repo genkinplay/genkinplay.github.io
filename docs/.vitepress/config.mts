@@ -102,8 +102,7 @@ export default defineConfig({
 
   themeConfig: {
     logo: LOGO,
-    // Logo 图片本身已含 "LONGBRIDGE" 字样，不再叠加 siteTitle 文字避免重复
-    siteTitle: false,
+    siteTitle: 'Longbridge',
     socialLinks: [],
   },
 })
