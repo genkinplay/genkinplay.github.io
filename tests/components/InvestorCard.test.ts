@@ -31,10 +31,11 @@ describe('InvestorCard', () => {
     expect(w.text()).toContain('13F')
   })
 
-  it('renders Notable Holdings badge for curated investors', () => {
+  it('hides badge entirely for curated investors (no fake "Notable Holdings" label)', () => {
     const curated = { ...BUFFETT, holdings_source: 'curated' as const, total_value_usd: 0 }
     const w = mount(InvestorCard, { props: { investor: curated, lang: 'en' } })
-    expect(w.text()).toContain('Notable Holdings')
+    expect(w.text()).not.toContain('Notable Holdings')
+    expect(w.text()).not.toMatch(/\$\d+\.\d+B/)
   })
 
   it('links to /investors/{slug}/ (no lang prefix when en)', () => {
