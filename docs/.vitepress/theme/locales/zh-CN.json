@@ -1,0 +1,45 @@
+{
+  "home": {
+    "hero_title": "跟随全球最受关注投资人的真实打法",
+    "hero_subtitle": "真实 13F 快照 · 精选持仓 · 可下载的 AI Skill。",
+    "cta_primary": "开始浏览",
+    "cta_ghost": "关于"
+  },
+  "hero": {
+    "title": {
+      "prefix": "Longbridge",
+      "accent": "Investors"
+    },
+    "following": "Following",
+    "subtitle": "真实 13F 快照、精选持仓、可下载的 AI Skill —— 在 Claude Code 里，走进全球最受关注投资人的思维方式。",
+    "cta": {
+      "primary": "浏览投资人",
+      "secondary": "关于"
+    }
+  },
+  "stats": {
+    "ainative": "投资人",
+    "markets": "覆盖市场",
+    "sdks": "AI Skills",
+    "endpoints": "重仓股"
+  },
+  "detail": {
+    "bio": "人物介绍",
+    "philosophy": "投资哲学",
+    "holdings_13f": "Top 持仓（13F）",
+    "holdings_curated": "代表持仓",
+    "as_of": "截至",
+    "changes": "季度变化",
+    "quotes": "金句",
+    "milestones": "里程碑",
+    "download_skill": "下载 Skill",
+    "download_desc": "将 .skill 文件导入 Claude Code，即可与该投资人的思维方式对话。",
+    "download_cta": "下载 .skill",
+    "insider_trades": "内部人交易 · SEC Form 4",
+    "insider_ticker_label": "标的："
+  },
+  "badges": {
+    "13f": "13F 机构",
+    "curated": "代表持仓"
+  }
+}

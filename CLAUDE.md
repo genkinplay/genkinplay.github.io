@@ -15,7 +15,7 @@
 
 0. **🚨 参照 `../investors_dep/developers` 是硬性要求**：本项目的样式、布局、组件基线 **必须** 从 `../investors_dep/developers/docs/.vitepress/theme/` 搬过来（那是 open.longbridge.com 的官方源码）。自写一套"看起来差不多"的样式 = 白做。详见 plan 顶部的 **"文件级映射"** 表格。凡是写任何 `.vue` / `.css` 前，先去 developers 对应路径看有没有现成的。
 
-1. **Git 政策**：`docs/` 目录整体忽略（用户指令）。所有 VitePress 源码、组件、content、本 CLAUDE 之外的文档只在本地存在。可提交内容限于 `data/`、`scripts/`、`skills/`、`public/`（除 `public/skills/`）、根配置、`.github/workflows/`。
+1. **Git 政策**：仅 `docs/superpowers/`（spec / plan / brainstorm meta-docs）和 `docs/.vitepress/{cache,dist}/` 忽略；VitePress 源码（`docs/.vitepress/config.mts`、`theme/` 全部组件、`*.md` 内容页等）**入 git** —— CI 必须 checkout 到这些文件才能在 GitHub Actions 上构建。
 
 2. **数据来源**：`longbridge investors <CIK> --format json`（公开 SEC 13F 数据，无需认证）。构建时脚本 `scripts/fetch-data.ts` 调 CLI，失败回退到 `.cache/` 上一次成功快照。
 

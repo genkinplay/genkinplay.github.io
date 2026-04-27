@@ -1,0 +1,45 @@
+{
+  "home": {
+    "hero_title": "Follow the playbooks of the world's most watched investors",
+    "hero_subtitle": "Real 13F snapshots, curated holdings, downloadable AI skills.",
+    "cta_primary": "Explore",
+    "cta_ghost": "About"
+  },
+  "hero": {
+    "title": {
+      "prefix": "Longbridge",
+      "accent": "Investors"
+    },
+    "following": "Following",
+    "subtitle": "Real 13F snapshots, curated holdings, and downloadable AI skills — so you can explore the playbooks of the world's most watched investors inside Claude Code.",
+    "cta": {
+      "primary": "Explore Investors",
+      "secondary": "About"
+    }
+  },
+  "stats": {
+    "ainative": "Investors",
+    "markets": "Markets",
+    "sdks": "AI Skills",
+    "endpoints": "Holdings"
+  },
+  "detail": {
+    "bio": "Bio",
+    "philosophy": "Investment Philosophy",
+    "holdings_13f": "Top Holdings (13F)",
+    "holdings_curated": "Notable Holdings",
+    "as_of": "as of",
+    "changes": "Quarter-over-Quarter Changes",
+    "quotes": "Famous Quotes",
+    "milestones": "Milestones",
+    "download_skill": "Download Skill",
+    "download_desc": "Import this .skill into Claude Code to converse with the investor's playbook.",
+    "download_cta": "Download .skill",
+    "insider_trades": "Insider Trades · SEC Form 4",
+    "insider_ticker_label": "Ticker:"
+  },
+  "badges": {
+    "13f": "13F Filer",
+    "curated": "Notable Holdings"
+  }
+}

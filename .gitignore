@@ -15,14 +15,16 @@ bun.lockb         # 旧版 Bun 二进制锁文件（已弃用）
 .env.local
 .env.*.local
 
-# 本地脚手架 / 文档根（用户指令保留在本地）
-docs/
+# 仅本地的 meta 文档（spec / plan / brainstorm 等）
+docs/superpowers/
+
+# VitePress 缓存与构建产物
+docs/.vitepress/cache/
+docs/.vitepress/dist/
 
 # 构建产物 & 缓存
 dist/
 .cache/
-.vitepress/cache/
-.vitepress/dist/
 
 # 构建时生成的数据（CI 每次 fetch）
 data/holdings/
