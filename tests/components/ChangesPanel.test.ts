@@ -21,9 +21,20 @@ describe('ChangesPanel', () => {
     expect(w.text()).toMatch(/EXITED.*1/)
   })
 
-  it('lists first rows of details', () => {
+  it('defaults to filtering by NEW (shows NYT, hides others)', () => {
     const w = mount(ChangesPanel, { props: { data: CHANGES, label: 'Changes' }})
     expect(w.text()).toContain('NYT')
+    expect(w.text()).not.toContain('OXY')
+    expect(w.text()).not.toContain('HPQ')
+  })
+
+  it('switches list when hovering another action card', async () => {
+    const w = mount(ChangesPanel, { props: { data: CHANGES, label: 'Changes' }})
+    const buttons = w.findAll('button')
+    const addedBtn = buttons.find((b) => b.text().includes('ADDED'))
+    expect(addedBtn).toBeDefined()
+    await addedBtn!.trigger('mouseenter')
     expect(w.text()).toContain('OXY')
+    expect(w.text()).not.toContain('NYT')
   })
 })
