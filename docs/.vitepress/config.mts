@@ -20,6 +20,8 @@ const base = process.env.VITEPRESS_BASE || '/'
 const LOGO = 'https://assets.wbrks.com/assets/logo/longbridge-com-hk.png'
 
 // 通用 nav 构造：根据 locale 拼 longbridge.com 的对应页面
+// VitePress 默认外链 (https://...) 会带 target="_blank" + 外部图标；
+// 我们要求 nav 跳转在当前 tab 打开，所以显式 target="_self" + noIcon
 function buildNav(lang: 'en' | 'zh-CN' | 'zh-HK') {
   const labels = {
     en:      { home: 'Home',     community: 'Community', news: 'News',     about: 'About' },
@@ -27,11 +29,13 @@ function buildNav(lang: 'en' | 'zh-CN' | 'zh-HK') {
     'zh-HK': { home: '首頁',     community: '社群',       news: '資訊',     about: '關於' },
   }[lang]
 
+  const sameTab = { target: '_self', noIcon: true } as const
+
   return [
-    { text: labels.home,      link: 'https://longbridge.com/' },
-    { text: labels.community, link: `https://longbridge.com/${lang}/topics` },
-    { text: labels.news,      link: `https://longbridge.com/${lang}/news` },
-    { text: labels.about,     link: `https://longbridge.com/hk/${lang}/about` },
+    { text: labels.home,      link: 'https://longbridge.com/',                          ...sameTab },
+    { text: labels.community, link: `https://longbridge.com/${lang}/topics`,            ...sameTab },
+    { text: labels.news,      link: `https://longbridge.com/${lang}/news`,              ...sameTab },
+    { text: labels.about,     link: `https://longbridge.com/hk/${lang}/about`,          ...sameTab },
   ]
 }
 
