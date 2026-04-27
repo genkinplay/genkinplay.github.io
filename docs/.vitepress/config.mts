@@ -17,7 +17,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url))
 // CI 通过 actions/configure-pages 输出 base_path 注入到 VITEPRESS_BASE。
 const base = process.env.VITEPRESS_BASE || '/'
 
-const LOGO = 'https://assets.wbrks.com/assets/logo/longbridge-com-hk.png'
+const LOGO = 'https://assets.wbrks.com/assets/logo/logo1.png'
 
 // 通用 nav 构造：根据 locale 拼 longbridge.com 的对应页面
 // VitePress 默认外链 (https://...) 会带 target="_blank" + 外部图标；
