@@ -17,9 +17,27 @@ const __dirname = dirname(fileURLToPath(import.meta.url))
 // CI 通过 actions/configure-pages 输出 base_path 注入到 VITEPRESS_BASE。
 const base = process.env.VITEPRESS_BASE || '/'
 
+const LOGO = 'https://assets.wbrks.com/assets/logo/longbridge-com-hk.png'
+
+// 通用 nav 构造：根据 locale 拼 longbridge.com 的对应页面
+function buildNav(lang: 'en' | 'zh-CN' | 'zh-HK') {
+  const labels = {
+    en:      { home: 'Home',     community: 'Community', news: 'News',     about: 'About' },
+    'zh-CN': { home: '首页',     community: '社区',       news: '资讯',     about: '关于' },
+    'zh-HK': { home: '首頁',     community: '社群',       news: '資訊',     about: '關於' },
+  }[lang]
+
+  return [
+    { text: labels.home,      link: 'https://longbridge.com/' },
+    { text: labels.community, link: `https://longbridge.com/${lang}/topics` },
+    { text: labels.news,      link: `https://longbridge.com/${lang}/news` },
+    { text: labels.about,     link: `https://longbridge.com/hk/${lang}/about` },
+  ]
+}
+
 export default defineConfig({
-  title: 'Longbridge Investors',
-  description: 'Tri-lingual introductions to famous investors with downloadable AI skills',
+  title: 'Longbridge',
+  description: 'Real 13F snapshots, curated holdings, downloadable AI skills.',
   base,
   cleanUrls: true,
   lastUpdated: true,
@@ -37,21 +55,21 @@ export default defineConfig({
       label: 'English',
       lang: 'en',
       themeConfig: {
-        nav: [{ text: 'Home', link: '/' }],
+        nav: buildNav('en'),
       },
     },
     'zh-CN': {
       label: '简体中文',
       lang: 'zh-CN',
       themeConfig: {
-        nav: [{ text: '首页', link: '/zh-CN/' }],
+        nav: buildNav('zh-CN'),
       },
     },
     'zh-HK': {
       label: '繁體中文',
       lang: 'zh-HK',
       themeConfig: {
-        nav: [{ text: '首頁', link: '/zh-HK/' }],
+        nav: buildNav('zh-HK'),
       },
     },
   },
@@ -73,7 +91,9 @@ export default defineConfig({
   },
 
   themeConfig: {
-    siteTitle: 'Longbridge Investors',
+    logo: LOGO,
+    // Logo 图片本身已含 "LONGBRIDGE" 字样，不再叠加 siteTitle 文字避免重复
+    siteTitle: false,
     socialLinks: [],
   },
 })
