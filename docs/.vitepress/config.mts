@@ -47,6 +47,12 @@ export default defineConfig({
   lastUpdated: true,
   ignoreDeadLinks: true,
 
+  // 浏览器 tab favicon + Apple touch icon
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: LOGO }],
+    ['link', { rel: 'apple-touch-icon', href: LOGO }],
+  ],
+
   // Exclude spec/plan meta docs from the VitePress content tree
   srcExclude: [
     'superpowers/**',
