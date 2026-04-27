@@ -4,10 +4,25 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: '0 8 * * 1' # 每周一 08:00 UTC 定时 rebuild，拉取最新 13F 数据
+    # 每周一 08:00 UTC 定时 rebuild，拉取最新 13F + Form 4 数据
+    - cron: '0 8 * * 1'
   workflow_dispatch:
 
+# 让 GITHUB_TOKEN 拥有写 Pages 与 OIDC 权限，由 deploy-pages 使用
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 同一时刻只跑一次部署，避免并发提交相互覆盖（保留最新一次执行）
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
+  # ──────────────────────────────────────────────
+  # 1. Build：拉数据 + 跑测试 + 生成静态产物
+  # ──────────────────────────────────────────────
   build:
     runs-on: ubuntu-latest
     steps:
@@ -19,21 +34,25 @@ jobs:
         with:
           bun-version: latest
 
+      - name: Configure Pages
+        # 计算 base path 等元数据；输出 base_path 形如 /<repo>/ 或 /
+        id: pages
+        uses: actions/configure-pages@v5
+
       - name: Install Longbridge CLI
-        # Try official install; fallback to building from source if upstream install script moves.
+        # 上游官方安装脚本；失败不阻塞，fetch:data 会自动回退到缓存
         run: |
           set -e
           if curl -fsSL https://raw.githubusercontent.com/longbridge/longbridge-terminal/main/install | sh; then
             echo "Longbridge CLI installed via upstream script"
           else
-            echo "Upstream install failed; continuing — fetch-data will fallback to cache"
+            echo "Upstream install failed — fetch:data will fall back to cached snapshots"
           fi
           echo "$HOME/.longbridge/bin" >> "$GITHUB_PATH"
           echo "/usr/local/bin" >> "$GITHUB_PATH"
 
       - name: Verify CLI (non-fatal)
-        run: |
-          longbridge --version 2>&1 || echo "CLI not available; fetch-data will use cache fallback"
+        run: longbridge --version 2>&1 || echo "CLI not available; will rely on cache"
 
       - name: Restore data cache
         uses: actions/cache@v4
@@ -49,7 +68,11 @@ jobs:
       - name: Run tests
         run: bun run test
 
-      - name: Build (fetch + copy:skills + vitepress build)
+      - name: Build (fetch:data + copy:skills + vitepress build)
+        # VitePress base path 必须匹配最终部署 URL，否则资源 404
+        # GitHub Pages project 站为 /<repo>/；自定义域名下 base 由 configure-pages 推断
+        env:
+          VITEPRESS_BASE: ${{ steps.pages.outputs.base_path }}
         run: bun run build
 
       - name: Save data cache
@@ -59,21 +82,21 @@ jobs:
           path: .cache
           key: investor-data-${{ github.run_id }}
 
-      - name: Upload dist artifact
-        uses: actions/upload-artifact@v4
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: site-dist
-          path: docs/.vitepress/dist/
-          retention-days: 7
+          path: docs/.vitepress/dist
 
-  # Deploy step — target TBD. Once decided, uncomment and wire credentials.
-  # deploy:
-  #   needs: build
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - uses: actions/download-artifact@v4
-  #       with:
-  #         name: site-dist
-  #         path: dist
-  #     - name: Deploy (Cloudflare Pages / GitHub Pages / Vercel — choose one)
-  #       run: echo "TODO: wire once deploy target is confirmed"
+  # ──────────────────────────────────────────────
+  # 2. Deploy：把 build 产物推到 GitHub Pages
+  # ──────────────────────────────────────────────
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
