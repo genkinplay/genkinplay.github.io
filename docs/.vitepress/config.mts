@@ -102,7 +102,7 @@ export default defineConfig({
 
   themeConfig: {
     logo: LOGO,
-    siteTitle: 'Longbridge',
+    siteTitle: 'LONGBRIDGE',
     socialLinks: [],
   },
 })
