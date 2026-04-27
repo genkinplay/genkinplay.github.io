@@ -15,7 +15,7 @@ const paragraphs = computed(() =>
 </script>
 
 <template>
-  <section class="max-w-3xl mx-auto px-6 py-12">
+  <section class="max-w-3xl mx-auto px-6 py-7">
     <div class="text-xs font-semibold uppercase tracking-wider text-[var(--vp-c-text-2)] mb-4">{{ label }}</div>
     <div class="space-y-5 text-[var(--vp-c-text-1)] leading-relaxed">
       <p v-for="(p, i) in paragraphs" :key="i">{{ p }}</p>

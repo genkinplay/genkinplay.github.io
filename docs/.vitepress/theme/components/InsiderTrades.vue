@@ -62,7 +62,7 @@ const fmtValue = (v: number | undefined): string => {
 </script>
 
 <template>
-  <section class="max-w-5xl mx-auto px-6 py-12">
+  <section class="max-w-5xl mx-auto px-6 py-7">
     <div class="flex items-baseline justify-between mb-4 flex-wrap gap-2">
       <div class="text-xs font-semibold uppercase tracking-wider text-[var(--vp-c-text-2)]">
         {{ label }}

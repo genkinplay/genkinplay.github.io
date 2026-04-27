@@ -12,7 +12,7 @@ const href = computed(() => `/skills/${props.skillFile}`)
 </script>
 
 <template>
-  <section class="max-w-3xl mx-auto px-6 py-12">
+  <section class="max-w-3xl mx-auto px-6 py-7">
     <div class="rounded-3xl border border-[var(--vp-c-brand-1,#00b8b8)] bg-[var(--vp-c-brand-soft,#e6fffe)] p-8 text-center">
       <h3 class="text-2xl font-bold mb-2">{{ title }}</h3>
       <p class="text-[var(--vp-c-text-2)] max-w-lg mx-auto">{{ description }}</p>
