@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001422848-26-000005",
+  "cik": "0001422848",
+  "filing_date": "2026-02-11",
+  "firm": "Capital Research Global Investors",
+  "holdings": [
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 73324435,
+      "value_usd": 35461344293,
+      "weight_pct": "6.55",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 171562742,
+      "value_usd": 31996598678,
+      "weight_pct": "5.91",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM INC",
+      "share_type": "SH",
+      "shares": 86361719,
+      "value_usd": 29890006170,
+      "weight_pct": "5.52",
+      "ticker": "AVGO"
+    },
+    {
+      "cusip": "532457108",
+      "name": "ELI LILLY & CO",
+      "share_type": "SH",
+      "shares": 24566846,
+      "value_usd": 26401595560,
+      "weight_pct": "4.87",
+      "ticker": "LLY"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 90036034,
+      "value_usd": 20782262287,
+      "weight_pct": "3.84",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 52055304,
+      "value_usd": 16293322102,
+      "weight_pct": "3.01",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "share_type": "SH",
+      "shares": 55474240,
+      "value_usd": 15081280877,
+      "weight_pct": "2.78",
+      "ticker": "AAPL"
+    },
+    {
+      "cusip": "75513E101",
+      "name": "RTX CORPORATION",
+      "share_type": "SH",
+      "shares": 76140352,
+      "value_usd": 13964155021,
+      "weight_pct": "2.58",
+      "ticker": "RTX"
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "share_type": "SH",
+      "shares": 17873714,
+      "value_usd": 11798347372,
+      "weight_pct": "2.18",
+      "ticker": "META"
+    },
+    {
+      "cusip": "90353T100",
+      "name": "UBER TECHNOLOGIES INC",
+      "share_type": "SH",
+      "shares": 113456376,
+      "value_usd": 9270560751,
+      "weight_pct": "1.71",
+      "ticker": "UBER"
+    },
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 28116508,
+      "value_usd": 8822999610,
+      "weight_pct": "1.63",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "718172109",
+      "name": "PHILIP MORRIS INTL INC",
+      "share_type": "SH",
+      "shares": 54559706,
+      "value_usd": 8751406722,
+      "weight_pct": "1.62",
+      "ticker": "PM"
+    },
+    {
+      "cusip": "038222105",
+      "name": "APPLIED MATLS INC",
+      "share_type": "SH",
+      "shares": 32707049,
+      "value_usd": 8405458284,
+      "weight_pct": "1.55",
+      "ticker": null
+    },
+    {
+      "cusip": "92532F100",
+      "name": "VERTEX PHARMACEUTICALS INC",
+      "share_type": "SH",
+      "shares": 17316344,
+      "value_usd": 7850543946,
+      "weight_pct": "1.45",
+      "ticker": null
+    },
+    {
+      "cusip": "369604301",
+      "name": "GE AEROSPACE",
+      "share_type": "SH",
+      "shares": 24730296,
+      "value_usd": 7617724838,
+      "weight_pct": "1.41",
+      "ticker": null
+    },
+    {
+      "cusip": "46625H100",
+      "name": "JPMORGAN CHASE & CO.",
+      "share_type": "SH",
+      "shares": 21930307,
+      "value_usd": 7066396094,
+      "weight_pct": "1.30",
+      "ticker": "JPM"
+    },
+    {
+      "cusip": "855244109",
+      "name": "STARBUCKS CORP",
+      "share_type": "SH",
+      "shares": 82181929,
+      "value_usd": 6920566086,
+      "weight_pct": "1.28",
+      "ticker": "SBUX"
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "share_type": "SH",
+      "shares": 10791976,
+      "value_usd": 6161003432,
+      "weight_pct": "1.14",
+      "ticker": "MA"
+    },
+    {
+      "cusip": "68389X105",
+      "name": "ORACLE CORP",
+      "share_type": "SH",
+      "shares": 30137126,
+      "value_usd": 5874070079,
+      "weight_pct": "1.08",
+      "ticker": "ORCL"
+    },
+    {
+      "cusip": "00287Y109",
+      "name": "ABBVIE INC",
+      "share_type": "SH",
+      "shares": 25408200,
+      "value_usd": 5805529521,
+      "weight_pct": "1.07",
+      "ticker": "ABBV"
+    },
+    {
+      "cusip": "V7780T103",
+      "name": "ROYAL CARIBBEAN GROUP",
+      "share_type": "SH",
+      "shares": 20176544,
+      "value_usd": 5627668530,
+      "weight_pct": "1.04",
+      "ticker": null
+    },
+    {
+      "cusip": "136385101",
+      "name": "CANADIAN NAT RES LTD",
+      "share_type": "SH",
+      "shares": 146331336,
+      "value_usd": 4956203571,
+      "weight_pct": "0.91",
+      "ticker": null
+    },
+    {
+      "cusip": "002824100",
+      "name": "ABBOTT LABS",
+      "share_type": "SH",
+      "shares": 39169239,
+      "value_usd": 4907523455,
+      "weight_pct": "0.91",
+      "ticker": null
+    },
+    {
+      "cusip": "58733R102",
+      "name": "MERCADOLIBRE INC",
+      "share_type": "SH",
+      "shares": 2225031,
+      "value_usd": 4481811506,
+      "weight_pct": "0.83",
+      "ticker": "MELI"
+    },
+    {
+      "cusip": "G54950103",
+      "name": "LINDE PLC",
+      "share_type": "SH",
+      "shares": 10127594,
+      "value_usd": 4318325123,
+      "weight_pct": "0.80",
+      "ticker": "LIN"
+    },
+    {
+      "cusip": "09290D101",
+      "name": "BLACKROCK INC",
+      "share_type": "SH",
+      "shares": 3838937,
+      "value_usd": 4108967829,
+      "weight_pct": "0.76",
+      "ticker": "BLK"
+    },
+    {
+      "cusip": "30231G102",
+      "name": "EXXON MOBIL CORP",
+      "share_type": "SH",
+      "shares": 33458442,
+      "value_usd": 4026395888,
+      "weight_pct": "0.74",
+      "ticker": "XOM"
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC",
+      "share_type": "SH",
+      "shares": 42367807,
+      "value_usd": 3972406390,
+      "weight_pct": "0.73",
+      "ticker": "NFLX"
+    },
+    {
+      "cusip": "14448C104",
+      "name": "CARRIER GLOBAL CORPORATION",
+      "share_type": "SH",
+      "shares": 74737790,
+      "value_usd": 3949175350,
+      "weight_pct": "0.73",
+      "ticker": "CARR"
+    },
+    {
+      "cusip": "88160R101",
+      "name": "TESLA INC",
+      "share_type": "SH",
+      "shares": 8206635,
+      "value_usd": 3690722570,
+      "weight_pct": "0.68",
+      "ticker": "TSLA"
+    },
+    {
+      "cusip": "25746U109",
+      "name": "DOMINION ENERGY INC",
+      "share_type": "SH",
+      "shares": 59790734,
+      "value_usd": 3503142306,
+      "weight_pct": "0.65",
+      "ticker": "D"
+    },
+    {
+      "cusip": "437076102",
+      "name": "HOME DEPOT INC",
+      "share_type": "SH",
+      "shares": 10172313,
+      "value_usd": 3500301250,
+      "weight_pct": "0.65",
+      "ticker": "HD"
+    },
+    {
+      "cusip": "949746101",
+      "name": "WELLS FARGO CO NEW",
+      "share_type": "SH",
+      "shares": 37421387,
+      "value_usd": 3487686998,
+      "weight_pct": "0.64",
+      "ticker": "WFC"
+    },
+    {
+      "cusip": "G5960L103",
+      "name": "MEDTRONIC PLC",
+      "share_type": "SH",
+      "shares": 34573163,
+      "value_usd": 3321100808,
+      "weight_pct": "0.61",
+      "ticker": "MDT"
+    },
+    {
+      "cusip": "893641100",
+      "name": "TRANSDIGM GROUP INC",
+      "share_type": "SH",
+      "shares": 2476661,
+      "value_usd": 3293527397,
+      "weight_pct": "0.61",
+      "ticker": "TDG"
+    },
+    {
+      "cusip": "406216101",
+      "name": "HALLIBURTON CO",
+      "share_type": "SH",
+      "shares": 110220971,
+      "value_usd": 3114847722,
+      "weight_pct": "0.57",
+      "ticker": "HAL"
+    },
+    {
+      "cusip": "375558103",
+      "name": "GILEAD SCIENCES INC",
+      "share_type": "SH",
+      "shares": 25307071,
+      "value_usd": 3106193871,
+      "weight_pct": "0.57",
+      "ticker": "GILD"
+    },
+    {
+      "cusip": "009158106",
+      "name": "AIR PRODS & CHEMS INC",
+      "share_type": "SH",
+      "shares": 11904537,
+      "value_usd": 2940664554,
+      "weight_pct": "0.54",
+      "ticker": null
+    },
+    {
+      "cusip": "G6683N103",
+      "name": "NU HLDGS LTD",
+      "share_type": "SH",
+      "shares": 164099198,
+      "value_usd": 2747059139,
+      "weight_pct": "0.51",
+      "ticker": "NU"
+    },
+    {
+      "cusip": "617446448",
+      "name": "MORGAN STANLEY",
+      "share_type": "SH",
+      "shares": 15432313,
+      "value_usd": 2739708458,
+      "weight_pct": "0.51",
+      "ticker": "MS"
+    },
+    {
+      "cusip": "02043Q107",
+      "name": "ALNYLAM PHARMACEUTICALS INC",
+      "share_type": "SH",
+      "shares": 6779708,
+      "value_usd": 2695945984,
+      "weight_pct": "0.50",
+      "ticker": "ALNY"
+    },
+    {
+      "cusip": "26875P101",
+      "name": "EOG RES INC",
+      "share_type": "SH",
+      "shares": 24418380,
+      "value_usd": 2564178168,
+      "weight_pct": "0.47",
+      "ticker": null
+    },
+    {
+      "cusip": "907818108",
+      "name": "UNION PAC CORP",
+      "share_type": "SH",
+      "shares": 10980904,
+      "value_usd": 2540105134,
+      "weight_pct": "0.47",
+      "ticker": "UNP"
+    },
+    {
+      "cusip": "743315103",
+      "name": "PROGRESSIVE CORP",
+      "share_type": "SH",
+      "shares": 11144028,
+      "value_usd": 2537738145,
+      "weight_pct": "0.47",
+      "ticker": "PGR"
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "share_type": "SH",
+      "shares": 9467811,
+      "value_usd": 2508137150,
+      "weight_pct": "0.46",
+      "ticker": "CRM"
+    },
+    {
+      "cusip": "146869102",
+      "name": "CARVANA CO",
+      "share_type": "SH",
+      "shares": 5700953,
+      "value_usd": 2405959407,
+      "weight_pct": "0.44",
+      "ticker": "CVNA"
+    },
+    {
+      "cusip": "65339F101",
+      "name": "NEXTERA ENERGY INC",
+      "share_type": "SH",
+      "shares": 29551715,
+      "value_usd": 2372413295,
+      "weight_pct": "0.44",
+      "ticker": "NEE"
+    },
+    {
+      "cusip": "165167735",
+      "name": "EXPAND ENERGY CORPORATION",
+      "share_type": "SH",
+      "shares": 21251283,
+      "value_usd": 2345303174,
+      "weight_pct": "0.43",
+      "ticker": "EXE"
+    },
+    {
+      "cusip": "026874784",
+      "name": "AMERICAN INTL GROUP INC",
+      "share_type": "SH",
+      "shares": 26208447,
+      "value_usd": 2242136027,
+      "weight_pct": "0.41",
+      "ticker": "AIG"
+    },
+    {
+      "cusip": "032095101",
+      "name": "AMPHENOL CORP NEW",
+      "share_type": "SH",
+      "shares": 16456876,
+      "value_usd": 2223993946,
+      "weight_pct": "0.41",
+      "ticker": "APH"
+    }
+  ],
+  "investor": "Capital Research Global Investors",
+  "period": "2025-12-31",
+  "total_holdings": 434,
+  "total_value_usd": 541732783094
+}

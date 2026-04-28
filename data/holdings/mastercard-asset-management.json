@@ -1,0 +1,39 @@
+{
+  "accession_number": "0002006397-26-000006",
+  "cik": "0002006397",
+  "filing_date": "2026-04-16",
+  "firm": "Mastercard Foundation Asset Management Corp",
+  "holdings": [
+    {
+      "cusip": "57636Q104",
+      "name": "Mastercard Incorporated",
+      "share_type": "SH",
+      "shares": 65234702,
+      "value_usd": 32595171201,
+      "weight_pct": "96.84",
+      "ticker": "MA"
+    },
+    {
+      "cusip": "921937835",
+      "name": "The Vanguard Group, Inc.",
+      "share_type": "SH",
+      "shares": 8862905,
+      "value_usd": 652664324,
+      "weight_pct": "1.94",
+      "ticker": null
+    },
+    {
+      "cusip": "464287226",
+      "name": "iShares by Blackrock",
+      "share_type": "SH",
+      "shares": 4125631,
+      "value_usd": 409551389,
+      "weight_pct": "1.22",
+      "ticker": null
+    }
+  ],
+  "investor": "Mastercard Foundation Asset Management Corp",
+  "period": "2026-03-31",
+  "total_holdings": 3,
+  "total_value_usd": 33657386914
+}

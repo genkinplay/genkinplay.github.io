@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001062993-26-000911",
+  "cik": "0001697233",
+  "filing_date": "2026-02-13",
+  "firm": "GQG Partners LLC",
+  "holdings": [
+    {
+      "cusip": "718172109",
+      "name": "PHILIP MORRIS INTL INC",
+      "share_type": "SH",
+      "shares": 55096316,
+      "value_usd": 8837452408,
+      "weight_pct": "14.56",
+      "ticker": "PM"
+    },
+    {
+      "cusip": "H1467J104",
+      "name": "CHUBB LIMITED",
+      "share_type": "SH",
+      "shares": 12481176,
+      "value_usd": 3895626581,
+      "weight_pct": "6.42",
+      "ticker": "CB"
+    },
+    {
+      "cusip": "29250N105",
+      "name": "ENBRIDGE INC",
+      "share_type": "SH",
+      "shares": 80353458,
+      "value_usd": 3849695956,
+      "weight_pct": "6.34",
+      "ticker": "ENB"
+    },
+    {
+      "cusip": "743315103",
+      "name": "PROGRESSIVE CORP",
+      "share_type": "SH",
+      "shares": 10432549,
+      "value_usd": 2375705500,
+      "weight_pct": "3.91",
+      "ticker": "PGR"
+    },
+    {
+      "cusip": "45104G104",
+      "name": "ICICI BANK LIMITED",
+      "share_type": "SH",
+      "shares": 74633839,
+      "value_usd": 2224088497,
+      "weight_pct": "3.66",
+      "ticker": "IBN"
+    },
+    {
+      "cusip": "125523100",
+      "name": "THE CIGNA GROUP",
+      "share_type": "SH",
+      "shares": 7763295,
+      "value_usd": 2136698563,
+      "weight_pct": "3.52",
+      "ticker": "CI"
+    },
+    {
+      "cusip": "00206R102",
+      "name": "AT&T INC",
+      "share_type": "SH",
+      "shares": 86007645,
+      "value_usd": 2136430158,
+      "weight_pct": "3.52",
+      "ticker": "T"
+    },
+    {
+      "cusip": "025537101",
+      "name": "AMERICAN ELEC PWR CO INC",
+      "share_type": "SH",
+      "shares": 16902872,
+      "value_usd": 1949072693,
+      "weight_pct": "3.21",
+      "ticker": null
+    },
+    {
+      "cusip": "40415F101",
+      "name": "HDFC BANK LTD",
+      "share_type": "SH",
+      "shares": 52962709,
+      "value_usd": 1935257591,
+      "weight_pct": "3.19",
+      "ticker": "HDB"
+    },
+    {
+      "cusip": "191216100",
+      "name": "COCA COLA CO",
+      "share_type": "SH",
+      "shares": 26250313,
+      "value_usd": 1835160912,
+      "weight_pct": "3.02",
+      "ticker": "KO"
+    },
+    {
+      "cusip": "92343V104",
+      "name": "VERIZON COMMUNICATIONS INC",
+      "share_type": "SH",
+      "shares": 43866695,
+      "value_usd": 1786691129,
+      "weight_pct": "2.94",
+      "ticker": "VZ"
+    },
+    {
+      "cusip": "71654V408",
+      "name": "PETROLEO BRASILEIRO SA PETRO",
+      "share_type": "SH",
+      "shares": 136003212,
+      "value_usd": 1611638097,
+      "weight_pct": "2.65",
+      "ticker": null
+    },
+    {
+      "cusip": "478160104",
+      "name": "JOHNSON & JOHNSON",
+      "share_type": "SH",
+      "shares": 7752266,
+      "value_usd": 1604336241,
+      "weight_pct": "2.64",
+      "ticker": "JNJ"
+    },
+    {
+      "cusip": "110448107",
+      "name": "BRITISH AMERN TOB PLC",
+      "share_type": "SH",
+      "shares": 28062747,
+      "value_usd": 1588913012,
+      "weight_pct": "2.62",
+      "ticker": null
+    },
+    {
+      "cusip": "02209S103",
+      "name": "ALTRIA GROUP INC",
+      "share_type": "SH",
+      "shares": 25058437,
+      "value_usd": 1444870608,
+      "weight_pct": "2.38",
+      "ticker": "MO"
+    },
+    {
+      "cusip": "026874784",
+      "name": "AMERICAN INTL GROUP INC",
+      "share_type": "SH",
+      "shares": 15492942,
+      "value_usd": 1325423082,
+      "weight_pct": "2.18",
+      "ticker": "AIG"
+    },
+    {
+      "cusip": "12572Q105",
+      "name": "CME GROUP INC",
+      "share_type": "SH",
+      "shares": 4208459,
+      "value_usd": 1149252920,
+      "weight_pct": "1.89",
+      "ticker": "CME"
+    },
+    {
+      "cusip": "020002101",
+      "name": "ALLSTATE CORP",
+      "share_type": "SH",
+      "shares": 5488560,
+      "value_usd": 1142449132,
+      "weight_pct": "1.88",
+      "ticker": "ALL"
+    },
+    {
+      "cusip": "26441C204",
+      "name": "DUKE ENERGY CORP NEW",
+      "share_type": "SH",
+      "shares": 9543071,
+      "value_usd": 1118546141,
+      "weight_pct": "1.84",
+      "ticker": "DUK"
+    },
+    {
+      "cusip": "30161N101",
+      "name": "EXELON CORP",
+      "share_type": "SH",
+      "shares": 24979574,
+      "value_usd": 1088860558,
+      "weight_pct": "1.79",
+      "ticker": "EXC"
+    },
+    {
+      "cusip": "30231G102",
+      "name": "EXXON MOBIL CORP",
+      "share_type": "SH",
+      "shares": 8715556,
+      "value_usd": 1048832509,
+      "weight_pct": "1.73",
+      "ticker": "XOM"
+    },
+    {
+      "cusip": "084670702",
+      "name": "BERKSHIRE HATHAWAY INC DEL",
+      "share_type": "SH",
+      "shares": 1997793,
+      "value_usd": 1004203238,
+      "weight_pct": "1.65",
+      "ticker": null
+    },
+    {
+      "cusip": "98389B100",
+      "name": "XCEL ENERGY INC",
+      "share_type": "SH",
+      "shares": 12334556,
+      "value_usd": 911032054,
+      "weight_pct": "1.50",
+      "ticker": "XEL"
+    },
+    {
+      "cusip": "87807B107",
+      "name": "TC ENERGY CORP",
+      "share_type": "SH",
+      "shares": 16154469,
+      "value_usd": 890710840,
+      "weight_pct": "1.47",
+      "ticker": "TRP"
+    },
+    {
+      "cusip": "91912E105",
+      "name": "VALE S A",
+      "share_type": "SH",
+      "shares": 65132572,
+      "value_usd": 848677413,
+      "weight_pct": "1.40",
+      "ticker": "VALE"
+    },
+    {
+      "cusip": "030420103",
+      "name": "AMERICAN WTR WKS CO INC NEW",
+      "share_type": "SH",
+      "shares": 6493161,
+      "value_usd": 847360695,
+      "weight_pct": "1.40",
+      "ticker": null
+    },
+    {
+      "cusip": "501044101",
+      "name": "KROGER CO",
+      "share_type": "SH",
+      "shares": 13398072,
+      "value_usd": 837112892,
+      "weight_pct": "1.38",
+      "ticker": "KR"
+    },
+    {
+      "cusip": "65339F101",
+      "name": "NEXTERA ENERGY INC",
+      "share_type": "SH",
+      "shares": 9864284,
+      "value_usd": 791906557,
+      "weight_pct": "1.30",
+      "ticker": "NEE"
+    },
+    {
+      "cusip": "465562106",
+      "name": "ITAU UNIBANCO HLDG S A",
+      "share_type": "SH",
+      "shares": 96959405,
+      "value_usd": 694229354,
+      "weight_pct": "1.14",
+      "ticker": null
+    },
+    {
+      "cusip": "192446102",
+      "name": "COGNIZANT TECHNOLOGY SOLUTIO",
+      "share_type": "SH",
+      "shares": 8116278,
+      "value_usd": 673651074,
+      "weight_pct": "1.11",
+      "ticker": null
+    },
+    {
+      "cusip": "904767803",
+      "name": "UNILEVER PLC",
+      "share_type": "SH",
+      "shares": 9018850,
+      "value_usd": 589832790,
+      "weight_pct": "0.97",
+      "ticker": "UL"
+    },
+    {
+      "cusip": "194162103",
+      "name": "COLGATE PALMOLIVE CO",
+      "share_type": "SH",
+      "shares": 7396227,
+      "value_usd": 584450355,
+      "weight_pct": "0.96",
+      "ticker": "CL"
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "share_type": "SH",
+      "shares": 1832009,
+      "value_usd": 556730873,
+      "weight_pct": "0.92",
+      "ticker": null
+    },
+    {
+      "cusip": "456788108",
+      "name": "INFOSYS LTD",
+      "share_type": "SH",
+      "shares": 29130383,
+      "value_usd": 519103425,
+      "weight_pct": "0.85",
+      "ticker": "INFY"
+    },
+    {
+      "cusip": "29082A107",
+      "name": "EMBRAER S.A.",
+      "share_type": "SH",
+      "shares": 8004535,
+      "value_usd": 515251918,
+      "weight_pct": "0.85",
+      "ticker": "EMBJ"
+    },
+    {
+      "cusip": "742718109",
+      "name": "PROCTER AND GAMBLE CO",
+      "share_type": "SH",
+      "shares": 3226929,
+      "value_usd": 462451174,
+      "weight_pct": "0.76",
+      "ticker": null
+    },
+    {
+      "cusip": "66987V109",
+      "name": "NOVARTIS AG",
+      "share_type": "SH",
+      "shares": 3158122,
+      "value_usd": 435413703,
+      "weight_pct": "0.72",
+      "ticker": "NVS"
+    },
+    {
+      "cusip": "02319V103",
+      "name": "AMBEV SA",
+      "share_type": "SH",
+      "shares": 172969655,
+      "value_usd": 427235048,
+      "weight_pct": "0.70",
+      "ticker": null
+    },
+    {
+      "cusip": "351858105",
+      "name": "FRANCO NEV CORP",
+      "share_type": "SH",
+      "shares": 1746117,
+      "value_usd": 362420183,
+      "weight_pct": "0.60",
+      "ticker": null
+    },
+    {
+      "cusip": "125896100",
+      "name": "CMS ENERGY CORP",
+      "share_type": "SH",
+      "shares": 4519921,
+      "value_usd": 316078493,
+      "weight_pct": "0.52",
+      "ticker": "CMS"
+    },
+    {
+      "cusip": "172062101",
+      "name": "CINCINNATI FINL CORP",
+      "share_type": "SH",
+      "shares": 1692540,
+      "value_usd": 276428859,
+      "weight_pct": "0.46",
+      "ticker": "CINF"
+    },
+    {
+      "cusip": "G2519Y108",
+      "name": "CREDICORP LTD",
+      "share_type": "SH",
+      "shares": 949184,
+      "value_usd": 272415808,
+      "weight_pct": "0.45",
+      "ticker": "BAP"
+    },
+    {
+      "cusip": "G1151C101",
+      "name": "ACCENTURE PLC IRELAND",
+      "share_type": "SH",
+      "shares": 835404,
+      "value_usd": 224143732,
+      "weight_pct": "0.37",
+      "ticker": null
+    },
+    {
+      "cusip": "15189T107",
+      "name": "CENTERPOINT ENERGY INC",
+      "share_type": "SH",
+      "shares": 5681646,
+      "value_usd": 217834966,
+      "weight_pct": "0.36",
+      "ticker": "CNP"
+    },
+    {
+      "cusip": "166764100",
+      "name": "CHEVRON CORP NEW",
+      "share_type": "SH",
+      "shares": 1404342,
+      "value_usd": 214038587,
+      "weight_pct": "0.35",
+      "ticker": "CVX"
+    },
+    {
+      "cusip": "399909100",
+      "name": "GRUPO FINANCIERO GALICIA S.A",
+      "share_type": "SH",
+      "shares": 3075544,
+      "value_usd": 165894843,
+      "weight_pct": "0.27",
+      "ticker": null
+    },
+    {
+      "cusip": "G0450A105",
+      "name": "ARCH CAP GROUP LTD",
+      "share_type": "SH",
+      "shares": 1693629,
+      "value_usd": 162452894,
+      "weight_pct": "0.27",
+      "ticker": null
+    },
+    {
+      "cusip": "69351T106",
+      "name": "PPL CORP",
+      "share_type": "SH",
+      "shares": 4638660,
+      "value_usd": 162446488,
+      "weight_pct": "0.27",
+      "ticker": "PPL"
+    },
+    {
+      "cusip": "680223104",
+      "name": "OLD REP INTL CORP",
+      "share_type": "SH",
+      "shares": 3417166,
+      "value_usd": 155960271,
+      "weight_pct": "0.26",
+      "ticker": null
+    },
+    {
+      "cusip": "03524A108",
+      "name": "ANHEUSER BUSCH INBEV SA/NV",
+      "share_type": "SH",
+      "shares": 2338805,
+      "value_usd": 149778322,
+      "weight_pct": "0.25",
+      "ticker": "BUD"
+    }
+  ],
+  "investor": "GQG Partners LLC",
+  "period": "2025-12-31",
+  "total_holdings": 87,
+  "total_value_usd": 60716698512
+}

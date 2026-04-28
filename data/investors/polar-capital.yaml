@@ -1,0 +1,29 @@
+slug: polar-capital
+display_name:
+  en: Polar Capital Holdings Plc
+  zh-CN: 极地资本
+  zh-HK: 極地資本
+tagline:
+  en: SEC 13F filer · AUM $25.88B
+  zh-CN: SEC 13F 机构 · 管理资产 $25.88B
+  zh-HK: SEC 13F 機構 · 管理資產 $25.88B
+role:
+  en: 'Institutional investor (rank #41, CIK 0001837309)'
+  zh-CN: '机构投资者（排名 #41，CIK 0001837309）'
+  zh-HK: '機構投資者（排名 #41，CIK 0001837309）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=Polar%20Capital%20Holdings%20Plc&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001837309'
+holdings_source: 13f
+featured: false
+rank: 41
+aum_usd: 25880000000
+bio:
+  en: Polar Capital Technology Trust is a large British investment trust dedicated to investing in a portfolio of technology companies. It is managed by Polar Capital and the chair is Catherine Cripps. The company is listed on the London Stock Exchange and is a constituent of the FTSE 100 Index.
+  zh-CN: '极地资本 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $25.88B，在 SEC 13F 机构中排名 #41。'
+  zh-HK: '極地資本 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $25.88B，在 SEC 13F 機構中排名 #41。'
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  en: https://en.wikipedia.org/wiki/Polar_Capital_Technology_Trust

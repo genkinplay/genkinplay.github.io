@@ -7,13 +7,16 @@
   "type": "module",
   "scripts": {
     "dev": "vitepress dev docs",
-    "build": "bun run copy:skills && vitepress build docs",
+    "build": "bun run validate && bun run copy:skills && vitepress build docs",
     "build:full": "bun run fetch:data && bun run build",
     "preview": "vitepress preview docs",
     "fetch:data": "bun run scripts/fetch-data.ts && bun run enrich:tickers",
     "enrich:tickers": "bun run scripts/enrich-tickers.ts",
     "bootstrap:bios": "bun run scripts/bootstrap-bios.ts",
     "copy:skills": "bun run scripts/copy-skills.ts",
+    "validate": "bun run scripts/validate-data.ts",
+    "generate:top50": "bun run scripts/generate-top50.ts",
+    "wiki:bios": "bun run scripts/fetch-wiki-bios.ts",
     "test": "vitest run",
     "test:watch": "vitest",
     "typecheck": "vue-tsc --noEmit"

@@ -1,0 +1,30 @@
+slug: pfa-pension-forsikringsaktieselskab
+display_name:
+  en: PFA Pension, Forsikringsaktieselskab
+  zh-CN: PFA 养老金（丹麦）
+  zh-HK: PFA 退休基金（丹麥）
+tagline:
+  en: SEC 13F filer · AUM $35.25B
+  zh-CN: SEC 13F 机构 · 管理资产 $35.25B
+  zh-HK: SEC 13F 機構 · 管理資產 $35.25B
+role:
+  en: 'Institutional investor (rank #30, CIK 0001730073)'
+  zh-CN: '机构投资者（排名 #30，CIK 0001730073）'
+  zh-HK: '機構投資者（排名 #30，CIK 0001730073）'
+born: 0
+portrait: >-
+  https://api.dicebear.com/7.x/initials/svg?seed=PFA%20Pension%2C%20Forsikringsaktieselskab&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001730073'
+holdings_source: 13f
+featured: false
+rank: 30
+aum_usd: 35250000000
+bio:
+  en: >-
+    PFA Pension, Forsikringsaktieselskab is an institutional investor managing approximately $35.25B in disclosed U.S.
+    equity holdings as of 2025-12-31, ranking #30 among SEC 13F filers.
+  zh-CN: 'PFA 养老金（丹麦） 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $35.25B，在 SEC 13F 机构中排名 #30。'
+  zh-HK: 'PFA 退休基金（丹麥） 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $35.25B，在 SEC 13F 機構中排名 #30。'
+philosophy: []
+quotes: []
+milestones: []

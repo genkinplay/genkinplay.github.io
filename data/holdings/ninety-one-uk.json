@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001140361-26-016512",
+  "cik": "0001418329",
+  "filing_date": "2026-04-24",
+  "firm": "Ninety One UK Ltd",
+  "holdings": [
+    {
+      "cusip": "02079K305",
+      "name": "Alphabet Inc",
+      "share_type": "SH",
+      "shares": 8274555,
+      "value_usd": 2379430773,
+      "weight_pct": "5.52",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "594918104",
+      "name": "Microsoft Corp",
+      "share_type": "SH",
+      "shares": 5396305,
+      "value_usd": 1997549978,
+      "weight_pct": "4.63",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA Corp",
+      "share_type": "SH",
+      "shares": 11287143,
+      "value_usd": 1968477642,
+      "weight_pct": "4.56",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "92826C839",
+      "name": "Visa Inc",
+      "share_type": "SH",
+      "shares": 6112245,
+      "value_usd": 1847364570,
+      "weight_pct": "4.28",
+      "ticker": "V"
+    },
+    {
+      "cusip": "478160104",
+      "name": "Johnson & Johnson",
+      "share_type": "SH",
+      "shares": 6642299,
+      "value_usd": 1623643389,
+      "weight_pct": "3.76",
+      "ticker": "JNJ"
+    },
+    {
+      "cusip": "037833100",
+      "name": "Apple Inc",
+      "share_type": "SH",
+      "shares": 5062702,
+      "value_usd": 1284863093,
+      "weight_pct": "2.98",
+      "ticker": "AAPL"
+    },
+    {
+      "cusip": "718172109",
+      "name": "Philip Morris International Inc",
+      "share_type": "SH",
+      "shares": 7161703,
+      "value_usd": 1184115751,
+      "weight_pct": "2.75",
+      "ticker": "PM"
+    },
+    {
+      "cusip": "09857L108",
+      "name": "Booking Holdings Inc",
+      "share_type": "SH",
+      "shares": 253374,
+      "value_usd": 1066785417,
+      "weight_pct": "2.47",
+      "ticker": "BKNG"
+    },
+    {
+      "cusip": "28176E108",
+      "name": "Edwards Lifesciences Corp",
+      "share_type": "SH",
+      "shares": 12396143,
+      "value_usd": 992683018,
+      "weight_pct": "2.30",
+      "ticker": "EW"
+    },
+    {
+      "cusip": "052769106",
+      "name": "Autodesk Inc",
+      "share_type": "SH",
+      "shares": 4025659,
+      "value_usd": 963742616,
+      "weight_pct": "2.23",
+      "ticker": "ADSK"
+    },
+    {
+      "cusip": "023135106",
+      "name": "Amazon.com Inc",
+      "share_type": "SH",
+      "shares": 4454291,
+      "value_usd": 927695126,
+      "weight_pct": "2.15",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "11135F101",
+      "name": "Broadcom Inc",
+      "share_type": "SH",
+      "shares": 2868225,
+      "value_usd": 887744273,
+      "weight_pct": "2.06",
+      "ticker": "AVGO"
+    },
+    {
+      "cusip": "285512109",
+      "name": "Electronic Arts Inc",
+      "share_type": "SH",
+      "shares": 4175633,
+      "value_usd": 851286169,
+      "weight_pct": "1.97",
+      "ticker": "EA"
+    },
+    {
+      "cusip": "461202103",
+      "name": "Intuit Inc",
+      "share_type": "SH",
+      "shares": 1880712,
+      "value_usd": 813182116,
+      "weight_pct": "1.89",
+      "ticker": "INTU"
+    },
+    {
+      "cusip": "87256C101",
+      "name": "TKO Group Holdings Inc",
+      "share_type": "SH",
+      "shares": 3619298,
+      "value_usd": 729831412,
+      "weight_pct": "1.69",
+      "ticker": "TKO"
+    },
+    {
+      "cusip": "64110W102",
+      "name": "NetEase Inc",
+      "share_type": "SH",
+      "shares": 6286216,
+      "value_usd": 703678871,
+      "weight_pct": "1.63",
+      "ticker": "NTES"
+    },
+    {
+      "cusip": "571748102",
+      "name": "Marsh & McLennan Cos Inc",
+      "share_type": "SH",
+      "shares": 4029142,
+      "value_usd": 698854561,
+      "weight_pct": "1.62",
+      "ticker": null
+    },
+    {
+      "cusip": "30231G102",
+      "name": "Exxon Mobil Corp",
+      "share_type": "SH",
+      "shares": 4115520,
+      "value_usd": 698239096,
+      "weight_pct": "1.62",
+      "ticker": "XOM"
+    },
+    {
+      "cusip": "46625H100",
+      "name": "JPMorgan Chase & Co",
+      "share_type": "SH",
+      "shares": 2305629,
+      "value_usd": 678223800,
+      "weight_pct": "1.57",
+      "ticker": "JPM"
+    },
+    {
+      "cusip": "620076307",
+      "name": "Motorola Solutions Inc",
+      "share_type": "SH",
+      "shares": 1345798,
+      "value_usd": 584035867,
+      "weight_pct": "1.35",
+      "ticker": "MSI"
+    },
+    {
+      "cusip": "61174X109",
+      "name": "Monster Beverage Corp",
+      "share_type": "SH",
+      "shares": 7455306,
+      "value_usd": 540211397,
+      "weight_pct": "1.25",
+      "ticker": "MNST"
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "Mastercard Inc",
+      "share_type": "SH",
+      "shares": 1067740,
+      "value_usd": 533506944,
+      "weight_pct": "1.24",
+      "ticker": "MA"
+    },
+    {
+      "cusip": "874039100",
+      "name": "Taiwan Semiconductor Manufacturing Co Ltd",
+      "share_type": "SH",
+      "shares": 1577168,
+      "value_usd": 533003879,
+      "weight_pct": "1.24",
+      "ticker": "TSM"
+    },
+    {
+      "cusip": "92343E102",
+      "name": "VeriSign Inc",
+      "share_type": "SH",
+      "shares": 2077233,
+      "value_usd": 515901505,
+      "weight_pct": "1.20",
+      "ticker": "VRSN"
+    },
+    {
+      "cusip": "06849F108",
+      "name": "Barrick Mining Corp",
+      "share_type": "SH",
+      "shares": 11922181,
+      "value_usd": 486305706,
+      "weight_pct": "1.13",
+      "ticker": "B"
+    },
+    {
+      "cusip": "532457108",
+      "name": "Eli Lilly & Co",
+      "share_type": "SH",
+      "shares": 524221,
+      "value_usd": 482162731,
+      "weight_pct": "1.12",
+      "ticker": "LLY"
+    },
+    {
+      "cusip": "053015103",
+      "name": "Automatic Data Processing Inc",
+      "share_type": "SH",
+      "shares": 2363827,
+      "value_usd": 480282271,
+      "weight_pct": "1.11",
+      "ticker": "ADP"
+    },
+    {
+      "cusip": "101137107",
+      "name": "Boston Scientific Corp",
+      "share_type": "SH",
+      "shares": 7308540,
+      "value_usd": 458610867,
+      "weight_pct": "1.06",
+      "ticker": "BSX"
+    },
+    {
+      "cusip": "166764100",
+      "name": "Chevron Corp",
+      "share_type": "SH",
+      "shares": 2014575,
+      "value_usd": 416815564,
+      "weight_pct": "0.97",
+      "ticker": "CVX"
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P Global Inc",
+      "share_type": "SH",
+      "shares": 979893,
+      "value_usd": 416787614,
+      "weight_pct": "0.97",
+      "ticker": "SPGI"
+    },
+    {
+      "cusip": "46982L108",
+      "name": "Jacobs Solutions Inc",
+      "share_type": "SH",
+      "shares": 3255342,
+      "value_usd": 414339914,
+      "weight_pct": "0.96",
+      "ticker": "J"
+    },
+    {
+      "cusip": "174610105",
+      "name": "Citizens Financial Group Inc",
+      "share_type": "SH",
+      "shares": 6768224,
+      "value_usd": 405890381,
+      "weight_pct": "0.94",
+      "ticker": "CFG"
+    },
+    {
+      "cusip": "G0593M107",
+      "name": "AstraZeneca PLC",
+      "share_type": "SH",
+      "shares": 2047019,
+      "value_usd": 396542427,
+      "weight_pct": "0.92",
+      "ticker": "AZN"
+    },
+    {
+      "cusip": "N00985106",
+      "name": "AerCap Holdings NV",
+      "share_type": "SH",
+      "shares": 2810328,
+      "value_usd": 385520782,
+      "weight_pct": "0.89",
+      "ticker": null
+    },
+    {
+      "cusip": "016255101",
+      "name": "Align Technology Inc",
+      "share_type": "SH",
+      "shares": 2228214,
+      "value_usd": 381982664,
+      "weight_pct": "0.89",
+      "ticker": "ALGN"
+    },
+    {
+      "cusip": "N3167Y103",
+      "name": "Ferrari NV",
+      "share_type": "SH",
+      "shares": 1104106,
+      "value_usd": 367651611,
+      "weight_pct": "0.85",
+      "ticker": null
+    },
+    {
+      "cusip": "615369105",
+      "name": "Moody's Corp",
+      "share_type": "SH",
+      "shares": 840302,
+      "value_usd": 366581693,
+      "weight_pct": "0.85",
+      "ticker": null
+    },
+    {
+      "cusip": "M22465104",
+      "name": "Check Point Software Technologies Ltd",
+      "share_type": "SH",
+      "shares": 2562679,
+      "value_usd": 366078639,
+      "weight_pct": "0.85",
+      "ticker": "CHKP"
+    },
+    {
+      "cusip": "87162W100",
+      "name": "TD SYNNEX Corp",
+      "share_type": "SH",
+      "shares": 2094298,
+      "value_usd": 353329006,
+      "weight_pct": "0.82",
+      "ticker": "SNX"
+    },
+    {
+      "cusip": "G25508105",
+      "name": "CRH PLC",
+      "share_type": "SH",
+      "shares": 3320503,
+      "value_usd": 349051264,
+      "weight_pct": "0.81",
+      "ticker": null
+    },
+    {
+      "cusip": "G8994E103",
+      "name": "Trane Technologies PLC",
+      "share_type": "SH",
+      "shares": 821041,
+      "value_usd": 342160606,
+      "weight_pct": "0.79",
+      "ticker": "TT"
+    },
+    {
+      "cusip": "37045V100",
+      "name": "General Motors Co",
+      "share_type": "SH",
+      "shares": 4529367,
+      "value_usd": 337437827,
+      "weight_pct": "0.78",
+      "ticker": "GM"
+    },
+    {
+      "cusip": "H42097107",
+      "name": "UBS Group AG",
+      "share_type": "SH",
+      "shares": 8687978,
+      "value_usd": 332252569,
+      "weight_pct": "0.77",
+      "ticker": "UBS"
+    },
+    {
+      "cusip": "002824100",
+      "name": "Abbott Laboratories",
+      "share_type": "SH",
+      "shares": 3109726,
+      "value_usd": 319275555,
+      "weight_pct": "0.74",
+      "ticker": "ABT"
+    },
+    {
+      "cusip": "883556102",
+      "name": "Thermo Fisher Scientific Inc",
+      "share_type": "SH",
+      "shares": 637262,
+      "value_usd": 313233367,
+      "weight_pct": "0.73",
+      "ticker": "TMO"
+    },
+    {
+      "cusip": "30303M102",
+      "name": "Meta Platforms Inc",
+      "share_type": "SH",
+      "shares": 528841,
+      "value_usd": 302565789,
+      "weight_pct": "0.70",
+      "ticker": "META"
+    },
+    {
+      "cusip": "38141G104",
+      "name": "Goldman Sachs Group Inc/The",
+      "share_type": "SH",
+      "shares": 352776,
+      "value_usd": 298444959,
+      "weight_pct": "0.69",
+      "ticker": "GS"
+    },
+    {
+      "cusip": "65339F101",
+      "name": "NextEra Energy Inc",
+      "share_type": "SH",
+      "shares": 3033694,
+      "value_usd": 281769446,
+      "weight_pct": "0.65",
+      "ticker": "NEE"
+    },
+    {
+      "cusip": "35671D857",
+      "name": "Freeport-McMoRan Inc",
+      "share_type": "SH",
+      "shares": 4584244,
+      "value_usd": 269461852,
+      "weight_pct": "0.62",
+      "ticker": "FCX"
+    },
+    {
+      "cusip": "303075105",
+      "name": "FactSet Research Systems Inc",
+      "share_type": "SH",
+      "shares": 1194996,
+      "value_usd": 259302143,
+      "weight_pct": "0.60",
+      "ticker": "FDS"
+    }
+  ],
+  "investor": "Ninety One UK Ltd",
+  "period": "2026-03-31",
+  "total_holdings": 237,
+  "total_value_usd": 43125073401
+}

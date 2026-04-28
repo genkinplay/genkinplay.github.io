@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001445893-26-000002",
+  "cik": "0001445893",
+  "filing_date": "2026-02-18",
+  "firm": "CTC LLC",
+  "holdings": [
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF TR",
+      "share_type": "SH",
+      "shares": 1069987,
+      "value_usd": 64788340205,
+      "weight_pct": "31.62",
+      "ticker": null
+    },
+    {
+      "cusip": "46090E103",
+      "name": "INVESCO QQQ TR",
+      "share_type": "SH",
+      "shares": 532569,
+      "value_usd": 32716246239,
+      "weight_pct": "15.97",
+      "ticker": null
+    },
+    {
+      "cusip": "78463V107",
+      "name": "SPDR GOLD TR",
+      "share_type": "SH",
+      "shares": 872208,
+      "value_usd": 21148054329,
+      "weight_pct": "10.32",
+      "ticker": null
+    },
+    {
+      "cusip": "88160R101",
+      "name": "TESLA INC",
+      "share_type": "SH",
+      "shares": 295227,
+      "value_usd": 13276948644,
+      "weight_pct": "6.48",
+      "ticker": "TSLA"
+    },
+    {
+      "cusip": "464288513",
+      "name": "ISHARES TR",
+      "share_type": "SH",
+      "shares": 480658,
+      "value_usd": 10897129418,
+      "weight_pct": "5.32",
+      "ticker": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 1352967,
+      "value_usd": 10307827398,
+      "weight_pct": "5.03",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "46428Q109",
+      "name": "ISHARES SILVER TR",
+      "share_type": "SH",
+      "shares": 3122565,
+      "value_usd": 7689053182,
+      "weight_pct": "3.75",
+      "ticker": null
+    },
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 411043,
+      "value_usd": 7591411066,
+      "weight_pct": "3.71",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "share_type": "SH",
+      "shares": 75018,
+      "value_usd": 4951863162,
+      "weight_pct": "2.42",
+      "ticker": "META"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 90179,
+      "value_usd": 4361236798,
+      "weight_pct": "2.13",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "share_type": "SH",
+      "shares": 158647,
+      "value_usd": 4312977342,
+      "weight_pct": "2.11",
+      "ticker": "AAPL"
+    },
+    {
+      "cusip": "594972408",
+      "name": "STRATEGY INC",
+      "share_type": "SH",
+      "shares": 451193,
+      "value_usd": 3368447353,
+      "weight_pct": "1.64",
+      "ticker": "MSTR"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 134629,
+      "value_usd": 3107506578,
+      "weight_pct": "1.52",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "007903107",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "share_type": "SH",
+      "shares": 131844,
+      "value_usd": 2823571104,
+      "weight_pct": "1.38",
+      "ticker": "AMD"
+    },
+    {
+      "cusip": "69608A108",
+      "name": "PALANTIR TECHNOLOGIES INC",
+      "share_type": "SH",
+      "shares": 450106,
+      "value_usd": 2340584271,
+      "weight_pct": "1.14",
+      "ticker": "PLTR"
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM INC",
+      "share_type": "SH",
+      "shares": 142155,
+      "value_usd": 2132616285,
+      "weight_pct": "1.04",
+      "ticker": "AVGO"
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC",
+      "share_type": "SH",
+      "shares": 364198,
+      "value_usd": 1486427910,
+      "weight_pct": "0.73",
+      "ticker": "NFLX"
+    },
+    {
+      "cusip": "19260Q107",
+      "name": "COINBASE GLOBAL INC",
+      "share_type": "SH",
+      "shares": 258849,
+      "value_usd": 1314047301,
+      "weight_pct": "0.64",
+      "ticker": "COIN"
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "share_type": "SH",
+      "shares": 146620,
+      "value_usd": 1306325865,
+      "weight_pct": "0.64",
+      "ticker": null
+    },
+    {
+      "cusip": "595112103",
+      "name": "MICRON TECHNOLOGY INC",
+      "share_type": "SH",
+      "shares": 388151,
+      "value_usd": 1182431938,
+      "weight_pct": "0.58",
+      "ticker": "MU"
+    },
+    {
+      "cusip": "01609W102",
+      "name": "ALIBABA GROUP HLDG LTD",
+      "share_type": "SH",
+      "shares": 118527,
+      "value_usd": 868831256,
+      "weight_pct": "0.42",
+      "ticker": null
+    },
+    {
+      "cusip": "09857L108",
+      "name": "BOOKING HOLDINGS INC",
+      "share_type": "SH",
+      "shares": 11405,
+      "value_usd": 854223332,
+      "weight_pct": "0.42",
+      "ticker": "BKNG"
+    },
+    {
+      "cusip": "68389X105",
+      "name": "ORACLE CORP",
+      "share_type": "SH",
+      "shares": 247754,
+      "value_usd": 754603810,
+      "weight_pct": "0.37",
+      "ticker": "ORCL"
+    },
+    {
+      "cusip": "58733R102",
+      "name": "MERCADOLIBRE INC",
+      "share_type": "SH",
+      "shares": 9240,
+      "value_usd": 234973500,
+      "weight_pct": "0.11",
+      "ticker": "MELI"
+    },
+    {
+      "cusip": "38141G104",
+      "name": "GOLDMAN SACHS GROUP INC",
+      "share_type": "SH",
+      "shares": 1419,
+      "value_usd": 124730100,
+      "weight_pct": "0.06",
+      "ticker": "GS"
+    },
+    {
+      "cusip": "097023105",
+      "name": "BOEING CO",
+      "share_type": "SH",
+      "shares": 87108,
+      "value_usd": 121507951,
+      "weight_pct": "0.06",
+      "ticker": "BA"
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "share_type": "SH",
+      "shares": 3808,
+      "value_usd": 100877728,
+      "weight_pct": "0.05",
+      "ticker": "CRM"
+    },
+    {
+      "cusip": "46625H100",
+      "name": "JPMORGAN CHASE & CO.",
+      "share_type": "SH",
+      "shares": 63715,
+      "value_usd": 93772142,
+      "weight_pct": "0.05",
+      "ticker": "JPM"
+    },
+    {
+      "cusip": "70450Y103",
+      "name": "PAYPAL HLDGS INC",
+      "share_type": "SH",
+      "shares": 547701,
+      "value_usd": 86320551,
+      "weight_pct": "0.04",
+      "ticker": "PYPL"
+    },
+    {
+      "cusip": "833445109",
+      "name": "SNOWFLAKE INC",
+      "share_type": "SH",
+      "shares": 5894,
+      "value_usd": 72545203,
+      "weight_pct": "0.04",
+      "ticker": "SNOW"
+    },
+    {
+      "cusip": "146869102",
+      "name": "CARVANA CO",
+      "share_type": "SH",
+      "shares": 1624,
+      "value_usd": 68536048,
+      "weight_pct": "0.03",
+      "ticker": "CVNA"
+    },
+    {
+      "cusip": "172967424",
+      "name": "CITIGROUP INC",
+      "share_type": "SH",
+      "shares": 34599,
+      "value_usd": 62122371,
+      "weight_pct": "0.03",
+      "ticker": "C"
+    },
+    {
+      "cusip": "617446448",
+      "name": "MORGAN STANLEY",
+      "share_type": "SH",
+      "shares": 2447,
+      "value_usd": 43441591,
+      "weight_pct": "0.02",
+      "ticker": "MS"
+    },
+    {
+      "cusip": "254687106",
+      "name": "DISNEY WALT CO",
+      "share_type": "SH",
+      "shares": 37724,
+      "value_usd": 35186899,
+      "weight_pct": "0.02",
+      "ticker": null
+    },
+    {
+      "cusip": "81369Y506",
+      "name": "SELECT SECTOR SPDR TR",
+      "share_type": "SH",
+      "shares": 49351,
+      "value_usd": 32345029,
+      "weight_pct": "0.02",
+      "ticker": null
+    },
+    {
+      "cusip": "00724F101",
+      "name": "ADOBE INC",
+      "share_type": "SH",
+      "shares": 4035,
+      "value_usd": 27537563,
+      "weight_pct": "0.01",
+      "ticker": "ADBE"
+    },
+    {
+      "cusip": "169656105",
+      "name": "CHIPOTLE MEXICAN GRILL INC",
+      "share_type": "SH",
+      "shares": 6828,
+      "value_usd": 25263600,
+      "weight_pct": "0.01",
+      "ticker": "CMG"
+    },
+    {
+      "cusip": "060505104",
+      "name": "BANK AMERICA CORP",
+      "share_type": "SH",
+      "shares": 69993,
+      "value_usd": 25226685,
+      "weight_pct": "0.01",
+      "ticker": "BAC"
+    },
+    {
+      "cusip": "82509L107",
+      "name": "SHOPIFY INC",
+      "share_type": "SH",
+      "shares": 4743,
+      "value_usd": 24460357,
+      "weight_pct": "0.01",
+      "ticker": "SHOP"
+    },
+    {
+      "cusip": "22788C105",
+      "name": "CROWDSTRIKE HLDGS INC",
+      "share_type": "SH",
+      "shares": 9789,
+      "value_usd": 21434519,
+      "weight_pct": "0.01",
+      "ticker": "CRWD"
+    },
+    {
+      "cusip": "22160K105",
+      "name": "COSTCO WHSL CORP NEW",
+      "share_type": "SH",
+      "shares": 5487,
+      "value_usd": 20098558,
+      "weight_pct": "0.01",
+      "ticker": null
+    },
+    {
+      "cusip": "86800U302",
+      "name": "SUPER MICRO COMPUTER INC",
+      "share_type": "SH",
+      "shares": 153363,
+      "value_usd": 16885423,
+      "weight_pct": "0.01",
+      "ticker": "SMCI"
+    },
+    {
+      "cusip": "336433107",
+      "name": "FIRST SOLAR INC",
+      "share_type": "SH",
+      "shares": 313,
+      "value_usd": 8176499,
+      "weight_pct": "0.00",
+      "ticker": "FSLR"
+    },
+    {
+      "cusip": "166764100",
+      "name": "CHEVRON CORP NEW",
+      "share_type": "SH",
+      "shares": 11112,
+      "value_usd": 7970433,
+      "weight_pct": "0.00",
+      "ticker": "CVX"
+    },
+    {
+      "cusip": "949746101",
+      "name": "WELLS FARGO CO NEW",
+      "share_type": "SH",
+      "shares": 26534,
+      "value_usd": 7741471,
+      "weight_pct": "0.00",
+      "ticker": "WFC"
+    },
+    {
+      "cusip": "30231G102",
+      "name": "EXXON MOBIL CORP",
+      "share_type": "SH",
+      "shares": 2784,
+      "value_usd": 6899453,
+      "weight_pct": "0.00",
+      "ticker": "XOM"
+    },
+    {
+      "cusip": "747525103",
+      "name": "QUALCOMM INC",
+      "share_type": "SH",
+      "shares": 341,
+      "value_usd": 5832805,
+      "weight_pct": "0.00",
+      "ticker": "QCOM"
+    },
+    {
+      "cusip": "931142103",
+      "name": "WALMART INC",
+      "share_type": "SH",
+      "shares": 13921,
+      "value_usd": 5786301,
+      "weight_pct": "0.00",
+      "ticker": "WMT"
+    },
+    {
+      "cusip": "009066101",
+      "name": "AIRBNB INC",
+      "share_type": "SH",
+      "shares": 380,
+      "value_usd": 5157360,
+      "weight_pct": "0.00",
+      "ticker": "ABNB"
+    },
+    {
+      "cusip": "437076102",
+      "name": "HOME DEPOT INC",
+      "share_type": "SH",
+      "shares": 1444,
+      "value_usd": 3937536,
+      "weight_pct": "0.00",
+      "ticker": "HD"
+    }
+  ],
+  "investor": "CTC LLC",
+  "period": "2025-12-31",
+  "total_holdings": 60,
+  "total_value_usd": 204887432602
+}

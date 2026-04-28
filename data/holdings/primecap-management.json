@@ -1,0 +1,462 @@
+{
+  "accession_number": "0000763212-26-000012",
+  "cik": "0000763212",
+  "filing_date": "2026-02-11",
+  "firm": "PRIMECAP MANAGEMENT CO/CA/",
+  "holdings": [
+    {
+      "cusip": "532457108",
+      "name": "ELI LILLY & CO",
+      "share_type": "SH",
+      "shares": 9265782,
+      "value_usd": 9957750600,
+      "weight_pct": "7.54",
+      "ticker": "LLY"
+    },
+    {
+      "cusip": "595112103",
+      "name": "MICRON TECHNOLOGY INC",
+      "share_type": "SH",
+      "shares": 24794936,
+      "value_usd": 7076722684,
+      "weight_pct": "5.36",
+      "ticker": "MU"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 15128289,
+      "value_usd": 4735154457,
+      "weight_pct": "3.58",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 7287520,
+      "value_usd": 3524390421,
+      "weight_pct": "2.67",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "482480100",
+      "name": "KLA CORP",
+      "share_type": "SH",
+      "shares": 2875962,
+      "value_usd": 3494523909,
+      "weight_pct": "2.65",
+      "ticker": "KLAC"
+    },
+    {
+      "cusip": "046353108",
+      "name": "ASTRAZENECA PLC",
+      "share_type": "SH",
+      "shares": 36915261,
+      "value_usd": 3393619943,
+      "weight_pct": "2.57",
+      "ticker": "AZN"
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 17227520,
+      "value_usd": 3212932480,
+      "weight_pct": "2.43",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "101137107",
+      "name": "BOSTON SCIENTIFIC CORP",
+      "share_type": "SH",
+      "shares": 31096184,
+      "value_usd": 2965021147,
+      "weight_pct": "2.24",
+      "ticker": "BSX"
+    },
+    {
+      "cusip": "031162100",
+      "name": "AMGEN INC",
+      "share_type": "SH",
+      "shares": 8904979,
+      "value_usd": 2914688677,
+      "weight_pct": "2.21",
+      "ticker": "AMGN"
+    },
+    {
+      "cusip": "88160R101",
+      "name": "TESLA INC",
+      "share_type": "SH",
+      "shares": 6317420,
+      "value_usd": 2841070122,
+      "weight_pct": "2.15",
+      "ticker": "TSLA"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 12256188,
+      "value_usd": 2828973315,
+      "weight_pct": "2.14",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "458140100",
+      "name": "INTEL CORP",
+      "share_type": "SH",
+      "shares": 76132268,
+      "value_usd": 2809280689,
+      "weight_pct": "2.13",
+      "ticker": "INTC"
+    },
+    {
+      "cusip": "01609W102",
+      "name": "ALIBABA GROUP HLDG LTD",
+      "share_type": "SH",
+      "shares": 18977436,
+      "value_usd": 2781712570,
+      "weight_pct": "2.11",
+      "ticker": null
+    },
+    {
+      "cusip": "09062X103",
+      "name": "BIOGEN INC",
+      "share_type": "SH",
+      "shares": 14757997,
+      "value_usd": 2597259895,
+      "weight_pct": "1.97",
+      "ticker": "BIIB"
+    },
+    {
+      "cusip": "31428X106",
+      "name": "FEDEX CORP",
+      "share_type": "SH",
+      "shares": 8512671,
+      "value_usd": 2458970146,
+      "weight_pct": "1.86",
+      "ticker": "FDX"
+    },
+    {
+      "cusip": "808513105",
+      "name": "SCHWAB CHARLES CORP",
+      "share_type": "SH",
+      "shares": 23276071,
+      "value_usd": 2325512255,
+      "weight_pct": "1.76",
+      "ticker": "SCHW"
+    },
+    {
+      "cusip": "844741108",
+      "name": "SOUTHWEST AIRLS CO",
+      "share_type": "SH",
+      "shares": 47392095,
+      "value_usd": 1958715287,
+      "weight_pct": "1.48",
+      "ticker": null
+    },
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 5762640,
+      "value_usd": 1808316431,
+      "weight_pct": "1.37",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "910047109",
+      "name": "UNITED AIRLS HLDGS INC",
+      "share_type": "SH",
+      "shares": 15978490,
+      "value_usd": 1786714749,
+      "weight_pct": "1.35",
+      "ticker": null
+    },
+    {
+      "cusip": "882508104",
+      "name": "TEXAS INSTRS INC",
+      "share_type": "SH",
+      "shares": 10084686,
+      "value_usd": 1749592174,
+      "weight_pct": "1.32",
+      "ticker": null
+    },
+    {
+      "cusip": "778296103",
+      "name": "ROSS STORES INC",
+      "share_type": "SH",
+      "shares": 9207200,
+      "value_usd": 1658585007,
+      "weight_pct": "1.26",
+      "ticker": "ROST"
+    },
+    {
+      "cusip": "Y2573F102",
+      "name": "FLEX LTD",
+      "share_type": "SH",
+      "shares": 26702091,
+      "value_usd": 1613340338,
+      "weight_pct": "1.22",
+      "ticker": "FLEX"
+    },
+    {
+      "cusip": "07725L102",
+      "name": "BEONE MEDICINES LTD",
+      "share_type": "SH",
+      "shares": 4980581,
+      "value_usd": 1513150314,
+      "weight_pct": "1.15",
+      "ticker": "ONC"
+    },
+    {
+      "cusip": "754730109",
+      "name": "RAYMOND JAMES FINL INC",
+      "share_type": "SH",
+      "shares": 9342072,
+      "value_usd": 1500243343,
+      "weight_pct": "1.14",
+      "ticker": "RJF"
+    },
+    {
+      "cusip": "872540109",
+      "name": "TJX COS INC NEW",
+      "share_type": "SH",
+      "shares": 9739320,
+      "value_usd": 1496056946,
+      "weight_pct": "1.13",
+      "ticker": null
+    },
+    {
+      "cusip": "835699307",
+      "name": "SONY GROUP CORP",
+      "share_type": "SH",
+      "shares": 58301430,
+      "value_usd": 1492516608,
+      "weight_pct": "1.13",
+      "ticker": "SONY"
+    },
+    {
+      "cusip": "056752108",
+      "name": "BAIDU INC",
+      "share_type": "SH",
+      "shares": 11103600,
+      "value_usd": 1450796375,
+      "weight_pct": "1.10",
+      "ticker": "BIDU"
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "share_type": "SH",
+      "shares": 4008951,
+      "value_usd": 1405979204,
+      "weight_pct": "1.06",
+      "ticker": "V"
+    },
+    {
+      "cusip": "110122108",
+      "name": "BRISTOL-MYERS SQUIBB CO",
+      "share_type": "SH",
+      "shares": 24875550,
+      "value_usd": 1341787169,
+      "weight_pct": "1.02",
+      "ticker": "BMY"
+    },
+    {
+      "cusip": "00724F101",
+      "name": "ADOBE INC",
+      "share_type": "SH",
+      "shares": 3676206,
+      "value_usd": 1286635338,
+      "weight_pct": "0.97",
+      "ticker": "ADBE"
+    },
+    {
+      "cusip": "37733W204",
+      "name": "GSK PLC",
+      "share_type": "SH",
+      "shares": 25130160,
+      "value_usd": 1232383047,
+      "weight_pct": "0.93",
+      "ticker": "GSK"
+    },
+    {
+      "cusip": "247361702",
+      "name": "DELTA AIR LINES INC DEL",
+      "share_type": "SH",
+      "shares": 17594127,
+      "value_usd": 1221032414,
+      "weight_pct": "0.92",
+      "ticker": null
+    },
+    {
+      "cusip": "883556102",
+      "name": "THERMO FISHER SCIENTIFIC INC",
+      "share_type": "SH",
+      "shares": 2057292,
+      "value_usd": 1192097851,
+      "weight_pct": "0.90",
+      "ticker": "TMO"
+    },
+    {
+      "cusip": "68389X105",
+      "name": "ORACLE CORP",
+      "share_type": "SH",
+      "shares": 6031740,
+      "value_usd": 1175646445,
+      "weight_pct": "0.89",
+      "ticker": "ORCL"
+    },
+    {
+      "cusip": "46625H100",
+      "name": "JPMORGAN CHASE & CO.",
+      "share_type": "SH",
+      "shares": 3606887,
+      "value_usd": 1162211129,
+      "weight_pct": "0.88",
+      "ticker": "JPM"
+    },
+    {
+      "cusip": "20825C104",
+      "name": "CONOCOPHILLIPS",
+      "share_type": "SH",
+      "shares": 11577465,
+      "value_usd": 1083766499,
+      "weight_pct": "0.82",
+      "ticker": "COP"
+    },
+    {
+      "cusip": "28414H103",
+      "name": "ELANCO ANIMAL HEALTH INC",
+      "share_type": "SH",
+      "shares": 46214088,
+      "value_usd": 1045824811,
+      "weight_pct": "0.79",
+      "ticker": "ELAN"
+    },
+    {
+      "cusip": "66987V109",
+      "name": "NOVARTIS AG",
+      "share_type": "SH",
+      "shares": 7579274,
+      "value_usd": 1044954508,
+      "weight_pct": "0.79",
+      "ticker": "NVS"
+    },
+    {
+      "cusip": "64110D104",
+      "name": "NETAPP INC",
+      "share_type": "SH",
+      "shares": 9068055,
+      "value_usd": 971098009,
+      "weight_pct": "0.74",
+      "ticker": "NTAP"
+    },
+    {
+      "cusip": "665859104",
+      "name": "NORTHERN TR CORP",
+      "share_type": "SH",
+      "shares": 6607717,
+      "value_usd": 902548066,
+      "weight_pct": "0.68",
+      "ticker": null
+    },
+    {
+      "cusip": "09061G101",
+      "name": "BIOMARIN PHARMACEUTICAL INC",
+      "share_type": "SH",
+      "shares": 14549314,
+      "value_usd": 864665732,
+      "weight_pct": "0.65",
+      "ticker": "BMRN"
+    },
+    {
+      "cusip": "032654105",
+      "name": "ANALOG DEVICES INC",
+      "share_type": "SH",
+      "shares": 3141640,
+      "value_usd": 852012768,
+      "weight_pct": "0.64",
+      "ticker": "ADI"
+    },
+    {
+      "cusip": "00766T100",
+      "name": "AECOM",
+      "share_type": "SH",
+      "shares": 8667283,
+      "value_usd": 826252089,
+      "weight_pct": "0.63",
+      "ticker": "ACM"
+    },
+    {
+      "cusip": "949746101",
+      "name": "WELLS FARGO CO NEW",
+      "share_type": "SH",
+      "shares": 8360272,
+      "value_usd": 779177350,
+      "weight_pct": "0.59",
+      "ticker": "WFC"
+    },
+    {
+      "cusip": "466313103",
+      "name": "JABIL INC",
+      "share_type": "SH",
+      "shares": 3343670,
+      "value_usd": 762423633,
+      "weight_pct": "0.58",
+      "ticker": "JBL"
+    },
+    {
+      "cusip": "02376R102",
+      "name": "AMERICAN AIRLS GROUP INC",
+      "share_type": "SH",
+      "shares": 49002554,
+      "value_usd": 751209155,
+      "weight_pct": "0.57",
+      "ticker": null
+    },
+    {
+      "cusip": "254687106",
+      "name": "DISNEY WALT CO",
+      "share_type": "SH",
+      "shares": 6236627,
+      "value_usd": 709541056,
+      "weight_pct": "0.54",
+      "ticker": null
+    },
+    {
+      "cusip": "461202103",
+      "name": "INTUIT",
+      "share_type": "SH",
+      "shares": 1056337,
+      "value_usd": 699738756,
+      "weight_pct": "0.53",
+      "ticker": "INTU"
+    },
+    {
+      "cusip": "V7780T103",
+      "name": "ROYAL CARIBBEAN GROUP",
+      "share_type": "SH",
+      "shares": 2410521,
+      "value_usd": 672342517,
+      "weight_pct": "0.51",
+      "ticker": null
+    },
+    {
+      "cusip": "65290E101",
+      "name": "NEXTPOWER INC",
+      "share_type": "SH",
+      "shares": 6951597,
+      "value_usd": 605553615,
+      "weight_pct": "0.46",
+      "ticker": "NXT"
+    }
+  ],
+  "investor": "PRIMECAP MANAGEMENT CO/CA/",
+  "period": "2025-12-31",
+  "total_holdings": 319,
+  "total_value_usd": 132110156202
+}

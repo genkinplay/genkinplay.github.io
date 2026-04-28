@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001140361-26-005210",
+  "cik": "0001397960",
+  "filing_date": "2026-02-13",
+  "firm": "Woodbridge CO LTD",
+  "holdings": [
+    {
+      "cusip": "884903808",
+      "name": "THOMSON REUTERS CORP",
+      "share_type": "SH",
+      "shares": 300694046,
+      "value_usd": 39658537727,
+      "weight_pct": "97.83",
+      "ticker": "TRI"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 304910,
+      "value_usd": 95436830,
+      "weight_pct": "0.24",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 268854,
+      "value_usd": 62056880,
+      "weight_pct": "0.15",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "084670702",
+      "name": "BERKSHIRE HATHAWAY INC DEL",
+      "share_type": "SH",
+      "shares": 91969,
+      "value_usd": 46228218,
+      "weight_pct": "0.11",
+      "ticker": null
+    },
+    {
+      "cusip": "29250N105",
+      "name": "ENBRIDGE INC",
+      "share_type": "SH",
+      "shares": 908200,
+      "value_usd": 43439206,
+      "weight_pct": "0.11",
+      "ticker": "ENB"
+    },
+    {
+      "cusip": "780087102",
+      "name": "ROYAL BK CDA",
+      "share_type": "SH",
+      "shares": 222615,
+      "value_usd": 37953631,
+      "weight_pct": "0.09",
+      "ticker": null
+    },
+    {
+      "cusip": "46625H100",
+      "name": "JPMORGAN CHASE & CO.",
+      "share_type": "SH",
+      "shares": 117593,
+      "value_usd": 37890816,
+      "weight_pct": "0.09",
+      "ticker": "JPM"
+    },
+    {
+      "cusip": "891160509",
+      "name": "TORONTO DOMINION BK ONT",
+      "share_type": "SH",
+      "shares": 388202,
+      "value_usd": 36568628,
+      "weight_pct": "0.09",
+      "ticker": null
+    },
+    {
+      "cusip": "349553107",
+      "name": "FORTIS INC",
+      "share_type": "SH",
+      "shares": 601750,
+      "value_usd": 31254895,
+      "weight_pct": "0.08",
+      "ticker": "FTS"
+    },
+    {
+      "cusip": "290876101",
+      "name": "EMERA INC",
+      "share_type": "SH",
+      "shares": 631641,
+      "value_usd": 31102003,
+      "weight_pct": "0.08",
+      "ticker": "EMA"
+    },
+    {
+      "cusip": "65339F101",
+      "name": "NEXTERA ENERGY INC",
+      "share_type": "SH",
+      "shares": 347500,
+      "value_usd": 27897300,
+      "weight_pct": "0.07",
+      "ticker": "NEE"
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "share_type": "SH",
+      "shares": 75250,
+      "value_usd": 26390928,
+      "weight_pct": "0.07",
+      "ticker": "V"
+    },
+    {
+      "cusip": "235851102",
+      "name": "DANAHER CORPORATION",
+      "share_type": "SH",
+      "shares": 104086,
+      "value_usd": 23827367,
+      "weight_pct": "0.06",
+      "ticker": "DHR"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 46592,
+      "value_usd": 22532823,
+      "weight_pct": "0.06",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "883556102",
+      "name": "THERMO FISHER SCIENTIFIC INC",
+      "share_type": "SH",
+      "shares": 38200,
+      "value_usd": 22134990,
+      "weight_pct": "0.05",
+      "ticker": "TMO"
+    },
+    {
+      "cusip": "91324P102",
+      "name": "UNITEDHEALTH GROUP INC",
+      "share_type": "SH",
+      "shares": 65300,
+      "value_usd": 21556183,
+      "weight_pct": "0.05",
+      "ticker": "UNH"
+    },
+    {
+      "cusip": "816851109",
+      "name": "SEMPRA",
+      "share_type": "SH",
+      "shares": 244000,
+      "value_usd": 21542760,
+      "weight_pct": "0.05",
+      "ticker": "SRE"
+    },
+    {
+      "cusip": "101121101",
+      "name": "BXP INC",
+      "share_type": "SH",
+      "shares": 300053,
+      "value_usd": 20247576,
+      "weight_pct": "0.05",
+      "ticker": "BXP"
+    },
+    {
+      "cusip": "36168Q104",
+      "name": "GFL ENVIRONMENTAL INC",
+      "share_type": "SH",
+      "shares": 463635,
+      "value_usd": 19913123,
+      "weight_pct": "0.05",
+      "ticker": "GFL"
+    },
+    {
+      "cusip": "94106L109",
+      "name": "WASTE MGMT INC DEL",
+      "share_type": "SH",
+      "shares": 82700,
+      "value_usd": 18170017,
+      "weight_pct": "0.04",
+      "ticker": null
+    },
+    {
+      "cusip": "882508104",
+      "name": "TEXAS INSTRS INC",
+      "share_type": "SH",
+      "shares": 72084,
+      "value_usd": 12505853,
+      "weight_pct": "0.03",
+      "ticker": null
+    },
+    {
+      "cusip": "92343V104",
+      "name": "VERIZON COMMUNICATIONS INC",
+      "share_type": "SH",
+      "shares": 261130,
+      "value_usd": 10635825,
+      "weight_pct": "0.03",
+      "ticker": "VZ"
+    },
+    {
+      "cusip": "13646K108",
+      "name": "CANADIAN PACIFIC KANSAS CITY",
+      "share_type": "SH",
+      "shares": 140385,
+      "value_usd": 10336548,
+      "weight_pct": "0.03",
+      "ticker": "CP"
+    },
+    {
+      "cusip": "G96629103",
+      "name": "WILLIS TOWERS WATSON PLC LTD",
+      "share_type": "SH",
+      "shares": 25234,
+      "value_usd": 8291892,
+      "weight_pct": "0.02",
+      "ticker": "WTW"
+    },
+    {
+      "cusip": "912008109",
+      "name": "US FOODS HLDG CORP",
+      "share_type": "SH",
+      "shares": 87233,
+      "value_usd": 6570390,
+      "weight_pct": "0.02",
+      "ticker": null
+    },
+    {
+      "cusip": "74144T108",
+      "name": "PRICE T ROWE GROUP INC",
+      "share_type": "SH",
+      "shares": 63939,
+      "value_usd": 6546075,
+      "weight_pct": "0.02",
+      "ticker": "TROW"
+    },
+    {
+      "cusip": "G5960L103",
+      "name": "MEDTRONIC PLC",
+      "share_type": "SH",
+      "shares": 63885,
+      "value_usd": 6136793,
+      "weight_pct": "0.02",
+      "ticker": "MDT"
+    },
+    {
+      "cusip": "778296103",
+      "name": "ROSS STORES INC",
+      "share_type": "SH",
+      "shares": 33593,
+      "value_usd": 6051443,
+      "weight_pct": "0.01",
+      "ticker": "ROST"
+    },
+    {
+      "cusip": "45866F104",
+      "name": "INTERCONTINENTAL EXCHANGE IN",
+      "share_type": "SH",
+      "shares": 36545,
+      "value_usd": 5918828,
+      "weight_pct": "0.01",
+      "ticker": null
+    },
+    {
+      "cusip": "03073E105",
+      "name": "CENCORA INC",
+      "share_type": "SH",
+      "shares": 17379,
+      "value_usd": 5869757,
+      "weight_pct": "0.01",
+      "ticker": "COR"
+    },
+    {
+      "cusip": "285512109",
+      "name": "ELECTRONIC ARTS INC",
+      "share_type": "SH",
+      "shares": 28565,
+      "value_usd": 5836686,
+      "weight_pct": "0.01",
+      "ticker": "EA"
+    },
+    {
+      "cusip": "053332102",
+      "name": "AUTOZONE INC",
+      "share_type": "SH",
+      "shares": 1708,
+      "value_usd": 5792682,
+      "weight_pct": "0.01",
+      "ticker": "AZO"
+    },
+    {
+      "cusip": "654106103",
+      "name": "NIKE INC",
+      "share_type": "SH",
+      "shares": 90065,
+      "value_usd": 5738041,
+      "weight_pct": "0.01",
+      "ticker": "NKE"
+    },
+    {
+      "cusip": "01609W102",
+      "name": "ALIBABA GROUP HLDG LTD",
+      "share_type": "SH",
+      "shares": 39000,
+      "value_usd": 5716620,
+      "weight_pct": "0.01",
+      "ticker": null
+    },
+    {
+      "cusip": "478160104",
+      "name": "JOHNSON & JOHNSON",
+      "share_type": "SH",
+      "shares": 27271,
+      "value_usd": 5643733,
+      "weight_pct": "0.01",
+      "ticker": "JNJ"
+    },
+    {
+      "cusip": "113004105",
+      "name": "BROOKFIELD ASSET MANAGMT LTD",
+      "share_type": "SH",
+      "shares": 103216,
+      "value_usd": 5407486,
+      "weight_pct": "0.01",
+      "ticker": null
+    },
+    {
+      "cusip": "962166104",
+      "name": "WEYERHAEUSER CO MTN BE",
+      "share_type": "SH",
+      "shares": 221910,
+      "value_usd": 5257048,
+      "weight_pct": "0.01",
+      "ticker": null
+    },
+    {
+      "cusip": "303075105",
+      "name": "FACTSET RESH SYS INC",
+      "share_type": "SH",
+      "shares": 17617,
+      "value_usd": 5112277,
+      "weight_pct": "0.01",
+      "ticker": null
+    },
+    {
+      "cusip": "12572Q105",
+      "name": "CME GROUP INC",
+      "share_type": "SH",
+      "shares": 16831,
+      "value_usd": 4596209,
+      "weight_pct": "0.01",
+      "ticker": "CME"
+    },
+    {
+      "cusip": "929740108",
+      "name": "WABTEC",
+      "share_type": "SH",
+      "shares": 21260,
+      "value_usd": 4537947,
+      "weight_pct": "0.01",
+      "ticker": null
+    },
+    {
+      "cusip": "025816109",
+      "name": "AMERICAN EXPRESS CO",
+      "share_type": "SH",
+      "shares": 12224,
+      "value_usd": 4522269,
+      "weight_pct": "0.01",
+      "ticker": "AXP"
+    },
+    {
+      "cusip": "609207105",
+      "name": "MONDELEZ INTL INC",
+      "share_type": "SH",
+      "shares": 82828,
+      "value_usd": 4458631,
+      "weight_pct": "0.01",
+      "ticker": "MDLZ"
+    },
+    {
+      "cusip": "01973R101",
+      "name": "ALLISON TRANSMISSION HLDGS I",
+      "share_type": "SH",
+      "shares": 45196,
+      "value_usd": 4424688,
+      "weight_pct": "0.01",
+      "ticker": null
+    },
+    {
+      "cusip": "256746108",
+      "name": "DOLLAR TREE INC",
+      "share_type": "SH",
+      "shares": 34367,
+      "value_usd": 4227485,
+      "weight_pct": "0.01",
+      "ticker": "DLTR"
+    },
+    {
+      "cusip": "49177J102",
+      "name": "KENVUE INC",
+      "share_type": "SH",
+      "shares": 244977,
+      "value_usd": 4225853,
+      "weight_pct": "0.01",
+      "ticker": "KVUE"
+    },
+    {
+      "cusip": "02209S103",
+      "name": "ALTRIA GROUP INC",
+      "share_type": "SH",
+      "shares": 72995,
+      "value_usd": 4208892,
+      "weight_pct": "0.01",
+      "ticker": "MO"
+    },
+    {
+      "cusip": "G54950103",
+      "name": "LINDE PLC",
+      "share_type": "SH",
+      "shares": 9300,
+      "value_usd": 3965427,
+      "weight_pct": "0.01",
+      "ticker": "LIN"
+    },
+    {
+      "cusip": "548661107",
+      "name": "LOWES COS INC",
+      "share_type": "SH",
+      "shares": 16340,
+      "value_usd": 3940554,
+      "weight_pct": "0.01",
+      "ticker": null
+    },
+    {
+      "cusip": "14316J108",
+      "name": "CARLYLE GROUP INC",
+      "share_type": "SH",
+      "shares": 63000,
+      "value_usd": 3723930,
+      "weight_pct": "0.01",
+      "ticker": "CG"
+    },
+    {
+      "cusip": "032095101",
+      "name": "AMPHENOL CORP",
+      "share_type": "SH",
+      "shares": 25825,
+      "value_usd": 3489991,
+      "weight_pct": "0.01",
+      "ticker": "APH"
+    }
+  ],
+  "investor": "Woodbridge CO LTD",
+  "period": "2025-12-31",
+  "total_holdings": 77,
+  "total_value_usd": 40536364082
+}

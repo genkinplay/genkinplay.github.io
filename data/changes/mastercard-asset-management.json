@@ -1,0 +1,50 @@
+{
+  "added": 0,
+  "changes": [
+    {
+      "action": "REDUCED",
+      "cusip": "57636Q104",
+      "delta_pct": "-18.58",
+      "delta_usd": -7435864933,
+      "name": "Mastercard Incorporated",
+      "prev_shares": 70121630,
+      "prev_value_usd": 40031036134,
+      "shares": 65234702,
+      "value_usd": 32595171201,
+      "ticker": "MA"
+    },
+    {
+      "action": "REDUCED",
+      "cusip": "921937835",
+      "delta_pct": "-0.58",
+      "delta_usd": -3811049,
+      "name": "The Vanguard Group, Inc.",
+      "prev_shares": 8862905,
+      "prev_value_usd": 656475373,
+      "shares": 8862905,
+      "value_usd": 652664324,
+      "ticker": null
+    },
+    {
+      "action": "REDUCED",
+      "cusip": "464287226",
+      "delta_pct": "-0.61",
+      "delta_usd": -2516635,
+      "name": "iShares by Blackrock",
+      "prev_shares": 4125631,
+      "prev_value_usd": 412068024,
+      "shares": 4125631,
+      "value_usd": 409551389,
+      "ticker": null
+    }
+  ],
+  "cik": "0002006397",
+  "exited": 0,
+  "filing_date": "2026-04-16",
+  "firm": "Mastercard Foundation Asset Management Corp",
+  "investor": "Mastercard Foundation Asset Management Corp",
+  "new": 0,
+  "period": "2026-03-31",
+  "prev_report_date": "2025-12-31",
+  "reduced": 3
+}

@@ -15,7 +15,7 @@ born: 1963
 portrait: /portraits/jensen-huang.jpg
 cik: ""
 holdings_source: "curated"
-skill_file: jensen-huang-skill.skill
+skill_file: jensen-huang.skill
 # Form 4 内部人交易源：NVIDIA 官方 SEC 申报名 "HUANG JEN HSUN"
 insider_ticker: NVDA.US
 insider_owner_match: huang jen

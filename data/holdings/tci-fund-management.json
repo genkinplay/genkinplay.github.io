@@ -1,0 +1,93 @@
+{
+  "accession_number": "0001647251-26-000002",
+  "cik": "0001647251",
+  "filing_date": "2026-02-17",
+  "firm": "TCI Fund Management Ltd",
+  "holdings": [
+    {
+      "cusip": "369604301",
+      "name": "GE AEROSPACE",
+      "share_type": "SH",
+      "shares": 47510431,
+      "value_usd": 14634638061,
+      "weight_pct": "27.28",
+      "ticker": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "share_type": "SH",
+      "shares": 27724233,
+      "value_usd": 9723165755,
+      "weight_pct": "18.12",
+      "ticker": "V"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 16781953,
+      "value_usd": 8116088110,
+      "weight_pct": "15.13",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "615369105",
+      "name": "MOODYS CORP",
+      "share_type": "SH",
+      "shares": 13308479,
+      "value_usd": 6798636497,
+      "weight_pct": "12.67",
+      "ticker": "MCO"
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "share_type": "SH",
+      "shares": 11790310,
+      "value_usd": 6161498103,
+      "weight_pct": "11.48",
+      "ticker": "SPGI"
+    },
+    {
+      "cusip": "13646K108",
+      "name": "CANADIAN PACIFIC KANSAS CITY",
+      "share_type": "SH",
+      "shares": 47654423,
+      "value_usd": 3508630329,
+      "weight_pct": "6.54",
+      "ticker": "CP"
+    },
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 7596819,
+      "value_usd": 2383881802,
+      "weight_pct": "4.44",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "N3168P101",
+      "name": "FERROVIAL SE",
+      "share_type": "SH",
+      "shares": 20740214,
+      "value_usd": 1348162940,
+      "weight_pct": "2.51",
+      "ticker": "FER"
+    },
+    {
+      "cusip": "136375102",
+      "name": "CANADIAN NATL RY CO",
+      "share_type": "SH",
+      "shares": 9849934,
+      "value_usd": 974114657,
+      "weight_pct": "1.82",
+      "ticker": null
+    }
+  ],
+  "investor": "TCI Fund Management Ltd",
+  "period": "2025-12-31",
+  "total_holdings": 9,
+  "total_value_usd": 53648816254
+}

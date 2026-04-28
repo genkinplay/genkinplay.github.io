@@ -1,0 +1,30 @@
+slug: flossbach-von-storch
+display_name:
+  en: FLOSSBACH VON STORCH SE
+  zh-CN: Flossbach von Storch（德国）
+  zh-HK: Flossbach von Storch（德國）
+tagline:
+  en: SEC 13F filer · AUM $25.23B
+  zh-CN: SEC 13F 机构 · 管理资产 $25.23B
+  zh-HK: SEC 13F 機構 · 管理資產 $25.23B
+role:
+  en: 'Institutional investor (rank #44, CIK 0001575677)'
+  zh-CN: '机构投资者（排名 #44，CIK 0001575677）'
+  zh-HK: '機構投資者（排名 #44，CIK 0001575677）'
+born: 0
+portrait: >-
+  https://api.dicebear.com/7.x/initials/svg?seed=FLOSSBACH%20VON%20STORCH%20SE&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001575677'
+holdings_source: 13f
+featured: false
+rank: 44
+aum_usd: 25230000000
+bio:
+  en: >-
+    FLOSSBACH VON STORCH SE is an institutional investor managing approximately $25.23B in disclosed U.S. equity
+    holdings as of 2025-12-31, ranking #44 among SEC 13F filers.
+  zh-CN: 'Flossbach von Storch（德国） 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $25.23B，在 SEC 13F 机构中排名 #44。'
+  zh-HK: 'Flossbach von Storch（德國） 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $25.23B，在 SEC 13F 機構中排名 #44。'
+philosophy: []
+quotes: []
+milestones: []

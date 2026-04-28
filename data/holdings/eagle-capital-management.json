@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001172661-26-001083",
+  "cik": "0000945631",
+  "filing_date": "2026-02-17",
+  "firm": "EAGLE CAPITAL MANAGEMENT LLC",
+  "holdings": [
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 11973905,
+      "value_usd": 2763816855,
+      "weight_pct": "8.61",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 3893229,
+      "value_usd": 1882843413,
+      "weight_pct": "5.86",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "91324P102",
+      "name": "UNITEDHEALTH GROUP INC",
+      "share_type": "SH",
+      "shares": 5700446,
+      "value_usd": 1881774257,
+      "weight_pct": "5.86",
+      "ticker": "UNH"
+    },
+    {
+      "cusip": "20825C104",
+      "name": "CONOCOPHILLIPS",
+      "share_type": "SH",
+      "shares": 19840430,
+      "value_usd": 1857262643,
+      "weight_pct": "5.78",
+      "ticker": "COP"
+    },
+    {
+      "cusip": "14040H105",
+      "name": "CAPITAL ONE FINL CORP",
+      "share_type": "SH",
+      "shares": 6716093,
+      "value_usd": 1627712369,
+      "weight_pct": "5.07",
+      "ticker": "COF"
+    },
+    {
+      "cusip": "98138H101",
+      "name": "WORKDAY INC",
+      "share_type": "SH",
+      "shares": 7575368,
+      "value_usd": 1627037542,
+      "weight_pct": "5.07",
+      "ticker": "WDAY"
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "share_type": "SH",
+      "shares": 4960306,
+      "value_usd": 1507387404,
+      "weight_pct": "4.69",
+      "ticker": null
+    },
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 4762992,
+      "value_usd": 1494626898,
+      "weight_pct": "4.65",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "N00985106",
+      "name": "AERCAP HOLDINGS NV",
+      "share_type": "SH",
+      "shares": 10169902,
+      "value_usd": 1462025066,
+      "weight_pct": "4.55",
+      "ticker": null
+    },
+    {
+      "cusip": "235851102",
+      "name": "DANAHER CORPORATION",
+      "share_type": "SH",
+      "shares": 6160531,
+      "value_usd": 1410268805,
+      "weight_pct": "4.39",
+      "ticker": "DHR"
+    },
+    {
+      "cusip": "980745103",
+      "name": "WOODWARD INC",
+      "share_type": "SH",
+      "shares": 4312395,
+      "value_usd": 1303723398,
+      "weight_pct": "4.06",
+      "ticker": "WWD"
+    },
+    {
+      "cusip": "20030N101",
+      "name": "COMCAST CORP NEW",
+      "share_type": "SH",
+      "shares": 39910299,
+      "value_usd": 1192918837,
+      "weight_pct": "3.72",
+      "ticker": "CMCSA"
+    },
+    {
+      "cusip": "526057104",
+      "name": "LENNAR CORP",
+      "share_type": "SH",
+      "shares": 10986212,
+      "value_usd": 1129382635,
+      "weight_pct": "3.52",
+      "ticker": "LEN"
+    },
+    {
+      "cusip": "803054204",
+      "name": "SAP SE",
+      "share_type": "SH",
+      "shares": 4143430,
+      "value_usd": 1006480646,
+      "weight_pct": "3.13",
+      "ticker": "SAP"
+    },
+    {
+      "cusip": "518439104",
+      "name": "LAUDER ESTEE COS INC",
+      "share_type": "SH",
+      "shares": 8729535,
+      "value_usd": 914156913,
+      "weight_pct": "2.85",
+      "ticker": null
+    },
+    {
+      "cusip": "N07059210",
+      "name": "ASML HOLDING N V",
+      "share_type": "SH",
+      "shares": 835083,
+      "value_usd": 893422427,
+      "weight_pct": "2.78",
+      "ticker": null
+    },
+    {
+      "cusip": "013872106",
+      "name": "ALCOA CORP",
+      "share_type": "SH",
+      "shares": 15949384,
+      "value_usd": 847550252,
+      "weight_pct": "2.64",
+      "ticker": "AA"
+    },
+    {
+      "cusip": "444859102",
+      "name": "HUMANA INC",
+      "share_type": "SH",
+      "shares": 3254398,
+      "value_usd": 833548871,
+      "weight_pct": "2.60",
+      "ticker": "HUM"
+    },
+    {
+      "cusip": "58733R102",
+      "name": "MERCADOLIBRE INC",
+      "share_type": "SH",
+      "shares": 411549,
+      "value_usd": 828966606,
+      "weight_pct": "2.58",
+      "ticker": "MELI"
+    },
+    {
+      "cusip": "G0403H108",
+      "name": "AON PLC",
+      "share_type": "SH",
+      "shares": 2269414,
+      "value_usd": 800830660,
+      "weight_pct": "2.49",
+      "ticker": "AON"
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "share_type": "SH",
+      "shares": 1210372,
+      "value_usd": 798954418,
+      "weight_pct": "2.49",
+      "ticker": "META"
+    },
+    {
+      "cusip": "780259305",
+      "name": "SHELL PLC",
+      "share_type": "SH",
+      "shares": 7777595,
+      "value_usd": 571497649,
+      "weight_pct": "1.78",
+      "ticker": "SHEL"
+    },
+    {
+      "cusip": "036752103",
+      "name": "ELEVANCE HEALTH INC FORMERLY",
+      "share_type": "SH",
+      "shares": 1504051,
+      "value_usd": 527244987,
+      "weight_pct": "1.64",
+      "ticker": null
+    },
+    {
+      "cusip": "43300A203",
+      "name": "HILTON WORLDWIDE HLDGS INC",
+      "share_type": "SH",
+      "shares": 1823181,
+      "value_usd": 523708872,
+      "weight_pct": "1.63",
+      "ticker": "HLT"
+    },
+    {
+      "cusip": "69370C100",
+      "name": "PTC INC",
+      "share_type": "SH",
+      "shares": 2469928,
+      "value_usd": 430286100,
+      "weight_pct": "1.34",
+      "ticker": "PTC"
+    },
+    {
+      "cusip": "461202103",
+      "name": "INTUIT",
+      "share_type": "SH",
+      "shares": 538877,
+      "value_usd": 356963042,
+      "weight_pct": "1.11",
+      "ticker": "INTU"
+    },
+    {
+      "cusip": "530307305",
+      "name": "LIBERTY BROADBAND CORP",
+      "share_type": "SH",
+      "shares": 6355692,
+      "value_usd": 308886652,
+      "weight_pct": "0.96",
+      "ticker": "LBRDA"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 898964,
+      "value_usd": 281375732,
+      "weight_pct": "0.88",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "929160109",
+      "name": "VULCAN MATLS CO",
+      "share_type": "SH",
+      "shares": 705914,
+      "value_usd": 201340885,
+      "weight_pct": "0.63",
+      "ticker": null
+    },
+    {
+      "cusip": "573284106",
+      "name": "MARTIN MARIETTA MATLS INC",
+      "share_type": "SH",
+      "shares": 320754,
+      "value_usd": 199720483,
+      "weight_pct": "0.62",
+      "ticker": null
+    },
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF TR",
+      "share_type": "SH",
+      "shares": 262279,
+      "value_usd": 178853142,
+      "weight_pct": "0.56",
+      "ticker": null
+    },
+    {
+      "cusip": "922908769",
+      "name": "VANGUARD INDEX FDS",
+      "share_type": "SH",
+      "shares": 300316,
+      "value_usd": 100686945,
+      "weight_pct": "0.31",
+      "ticker": null
+    },
+    {
+      "cusip": "464287598",
+      "name": "ISHARES TR",
+      "share_type": "SH",
+      "shares": 419660,
+      "value_usd": 88271350,
+      "weight_pct": "0.27",
+      "ticker": null
+    },
+    {
+      "cusip": "78468R663",
+      "name": "SPDR SERIES TRUST",
+      "share_type": "SH",
+      "shares": 880977,
+      "value_usd": 80503717,
+      "weight_pct": "0.25",
+      "ticker": null
+    },
+    {
+      "cusip": "16119P108",
+      "name": "CHARTER COMMUNICATIONS INC N",
+      "share_type": "SH",
+      "shares": 166502,
+      "value_usd": 34757292,
+      "weight_pct": "0.11",
+      "ticker": "CHTR"
+    },
+    {
+      "cusip": "084670702",
+      "name": "BERKSHIRE HATHAWAY INC DEL",
+      "share_type": "SH",
+      "shares": 50820,
+      "value_usd": 25544673,
+      "weight_pct": "0.08",
+      "ticker": null
+    },
+    {
+      "cusip": "36828A101",
+      "name": "GE VERNOVA INC",
+      "share_type": "SH",
+      "shares": 27917,
+      "value_usd": 18245714,
+      "weight_pct": "0.06",
+      "ticker": "GEV"
+    },
+    {
+      "cusip": "745867101",
+      "name": "PULTE GROUP INC",
+      "share_type": "SH",
+      "shares": 133388,
+      "value_usd": 15641077,
+      "weight_pct": "0.05",
+      "ticker": null
+    },
+    {
+      "cusip": "617446448",
+      "name": "MORGAN STANLEY",
+      "share_type": "SH",
+      "shares": 79588,
+      "value_usd": 14129258,
+      "weight_pct": "0.04",
+      "ticker": "MS"
+    },
+    {
+      "cusip": "530307107",
+      "name": "LIBERTY BROADBAND CORP",
+      "share_type": "SH",
+      "shares": 273682,
+      "value_usd": 13213367,
+      "weight_pct": "0.04",
+      "ticker": "LBRDA"
+    },
+    {
+      "cusip": "369604301",
+      "name": "GE AEROSPACE",
+      "share_type": "SH",
+      "shares": 40898,
+      "value_usd": 12597811,
+      "weight_pct": "0.04",
+      "ticker": null
+    },
+    {
+      "cusip": "949746101",
+      "name": "WELLS FARGO CO NEW",
+      "share_type": "SH",
+      "shares": 96277,
+      "value_usd": 8973016,
+      "weight_pct": "0.03",
+      "ticker": "WFC"
+    },
+    {
+      "cusip": "084423102",
+      "name": "BERKLEY W R CORP",
+      "share_type": "SH",
+      "shares": 123547,
+      "value_usd": 8663116,
+      "weight_pct": "0.03",
+      "ticker": "WRB"
+    },
+    {
+      "cusip": "38141G104",
+      "name": "GOLDMAN SACHS GROUP INC",
+      "share_type": "SH",
+      "shares": 6989,
+      "value_usd": 6143331,
+      "weight_pct": "0.02",
+      "ticker": "GS"
+    },
+    {
+      "cusip": "278865100",
+      "name": "ECOLAB INC",
+      "share_type": "SH",
+      "shares": 22471,
+      "value_usd": 5899087,
+      "weight_pct": "0.02",
+      "ticker": "ECL"
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC",
+      "share_type": "SH",
+      "shares": 62774,
+      "value_usd": 5885690,
+      "weight_pct": "0.02",
+      "ticker": "NFLX"
+    },
+    {
+      "cusip": "571903202",
+      "name": "MARRIOTT INTL INC NEW",
+      "share_type": "SH",
+      "shares": 18811,
+      "value_usd": 5835925,
+      "weight_pct": "0.02",
+      "ticker": "MAR"
+    },
+    {
+      "cusip": "172967424",
+      "name": "CITIGROUP INC",
+      "share_type": "SH",
+      "shares": 41076,
+      "value_usd": 4793158,
+      "weight_pct": "0.01",
+      "ticker": "C"
+    },
+    {
+      "cusip": "68389X105",
+      "name": "ORACLE CORP",
+      "share_type": "SH",
+      "shares": 20000,
+      "value_usd": 3898200,
+      "weight_pct": "0.01",
+      "ticker": "ORCL"
+    },
+    {
+      "cusip": "922908363",
+      "name": "VANGUARD INDEX FDS",
+      "share_type": "SH",
+      "shares": 5875,
+      "value_usd": 3684374,
+      "weight_pct": "0.01",
+      "ticker": null
+    }
+  ],
+  "investor": "EAGLE CAPITAL MANAGEMENT LLC",
+  "period": "2025-12-31",
+  "total_holdings": 56,
+  "total_value_usd": 32110112765
+}

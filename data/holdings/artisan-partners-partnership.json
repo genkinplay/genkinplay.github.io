@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001193125-26-052992",
+  "cik": "0001466153",
+  "filing_date": "2026-02-17",
+  "firm": "Artisan Partners Limited Partnership",
+  "holdings": [
+    {
+      "cusip": "G0450A105",
+      "name": "ARCH CAP GROUP LTD",
+      "share_type": "SH",
+      "shares": 23247700,
+      "value_usd": 2229919384,
+      "weight_pct": "3.34",
+      "ticker": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 5680236,
+      "value_usd": 1777913868,
+      "weight_pct": "2.66",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "036752103",
+      "name": "ELEVANCE HEALTH INC FORMERLY",
+      "share_type": "SH",
+      "shares": 5032751,
+      "value_usd": 1764230863,
+      "weight_pct": "2.64",
+      "ticker": null
+    },
+    {
+      "cusip": "808513105",
+      "name": "SCHWAB CHARLES CORP",
+      "share_type": "SH",
+      "shares": 17206336,
+      "value_usd": 1719085030,
+      "weight_pct": "2.57",
+      "ticker": "SCHW"
+    },
+    {
+      "cusip": "064058100",
+      "name": "BANK NEW YORK MELLON CORP",
+      "share_type": "SH",
+      "shares": 14759534,
+      "value_usd": 1713434302,
+      "weight_pct": "2.57",
+      "ticker": "BK"
+    },
+    {
+      "cusip": "025816109",
+      "name": "AMERICAN EXPRESS CO",
+      "share_type": "SH",
+      "shares": 4517317,
+      "value_usd": 1671181424,
+      "weight_pct": "2.50",
+      "ticker": "AXP"
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "share_type": "SH",
+      "shares": 2410398,
+      "value_usd": 1591079616,
+      "weight_pct": "2.38",
+      "ticker": "META"
+    },
+    {
+      "cusip": "04016X101",
+      "name": "ARGENX SE",
+      "share_type": "SH",
+      "shares": 1756942,
+      "value_usd": 1477500737,
+      "weight_pct": "2.21",
+      "ticker": "ARGX"
+    },
+    {
+      "cusip": "867224107",
+      "name": "SUNCOR ENERGY INC NEW",
+      "share_type": "SH",
+      "shares": 32818241,
+      "value_usd": 1456652237,
+      "weight_pct": "2.18",
+      "ticker": "SU"
+    },
+    {
+      "cusip": "512807306",
+      "name": "LAM RESEARCH CORP",
+      "share_type": "SH",
+      "shares": 7951029,
+      "value_usd": 1361057144,
+      "weight_pct": "2.04",
+      "ticker": "LRCX"
+    },
+    {
+      "cusip": "172967424",
+      "name": "CITIGROUP INC",
+      "share_type": "SH",
+      "shares": 11620256,
+      "value_usd": 1355967673,
+      "weight_pct": "2.03",
+      "ticker": "C"
+    },
+    {
+      "cusip": "084670702",
+      "name": "BERKSHIRE HATHAWAY INC DEL",
+      "share_type": "SH",
+      "shares": 2602953,
+      "value_usd": 1308374325,
+      "weight_pct": "1.96",
+      "ticker": null
+    },
+    {
+      "cusip": "G4705A100",
+      "name": "ICON PLC",
+      "share_type": "SH",
+      "shares": 6873977,
+      "value_usd": 1252576089,
+      "weight_pct": "1.88",
+      "ticker": "ICLR"
+    },
+    {
+      "cusip": "H2906T109",
+      "name": "GARMIN LTD",
+      "share_type": "SH",
+      "shares": 5699823,
+      "value_usd": 1156209096,
+      "weight_pct": "1.73",
+      "ticker": "GRMN"
+    },
+    {
+      "cusip": "G96629103",
+      "name": "WILLIS TOWERS WATSON PLC LTD",
+      "share_type": "SH",
+      "shares": 3461646,
+      "value_usd": 1137496876,
+      "weight_pct": "1.70",
+      "ticker": "WTW"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 4618514,
+      "value_usd": 1066045401,
+      "weight_pct": "1.60",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "743315103",
+      "name": "PROGRESSIVE CORP",
+      "share_type": "SH",
+      "shares": 4672994,
+      "value_usd": 1064134194,
+      "weight_pct": "1.59",
+      "ticker": "PGR"
+    },
+    {
+      "cusip": "457669307",
+      "name": "INSMED INC",
+      "share_type": "SH",
+      "shares": 4843749,
+      "value_usd": 843006016,
+      "weight_pct": "1.26",
+      "ticker": "INSM"
+    },
+    {
+      "cusip": "82509L107",
+      "name": "SHOPIFY INC",
+      "share_type": "SH",
+      "shares": 5154840,
+      "value_usd": 829774628,
+      "weight_pct": "1.24",
+      "ticker": "SHOP"
+    },
+    {
+      "cusip": "955306105",
+      "name": "WEST PHARMACEUTICAL SVSC INC",
+      "share_type": "SH",
+      "shares": 2850401,
+      "value_usd": 784259419,
+      "weight_pct": "1.17",
+      "ticker": null
+    },
+    {
+      "cusip": "05722G100",
+      "name": "BAKER HUGHES COMPANY",
+      "share_type": "SH",
+      "shares": 16903794,
+      "value_usd": 769798798,
+      "weight_pct": "1.15",
+      "ticker": "BKR"
+    },
+    {
+      "cusip": "46266C105",
+      "name": "IQVIA HLDGS INC",
+      "share_type": "SH",
+      "shares": 3371385,
+      "value_usd": 759943893,
+      "weight_pct": "1.14",
+      "ticker": "IQV"
+    },
+    {
+      "cusip": "04351P101",
+      "name": "ASCENDIS PHARMA A/S",
+      "share_type": "SH",
+      "shares": 3225885,
+      "value_usd": 687887701,
+      "weight_pct": "1.03",
+      "ticker": "ASND"
+    },
+    {
+      "cusip": "654902204",
+      "name": "NOKIA CORP",
+      "share_type": "SH",
+      "shares": 99477170,
+      "value_usd": 643617290,
+      "weight_pct": "0.96",
+      "ticker": "NOK"
+    },
+    {
+      "cusip": "12504L109",
+      "name": "CBRE GROUP INC",
+      "share_type": "SH",
+      "shares": 3907289,
+      "value_usd": 628253044,
+      "weight_pct": "0.94",
+      "ticker": "CBRE"
+    },
+    {
+      "cusip": "571748102",
+      "name": "MARSH & MCLENNAN COS INC",
+      "share_type": "SH",
+      "shares": 3357826,
+      "value_usd": 622943880,
+      "weight_pct": "0.93",
+      "ticker": null
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM INC",
+      "share_type": "SH",
+      "shares": 1798313,
+      "value_usd": 622396129,
+      "weight_pct": "0.93",
+      "ticker": "AVGO"
+    },
+    {
+      "cusip": "81141R100",
+      "name": "SEA LTD",
+      "share_type": "SH",
+      "shares": 4856734,
+      "value_usd": 619573556,
+      "weight_pct": "0.93",
+      "ticker": "SE"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 1204456,
+      "value_usd": 582499011,
+      "weight_pct": "0.87",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "L8681T102",
+      "name": "SPOTIFY TECHNOLOGY S A",
+      "share_type": "SH",
+      "shares": 974087,
+      "value_usd": 565662205,
+      "weight_pct": "0.85",
+      "ticker": "SPOT"
+    },
+    {
+      "cusip": "502431109",
+      "name": "L3HARRIS TECHNOLOGIES INC",
+      "share_type": "SH",
+      "shares": 1900509,
+      "value_usd": 557932550,
+      "weight_pct": "0.84",
+      "ticker": "LHX"
+    },
+    {
+      "cusip": "36828A101",
+      "name": "GE VERNOVA INC",
+      "share_type": "SH",
+      "shares": 815112,
+      "value_usd": 532732750,
+      "weight_pct": "0.80",
+      "ticker": "GEV"
+    },
+    {
+      "cusip": "806407102",
+      "name": "HENRY SCHEIN INC",
+      "share_type": "SH",
+      "shares": 6647378,
+      "value_usd": 502408829,
+      "weight_pct": "0.75",
+      "ticker": "HSIC"
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "share_type": "SH",
+      "shares": 1833380,
+      "value_usd": 498422687,
+      "weight_pct": "0.75",
+      "ticker": "AAPL"
+    },
+    {
+      "cusip": "68389X105",
+      "name": "ORACLE CORP",
+      "share_type": "SH",
+      "shares": 2294045,
+      "value_usd": 447132311,
+      "weight_pct": "0.67",
+      "ticker": "ORCL"
+    },
+    {
+      "cusip": "G8060N102",
+      "name": "SENSATA TECHNOLOGIES HLDG PL",
+      "share_type": "SH",
+      "shares": 13277925,
+      "value_usd": 442022123,
+      "weight_pct": "0.66",
+      "ticker": null
+    },
+    {
+      "cusip": "70450Y103",
+      "name": "PAYPAL HLDGS INC",
+      "share_type": "SH",
+      "shares": 7520682,
+      "value_usd": 439057415,
+      "weight_pct": "0.66",
+      "ticker": "PYPL"
+    },
+    {
+      "cusip": "98419M100",
+      "name": "XYLEM INC",
+      "share_type": "SH",
+      "shares": 3214458,
+      "value_usd": 437744953,
+      "weight_pct": "0.66",
+      "ticker": "XYL"
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC",
+      "share_type": "SH",
+      "shares": 4510397,
+      "value_usd": 422894823,
+      "weight_pct": "0.63",
+      "ticker": "NFLX"
+    },
+    {
+      "cusip": "14040H105",
+      "name": "CAPITAL ONE FINL CORP",
+      "share_type": "SH",
+      "shares": 1701653,
+      "value_usd": 412412621,
+      "weight_pct": "0.62",
+      "ticker": "COF"
+    },
+    {
+      "cusip": "833445109",
+      "name": "SNOWFLAKE INC",
+      "share_type": "SH",
+      "shares": 1854894,
+      "value_usd": 406889548,
+      "weight_pct": "0.61",
+      "ticker": "SNOW"
+    },
+    {
+      "cusip": "G0750C108",
+      "name": "AXALTA COATING SYS LTD",
+      "share_type": "SH",
+      "shares": 12575932,
+      "value_usd": 406328363,
+      "weight_pct": "0.61",
+      "ticker": null
+    },
+    {
+      "cusip": "949746101",
+      "name": "WELLS FARGO CO NEW",
+      "share_type": "SH",
+      "shares": 4266600,
+      "value_usd": 397647120,
+      "weight_pct": "0.60",
+      "ticker": "WFC"
+    },
+    {
+      "cusip": "G0403H108",
+      "name": "AON PLC",
+      "share_type": "SH",
+      "shares": 1117428,
+      "value_usd": 394317993,
+      "weight_pct": "0.59",
+      "ticker": "AON"
+    },
+    {
+      "cusip": "25809K105",
+      "name": "DOORDASH INC",
+      "share_type": "SH",
+      "shares": 1695291,
+      "value_usd": 383949597,
+      "weight_pct": "0.57",
+      "ticker": "DASH"
+    },
+    {
+      "cusip": "03073E105",
+      "name": "CENCORA INC",
+      "share_type": "SH",
+      "shares": 1118682,
+      "value_usd": 377834833,
+      "weight_pct": "0.57",
+      "ticker": "COR"
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "share_type": "SH",
+      "shares": 685769,
+      "value_usd": 358376022,
+      "weight_pct": "0.54",
+      "ticker": "SPGI"
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 1883108,
+      "value_usd": 351199642,
+      "weight_pct": "0.53",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "share_type": "SH",
+      "shares": 994743,
+      "value_usd": 348866318,
+      "weight_pct": "0.52",
+      "ticker": "V"
+    },
+    {
+      "cusip": "007903107",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "share_type": "SH",
+      "shares": 1527275,
+      "value_usd": 327081214,
+      "weight_pct": "0.49",
+      "ticker": "AMD"
+    }
+  ],
+  "investor": "Artisan Partners Limited Partnership",
+  "period": "2025-12-31",
+  "total_holdings": 326,
+  "total_value_usd": 66793263493
+}

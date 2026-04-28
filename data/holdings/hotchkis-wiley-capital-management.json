@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001172661-26-001081",
+  "cik": "0001164833",
+  "filing_date": "2026-02-17",
+  "firm": "HOTCHKIS & WILEY CAPITAL MANAGEMENT LLC",
+  "holdings": [
+    {
+      "cusip": "98138H101",
+      "name": "WORKDAY INC",
+      "share_type": "SH",
+      "shares": 6757472,
+      "value_usd": 1451369836,
+      "weight_pct": "4.34",
+      "ticker": "WDAY"
+    },
+    {
+      "cusip": "315616102",
+      "name": "F5 INC",
+      "share_type": "SH",
+      "shares": 5473375,
+      "value_usd": 1397133703,
+      "weight_pct": "4.17",
+      "ticker": "FFIV"
+    },
+    {
+      "cusip": "172967424",
+      "name": "CITIGROUP INC",
+      "share_type": "SH",
+      "shares": 7641714,
+      "value_usd": 891711607,
+      "weight_pct": "2.66",
+      "ticker": "C"
+    },
+    {
+      "cusip": "294821608",
+      "name": "TELEFONAKTIEBOLAGET LM ERICS",
+      "share_type": "SH",
+      "shares": 92132605,
+      "value_usd": 889079638,
+      "weight_pct": "2.66",
+      "ticker": null
+    },
+    {
+      "cusip": "026874784",
+      "name": "AMERICAN INTL GROUP INC",
+      "share_type": "SH",
+      "shares": 10270323,
+      "value_usd": 878626133,
+      "weight_pct": "2.62",
+      "ticker": "AIG"
+    },
+    {
+      "cusip": "03743Q108",
+      "name": "APA CORPORATION",
+      "share_type": "SH",
+      "shares": 35446644,
+      "value_usd": 867024912,
+      "weight_pct": "2.59",
+      "ticker": "APA"
+    },
+    {
+      "cusip": "37045V100",
+      "name": "GENERAL MTRS CO",
+      "share_type": "SH",
+      "shares": 10391542,
+      "value_usd": 845040195,
+      "weight_pct": "2.52",
+      "ticker": null
+    },
+    {
+      "cusip": "20030N101",
+      "name": "COMCAST CORP NEW",
+      "share_type": "SH",
+      "shares": 27768597,
+      "value_usd": 830003364,
+      "weight_pct": "2.48",
+      "ticker": "CMCSA"
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "share_type": "SH",
+      "shares": 2804312,
+      "value_usd": 742890292,
+      "weight_pct": "2.22",
+      "ticker": "CRM"
+    },
+    {
+      "cusip": "36266G107",
+      "name": "GE HEALTHCARE TECHNOLOGIES I",
+      "share_type": "SH",
+      "shares": 9032745,
+      "value_usd": 740865745,
+      "weight_pct": "2.21",
+      "ticker": null
+    },
+    {
+      "cusip": "036752103",
+      "name": "ELEVANCE HEALTH INC FORMERLY",
+      "share_type": "SH",
+      "shares": 2051150,
+      "value_usd": 719030633,
+      "weight_pct": "2.15",
+      "ticker": null
+    },
+    {
+      "cusip": "25746U109",
+      "name": "DOMINION ENERGY INC",
+      "share_type": "SH",
+      "shares": 11704010,
+      "value_usd": 685737946,
+      "weight_pct": "2.05",
+      "ticker": "D"
+    },
+    {
+      "cusip": "31428X106",
+      "name": "FEDEX CORP",
+      "share_type": "SH",
+      "shares": 2233225,
+      "value_usd": 645089374,
+      "weight_pct": "1.93",
+      "ticker": "FDX"
+    },
+    {
+      "cusip": "902973304",
+      "name": "US BANCORP DEL",
+      "share_type": "SH",
+      "shares": 11657432,
+      "value_usd": 622040572,
+      "weight_pct": "1.86",
+      "ticker": null
+    },
+    {
+      "cusip": "949746101",
+      "name": "WELLS FARGO CO NEW",
+      "share_type": "SH",
+      "shares": 6535687,
+      "value_usd": 609126028,
+      "weight_pct": "1.82",
+      "ticker": "WFC"
+    },
+    {
+      "cusip": "693506107",
+      "name": "PPG INDS INC",
+      "share_type": "SH",
+      "shares": 5877095,
+      "value_usd": 602167154,
+      "weight_pct": "1.80",
+      "ticker": null
+    },
+    {
+      "cusip": "857477103",
+      "name": "STATE STR CORP",
+      "share_type": "SH",
+      "shares": 4386744,
+      "value_usd": 565933843,
+      "weight_pct": "1.69",
+      "ticker": null
+    },
+    {
+      "cusip": "559222401",
+      "name": "MAGNA INTL INC",
+      "share_type": "SH",
+      "shares": 9854052,
+      "value_usd": 525220972,
+      "weight_pct": "1.57",
+      "ticker": "MGA"
+    },
+    {
+      "cusip": "62955J103",
+      "name": "NOV INC",
+      "share_type": "SH",
+      "shares": 32465667,
+      "value_usd": 507438375,
+      "weight_pct": "1.52",
+      "ticker": "NOV"
+    },
+    {
+      "cusip": "91324P102",
+      "name": "UNITEDHEALTH GROUP INC",
+      "share_type": "SH",
+      "shares": 1460213,
+      "value_usd": 482030913,
+      "weight_pct": "1.44",
+      "ticker": "UNH"
+    },
+    {
+      "cusip": "780259305",
+      "name": "SHELL PLC",
+      "share_type": "SH",
+      "shares": 6316607,
+      "value_usd": 464144282,
+      "weight_pct": "1.39",
+      "ticker": "SHEL"
+    },
+    {
+      "cusip": "G5960L103",
+      "name": "MEDTRONIC PLC",
+      "share_type": "SH",
+      "shares": 4820704,
+      "value_usd": 463076826,
+      "weight_pct": "1.38",
+      "ticker": "MDT"
+    },
+    {
+      "cusip": "231021106",
+      "name": "CUMMINS INC",
+      "share_type": "SH",
+      "shares": 893268,
+      "value_usd": 455968651,
+      "weight_pct": "1.36",
+      "ticker": "CMI"
+    },
+    {
+      "cusip": "806857108",
+      "name": "SLB LIMITED",
+      "share_type": "SH",
+      "shares": 11747332,
+      "value_usd": 450862602,
+      "weight_pct": "1.35",
+      "ticker": "SLB"
+    },
+    {
+      "cusip": "681919106",
+      "name": "OMNICOM GROUP INC",
+      "share_type": "SH",
+      "shares": 5518055,
+      "value_usd": 445582941,
+      "weight_pct": "1.33",
+      "ticker": "OMC"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 1419534,
+      "value_usd": 444314142,
+      "weight_pct": "1.33",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "693718108",
+      "name": "PACCAR INC",
+      "share_type": "SH",
+      "shares": 4023118,
+      "value_usd": 440571652,
+      "weight_pct": "1.32",
+      "ticker": "PCAR"
+    },
+    {
+      "cusip": "174610105",
+      "name": "CITIZENS FINL GROUP INC",
+      "share_type": "SH",
+      "shares": 6675233,
+      "value_usd": 389900360,
+      "weight_pct": "1.16",
+      "ticker": "CFG"
+    },
+    {
+      "cusip": "500754106",
+      "name": "KRAFT HEINZ CO",
+      "share_type": "SH",
+      "shares": 15804586,
+      "value_usd": 383261211,
+      "weight_pct": "1.14",
+      "ticker": "KHC"
+    },
+    {
+      "cusip": "444859102",
+      "name": "HUMANA INC",
+      "share_type": "SH",
+      "shares": 1363528,
+      "value_usd": 349240427,
+      "weight_pct": "1.04",
+      "ticker": "HUM"
+    },
+    {
+      "cusip": "69047Q102",
+      "name": "OVINTIV INC",
+      "share_type": "SH",
+      "shares": 8770993,
+      "value_usd": 343735216,
+      "weight_pct": "1.03",
+      "ticker": "OVV"
+    },
+    {
+      "cusip": "89832Q109",
+      "name": "TRUIST FINL CORP",
+      "share_type": "SH",
+      "shares": 6843349,
+      "value_usd": 336761204,
+      "weight_pct": "1.01",
+      "ticker": "TFC"
+    },
+    {
+      "cusip": "N20944109",
+      "name": "CNH INDL N V",
+      "share_type": "SH",
+      "shares": 35219823,
+      "value_usd": 324726768,
+      "weight_pct": "0.97",
+      "ticker": null
+    },
+    {
+      "cusip": "680665205",
+      "name": "OLIN CORP",
+      "share_type": "SH",
+      "shares": 15278245,
+      "value_usd": 318245843,
+      "weight_pct": "0.95",
+      "ticker": "OLN"
+    },
+    {
+      "cusip": "609207105",
+      "name": "MONDELEZ INTL INC",
+      "share_type": "SH",
+      "shares": 5531030,
+      "value_usd": 297735345,
+      "weight_pct": "0.89",
+      "ticker": "MDLZ"
+    },
+    {
+      "cusip": "G3265R107",
+      "name": "APTIV PLC",
+      "share_type": "SH",
+      "shares": 3619797,
+      "value_usd": 275430354,
+      "weight_pct": "0.82",
+      "ticker": "APTV"
+    },
+    {
+      "cusip": "21871X109",
+      "name": "COREBRIDGE FINL INC",
+      "share_type": "SH",
+      "shares": 8950160,
+      "value_usd": 270026327,
+      "weight_pct": "0.81",
+      "ticker": "CRBG"
+    },
+    {
+      "cusip": "060505104",
+      "name": "BANK AMERICA CORP",
+      "share_type": "SH",
+      "shares": 4547256,
+      "value_usd": 250099080,
+      "weight_pct": "0.75",
+      "ticker": "BAC"
+    },
+    {
+      "cusip": "21036P108",
+      "name": "CONSTELLATION BRANDS INC",
+      "share_type": "SH",
+      "shares": 1787066,
+      "value_usd": 246543625,
+      "weight_pct": "0.74",
+      "ticker": "STZ"
+    },
+    {
+      "cusip": "69351T106",
+      "name": "PPL CORP",
+      "share_type": "SH",
+      "shares": 6986449,
+      "value_usd": 244665444,
+      "weight_pct": "0.73",
+      "ticker": "PPL"
+    },
+    {
+      "cusip": "854502101",
+      "name": "STANLEY BLACK & DECKER INC",
+      "share_type": "SH",
+      "shares": 3228247,
+      "value_usd": 239794187,
+      "weight_pct": "0.72",
+      "ticker": "SWK"
+    },
+    {
+      "cusip": "126650100",
+      "name": "CVS HEALTH CORP",
+      "share_type": "SH",
+      "shares": 2893377,
+      "value_usd": 229618399,
+      "weight_pct": "0.69",
+      "ticker": "CVS"
+    },
+    {
+      "cusip": "92937A102",
+      "name": "WPP PLC NEW",
+      "share_type": "SH",
+      "shares": 10097072,
+      "value_usd": 226780237,
+      "weight_pct": "0.68",
+      "ticker": "WPP"
+    },
+    {
+      "cusip": "655844108",
+      "name": "NORFOLK SOUTHN CORP",
+      "share_type": "SH",
+      "shares": 770668,
+      "value_usd": 222507265,
+      "weight_pct": "0.66",
+      "ticker": null
+    },
+    {
+      "cusip": "31620M106",
+      "name": "FIDELITY NATL INFORMATION SV",
+      "share_type": "SH",
+      "shares": 3274593,
+      "value_usd": 217629451,
+      "weight_pct": "0.65",
+      "ticker": null
+    },
+    {
+      "cusip": "192446102",
+      "name": "COGNIZANT TECHNOLOGY SOLUTIO",
+      "share_type": "SH",
+      "shares": 2584740,
+      "value_usd": 214533420,
+      "weight_pct": "0.64",
+      "ticker": null
+    },
+    {
+      "cusip": "20825C104",
+      "name": "CONOCOPHILLIPS",
+      "share_type": "SH",
+      "shares": 2287674,
+      "value_usd": 214149163,
+      "weight_pct": "0.64",
+      "ticker": "COP"
+    },
+    {
+      "cusip": "40412C101",
+      "name": "HCA HEALTHCARE INC",
+      "share_type": "SH",
+      "shares": 444067,
+      "value_usd": 207317120,
+      "weight_pct": "0.62",
+      "ticker": "HCA"
+    },
+    {
+      "cusip": "31946M103",
+      "name": "FIRST CTZNS BANCSHARES INC D",
+      "share_type": "SH",
+      "shares": 96152,
+      "value_usd": 206359499,
+      "weight_pct": "0.62",
+      "ticker": null
+    },
+    {
+      "cusip": "34959J108",
+      "name": "FORTIVE CORP",
+      "share_type": "SH",
+      "shares": 3672300,
+      "value_usd": 202747683,
+      "weight_pct": "0.61",
+      "ticker": "FTV"
+    }
+  ],
+  "investor": "HOTCHKIS & WILEY CAPITAL MANAGEMENT LLC",
+  "period": "2025-12-31",
+  "total_holdings": 465,
+  "total_value_usd": 33479016604
+}

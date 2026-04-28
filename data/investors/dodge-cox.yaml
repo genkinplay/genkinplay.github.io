@@ -1,0 +1,30 @@
+slug: dodge-cox
+display_name:
+  en: DODGE & COX
+  zh-CN: 道奇·考克斯
+  zh-HK: 道奇·考克斯
+tagline:
+  en: SEC 13F filer · AUM $185.26B
+  zh-CN: SEC 13F 机构 · 管理资产 $185.26B
+  zh-HK: SEC 13F 機構 · 管理資產 $185.26B
+role:
+  en: 'Institutional investor (rank #5, CIK 0000200217)'
+  zh-CN: '机构投资者（排名 #5，CIK 0000200217）'
+  zh-HK: '機構投資者（排名 #5，CIK 0000200217）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=DODGE%20%26%20COX&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0000200217'
+holdings_source: 13f
+featured: false
+rank: 5
+aum_usd: 185260000000
+bio:
+  en: Dodge & Cox is a San Francisco based investment firm, founded in 1930 by Van Duyn Dodge and E. Morris Cox, that provides professional investment management services.
+  zh-CN: '道奇·考克斯 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $185.26B，在 SEC 13F 机构中排名 #5。'
+  zh-HK: '道奇·考克斯 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $185.26B，在 SEC 13F 機構中排名 #5。'
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  en: https://en.wikipedia.org/wiki/Dodge_%26_Cox
+  zh: https://zh.wikipedia.org/wiki/%E9%81%93%E5%A5%87_(%E5%A5%A7%E5%85%8B%E6%8B%89%E8%8D%B7%E9%A6%AC%E5%B7%9E)

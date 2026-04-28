@@ -1,0 +1,462 @@
+{
+  "accession_number": "0000313028-26-000020",
+  "cik": "0000313028",
+  "filing_date": "2026-02-11",
+  "firm": "BARROW HANLEY MEWHINNEY & STRAUSS LLC",
+  "holdings": [
+    {
+      "cusip": "143658300",
+      "name": "Carnival Corp",
+      "share_type": "SH",
+      "shares": 29125985,
+      "value_usd": 889507581,
+      "weight_pct": "2.96",
+      "ticker": "CCL"
+    },
+    {
+      "cusip": "58933Y105",
+      "name": "Merck & Co Inc",
+      "share_type": "SH",
+      "shares": 7793176,
+      "value_usd": 820309705,
+      "weight_pct": "2.73",
+      "ticker": "MRK"
+    },
+    {
+      "cusip": "29364G103",
+      "name": "Entergy Corp",
+      "share_type": "SH",
+      "shares": 7564256,
+      "value_usd": 699164182,
+      "weight_pct": "2.33",
+      "ticker": "ETR"
+    },
+    {
+      "cusip": "G51502105",
+      "name": "Johnson Controls International",
+      "share_type": "SH",
+      "shares": 5528202,
+      "value_usd": 662002189,
+      "weight_pct": "2.20",
+      "ticker": "JCI"
+    },
+    {
+      "cusip": "595017104",
+      "name": "Microchip Technology Inc",
+      "share_type": "SH",
+      "shares": 10161017,
+      "value_usd": 647460003,
+      "weight_pct": "2.16",
+      "ticker": "MCHP"
+    },
+    {
+      "cusip": "026874784",
+      "name": "American International Group I",
+      "share_type": "SH",
+      "shares": 7482558,
+      "value_usd": 640132837,
+      "weight_pct": "2.13",
+      "ticker": null
+    },
+    {
+      "cusip": "060505104",
+      "name": "Bank of America Corp",
+      "share_type": "SH",
+      "shares": 11502051,
+      "value_usd": 632612805,
+      "weight_pct": "2.11",
+      "ticker": "BAC"
+    },
+    {
+      "cusip": "747525103",
+      "name": "QUALCOMM Inc",
+      "share_type": "SH",
+      "shares": 3644278,
+      "value_usd": 623353752,
+      "weight_pct": "2.08",
+      "ticker": "QCOM"
+    },
+    {
+      "cusip": "166764100",
+      "name": "Chevron Corp",
+      "share_type": "SH",
+      "shares": 4038831,
+      "value_usd": 615558233,
+      "weight_pct": "2.05",
+      "ticker": "CVX"
+    },
+    {
+      "cusip": "49271V100",
+      "name": "Keurig Dr Pepper Inc",
+      "share_type": "SH",
+      "shares": 21247485,
+      "value_usd": 595142055,
+      "weight_pct": "1.98",
+      "ticker": "KDP"
+    },
+    {
+      "cusip": "723484101",
+      "name": "Pinnacle West Capital Corp",
+      "share_type": "SH",
+      "shares": 6684100,
+      "value_usd": 592879670,
+      "weight_pct": "1.97",
+      "ticker": "PNW"
+    },
+    {
+      "cusip": "29362U104",
+      "name": "Entegris Inc",
+      "share_type": "SH",
+      "shares": 6816946,
+      "value_usd": 574327700,
+      "weight_pct": "1.91",
+      "ticker": "ENTG"
+    },
+    {
+      "cusip": "G0750C108",
+      "name": "Axalta Coating Systems Ltd",
+      "share_type": "SH",
+      "shares": 17456984,
+      "value_usd": 564035153,
+      "weight_pct": "1.88",
+      "ticker": "AXTA"
+    },
+    {
+      "cusip": "084670702",
+      "name": "Berkshire Hathaway Inc",
+      "share_type": "SH",
+      "shares": 1095848,
+      "value_usd": 550827997,
+      "weight_pct": "1.83",
+      "ticker": "BRK.B"
+    },
+    {
+      "cusip": "957638109",
+      "name": "Western Alliance Bancorp",
+      "share_type": "SH",
+      "shares": 6450408,
+      "value_usd": 542285801,
+      "weight_pct": "1.81",
+      "ticker": null
+    },
+    {
+      "cusip": "36266G107",
+      "name": "GE HealthCare Technologies Inc",
+      "share_type": "SH",
+      "shares": 6506398,
+      "value_usd": 533654764,
+      "weight_pct": "1.78",
+      "ticker": "GEHC"
+    },
+    {
+      "cusip": "009158106",
+      "name": "Air Products and Chemicals Inc",
+      "share_type": "SH",
+      "shares": 2129895,
+      "value_usd": 526126663,
+      "weight_pct": "1.75",
+      "ticker": null
+    },
+    {
+      "cusip": "30231G102",
+      "name": "Exxon Mobil Corp",
+      "share_type": "SH",
+      "shares": 4141310,
+      "value_usd": 498365245,
+      "weight_pct": "1.66",
+      "ticker": "XOM"
+    },
+    {
+      "cusip": "74460D109",
+      "name": "Public Storage",
+      "share_type": "SH",
+      "shares": 1793860,
+      "value_usd": 465506670,
+      "weight_pct": "1.55",
+      "ticker": "PSA"
+    },
+    {
+      "cusip": "34959J108",
+      "name": "Fortive Corp",
+      "share_type": "SH",
+      "shares": 8275652,
+      "value_usd": 456898747,
+      "weight_pct": "1.52",
+      "ticker": "FTV"
+    },
+    {
+      "cusip": "50212V100",
+      "name": "LPL Financial Holdings Inc",
+      "share_type": "SH",
+      "shares": 1261285,
+      "value_usd": 450493163,
+      "weight_pct": "1.50",
+      "ticker": "LPLA"
+    },
+    {
+      "cusip": "74340W103",
+      "name": "Prologis Inc",
+      "share_type": "SH",
+      "shares": 3501709,
+      "value_usd": 447028171,
+      "weight_pct": "1.49",
+      "ticker": "PLD"
+    },
+    {
+      "cusip": "983134107",
+      "name": "Wynn Resorts Ltd",
+      "share_type": "SH",
+      "shares": 3680631,
+      "value_usd": 442890328,
+      "weight_pct": "1.47",
+      "ticker": "WYNN"
+    },
+    {
+      "cusip": "71424F105",
+      "name": "Permian Resources Corp",
+      "share_type": "SH",
+      "shares": 30910393,
+      "value_usd": 433672814,
+      "weight_pct": "1.44",
+      "ticker": "PR"
+    },
+    {
+      "cusip": "42824C109",
+      "name": "Hewlett Packard Enterprise Co",
+      "share_type": "SH",
+      "shares": 18049010,
+      "value_usd": 433537220,
+      "weight_pct": "1.44",
+      "ticker": "HPE"
+    },
+    {
+      "cusip": "69331C108",
+      "name": "PG&E Corp",
+      "share_type": "SH",
+      "shares": 26754400,
+      "value_usd": 429943208,
+      "weight_pct": "1.43",
+      "ticker": "PCG"
+    },
+    {
+      "cusip": "91324P102",
+      "name": "UnitedHealth Group Inc",
+      "share_type": "SH",
+      "shares": 1294266,
+      "value_usd": 427250149,
+      "weight_pct": "1.42",
+      "ticker": "UNH"
+    },
+    {
+      "cusip": "98389B100",
+      "name": "Xcel Energy Inc",
+      "share_type": "SH",
+      "shares": 5709383,
+      "value_usd": 421695029,
+      "weight_pct": "1.40",
+      "ticker": "XEL"
+    },
+    {
+      "cusip": "31620M106",
+      "name": "Fidelity National Information",
+      "share_type": "SH",
+      "shares": 6304324,
+      "value_usd": 418985373,
+      "weight_pct": "1.40",
+      "ticker": null
+    },
+    {
+      "cusip": "025816109",
+      "name": "American Express Co",
+      "share_type": "SH",
+      "shares": 1101412,
+      "value_usd": 407467369,
+      "weight_pct": "1.36",
+      "ticker": "AXP"
+    },
+    {
+      "cusip": "949746101",
+      "name": "Wells Fargo & Co",
+      "share_type": "SH",
+      "shares": 4353564,
+      "value_usd": 405752165,
+      "weight_pct": "1.35",
+      "ticker": "WFC"
+    },
+    {
+      "cusip": "G5960L103",
+      "name": "Medtronic PLC",
+      "share_type": "SH",
+      "shares": 4175858,
+      "value_usd": 401132919,
+      "weight_pct": "1.34",
+      "ticker": "MDT"
+    },
+    {
+      "cusip": "78442P106",
+      "name": "SLM Corp",
+      "share_type": "SH",
+      "shares": 14525854,
+      "value_usd": 393069609,
+      "weight_pct": "1.31",
+      "ticker": "SLM"
+    },
+    {
+      "cusip": "05352A100",
+      "name": "Avantor Inc",
+      "share_type": "SH",
+      "shares": 33287174,
+      "value_usd": 381471014,
+      "weight_pct": "1.27",
+      "ticker": "AVTR"
+    },
+    {
+      "cusip": "02079K107",
+      "name": "Alphabet Inc",
+      "share_type": "SH",
+      "shares": 1196635,
+      "value_usd": 375504063,
+      "weight_pct": "1.25",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "80105N105",
+      "name": "Sanofi SA- ADR",
+      "share_type": "SH",
+      "shares": 6968413,
+      "value_usd": 337689294,
+      "weight_pct": "1.12",
+      "ticker": null
+    },
+    {
+      "cusip": "G3265R107",
+      "name": "Aptiv PLC",
+      "share_type": "SH",
+      "shares": 4397489,
+      "value_usd": 334604938,
+      "weight_pct": "1.11",
+      "ticker": "APTV"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "Alphabet Inc",
+      "share_type": "SH",
+      "shares": 1034661,
+      "value_usd": 323848893,
+      "weight_pct": "1.08",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "G3223R108",
+      "name": "Everest Group Ltd",
+      "share_type": "SH",
+      "shares": 948270,
+      "value_usd": 321795424,
+      "weight_pct": "1.07",
+      "ticker": "EG"
+    },
+    {
+      "cusip": "68389X105",
+      "name": "Oracle Corp",
+      "share_type": "SH",
+      "shares": 1624781,
+      "value_usd": 316686065,
+      "weight_pct": "1.05",
+      "ticker": "ORCL"
+    },
+    {
+      "cusip": "26614N102",
+      "name": "DuPont de Nemours Inc",
+      "share_type": "SH",
+      "shares": 7491426,
+      "value_usd": 301155325,
+      "weight_pct": "1.00",
+      "ticker": "DD"
+    },
+    {
+      "cusip": "925652109",
+      "name": "VICI Properties Inc",
+      "share_type": "SH",
+      "shares": 10705349,
+      "value_usd": 301034414,
+      "weight_pct": "1.00",
+      "ticker": "VICI"
+    },
+    {
+      "cusip": "406216101",
+      "name": "Halliburton Co",
+      "share_type": "SH",
+      "shares": 10156923,
+      "value_usd": 287034644,
+      "weight_pct": "0.96",
+      "ticker": "HAL"
+    },
+    {
+      "cusip": "14040H105",
+      "name": "Capital One Financial Corp",
+      "share_type": "SH",
+      "shares": 1180516,
+      "value_usd": 286109858,
+      "weight_pct": "0.95",
+      "ticker": "COF"
+    },
+    {
+      "cusip": "445658107",
+      "name": "JB Hunt Transport Services Inc",
+      "share_type": "SH",
+      "shares": 1409153,
+      "value_usd": 273854794,
+      "weight_pct": "0.91",
+      "ticker": null
+    },
+    {
+      "cusip": "904767803",
+      "name": "Unilever PLC- ADR",
+      "share_type": "SH",
+      "shares": 4108627,
+      "value_usd": 268704206,
+      "weight_pct": "0.89",
+      "ticker": null
+    },
+    {
+      "cusip": "537008104",
+      "name": "Littelfuse Inc",
+      "share_type": "SH",
+      "shares": 1024176,
+      "value_usd": 259034594,
+      "weight_pct": "0.86",
+      "ticker": "LFUS"
+    },
+    {
+      "cusip": "19247G107",
+      "name": "Coherent Corp",
+      "share_type": "SH",
+      "shares": 1398895,
+      "value_usd": 258194050,
+      "weight_pct": "0.86",
+      "ticker": "COHR"
+    },
+    {
+      "cusip": "03027X100",
+      "name": "American Tower Corp",
+      "share_type": "SH",
+      "shares": 1434488,
+      "value_usd": 251853058,
+      "weight_pct": "0.84",
+      "ticker": "AMT"
+    },
+    {
+      "cusip": "552690109",
+      "name": "MDU Resources Group Inc",
+      "share_type": "SH",
+      "shares": 12894945,
+      "value_usd": 251709326,
+      "weight_pct": "0.84",
+      "ticker": "MDU"
+    }
+  ],
+  "investor": "BARROW HANLEY MEWHINNEY & STRAUSS LLC",
+  "period": "2025-12-31",
+  "total_holdings": 367,
+  "total_value_usd": 30029017684
+}

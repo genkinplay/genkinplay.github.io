@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001172661-26-000636",
+  "cik": "0000948669",
+  "filing_date": "2026-02-12",
+  "firm": "PARNASSUS INVESTMENTS, LLC",
+  "holdings": [
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 4505495,
+      "value_usd": 2178947492,
+      "weight_pct": "5.65",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 6901505,
+      "value_usd": 2160171065,
+      "weight_pct": "5.60",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 7887228,
+      "value_usd": 1820529967,
+      "weight_pct": "4.72",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 9600898,
+      "value_usd": 1790567477,
+      "weight_pct": "4.64",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "share_type": "SH",
+      "shares": 5049172,
+      "value_usd": 1372667900,
+      "weight_pct": "3.56",
+      "ticker": "AAPL"
+    },
+    {
+      "cusip": "244199105",
+      "name": "DEERE & CO",
+      "share_type": "SH",
+      "shares": 2642017,
+      "value_usd": 1230043855,
+      "weight_pct": "3.19",
+      "ticker": "DE"
+    },
+    {
+      "cusip": "94106L109",
+      "name": "WASTE MGMT INC DEL",
+      "share_type": "SH",
+      "shares": 5277285,
+      "value_usd": 1159472287,
+      "weight_pct": "3.01",
+      "ticker": null
+    },
+    {
+      "cusip": "532457108",
+      "name": "ELI LILLY & CO",
+      "share_type": "SH",
+      "shares": 1010392,
+      "value_usd": 1085848074,
+      "weight_pct": "2.82",
+      "ticker": "LLY"
+    },
+    {
+      "cusip": "235851102",
+      "name": "DANAHER CORPORATION",
+      "share_type": "SH",
+      "shares": 4664560,
+      "value_usd": 1067811076,
+      "weight_pct": "2.77",
+      "ticker": "DHR"
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "share_type": "SH",
+      "shares": 1809280,
+      "value_usd": 1032881767,
+      "weight_pct": "2.68",
+      "ticker": "MA"
+    },
+    {
+      "cusip": "883556102",
+      "name": "THERMO FISHER SCIENTIFIC INC",
+      "share_type": "SH",
+      "shares": 1583105,
+      "value_usd": 917330192,
+      "weight_pct": "2.38",
+      "ticker": "TMO"
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "share_type": "SH",
+      "shares": 1749394,
+      "value_usd": 914215810,
+      "weight_pct": "2.37",
+      "ticker": "SPGI"
+    },
+    {
+      "cusip": "060505104",
+      "name": "BANK AMERICA CORP",
+      "share_type": "SH",
+      "shares": 16477774,
+      "value_usd": 906277570,
+      "weight_pct": "2.35",
+      "ticker": "BAC"
+    },
+    {
+      "cusip": "45866F104",
+      "name": "INTERCONTINENTAL EXCHANGE IN",
+      "share_type": "SH",
+      "shares": 5436265,
+      "value_usd": 880457479,
+      "weight_pct": "2.28",
+      "ticker": null
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM INC",
+      "share_type": "SH",
+      "shares": 2461410,
+      "value_usd": 851894001,
+      "weight_pct": "2.21",
+      "ticker": "AVGO"
+    },
+    {
+      "cusip": "756109104",
+      "name": "REALTY INCOME CORP",
+      "share_type": "SH",
+      "shares": 15106270,
+      "value_usd": 851540440,
+      "weight_pct": "2.21",
+      "ticker": "O"
+    },
+    {
+      "cusip": "038222105",
+      "name": "APPLIED MATLS INC",
+      "share_type": "SH",
+      "shares": 3227145,
+      "value_usd": 829343994,
+      "weight_pct": "2.15",
+      "ticker": null
+    },
+    {
+      "cusip": "G54950103",
+      "name": "LINDE PLC",
+      "share_type": "SH",
+      "shares": 1818692,
+      "value_usd": 775472082,
+      "weight_pct": "2.01",
+      "ticker": "LIN"
+    },
+    {
+      "cusip": "482480100",
+      "name": "KLA CORP",
+      "share_type": "SH",
+      "shares": 623664,
+      "value_usd": 757801653,
+      "weight_pct": "1.97",
+      "ticker": "KLAC"
+    },
+    {
+      "cusip": "101137107",
+      "name": "BOSTON SCIENTIFIC CORP",
+      "share_type": "SH",
+      "shares": 7899240,
+      "value_usd": 753192534,
+      "weight_pct": "1.95",
+      "ticker": "BSX"
+    },
+    {
+      "cusip": "053332102",
+      "name": "AUTOZONE INC",
+      "share_type": "SH",
+      "shares": 211328,
+      "value_usd": 716718912,
+      "weight_pct": "1.86",
+      "ticker": "AZO"
+    },
+    {
+      "cusip": "437076102",
+      "name": "HOME DEPOT INC",
+      "share_type": "SH",
+      "shares": 2080538,
+      "value_usd": 715913126,
+      "weight_pct": "1.86",
+      "ticker": "HD"
+    },
+    {
+      "cusip": "863667101",
+      "name": "STRYKER CORPORATION",
+      "share_type": "SH",
+      "shares": 1947575,
+      "value_usd": 684514185,
+      "weight_pct": "1.78",
+      "ticker": "SYK"
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "share_type": "SH",
+      "shares": 2571143,
+      "value_usd": 681121492,
+      "weight_pct": "1.77",
+      "ticker": "CRM"
+    },
+    {
+      "cusip": "871607107",
+      "name": "SYNOPSYS INC",
+      "share_type": "SH",
+      "shares": 1440874,
+      "value_usd": 676807335,
+      "weight_pct": "1.76",
+      "ticker": "SNPS"
+    },
+    {
+      "cusip": "384802104",
+      "name": "WW GRAINGER INC",
+      "share_type": "SH",
+      "shares": 640162,
+      "value_usd": 645955466,
+      "weight_pct": "1.68",
+      "ticker": null
+    },
+    {
+      "cusip": "22160K105",
+      "name": "COSTCO WHSL CORP NEW",
+      "share_type": "SH",
+      "shares": 662447,
+      "value_usd": 571254546,
+      "weight_pct": "1.48",
+      "ticker": null
+    },
+    {
+      "cusip": "31488V107",
+      "name": "FERGUSON ENTERPRISES INC",
+      "share_type": "SH",
+      "shares": 2565454,
+      "value_usd": 571147024,
+      "weight_pct": "1.48",
+      "ticker": "FERG"
+    },
+    {
+      "cusip": "007903107",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "share_type": "SH",
+      "shares": 2463159,
+      "value_usd": 527510131,
+      "weight_pct": "1.37",
+      "ticker": "AMD"
+    },
+    {
+      "cusip": "115236101",
+      "name": "BROWN & BROWN INC",
+      "share_type": "SH",
+      "shares": 6204729,
+      "value_usd": 494516902,
+      "weight_pct": "1.28",
+      "ticker": "BRO"
+    },
+    {
+      "cusip": "571903202",
+      "name": "MARRIOTT INTL INC NEW",
+      "share_type": "SH",
+      "shares": 1561579,
+      "value_usd": 484464268,
+      "weight_pct": "1.26",
+      "ticker": "MAR"
+    },
+    {
+      "cusip": "98138H101",
+      "name": "WORKDAY INC",
+      "share_type": "SH",
+      "shares": 2116802,
+      "value_usd": 454646733,
+      "weight_pct": "1.18",
+      "ticker": "WDAY"
+    },
+    {
+      "cusip": "68389X105",
+      "name": "ORACLE CORP",
+      "share_type": "SH",
+      "shares": 2097860,
+      "value_usd": 408893893,
+      "weight_pct": "1.06",
+      "ticker": "ORCL"
+    },
+    {
+      "cusip": "92345Y106",
+      "name": "VERISK ANALYTICS INC",
+      "share_type": "SH",
+      "shares": 1815060,
+      "value_usd": 406010772,
+      "weight_pct": "1.05",
+      "ticker": "VRSK"
+    },
+    {
+      "cusip": "571748102",
+      "name": "MARSH & MCLENNAN COS INC",
+      "share_type": "SH",
+      "shares": 2173621,
+      "value_usd": 403250168,
+      "weight_pct": "1.05",
+      "ticker": null
+    },
+    {
+      "cusip": "742718109",
+      "name": "PROCTER AND GAMBLE CO",
+      "share_type": "SH",
+      "shares": 2604052,
+      "value_usd": 373186692,
+      "weight_pct": "0.97",
+      "ticker": null
+    },
+    {
+      "cusip": "81762P102",
+      "name": "SERVICENOW INC",
+      "share_type": "SH",
+      "shares": 2304946,
+      "value_usd": 353094678,
+      "weight_pct": "0.92",
+      "ticker": "NOW"
+    },
+    {
+      "cusip": "824348106",
+      "name": "SHERWIN WILLIAMS CO",
+      "share_type": "SH",
+      "shares": 1044274,
+      "value_usd": 338376104,
+      "weight_pct": "0.88",
+      "ticker": "SHW"
+    },
+    {
+      "cusip": "064058100",
+      "name": "BANK NEW YORK MELLON CORP",
+      "share_type": "SH",
+      "shares": 2359440,
+      "value_usd": 273907390,
+      "weight_pct": "0.71",
+      "ticker": "BK"
+    },
+    {
+      "cusip": "12504L109",
+      "name": "CBRE GROUP INC",
+      "share_type": "SH",
+      "shares": 1694034,
+      "value_usd": 272383727,
+      "weight_pct": "0.71",
+      "ticker": "CBRE"
+    },
+    {
+      "cusip": "11285B108",
+      "name": "BROOKFIELD RENEWABLE CORP",
+      "share_type": "SH",
+      "shares": 5032949,
+      "value_usd": 192963265,
+      "weight_pct": "0.50",
+      "ticker": "BEPC"
+    },
+    {
+      "cusip": "46625H100",
+      "name": "JPMORGAN CHASE & CO.",
+      "share_type": "SH",
+      "shares": 500909,
+      "value_usd": 161402898,
+      "weight_pct": "0.42",
+      "ticker": "JPM"
+    },
+    {
+      "cusip": "231021106",
+      "name": "CUMMINS INC",
+      "share_type": "SH",
+      "shares": 280004,
+      "value_usd": 142928042,
+      "weight_pct": "0.37",
+      "ticker": "CMI"
+    },
+    {
+      "cusip": "808513105",
+      "name": "SCHWAB CHARLES CORP",
+      "share_type": "SH",
+      "shares": 1296825,
+      "value_usd": 129565786,
+      "weight_pct": "0.34",
+      "ticker": "SCHW"
+    },
+    {
+      "cusip": "92343V104",
+      "name": "VERIZON COMMUNICATIONS INC",
+      "share_type": "SH",
+      "shares": 3073760,
+      "value_usd": 125194245,
+      "weight_pct": "0.32",
+      "ticker": "VZ"
+    },
+    {
+      "cusip": "871829107",
+      "name": "SYSCO CORP",
+      "share_type": "SH",
+      "shares": 1611005,
+      "value_usd": 118714958,
+      "weight_pct": "0.31",
+      "ticker": "SYY"
+    },
+    {
+      "cusip": "G96629103",
+      "name": "WILLIS TOWERS WATSON PLC LTD",
+      "share_type": "SH",
+      "shares": 357537,
+      "value_usd": 117486658,
+      "weight_pct": "0.30",
+      "ticker": "WTW"
+    },
+    {
+      "cusip": "172967424",
+      "name": "CITIGROUP INC",
+      "share_type": "SH",
+      "shares": 989173,
+      "value_usd": 115426597,
+      "weight_pct": "0.30",
+      "ticker": "C"
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "share_type": "SH",
+      "shares": 376999,
+      "value_usd": 114566226,
+      "weight_pct": "0.30",
+      "ticker": null
+    },
+    {
+      "cusip": "046353108",
+      "name": "ASTRAZENECA PLC",
+      "share_type": "SH",
+      "shares": 1237719,
+      "value_usd": 113783508,
+      "weight_pct": "0.30",
+      "ticker": "AZN"
+    }
+  ],
+  "investor": "PARNASSUS INVESTMENTS, LLC",
+  "period": "2025-12-31",
+  "total_holdings": 138,
+  "total_value_usd": 38560917530
+}

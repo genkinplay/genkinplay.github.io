@@ -1,0 +1,30 @@
+slug: capital-research-global-investors
+display_name:
+  en: Capital Research Global Investors
+  zh-CN: 资本研究全球投资者
+  zh-HK: 資本研究全球投資者
+tagline:
+  en: SEC 13F filer · AUM $541.73B
+  zh-CN: SEC 13F 机构 · 管理资产 $541.73B
+  zh-HK: SEC 13F 機構 · 管理資產 $541.73B
+role:
+  en: 'Institutional investor (rank #2, CIK 0001422848)'
+  zh-CN: '机构投资者（排名 #2，CIK 0001422848）'
+  zh-HK: '機構投資者（排名 #2，CIK 0001422848）'
+born: 0
+portrait: >-
+  https://api.dicebear.com/7.x/initials/svg?seed=Capital%20Research%20Global%20Investors&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001422848'
+holdings_source: 13f
+featured: false
+rank: 2
+aum_usd: 541730000000
+bio:
+  en: >-
+    Capital Research Global Investors is an institutional investor managing approximately $541.73B in disclosed U.S.
+    equity holdings as of 2025-12-31, ranking #2 among SEC 13F filers.
+  zh-CN: '资本研究全球投资者 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $541.73B，在 SEC 13F 机构中排名 #2。'
+  zh-HK: '資本研究全球投資者 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $541.73B，在 SEC 13F 機構中排名 #2。'
+philosophy: []
+quotes: []
+milestones: []

@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001172661-26-000522",
+  "cik": "0001722329",
+  "filing_date": "2026-02-06",
+  "firm": "Newport Trust Company, LLC",
+  "holdings": [
+    {
+      "cusip": "097023105",
+      "name": "BOEING CO",
+      "share_type": "SH",
+      "shares": 29485294,
+      "value_usd": 6401847033,
+      "weight_pct": "15.32",
+      "ticker": "BA"
+    },
+    {
+      "cusip": "369550108",
+      "name": "GENERAL DYNAMICS CORP",
+      "share_type": "SH",
+      "shares": 13725738,
+      "value_usd": 4620906799,
+      "weight_pct": "11.06",
+      "ticker": "GD"
+    },
+    {
+      "cusip": "00206R102",
+      "name": "AT&T INC",
+      "share_type": "SH",
+      "shares": 183451879,
+      "value_usd": 4556944675,
+      "weight_pct": "10.90",
+      "ticker": "T"
+    },
+    {
+      "cusip": "70202L102",
+      "name": "PARSONS CORP DEL",
+      "share_type": "SH",
+      "shares": 49796122,
+      "value_usd": 3077400356,
+      "weight_pct": "7.36",
+      "ticker": null
+    },
+    {
+      "cusip": "369604301",
+      "name": "GE AEROSPACE",
+      "share_type": "SH",
+      "shares": 9702208,
+      "value_usd": 2988571130,
+      "weight_pct": "7.15",
+      "ticker": null
+    },
+    {
+      "cusip": "254067101",
+      "name": "DILLARDS INC",
+      "share_type": "SH",
+      "shares": 4523121,
+      "value_usd": 2742549187,
+      "weight_pct": "6.56",
+      "ticker": null
+    },
+    {
+      "cusip": "438516106",
+      "name": "HONEYWELL INTL INC",
+      "share_type": "SH",
+      "shares": 13276867,
+      "value_usd": 2590183983,
+      "weight_pct": "6.20",
+      "ticker": "HON"
+    },
+    {
+      "cusip": "345370860",
+      "name": "FORD MTR CO",
+      "share_type": "SH",
+      "shares": 137356677,
+      "value_usd": 1802119602,
+      "weight_pct": "4.31",
+      "ticker": null
+    },
+    {
+      "cusip": "254687106",
+      "name": "DISNEY WALT CO",
+      "share_type": "SH",
+      "shares": 10820485,
+      "value_usd": 1231046573,
+      "weight_pct": "2.95",
+      "ticker": null
+    },
+    {
+      "cusip": "36828A101",
+      "name": "GE VERNOVA INC",
+      "share_type": "SH",
+      "shares": 1672237,
+      "value_usd": 1092923936,
+      "weight_pct": "2.62",
+      "ticker": "GEV"
+    },
+    {
+      "cusip": "816851109",
+      "name": "SEMPRA",
+      "share_type": "SH",
+      "shares": 11715950,
+      "value_usd": 1034401268,
+      "weight_pct": "2.48",
+      "ticker": "SRE"
+    },
+    {
+      "cusip": "88579Y101",
+      "name": "3M CO",
+      "share_type": "SH",
+      "shares": 5783016,
+      "value_usd": 925860862,
+      "weight_pct": "2.22",
+      "ticker": "MMM"
+    },
+    {
+      "cusip": "980745103",
+      "name": "WOODWARD INC",
+      "share_type": "SH",
+      "shares": 2002182,
+      "value_usd": 605299662,
+      "weight_pct": "1.45",
+      "ticker": "WWD"
+    },
+    {
+      "cusip": "14040H105",
+      "name": "CAPITAL ONE FINL CORP",
+      "share_type": "SH",
+      "shares": 2483012,
+      "value_usd": 601782788,
+      "weight_pct": "1.44",
+      "ticker": "COF"
+    },
+    {
+      "cusip": "291011104",
+      "name": "EMERSON ELEC CO",
+      "share_type": "SH",
+      "shares": 4483714,
+      "value_usd": 595078522,
+      "weight_pct": "1.42",
+      "ticker": null
+    },
+    {
+      "cusip": "247361702",
+      "name": "DELTA AIR LINES INC DEL",
+      "share_type": "SH",
+      "shares": 8216343,
+      "value_usd": 570214204,
+      "weight_pct": "1.36",
+      "ticker": null
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "share_type": "SH",
+      "shares": 1022851,
+      "value_usd": 534531704,
+      "weight_pct": "1.28",
+      "ticker": "SPGI"
+    },
+    {
+      "cusip": "G51502105",
+      "name": "JOHNSON CTLS INTL PLC",
+      "share_type": "SH",
+      "shares": 4261479,
+      "value_usd": 510312110,
+      "weight_pct": "1.22",
+      "ticker": null
+    },
+    {
+      "cusip": "29364G103",
+      "name": "ENTERGY CORP NEW",
+      "share_type": "SH",
+      "shares": 5310716,
+      "value_usd": 490869525,
+      "weight_pct": "1.17",
+      "ticker": "ETR"
+    },
+    {
+      "cusip": "910047109",
+      "name": "UNITED AIRLS HLDGS INC",
+      "share_type": "SH",
+      "shares": 3266669,
+      "value_usd": 365278975,
+      "weight_pct": "0.87",
+      "ticker": null
+    },
+    {
+      "cusip": "654106103",
+      "name": "NIKE INC",
+      "share_type": "SH",
+      "shares": 5560705,
+      "value_usd": 354272516,
+      "weight_pct": "0.85",
+      "ticker": "NKE"
+    },
+    {
+      "cusip": "036752103",
+      "name": "ELEVANCE HEALTH INC FORMERLY",
+      "share_type": "SH",
+      "shares": 1005020,
+      "value_usd": 352309761,
+      "weight_pct": "0.84",
+      "ticker": null
+    },
+    {
+      "cusip": "416515104",
+      "name": "HARTFORD INSURANCE GROUP INC",
+      "share_type": "SH",
+      "shares": 2459709,
+      "value_usd": 338947900,
+      "weight_pct": "0.81",
+      "ticker": "HIG"
+    },
+    {
+      "cusip": "237194105",
+      "name": "DARDEN RESTAURANTS INC",
+      "share_type": "SH",
+      "shares": 1833677,
+      "value_usd": 337433242,
+      "weight_pct": "0.81",
+      "ticker": "DRI"
+    },
+    {
+      "cusip": "98389B100",
+      "name": "XCEL ENERGY INC",
+      "share_type": "SH",
+      "shares": 3718127,
+      "value_usd": 274620860,
+      "weight_pct": "0.66",
+      "ticker": "XEL"
+    },
+    {
+      "cusip": "444859102",
+      "name": "HUMANA INC",
+      "share_type": "SH",
+      "shares": 985738,
+      "value_usd": 252477074,
+      "weight_pct": "0.60",
+      "ticker": "HUM"
+    },
+    {
+      "cusip": "65473P105",
+      "name": "NISOURCE INC",
+      "share_type": "SH",
+      "shares": 5700723,
+      "value_usd": 238062192,
+      "weight_pct": "0.57",
+      "ticker": "NI"
+    },
+    {
+      "cusip": "934423104",
+      "name": "WARNER BROS DISCOVERY INC",
+      "share_type": "SH",
+      "shares": 7550349,
+      "value_usd": 217601058,
+      "weight_pct": "0.52",
+      "ticker": "WBD"
+    },
+    {
+      "cusip": "51817R205",
+      "name": "LATAM AIRLINES GROUP SA",
+      "share_type": "SH",
+      "shares": 3974931,
+      "value_usd": 214686023,
+      "weight_pct": "0.51",
+      "ticker": null
+    },
+    {
+      "cusip": "857477103",
+      "name": "STATE STR CORP",
+      "share_type": "SH",
+      "shares": 1459282,
+      "value_usd": 188261971,
+      "weight_pct": "0.45",
+      "ticker": null
+    },
+    {
+      "cusip": "446150104",
+      "name": "HUNTINGTON BANCSHARES INC",
+      "share_type": "SH",
+      "shares": 10458036,
+      "value_usd": 181446918,
+      "weight_pct": "0.43",
+      "ticker": "HBAN"
+    },
+    {
+      "cusip": "963320106",
+      "name": "WHIRLPOOL CORP",
+      "share_type": "SH",
+      "shares": 2391252,
+      "value_usd": 172504919,
+      "weight_pct": "0.41",
+      "ticker": "WHR"
+    },
+    {
+      "cusip": "063671101",
+      "name": "BANK MONTREAL QUE",
+      "share_type": "SH",
+      "shares": 1315207,
+      "value_usd": 170700717,
+      "weight_pct": "0.41",
+      "ticker": null
+    },
+    {
+      "cusip": "55616P104",
+      "name": "MACYS INC",
+      "share_type": "SH",
+      "shares": 6989536,
+      "value_usd": 154119269,
+      "weight_pct": "0.37",
+      "ticker": null
+    },
+    {
+      "cusip": "110448107",
+      "name": "BRITISH AMERN TOB PLC",
+      "share_type": "SH",
+      "shares": 2611105,
+      "value_usd": 147840765,
+      "weight_pct": "0.35",
+      "ticker": null
+    },
+    {
+      "cusip": "615369105",
+      "name": "MOODYS CORP",
+      "share_type": "SH",
+      "shares": 277462,
+      "value_usd": 141741463,
+      "weight_pct": "0.34",
+      "ticker": "MCO"
+    },
+    {
+      "cusip": "086516101",
+      "name": "BEST BUY INC",
+      "share_type": "SH",
+      "shares": 1149706,
+      "value_usd": 76949823,
+      "weight_pct": "0.18",
+      "ticker": "BBY"
+    },
+    {
+      "cusip": "941848103",
+      "name": "WATERS CORP",
+      "share_type": "SH",
+      "shares": 175530,
+      "value_usd": 66671560,
+      "weight_pct": "0.16",
+      "ticker": "WAT"
+    },
+    {
+      "cusip": "718172109",
+      "name": "PHILIP MORRIS INTL INC",
+      "share_type": "SH",
+      "shares": 389878,
+      "value_usd": 62536410,
+      "weight_pct": "0.15",
+      "ticker": "PM"
+    },
+    {
+      "cusip": "500754106",
+      "name": "KRAFT HEINZ CO",
+      "share_type": "SH",
+      "shares": 2459954,
+      "value_usd": 59653893,
+      "weight_pct": "0.14",
+      "ticker": "KHC"
+    },
+    {
+      "cusip": "209115104",
+      "name": "CONSOLIDATED EDISON INC",
+      "share_type": "SH",
+      "shares": 489408,
+      "value_usd": 48608003,
+      "weight_pct": "0.12",
+      "ticker": "ED"
+    },
+    {
+      "cusip": "723484101",
+      "name": "PINNACLE WEST CAP CORP",
+      "share_type": "SH",
+      "shares": 471080,
+      "value_usd": 41784796,
+      "weight_pct": "0.10",
+      "ticker": null
+    },
+    {
+      "cusip": "92047W101",
+      "name": "VALVOLINE INC",
+      "share_type": "SH",
+      "shares": 1418026,
+      "value_usd": 41207836,
+      "weight_pct": "0.10",
+      "ticker": "VVV"
+    },
+    {
+      "cusip": "077454106",
+      "name": "BELDEN INC",
+      "share_type": "SH",
+      "shares": 341103,
+      "value_usd": 39755555,
+      "weight_pct": "0.10",
+      "ticker": "BDC"
+    },
+    {
+      "cusip": "80105N105",
+      "name": "SANOFI SA",
+      "share_type": "SH",
+      "shares": 772199,
+      "value_usd": 37420776,
+      "weight_pct": "0.09",
+      "ticker": null
+    },
+    {
+      "cusip": "382550101",
+      "name": "GOODYEAR TIRE & RUBR CO",
+      "share_type": "SH",
+      "shares": 3571120,
+      "value_usd": 31283011,
+      "weight_pct": "0.07",
+      "ticker": null
+    },
+    {
+      "cusip": "044186104",
+      "name": "ASHLAND INC",
+      "share_type": "SH",
+      "shares": 492082,
+      "value_usd": 28870439,
+      "weight_pct": "0.07",
+      "ticker": "ASH"
+    },
+    {
+      "cusip": "06417N103",
+      "name": "BANK OZK LITTLE ROCK ARK",
+      "share_type": "SH",
+      "shares": 625411,
+      "value_usd": 28781411,
+      "weight_pct": "0.07",
+      "ticker": null
+    },
+    {
+      "cusip": "062540109",
+      "name": "BANK HAWAII CORP",
+      "share_type": "SH",
+      "shares": 348039,
+      "value_usd": 23795426,
+      "weight_pct": "0.06",
+      "ticker": "BOH"
+    },
+    {
+      "cusip": "53815P108",
+      "name": "LIVERAMP HLDGS INC",
+      "share_type": "SH",
+      "shares": 586716,
+      "value_usd": 17231834,
+      "weight_pct": "0.04",
+      "ticker": "RAMP"
+    }
+  ],
+  "investor": "Newport Trust Company, LLC",
+  "period": "2025-12-31",
+  "total_holdings": 64,
+  "total_value_usd": 41793572918
+}

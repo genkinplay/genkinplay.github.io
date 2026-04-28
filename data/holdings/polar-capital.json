@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001172661-26-000823",
+  "cik": "0001837309",
+  "filing_date": "2026-02-17",
+  "firm": "Polar Capital Holdings Plc",
+  "holdings": [
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "share_type": "SH",
+      "shares": 7152639,
+      "value_usd": 1944516439,
+      "weight_pct": "7.51",
+      "ticker": "AAPL"
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 9693690,
+      "value_usd": 1807873185,
+      "weight_pct": "6.99",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 5558761,
+      "value_usd": 1743092193,
+      "weight_pct": "6.74",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 3523449,
+      "value_usd": 1704010405,
+      "weight_pct": "6.58",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM INC",
+      "share_type": "SH",
+      "shares": 2716852,
+      "value_usd": 940302477,
+      "weight_pct": "3.63",
+      "ticker": "AVGO"
+    },
+    {
+      "cusip": "007903107",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "share_type": "SH",
+      "shares": 2759230,
+      "value_usd": 590916697,
+      "weight_pct": "2.28",
+      "ticker": "AMD"
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "share_type": "SH",
+      "shares": 877058,
+      "value_usd": 578937215,
+      "weight_pct": "2.24",
+      "ticker": "META"
+    },
+    {
+      "cusip": "512807306",
+      "name": "LAM RESEARCH CORP",
+      "share_type": "SH",
+      "shares": 2873948,
+      "value_usd": 491962419,
+      "weight_pct": "1.90",
+      "ticker": "LRCX"
+    },
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 1509724,
+      "value_usd": 473751391,
+      "weight_pct": "1.83",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "482480100",
+      "name": "KLA CORP",
+      "share_type": "SH",
+      "shares": 342199,
+      "value_usd": 415799161,
+      "weight_pct": "1.61",
+      "ticker": "KLAC"
+    },
+    {
+      "cusip": "55024U109",
+      "name": "LUMENTUM HLDGS INC",
+      "share_type": "SH",
+      "shares": 1029297,
+      "value_usd": 379388581,
+      "weight_pct": "1.47",
+      "ticker": "LITE"
+    },
+    {
+      "cusip": "G7496G103",
+      "name": "RENAISSANCERE HLDGS LTD",
+      "share_type": "SH",
+      "shares": 1279917,
+      "value_usd": 359861464,
+      "weight_pct": "1.39",
+      "ticker": "RNR"
+    },
+    {
+      "cusip": "G7997R103",
+      "name": "SEAGATE TECHNOLOGY HLDNGS PL",
+      "share_type": "SH",
+      "shares": 1229410,
+      "value_usd": 338567220,
+      "weight_pct": "1.31",
+      "ticker": null
+    },
+    {
+      "cusip": "G0450A105",
+      "name": "ARCH CAP GROUP LTD",
+      "share_type": "SH",
+      "shares": 3330000,
+      "value_usd": 319413600,
+      "weight_pct": "1.23",
+      "ticker": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 1368783,
+      "value_usd": 315942492,
+      "weight_pct": "1.22",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "19247G107",
+      "name": "COHERENT CORP",
+      "share_type": "SH",
+      "shares": 1705912,
+      "value_usd": 314860178,
+      "weight_pct": "1.22",
+      "ticker": "COHR"
+    },
+    {
+      "cusip": "595112103",
+      "name": "MICRON TECHNOLOGY INC",
+      "share_type": "SH",
+      "shares": 1098037,
+      "value_usd": 313390740,
+      "weight_pct": "1.21",
+      "ticker": "MU"
+    },
+    {
+      "cusip": "171779309",
+      "name": "CIENA CORP",
+      "share_type": "SH",
+      "shares": 1289427,
+      "value_usd": 301558292,
+      "weight_pct": "1.17",
+      "ticker": "CIEN"
+    },
+    {
+      "cusip": "80004C200",
+      "name": "SANDISK CORP",
+      "share_type": "SH",
+      "shares": 1268237,
+      "value_usd": 301054099,
+      "weight_pct": "1.16",
+      "ticker": "SNDK"
+    },
+    {
+      "cusip": "15101Q207",
+      "name": "CELESTICA INC",
+      "share_type": "SH",
+      "shares": 1011058,
+      "value_usd": 298878855,
+      "weight_pct": "1.15",
+      "ticker": "CLS"
+    },
+    {
+      "cusip": "532457108",
+      "name": "ELI LILLY & CO",
+      "share_type": "SH",
+      "shares": 267662,
+      "value_usd": 287650998,
+      "weight_pct": "1.11",
+      "ticker": "LLY"
+    },
+    {
+      "cusip": "82509L107",
+      "name": "SHOPIFY INC",
+      "share_type": "SH",
+      "shares": 1678793,
+      "value_usd": 270235309,
+      "weight_pct": "1.04",
+      "ticker": "SHOP"
+    },
+    {
+      "cusip": "G3323L100",
+      "name": "FABRINET",
+      "share_type": "SH",
+      "shares": 551916,
+      "value_usd": 251276316,
+      "weight_pct": "0.97",
+      "ticker": "FN"
+    },
+    {
+      "cusip": "H1467J104",
+      "name": "CHUBB LIMITED",
+      "share_type": "SH",
+      "shares": 715000,
+      "value_usd": 223165800,
+      "weight_pct": "0.86",
+      "ticker": "CB"
+    },
+    {
+      "cusip": "Y2573F102",
+      "name": "FLEX LTD",
+      "share_type": "SH",
+      "shares": 3693141,
+      "value_usd": 223139579,
+      "weight_pct": "0.86",
+      "ticker": "FLEX"
+    },
+    {
+      "cusip": "219350105",
+      "name": "CORNING INC",
+      "share_type": "SH",
+      "shares": 2285993,
+      "value_usd": 200161547,
+      "weight_pct": "0.77",
+      "ticker": "GLW"
+    },
+    {
+      "cusip": "336433107",
+      "name": "FIRST SOLAR INC",
+      "share_type": "SH",
+      "shares": 766028,
+      "value_usd": 200109494,
+      "weight_pct": "0.77",
+      "ticker": "FSLR"
+    },
+    {
+      "cusip": "18915M107",
+      "name": "CLOUDFLARE INC",
+      "share_type": "SH",
+      "shares": 930366,
+      "value_usd": 183421657,
+      "weight_pct": "0.71",
+      "ticker": "NET"
+    },
+    {
+      "cusip": "60937P106",
+      "name": "MONGODB INC",
+      "share_type": "SH",
+      "shares": 431207,
+      "value_usd": 180973266,
+      "weight_pct": "0.70",
+      "ticker": "MDB"
+    },
+    {
+      "cusip": "87305R109",
+      "name": "TTM TECHNOLOGIES INC",
+      "share_type": "SH",
+      "shares": 2597412,
+      "value_usd": 179221428,
+      "weight_pct": "0.69",
+      "ticker": "TTMI"
+    },
+    {
+      "cusip": "571748102",
+      "name": "MARSH & MCLENNAN COS INC",
+      "share_type": "SH",
+      "shares": 965000,
+      "value_usd": 179026800,
+      "weight_pct": "0.69",
+      "ticker": null
+    },
+    {
+      "cusip": "084423102",
+      "name": "BERKLEY W R CORP",
+      "share_type": "SH",
+      "shares": 2445000,
+      "value_usd": 171443400,
+      "weight_pct": "0.66",
+      "ticker": "WRB"
+    },
+    {
+      "cusip": "88160R101",
+      "name": "TESLA INC",
+      "share_type": "SH",
+      "shares": 368145,
+      "value_usd": 165562169,
+      "weight_pct": "0.64",
+      "ticker": "TSLA"
+    },
+    {
+      "cusip": "570535104",
+      "name": "MARKEL GROUP INC",
+      "share_type": "SH",
+      "shares": 77000,
+      "value_usd": 165523050,
+      "weight_pct": "0.64",
+      "ticker": "MKL"
+    },
+    {
+      "cusip": "040413205",
+      "name": "ARISTA NETWORKS INC",
+      "share_type": "SH",
+      "shares": 1244655,
+      "value_usd": 163087145,
+      "weight_pct": "0.63",
+      "ticker": "ANET"
+    },
+    {
+      "cusip": "03831W108",
+      "name": "APPLOVIN CORP",
+      "share_type": "SH",
+      "shares": 241533,
+      "value_usd": 162749766,
+      "weight_pct": "0.63",
+      "ticker": "APP"
+    },
+    {
+      "cusip": "36828A101",
+      "name": "GE VERNOVA INC",
+      "share_type": "SH",
+      "shares": 248022,
+      "value_usd": 162099739,
+      "weight_pct": "0.63",
+      "ticker": "GEV"
+    },
+    {
+      "cusip": "03969K108",
+      "name": "ARCUTIS BIOTHERAPEUTICS INC",
+      "share_type": "SH",
+      "shares": 5556169,
+      "value_usd": 161351148,
+      "weight_pct": "0.62",
+      "ticker": "ARQT"
+    },
+    {
+      "cusip": "76155X100",
+      "name": "REVOLUTION MEDICINES INC",
+      "share_type": "SH",
+      "shares": 2013791,
+      "value_usd": 160398453,
+      "weight_pct": "0.62",
+      "ticker": "RVMD"
+    },
+    {
+      "cusip": "G3198U102",
+      "name": "ESSENT GROUP LTD",
+      "share_type": "SH",
+      "shares": 2450000,
+      "value_usd": 159274500,
+      "weight_pct": "0.62",
+      "ticker": "ESNT"
+    },
+    {
+      "cusip": "G25457105",
+      "name": "CREDO TECHNOLOGY GROUP HOLDI",
+      "share_type": "SH",
+      "shares": 1100727,
+      "value_usd": 158383608,
+      "weight_pct": "0.61",
+      "ticker": null
+    },
+    {
+      "cusip": "75886F107",
+      "name": "REGENERON PHARMACEUTICALS",
+      "share_type": "SH",
+      "shares": 204927,
+      "value_usd": 158177003,
+      "weight_pct": "0.61",
+      "ticker": "REGN"
+    },
+    {
+      "cusip": "558868105",
+      "name": "MADRIGAL PHARMACEUTICALS INC",
+      "share_type": "SH",
+      "shares": 270151,
+      "value_usd": 157319733,
+      "weight_pct": "0.61",
+      "ticker": "MDGL"
+    },
+    {
+      "cusip": "958102105",
+      "name": "WESTERN DIGITAL CORP",
+      "share_type": "SH",
+      "shares": 913192,
+      "value_usd": 157315586,
+      "weight_pct": "0.61",
+      "ticker": "WDC"
+    },
+    {
+      "cusip": "23282W605",
+      "name": "CYTOKINETICS INC",
+      "share_type": "SH",
+      "shares": 2455612,
+      "value_usd": 156029586,
+      "weight_pct": "0.60",
+      "ticker": "CYTK"
+    },
+    {
+      "cusip": "881624209",
+      "name": "TEVA PHARMACEUTICAL INDS LTD",
+      "share_type": "SH",
+      "shares": 4987690,
+      "value_usd": 155665805,
+      "weight_pct": "0.60",
+      "ticker": null
+    },
+    {
+      "cusip": "670703107",
+      "name": "NUVALENT INC",
+      "share_type": "SH",
+      "shares": 1536859,
+      "value_usd": 154592647,
+      "weight_pct": "0.60",
+      "ticker": "NUVL"
+    },
+    {
+      "cusip": "89417E109",
+      "name": "TRAVELERS COMPANIES INC",
+      "share_type": "SH",
+      "shares": 490000,
+      "value_usd": 142129400,
+      "weight_pct": "0.55",
+      "ticker": "TRV"
+    },
+    {
+      "cusip": "G3223R108",
+      "name": "EVEREST GROUP LTD",
+      "share_type": "SH",
+      "shares": 403500,
+      "value_usd": 136927725,
+      "weight_pct": "0.53",
+      "ticker": "EG"
+    },
+    {
+      "cusip": "92537N108",
+      "name": "VERTIV HOLDINGS CO",
+      "share_type": "SH",
+      "shares": 827785,
+      "value_usd": 134109448,
+      "weight_pct": "0.52",
+      "ticker": "VRT"
+    }
+  ],
+  "investor": "Polar Capital Holdings Plc",
+  "period": "2025-12-31",
+  "total_holdings": 260,
+  "total_value_usd": 25877200068
+}

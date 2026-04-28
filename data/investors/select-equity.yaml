@@ -1,0 +1,30 @@
+slug: select-equity
+display_name:
+  en: Select Equity Group, L.P.
+  zh-CN: Select Equity 精选股权
+  zh-HK: Select Equity 精選股權
+tagline:
+  en: SEC 13F filer · AUM $23.20B
+  zh-CN: SEC 13F 机构 · 管理资产 $23.20B
+  zh-HK: SEC 13F 機構 · 管理資產 $23.20B
+role:
+  en: 'Institutional investor (rank #50, CIK 0001592643)'
+  zh-CN: '机构投资者（排名 #50，CIK 0001592643）'
+  zh-HK: '機構投資者（排名 #50，CIK 0001592643）'
+born: 0
+portrait: >-
+  https://api.dicebear.com/7.x/initials/svg?seed=Select%20Equity%20Group%2C%20L.P.&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001592643'
+holdings_source: 13f
+featured: false
+rank: 50
+aum_usd: 23200000000
+bio:
+  en: >-
+    Select Equity Group, L.P. is an institutional investor managing approximately $23.20B in disclosed U.S. equity
+    holdings as of 2025-12-31, ranking #50 among SEC 13F filers.
+  zh-CN: 'Select Equity 精选股权 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $23.20B，在 SEC 13F 机构中排名 #50。'
+  zh-HK: 'Select Equity 精選股權 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $23.20B，在 SEC 13F 機構中排名 #50。'
+philosophy: []
+quotes: []
+milestones: []

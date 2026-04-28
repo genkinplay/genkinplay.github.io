@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001592643-26-000004",
+  "cik": "0001592643",
+  "filing_date": "2026-02-17",
+  "firm": "Select Equity Group, L.P.",
+  "holdings": [
+    {
+      "cusip": "46090E103",
+      "name": "INVESCO QQQ TR",
+      "share_type": "SH",
+      "shares": 1720000,
+      "value_usd": 1056613200,
+      "weight_pct": "4.55",
+      "ticker": null
+    },
+    {
+      "cusip": "G93A5A101",
+      "name": "VIKING HOLDINGS LTD",
+      "share_type": "SH",
+      "shares": 13906877,
+      "value_usd": 993090087,
+      "weight_pct": "4.28",
+      "ticker": "VIK"
+    },
+    {
+      "cusip": "88023U101",
+      "name": "SOMNIGROUP INTERNATIONAL INC",
+      "share_type": "SH",
+      "shares": 10429043,
+      "value_usd": 931104959,
+      "weight_pct": "4.01",
+      "ticker": "SGI"
+    },
+    {
+      "cusip": "570535104",
+      "name": "MARKEL GROUP INC",
+      "share_type": "SH",
+      "shares": 427882,
+      "value_usd": 919796541,
+      "weight_pct": "3.96",
+      "ticker": "MKL"
+    },
+    {
+      "cusip": "G25508105",
+      "name": "CRH PLC",
+      "share_type": "SH",
+      "shares": 6779428,
+      "value_usd": 846072614,
+      "weight_pct": "3.65",
+      "ticker": null
+    },
+    {
+      "cusip": "538034109",
+      "name": "LIVE NATION ENTERTAINMENT IN",
+      "share_type": "SH",
+      "shares": 5586172,
+      "value_usd": 796029510,
+      "weight_pct": "3.43",
+      "ticker": null
+    },
+    {
+      "cusip": "929740108",
+      "name": "WABTEC",
+      "share_type": "SH",
+      "shares": 3559419,
+      "value_usd": 759757986,
+      "weight_pct": "3.28",
+      "ticker": null
+    },
+    {
+      "cusip": "115236101",
+      "name": "BROWN & BROWN INC",
+      "share_type": "SH",
+      "shares": 9434802,
+      "value_usd": 751953719,
+      "weight_pct": "3.24",
+      "ticker": "BRO"
+    },
+    {
+      "cusip": "573284106",
+      "name": "MARTIN MARIETTA MATLS INC",
+      "share_type": "SH",
+      "shares": 1067530,
+      "value_usd": 664708230,
+      "weight_pct": "2.87",
+      "ticker": null
+    },
+    {
+      "cusip": "704326107",
+      "name": "PAYCHEX INC",
+      "share_type": "SH",
+      "shares": 5716237,
+      "value_usd": 641247467,
+      "weight_pct": "2.76",
+      "ticker": "PAYX"
+    },
+    {
+      "cusip": "45073V108",
+      "name": "ITT INC",
+      "share_type": "SH",
+      "shares": 3625271,
+      "value_usd": 629020771,
+      "weight_pct": "2.71",
+      "ticker": "ITT"
+    },
+    {
+      "cusip": "892356106",
+      "name": "TRACTOR SUPPLY CO",
+      "share_type": "SH",
+      "shares": 12544591,
+      "value_usd": 627354996,
+      "weight_pct": "2.70",
+      "ticker": "TSCO"
+    },
+    {
+      "cusip": "896239100",
+      "name": "TRIMBLE INC",
+      "share_type": "SH",
+      "shares": 7298271,
+      "value_usd": 571819533,
+      "weight_pct": "2.46",
+      "ticker": "TRMB"
+    },
+    {
+      "cusip": "504922105",
+      "name": "LABCORP HOLDINGS INC",
+      "share_type": "SH",
+      "shares": 2110779,
+      "value_usd": 529552236,
+      "weight_pct": "2.28",
+      "ticker": "LH"
+    },
+    {
+      "cusip": "817565104",
+      "name": "SERVICE CORP INTL",
+      "share_type": "SH",
+      "shares": 6426585,
+      "value_usd": 501080832,
+      "weight_pct": "2.16",
+      "ticker": "SCI"
+    },
+    {
+      "cusip": "H01301128",
+      "name": "ALCON AG",
+      "share_type": "SH",
+      "shares": 6218304,
+      "value_usd": 496679429,
+      "weight_pct": "2.14",
+      "ticker": null
+    },
+    {
+      "cusip": "G8473T100",
+      "name": "STERIS PLC",
+      "share_type": "SH",
+      "shares": 1928033,
+      "value_usd": 488794926,
+      "weight_pct": "2.11",
+      "ticker": "STE"
+    },
+    {
+      "cusip": "596278101",
+      "name": "MIDDLEBY CORP",
+      "share_type": "SH",
+      "shares": 3199689,
+      "value_usd": 475697764,
+      "weight_pct": "2.05",
+      "ticker": "MIDD"
+    },
+    {
+      "cusip": "21874C102",
+      "name": "CORE & MAIN INC",
+      "share_type": "SH",
+      "shares": 7778376,
+      "value_usd": 404242201,
+      "weight_pct": "1.74",
+      "ticker": "CNM"
+    },
+    {
+      "cusip": "631103108",
+      "name": "NASDAQ INC",
+      "share_type": "SH",
+      "shares": 3752757,
+      "value_usd": 364505287,
+      "weight_pct": "1.57",
+      "ticker": "NDAQ"
+    },
+    {
+      "cusip": "219948106",
+      "name": "CORPAY INC",
+      "share_type": "SH",
+      "shares": 1121925,
+      "value_usd": 337620890,
+      "weight_pct": "1.46",
+      "ticker": "CPAY"
+    },
+    {
+      "cusip": "617700109",
+      "name": "MORNINGSTAR INC",
+      "share_type": "SH",
+      "shares": 1522492,
+      "value_usd": 330852737,
+      "weight_pct": "1.43",
+      "ticker": "MORN"
+    },
+    {
+      "cusip": "13646K108",
+      "name": "CANADIAN PACIFIC KANSAS CITY",
+      "share_type": "SH",
+      "shares": 4444219,
+      "value_usd": 327622345,
+      "weight_pct": "1.41",
+      "ticker": "CP"
+    },
+    {
+      "cusip": "12514G108",
+      "name": "CDW CORP",
+      "share_type": "SH",
+      "shares": 2277495,
+      "value_usd": 310194819,
+      "weight_pct": "1.34",
+      "ticker": "CDW"
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "share_type": "SH",
+      "shares": 1013739,
+      "value_usd": 308065145,
+      "weight_pct": "1.33",
+      "ticker": null
+    },
+    {
+      "cusip": "48020Q107",
+      "name": "JONES LANG LASALLE INC",
+      "share_type": "SH",
+      "shares": 911723,
+      "value_usd": 306767438,
+      "weight_pct": "1.32",
+      "ticker": "JLL"
+    },
+    {
+      "cusip": "G81276100",
+      "name": "SIGNET JEWELERS LIMITED",
+      "share_type": "SH",
+      "shares": 3556612,
+      "value_usd": 294772003,
+      "weight_pct": "1.27",
+      "ticker": "SIG"
+    },
+    {
+      "cusip": "29084Q100",
+      "name": "EMCOR GROUP INC",
+      "share_type": "SH",
+      "shares": 462505,
+      "value_usd": 282955934,
+      "weight_pct": "1.22",
+      "ticker": "EME"
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "share_type": "SH",
+      "shares": 745424,
+      "value_usd": 261427651,
+      "weight_pct": "1.13",
+      "ticker": "V"
+    },
+    {
+      "cusip": "05550J101",
+      "name": "BJS WHSL CLUB HLDGS INC",
+      "share_type": "SH",
+      "shares": 2692084,
+      "value_usd": 242368323,
+      "weight_pct": "1.04",
+      "ticker": null
+    },
+    {
+      "cusip": "124765108",
+      "name": "CAE INC",
+      "share_type": "SH",
+      "shares": 7586679,
+      "value_usd": 231018042,
+      "weight_pct": "1.00",
+      "ticker": "CAE"
+    },
+    {
+      "cusip": "34959J108",
+      "name": "FORTIVE CORP",
+      "share_type": "SH",
+      "shares": 3862464,
+      "value_usd": 213246637,
+      "weight_pct": "0.92",
+      "ticker": "FTV"
+    },
+    {
+      "cusip": "184496107",
+      "name": "CLEAN HARBORS INC",
+      "share_type": "SH",
+      "shares": 849499,
+      "value_usd": 199190526,
+      "weight_pct": "0.86",
+      "ticker": "CLH"
+    },
+    {
+      "cusip": "883556102",
+      "name": "THERMO FISHER SCIENTIFIC INC",
+      "share_type": "SH",
+      "shares": 315032,
+      "value_usd": 182545292,
+      "weight_pct": "0.79",
+      "ticker": "TMO"
+    },
+    {
+      "cusip": "12541W209",
+      "name": "C H ROBINSON WORLDWIDE INC",
+      "share_type": "SH",
+      "shares": 1127837,
+      "value_usd": 181311076,
+      "weight_pct": "0.78",
+      "ticker": "CHRW"
+    },
+    {
+      "cusip": "09073M104",
+      "name": "BIO-TECHNE CORP",
+      "share_type": "SH",
+      "shares": 2837142,
+      "value_usd": 166852321,
+      "weight_pct": "0.72",
+      "ticker": "TECH"
+    },
+    {
+      "cusip": "461202103",
+      "name": "INTUIT",
+      "share_type": "SH",
+      "shares": 250397,
+      "value_usd": 165867981,
+      "weight_pct": "0.71",
+      "ticker": "INTU"
+    },
+    {
+      "cusip": "98138H101",
+      "name": "WORKDAY INC",
+      "share_type": "SH",
+      "shares": 727709,
+      "value_usd": 156297339,
+      "weight_pct": "0.67",
+      "ticker": "WDAY"
+    },
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 476878,
+      "value_usd": 149644316,
+      "weight_pct": "0.65",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "34964C106",
+      "name": "FORTUNE BRANDS INNOVATIONS I",
+      "share_type": "SH",
+      "shares": 2856019,
+      "value_usd": 142858070,
+      "weight_pct": "0.62",
+      "ticker": null
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "share_type": "SH",
+      "shares": 530725,
+      "value_usd": 140594360,
+      "weight_pct": "0.61",
+      "ticker": "CRM"
+    },
+    {
+      "cusip": "H5919C104",
+      "name": "ON HLDG AG",
+      "share_type": "SH",
+      "shares": 2925518,
+      "value_usd": 135978077,
+      "weight_pct": "0.59",
+      "ticker": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 700870,
+      "value_usd": 130712255,
+      "weight_pct": "0.56",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 565297,
+      "value_usd": 130481854,
+      "weight_pct": "0.56",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "74762E102",
+      "name": "QUANTA SVCS INC",
+      "share_type": "SH",
+      "shares": 304355,
+      "value_usd": 128456071,
+      "weight_pct": "0.55",
+      "ticker": null
+    },
+    {
+      "cusip": "654106103",
+      "name": "NIKE INC",
+      "share_type": "SH",
+      "shares": 1834317,
+      "value_usd": 116864336,
+      "weight_pct": "0.50",
+      "ticker": "NKE"
+    },
+    {
+      "cusip": "770700102",
+      "name": "ROBINHOOD MKTS INC",
+      "share_type": "SH",
+      "shares": 1032000,
+      "value_usd": 116719200,
+      "weight_pct": "0.50",
+      "ticker": null
+    },
+    {
+      "cusip": "29362U104",
+      "name": "ENTEGRIS INC",
+      "share_type": "SH",
+      "shares": 1356842,
+      "value_usd": 114313939,
+      "weight_pct": "0.49",
+      "ticker": "ENTG"
+    },
+    {
+      "cusip": "H2906T109",
+      "name": "GARMIN LTD",
+      "share_type": "SH",
+      "shares": 534056,
+      "value_usd": 108333260,
+      "weight_pct": "0.47",
+      "ticker": "GRMN"
+    },
+    {
+      "cusip": "03769M106",
+      "name": "APOLLO GLOBAL MGMT INC",
+      "share_type": "SH",
+      "shares": 727557,
+      "value_usd": 105321151,
+      "weight_pct": "0.45",
+      "ticker": null
+    }
+  ],
+  "investor": "Select Equity Group, L.P.",
+  "period": "2025-12-31",
+  "total_holdings": 172,
+  "total_value_usd": 23198654927
+}

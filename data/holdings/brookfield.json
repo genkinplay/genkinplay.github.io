@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001193125-26-051814",
+  "cik": "0001001085",
+  "filing_date": "2026-02-13",
+  "firm": "BROOKFIELD Corp /ON/",
+  "holdings": [
+    {
+      "cusip": "113004105",
+      "name": "BROOKFIELD ASSET MANAGEMENT LTD",
+      "share_type": "SH",
+      "shares": 1193021145,
+      "value_usd": 62502377787,
+      "weight_pct": "77.40",
+      "ticker": "BAM"
+    },
+    {
+      "cusip": "16411Q101",
+      "name": "Cheniere Energy Partners LP",
+      "share_type": "SH",
+      "shares": 101620376,
+      "value_usd": 5434657708,
+      "weight_pct": "6.73",
+      "ticker": null
+    },
+    {
+      "cusip": "G16258108",
+      "name": "Brookfield Renewable Partners",
+      "share_type": "SH",
+      "shares": 81306719,
+      "value_usd": 2192842212,
+      "weight_pct": "2.72",
+      "ticker": null
+    },
+    {
+      "cusip": "11271J107",
+      "name": "BROOKFIELD CORP",
+      "share_type": "SH",
+      "shares": 46581943,
+      "value_usd": 2137645364,
+      "weight_pct": "2.65",
+      "ticker": "BN"
+    },
+    {
+      "cusip": "11259V106",
+      "name": "Brookfield Business Corp",
+      "share_type": "SH",
+      "shares": 47244876,
+      "value_usd": 1695146151,
+      "weight_pct": "2.10",
+      "ticker": "BBUC"
+    },
+    {
+      "cusip": "G16234109",
+      "name": "Brookfield Business Partners L",
+      "share_type": "SH",
+      "shares": 43708285,
+      "value_usd": 1538531632,
+      "weight_pct": "1.91",
+      "ticker": null
+    },
+    {
+      "cusip": "11285B108",
+      "name": "Brookfield Renewable Corp",
+      "share_type": "SH",
+      "shares": 10094152,
+      "value_usd": 387009788,
+      "weight_pct": "0.48",
+      "ticker": "BEPC"
+    },
+    {
+      "cusip": "969457100",
+      "name": "Williams Cos Inc/The",
+      "share_type": "SH",
+      "shares": 6065040,
+      "value_usd": 364569556,
+      "weight_pct": "0.45",
+      "ticker": null
+    },
+    {
+      "cusip": "89346D107",
+      "name": "TransAlta Corp",
+      "share_type": "SH",
+      "shares": 26947535,
+      "value_usd": 340616842,
+      "weight_pct": "0.42",
+      "ticker": "TAC"
+    },
+    {
+      "cusip": "87612G101",
+      "name": "Targa Resources Corp",
+      "share_type": "SH",
+      "shares": 1667106,
+      "value_usd": 307580967,
+      "weight_pct": "0.38",
+      "ticker": "TRGP"
+    },
+    {
+      "cusip": "22822V101",
+      "name": "Crown Castle Inc",
+      "share_type": "SH",
+      "shares": 2296807,
+      "value_usd": 204117238,
+      "weight_pct": "0.25",
+      "ticker": "CCI"
+    },
+    {
+      "cusip": "69331C108",
+      "name": "PG&E Corp",
+      "share_type": "SH",
+      "shares": 11344525,
+      "value_usd": 182306517,
+      "weight_pct": "0.23",
+      "ticker": "PCG"
+    },
+    {
+      "cusip": "16411R208",
+      "name": "Cheniere Energy Inc",
+      "share_type": "SH",
+      "shares": 907129,
+      "value_usd": 176336857,
+      "weight_pct": "0.22",
+      "ticker": "LNG"
+    },
+    {
+      "cusip": "15189T107",
+      "name": "CenterPoint Energy Inc",
+      "share_type": "SH",
+      "shares": 4503373,
+      "value_usd": 172659321,
+      "weight_pct": "0.21",
+      "ticker": "CNP"
+    },
+    {
+      "cusip": "816851109",
+      "name": "Sempra",
+      "share_type": "SH",
+      "shares": 1923524,
+      "value_usd": 169827934,
+      "weight_pct": "0.21",
+      "ticker": "SRE"
+    },
+    {
+      "cusip": "98389B100",
+      "name": "Xcel Energy Inc",
+      "share_type": "SH",
+      "shares": 2268511,
+      "value_usd": 167552222,
+      "weight_pct": "0.21",
+      "ticker": "XEL"
+    },
+    {
+      "cusip": "65339F101",
+      "name": "NextEra Energy Inc",
+      "share_type": "SH",
+      "shares": 2070933,
+      "value_usd": 166254501,
+      "weight_pct": "0.21",
+      "ticker": "NEE"
+    },
+    {
+      "cusip": "G16252101",
+      "name": "Brookfield Infrastructure Part",
+      "share_type": "SH",
+      "shares": 4686497,
+      "value_usd": 162808906,
+      "weight_pct": "0.20",
+      "ticker": null
+    },
+    {
+      "cusip": "55336V100",
+      "name": "MPLX LP",
+      "share_type": "SH",
+      "shares": 2959830,
+      "value_usd": 157966145,
+      "weight_pct": "0.20",
+      "ticker": "MPLX"
+    },
+    {
+      "cusip": "29273V100",
+      "name": "Energy Transfer LP",
+      "share_type": "SH",
+      "shares": 7063419,
+      "value_usd": 116475783,
+      "weight_pct": "0.14",
+      "ticker": "ET"
+    },
+    {
+      "cusip": "337932107",
+      "name": "FirstEnergy Corp",
+      "share_type": "SH",
+      "shares": 2464418,
+      "value_usd": 110331994,
+      "weight_pct": "0.14",
+      "ticker": "FE"
+    },
+    {
+      "cusip": "126408103",
+      "name": "CSX Corp",
+      "share_type": "SH",
+      "shares": 2874913,
+      "value_usd": 104215596,
+      "weight_pct": "0.13",
+      "ticker": "CSX"
+    },
+    {
+      "cusip": "907818108",
+      "name": "Union Pacific Corp",
+      "share_type": "SH",
+      "shares": 448681,
+      "value_usd": 103788889,
+      "weight_pct": "0.13",
+      "ticker": "UNP"
+    },
+    {
+      "cusip": "513272104",
+      "name": "Lamb Weston Holdings Inc",
+      "share_type": "SH",
+      "shares": 2226311,
+      "value_usd": 93260168,
+      "weight_pct": "0.12",
+      "ticker": "LW"
+    },
+    {
+      "cusip": "29250N105",
+      "name": "Enbridge Inc",
+      "share_type": "SH",
+      "shares": 1865925,
+      "value_usd": 89247198,
+      "weight_pct": "0.11",
+      "ticker": "ENB"
+    },
+    {
+      "cusip": "87807B107",
+      "name": "TC Energy Corp",
+      "share_type": "SH",
+      "shares": 1594020,
+      "value_usd": 87687034,
+      "weight_pct": "0.11",
+      "ticker": "TRP"
+    },
+    {
+      "cusip": "29444U700",
+      "name": "Equinix Inc",
+      "share_type": "SH",
+      "shares": 101322,
+      "value_usd": 77628864,
+      "weight_pct": "0.10",
+      "ticker": "EQIX"
+    },
+    {
+      "cusip": "293792107",
+      "name": "Enterprise Products Partners LP",
+      "share_type": "SH",
+      "shares": 2106123,
+      "value_usd": 67522303,
+      "weight_pct": "0.08",
+      "ticker": null
+    },
+    {
+      "cusip": "682680103",
+      "name": "ONEOK Inc",
+      "share_type": "SH",
+      "shares": 883496,
+      "value_usd": 64936983,
+      "weight_pct": "0.08",
+      "ticker": "OKE"
+    },
+    {
+      "cusip": "654106103",
+      "name": "NIKE Inc",
+      "share_type": "SH",
+      "shares": 1008598,
+      "value_usd": 64257779,
+      "weight_pct": "0.08",
+      "ticker": "NKE"
+    },
+    {
+      "cusip": "30040W108",
+      "name": "Eversource Energy",
+      "share_type": "SH",
+      "shares": 949925,
+      "value_usd": 63958450,
+      "weight_pct": "0.08",
+      "ticker": "ES"
+    },
+    {
+      "cusip": "G17434104",
+      "name": "Brookfield Wealth Solutions Ltd",
+      "share_type": "SH",
+      "shares": 1355764,
+      "value_usd": 62297356,
+      "weight_pct": "0.08",
+      "ticker": "BNT"
+    },
+    {
+      "cusip": "49456B101",
+      "name": "Kinder Morgan Inc",
+      "share_type": "SH",
+      "shares": 2235434,
+      "value_usd": 61452086,
+      "weight_pct": "0.08",
+      "ticker": "KMI"
+    },
+    {
+      "cusip": "23345M107",
+      "name": "DT Midstream Inc",
+      "share_type": "SH",
+      "shares": 510282,
+      "value_usd": 61070535,
+      "weight_pct": "0.08",
+      "ticker": "DTM"
+    },
+    {
+      "cusip": "65473P105",
+      "name": "NiSource Inc",
+      "share_type": "SH",
+      "shares": 1444808,
+      "value_usd": 60335182,
+      "weight_pct": "0.07",
+      "ticker": "NI"
+    },
+    {
+      "cusip": "95040Q104",
+      "name": "Welltower Inc",
+      "share_type": "SH",
+      "shares": 298131,
+      "value_usd": 55336095,
+      "weight_pct": "0.07",
+      "ticker": "WELL"
+    },
+    {
+      "cusip": "72651A207",
+      "name": "Plains GP Holdings LP",
+      "share_type": "SH",
+      "shares": 2198374,
+      "value_usd": 42076878,
+      "weight_pct": "0.05",
+      "ticker": "PAGP"
+    },
+    {
+      "cusip": "74340W103",
+      "name": "Prologis Inc",
+      "share_type": "SH",
+      "shares": 325235,
+      "value_usd": 41519500,
+      "weight_pct": "0.05",
+      "ticker": "PLD"
+    },
+    {
+      "cusip": "03676B102",
+      "name": "Antero Midstream Corp",
+      "share_type": "SH",
+      "shares": 2175993,
+      "value_usd": 38710915,
+      "weight_pct": "0.05",
+      "ticker": "AM"
+    },
+    {
+      "cusip": "03027X100",
+      "name": "American Tower Corp",
+      "share_type": "SH",
+      "shares": 216684,
+      "value_usd": 38043210,
+      "weight_pct": "0.05",
+      "ticker": "AMT"
+    },
+    {
+      "cusip": "428103105",
+      "name": "Hess Midstream LP",
+      "share_type": "SH",
+      "shares": 973289,
+      "value_usd": 33578471,
+      "weight_pct": "0.04",
+      "ticker": "HESM"
+    },
+    {
+      "cusip": "83671M105",
+      "name": "South Bow Corp",
+      "share_type": "SH",
+      "shares": 1212156,
+      "value_usd": 33297918,
+      "weight_pct": "0.04",
+      "ticker": "SOBO"
+    },
+    {
+      "cusip": "451107106",
+      "name": "IDACORP Inc",
+      "share_type": "SH",
+      "shares": 250651,
+      "value_usd": 31722391,
+      "weight_pct": "0.04",
+      "ticker": "IDA"
+    },
+    {
+      "cusip": "50012A108",
+      "name": "Kodiak Gas Services Inc",
+      "share_type": "SH",
+      "shares": 788373,
+      "value_usd": 29485153,
+      "weight_pct": "0.04",
+      "ticker": "KGS"
+    },
+    {
+      "cusip": "59522J103",
+      "name": "Mid-America Apartment Communities Inc",
+      "share_type": "SH",
+      "shares": 202799,
+      "value_usd": 28170809,
+      "weight_pct": "0.03",
+      "ticker": "MAA"
+    },
+    {
+      "cusip": "81764X103",
+      "name": "SERVICETITAN INC",
+      "share_type": "SH",
+      "shares": 263000,
+      "value_usd": 28009500,
+      "weight_pct": "0.03",
+      "ticker": "TTAN"
+    },
+    {
+      "cusip": "32054K103",
+      "name": "First Industrial Realty Trust Inc",
+      "share_type": "SH",
+      "shares": 481037,
+      "value_usd": 27548989,
+      "weight_pct": "0.03",
+      "ticker": "FR"
+    },
+    {
+      "cusip": "844895102",
+      "name": "Southwest Gas Holdings Inc",
+      "share_type": "SH",
+      "shares": 338070,
+      "value_usd": 27052361,
+      "weight_pct": "0.03",
+      "ticker": "SWX"
+    },
+    {
+      "cusip": "36164V800",
+      "name": "GCI Liberty Inc",
+      "share_type": "SH",
+      "shares": 726398,
+      "value_usd": 27029270,
+      "weight_pct": "0.03",
+      "ticker": "GLIBA"
+    },
+    {
+      "cusip": "958669103",
+      "name": "Western Midstream Partners LP",
+      "share_type": "SH",
+      "shares": 680884,
+      "value_usd": 26894923,
+      "weight_pct": "0.03",
+      "ticker": "WES"
+    }
+  ],
+  "investor": "BROOKFIELD Corp /ON/",
+  "period": "2025-12-31",
+  "total_holdings": 129,
+  "total_value_usd": 80757127828
+}

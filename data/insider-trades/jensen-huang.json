@@ -1,21 +1,9 @@
 {
   "ticker": "NVDA.US",
   "owner_match": "huang jen",
-  "fetched_at": "2026-04-27T08:58:07.384Z",
-  "total_count": 373,
+  "fetched_at": "2026-04-28T05:41:22.057Z",
+  "total_count": 360,
   "trades": [
-    {
-      "code": "G",
-      "date": "2026-03-18",
-      "filing_date": "2026-03-20",
-      "owner": "HUANG JEN HSUN",
-      "price": 0,
-      "shares": 58962602,
-      "shares_after": 109040602,
-      "title": "President and CEO",
-      "type": "GIFT",
-      "value": 0
-    },
     {
       "code": "F",
       "date": "2026-03-18",
@@ -48,6 +36,18 @@
       "price": 0,
       "shares": 29481301,
       "shares_after": 0,
+      "title": "President and CEO",
+      "type": "GIFT",
+      "value": 0
+    },
+    {
+      "code": "G",
+      "date": "2026-03-18",
+      "filing_date": "2026-03-20",
+      "owner": "HUANG JEN HSUN",
+      "price": 0,
+      "shares": 58962602,
+      "shares_after": 109040602,
       "title": "President and CEO",
       "type": "GIFT",
       "value": 0
@@ -165,12 +165,12 @@
       "date": "2025-10-29",
       "filing_date": "2025-10-31",
       "owner": "HUANG JEN HSUN",
-      "price": 207.3762,
-      "shares": 5118,
-      "shares_after": 69742282,
+      "price": 211.7617,
+      "shares": 477,
+      "shares_after": 69733203,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 1061351.3916
+      "value": 101010.3309
     },
     {
       "code": "S",
@@ -189,12 +189,12 @@
       "date": "2025-10-29",
       "filing_date": "2025-10-31",
       "owner": "HUANG JEN HSUN",
-      "price": 205.6542,
-      "shares": 3013,
-      "shares_after": 69755190,
+      "price": 207.3762,
+      "shares": 5118,
+      "shares_after": 69742282,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 619636.1046
+      "value": 1061351.3916
     },
     {
       "code": "S",
@@ -237,12 +237,12 @@
       "date": "2025-10-29",
       "filing_date": "2025-10-31",
       "owner": "HUANG JEN HSUN",
-      "price": 211.7617,
-      "shares": 477,
-      "shares_after": 69733203,
+      "price": 205.6542,
+      "shares": 3013,
+      "shares_after": 69755190,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 101010.3309
+      "value": 619636.1046
     },
     {
       "code": "S",
@@ -477,12 +477,12 @@
       "date": "2025-10-23",
       "filing_date": "2025-10-23",
       "owner": "HUANG JEN HSUN",
-      "price": 182.8915,
-      "shares": 4342,
-      "shares_after": 69883203,
+      "price": 181.4444,
+      "shares": 21229,
+      "shares_after": 69926899,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 794114.893
+      "value": 3851883.1676
     },
     {
       "code": "S",
@@ -501,18 +501,6 @@
       "date": "2025-10-23",
       "filing_date": "2025-10-23",
       "owner": "HUANG JEN HSUN",
-      "price": 181.4444,
-      "shares": 21229,
-      "shares_after": 69926899,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 3851883.1676
-    },
-    {
-      "code": "S",
-      "date": "2025-10-23",
-      "filing_date": "2025-10-23",
-      "owner": "HUANG JEN HSUN",
       "price": 180.3454,
       "shares": 10075,
       "shares_after": 69948128,
@@ -522,15 +510,15 @@
     },
     {
       "code": "S",
-      "date": "2025-10-22",
+      "date": "2025-10-23",
       "filing_date": "2025-10-23",
       "owner": "HUANG JEN HSUN",
-      "price": 180.4572,
-      "shares": 17663,
-      "shares_after": 69974703,
+      "price": 182.8915,
+      "shares": 4342,
+      "shares_after": 69883203,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 3187415.5236
+      "value": 794114.893
     },
     {
       "code": "S",
@@ -579,6 +567,18 @@
       "title": "President and CEO",
       "type": "SELL",
       "value": 1429468.052
+    },
+    {
+      "code": "S",
+      "date": "2025-10-22",
+      "filing_date": "2025-10-23",
+      "owner": "HUANG JEN HSUN",
+      "price": 180.4572,
+      "shares": 17663,
+      "shares_after": 69974703,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 3187415.5236
     },
     {
       "code": "S",
@@ -693,24 +693,24 @@
       "date": "2025-10-17",
       "filing_date": "2025-10-20",
       "owner": "HUANG JEN HSUN",
-      "price": 182.422,
-      "shares": 28863,
-      "shares_after": 70206217,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 5265246.186
-    },
-    {
-      "code": "S",
-      "date": "2025-10-17",
-      "filing_date": "2025-10-20",
-      "owner": "HUANG JEN HSUN",
       "price": 181.4777,
       "shares": 13328,
       "shares_after": 70235080,
       "title": "President and CEO",
       "type": "SELL",
       "value": 2418734.7856
+    },
+    {
+      "code": "S",
+      "date": "2025-10-17",
+      "filing_date": "2025-10-20",
+      "owner": "HUANG JEN HSUN",
+      "price": 182.422,
+      "shares": 28863,
+      "shares_after": 70206217,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 5265246.186
     },
     {
       "code": "S",
@@ -801,72 +801,12 @@
       "date": "2025-10-15",
       "filing_date": "2025-10-15",
       "owner": "HUANG JEN HSUN",
-      "price": 182.0858,
-      "shares": 20846,
-      "shares_after": 70346218,
+      "price": 184.6322,
+      "shares": 90,
+      "shares_after": 70333203,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 3795760.5868
-    },
-    {
-      "code": "S",
-      "date": "2025-10-15",
-      "filing_date": "2025-10-15",
-      "owner": "HUANG JEN HSUN",
-      "price": 178.1301,
-      "shares": 2917,
-      "shares_after": 70405286,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 519605.5017
-    },
-    {
-      "code": "S",
-      "date": "2025-10-15",
-      "filing_date": "2025-10-15",
-      "owner": "HUANG JEN HSUN",
-      "price": 179.1531,
-      "shares": 8768,
-      "shares_after": 70396518,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 1570814.3808
-    },
-    {
-      "code": "S",
-      "date": "2025-10-15",
-      "filing_date": "2025-10-15",
-      "owner": "HUANG JEN HSUN",
-      "price": 180.09,
-      "shares": 22944,
-      "shares_after": 70373574,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 4131984.96
-    },
-    {
-      "code": "S",
-      "date": "2025-10-15",
-      "filing_date": "2025-10-15",
-      "owner": "HUANG JEN HSUN",
-      "price": 180.8338,
-      "shares": 6510,
-      "shares_after": 70367064,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 1177228.038
-    },
-    {
-      "code": "S",
-      "date": "2025-10-15",
-      "filing_date": "2025-10-15",
-      "owner": "HUANG JEN HSUN",
-      "price": 182.832,
-      "shares": 12006,
-      "shares_after": 70334212,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 2195080.992
+      "value": 16616.898
     },
     {
       "code": "S",
@@ -885,48 +825,84 @@
       "date": "2025-10-15",
       "filing_date": "2025-10-15",
       "owner": "HUANG JEN HSUN",
-      "price": 184.6322,
-      "shares": 90,
-      "shares_after": 70333203,
+      "price": 182.832,
+      "shares": 12006,
+      "shares_after": 70334212,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 16616.898
+      "value": 2195080.992
+    },
+    {
+      "code": "S",
+      "date": "2025-10-15",
+      "filing_date": "2025-10-15",
+      "owner": "HUANG JEN HSUN",
+      "price": 182.0858,
+      "shares": 20846,
+      "shares_after": 70346218,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 3795760.5868
+    },
+    {
+      "code": "S",
+      "date": "2025-10-15",
+      "filing_date": "2025-10-15",
+      "owner": "HUANG JEN HSUN",
+      "price": 180.8338,
+      "shares": 6510,
+      "shares_after": 70367064,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 1177228.038
+    },
+    {
+      "code": "S",
+      "date": "2025-10-15",
+      "filing_date": "2025-10-15",
+      "owner": "HUANG JEN HSUN",
+      "price": 180.09,
+      "shares": 22944,
+      "shares_after": 70373574,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 4131984.96
+    },
+    {
+      "code": "S",
+      "date": "2025-10-15",
+      "filing_date": "2025-10-15",
+      "owner": "HUANG JEN HSUN",
+      "price": 179.1531,
+      "shares": 8768,
+      "shares_after": 70396518,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 1570814.3808
+    },
+    {
+      "code": "S",
+      "date": "2025-10-15",
+      "filing_date": "2025-10-15",
+      "owner": "HUANG JEN HSUN",
+      "price": 178.1301,
+      "shares": 2917,
+      "shares_after": 70405286,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 519605.5017
     },
     {
       "code": "S",
       "date": "2025-10-14",
       "filing_date": "2025-10-15",
       "owner": "HUANG JEN HSUN",
-      "price": 180.4924,
-      "shares": 10580,
-      "shares_after": 70472623,
+      "price": 184.0867,
+      "shares": 2327,
+      "shares_after": 70408203,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 1909609.592
-    },
-    {
-      "code": "S",
-      "date": "2025-10-14",
-      "filing_date": "2025-10-15",
-      "owner": "HUANG JEN HSUN",
-      "price": 181.4961,
-      "shares": 28335,
-      "shares_after": 70444288,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 5142691.993500001
-    },
-    {
-      "code": "S",
-      "date": "2025-10-14",
-      "filing_date": "2025-10-15",
-      "owner": "HUANG JEN HSUN",
-      "price": 182.2507,
-      "shares": 23469,
-      "shares_after": 70420819,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 4277241.6783
+      "value": 428369.75090000004
     },
     {
       "code": "S",
@@ -945,36 +921,48 @@
       "date": "2025-10-14",
       "filing_date": "2025-10-15",
       "owner": "HUANG JEN HSUN",
-      "price": 184.0867,
-      "shares": 2327,
-      "shares_after": 70408203,
+      "price": 182.2507,
+      "shares": 23469,
+      "shares_after": 70420819,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 428369.75090000004
+      "value": 4277241.6783
+    },
+    {
+      "code": "S",
+      "date": "2025-10-14",
+      "filing_date": "2025-10-15",
+      "owner": "HUANG JEN HSUN",
+      "price": 181.4961,
+      "shares": 28335,
+      "shares_after": 70444288,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 5142691.993500001
+    },
+    {
+      "code": "S",
+      "date": "2025-10-14",
+      "filing_date": "2025-10-15",
+      "owner": "HUANG JEN HSUN",
+      "price": 180.4924,
+      "shares": 10580,
+      "shares_after": 70472623,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 1909609.592
     },
     {
       "code": "S",
       "date": "2025-10-13",
       "filing_date": "2025-10-15",
       "owner": "HUANG JEN HSUN",
-      "price": 187.7341,
-      "shares": 26114,
-      "shares_after": 70528893,
+      "price": 186.6596,
+      "shares": 3196,
+      "shares_after": 70555007,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 4902488.287400001
-    },
-    {
-      "code": "S",
-      "date": "2025-10-13",
-      "filing_date": "2025-10-15",
-      "owner": "HUANG JEN HSUN",
-      "price": 188.4381,
-      "shares": 36295,
-      "shares_after": 70492598,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 6839360.8395
+      "value": 596564.0816
     },
     {
       "code": "S",
@@ -993,24 +981,36 @@
       "date": "2025-10-13",
       "filing_date": "2025-10-15",
       "owner": "HUANG JEN HSUN",
-      "price": 186.6596,
-      "shares": 3196,
-      "shares_after": 70555007,
+      "price": 188.4381,
+      "shares": 36295,
+      "shares_after": 70492598,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 596564.0816
+      "value": 6839360.8395
+    },
+    {
+      "code": "S",
+      "date": "2025-10-13",
+      "filing_date": "2025-10-15",
+      "owner": "HUANG JEN HSUN",
+      "price": 187.7341,
+      "shares": 26114,
+      "shares_after": 70528893,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 4902488.287400001
     },
     {
       "code": "S",
       "date": "2025-10-10",
       "filing_date": "2025-10-10",
       "owner": "HUANG JEN HSUN",
-      "price": 185.5239,
-      "shares": 1927,
-      "shares_after": 70625771,
+      "price": 183.3881,
+      "shares": 2739,
+      "shares_after": 70630464,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 357504.5553
+      "value": 502300.00590000005
     },
     {
       "code": "S",
@@ -1041,12 +1041,12 @@
       "date": "2025-10-10",
       "filing_date": "2025-10-10",
       "owner": "HUANG JEN HSUN",
-      "price": 183.3881,
-      "shares": 2739,
-      "shares_after": 70630464,
+      "price": 194.7326,
+      "shares": 7373,
+      "shares_after": 70563799,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 502300.00590000005
+      "value": 1435763.4597999998
     },
     {
       "code": "S",
@@ -1065,12 +1065,12 @@
       "date": "2025-10-10",
       "filing_date": "2025-10-10",
       "owner": "HUANG JEN HSUN",
-      "price": 194.7326,
-      "shares": 7373,
-      "shares_after": 70563799,
+      "price": 185.5239,
+      "shares": 1927,
+      "shares_after": 70625771,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 1435763.4597999998
+      "value": 357504.5553
     },
     {
       "code": "S",
@@ -1245,36 +1245,24 @@
       "date": "2025-10-07",
       "filing_date": "2025-10-07",
       "owner": "HUANG JEN HSUN",
+      "price": 188.7255,
+      "shares": 4356,
+      "shares_after": 70783203,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 822088.278
+    },
+    {
+      "code": "S",
+      "date": "2025-10-07",
+      "filing_date": "2025-10-07",
+      "owner": "HUANG JEN HSUN",
       "price": 188.1575,
       "shares": 15249,
       "shares_after": 70787559,
       "title": "President and CEO",
       "type": "SELL",
       "value": 2869213.7175
-    },
-    {
-      "code": "S",
-      "date": "2025-10-07",
-      "filing_date": "2025-10-07",
-      "owner": "HUANG JEN HSUN",
-      "price": 185.3057,
-      "shares": 20821,
-      "shares_after": 70837382,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 3858249.9797
-    },
-    {
-      "code": "S",
-      "date": "2025-10-07",
-      "filing_date": "2025-10-07",
-      "owner": "HUANG JEN HSUN",
-      "price": 185.8618,
-      "shares": 25498,
-      "shares_after": 70811884,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 4739104.176399999
     },
     {
       "code": "S",
@@ -1293,24 +1281,36 @@
       "date": "2025-10-07",
       "filing_date": "2025-10-07",
       "owner": "HUANG JEN HSUN",
-      "price": 188.7255,
-      "shares": 4356,
-      "shares_after": 70783203,
+      "price": 185.8618,
+      "shares": 25498,
+      "shares_after": 70811884,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 822088.278
+      "value": 4739104.176399999
+    },
+    {
+      "code": "S",
+      "date": "2025-10-07",
+      "filing_date": "2025-10-07",
+      "owner": "HUANG JEN HSUN",
+      "price": 185.3057,
+      "shares": 20821,
+      "shares_after": 70837382,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 3858249.9797
     },
     {
       "code": "S",
       "date": "2025-10-06",
       "filing_date": "2025-10-07",
       "owner": "HUANG JEN HSUN",
-      "price": 184.2322,
-      "shares": 3913,
-      "shares_after": 70929290,
+      "price": 186.8438,
+      "shares": 9882,
+      "shares_after": 70858203,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 720900.5986
+      "value": 1846390.4315999998
     },
     {
       "code": "S",
@@ -1341,48 +1341,24 @@
       "date": "2025-10-06",
       "filing_date": "2025-10-07",
       "owner": "HUANG JEN HSUN",
-      "price": 186.8438,
-      "shares": 9882,
-      "shares_after": 70858203,
+      "price": 184.2322,
+      "shares": 3913,
+      "shares_after": 70929290,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 1846390.4315999998
+      "value": 720900.5986
     },
     {
       "code": "S",
       "date": "2025-10-03",
       "filing_date": "2025-10-07",
       "owner": "HUANG JEN HSUN",
-      "price": 187.2417,
-      "shares": 14566,
-      "shares_after": 70990477,
+      "price": 186.1133,
+      "shares": 3160,
+      "shares_after": 71005043,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 2727362.6022
-    },
-    {
-      "code": "S",
-      "date": "2025-10-03",
-      "filing_date": "2025-10-07",
-      "owner": "HUANG JEN HSUN",
-      "price": 187.7799,
-      "shares": 14672,
-      "shares_after": 70975805,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 2755106.6928
-    },
-    {
-      "code": "S",
-      "date": "2025-10-03",
-      "filing_date": "2025-10-07",
-      "owner": "HUANG JEN HSUN",
-      "price": 189.0363,
-      "shares": 34355,
-      "shares_after": 70941450,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 6494342.0865
+      "value": 588118.028
     },
     {
       "code": "S",
@@ -1401,12 +1377,36 @@
       "date": "2025-10-03",
       "filing_date": "2025-10-07",
       "owner": "HUANG JEN HSUN",
-      "price": 186.1133,
-      "shares": 3160,
-      "shares_after": 71005043,
+      "price": 189.0363,
+      "shares": 34355,
+      "shares_after": 70941450,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 588118.028
+      "value": 6494342.0865
+    },
+    {
+      "code": "S",
+      "date": "2025-10-03",
+      "filing_date": "2025-10-07",
+      "owner": "HUANG JEN HSUN",
+      "price": 187.7799,
+      "shares": 14672,
+      "shares_after": 70975805,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 2755106.6928
+    },
+    {
+      "code": "S",
+      "date": "2025-10-03",
+      "filing_date": "2025-10-07",
+      "owner": "HUANG JEN HSUN",
+      "price": 187.2417,
+      "shares": 14566,
+      "shares_after": 70990477,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 2727362.6022
     },
     {
       "code": "S",
@@ -1449,12 +1449,12 @@
       "date": "2025-10-01",
       "filing_date": "2025-10-02",
       "owner": "HUANG JEN HSUN",
-      "price": 185.3135,
-      "shares": 10825,
-      "shares_after": 71137892,
+      "price": 186.7196,
+      "shares": 14577,
+      "shares_after": 71123315,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 2006018.6375
+      "value": 2721811.6092000003
     },
     {
       "code": "S",
@@ -1473,12 +1473,12 @@
       "date": "2025-10-01",
       "filing_date": "2025-10-02",
       "owner": "HUANG JEN HSUN",
-      "price": 186.7196,
-      "shares": 14577,
-      "shares_after": 71123315,
+      "price": 185.3135,
+      "shares": 10825,
+      "shares_after": 71137892,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 2721811.6092000003
+      "value": 2006018.6375
     },
     {
       "code": "S",
@@ -1581,24 +1581,12 @@
       "date": "2025-09-29",
       "filing_date": "2025-09-29",
       "owner": "HUANG JEN HSUN",
-      "price": 183.546,
-      "shares": 7192,
-      "shares_after": 71233203,
+      "price": 181.0824,
+      "shares": 6954,
+      "shares_after": 71301249,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 1320062.832
-    },
-    {
-      "code": "S",
-      "date": "2025-09-29",
-      "filing_date": "2025-09-29",
-      "owner": "HUANG JEN HSUN",
-      "price": 182.9936,
-      "shares": 24558,
-      "shares_after": 71240395,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 4493956.828799999
+      "value": 1259247.0096
     },
     {
       "code": "S",
@@ -1617,24 +1605,24 @@
       "date": "2025-09-29",
       "filing_date": "2025-09-29",
       "owner": "HUANG JEN HSUN",
-      "price": 181.0824,
-      "shares": 6954,
-      "shares_after": 71301249,
+      "price": 182.9936,
+      "shares": 24558,
+      "shares_after": 71240395,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 1259247.0096
+      "value": 4493956.828799999
     },
     {
       "code": "S",
-      "date": "2025-09-26",
+      "date": "2025-09-29",
       "filing_date": "2025-09-29",
       "owner": "HUANG JEN HSUN",
-      "price": 178.3078,
-      "shares": 2510,
-      "shares_after": 71308203,
+      "price": 183.546,
+      "shares": 7192,
+      "shares_after": 71233203,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 447552.578
+      "value": 1320062.832
     },
     {
       "code": "S",
@@ -1674,6 +1662,66 @@
     },
     {
       "code": "S",
+      "date": "2025-09-26",
+      "filing_date": "2025-09-29",
+      "owner": "HUANG JEN HSUN",
+      "price": 178.3078,
+      "shares": 2510,
+      "shares_after": 71308203,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 447552.578
+    },
+    {
+      "code": "S",
+      "date": "2025-09-25",
+      "filing_date": "2025-09-29",
+      "owner": "HUANG JEN HSUN",
+      "price": 174.6591,
+      "shares": 7910,
+      "shares_after": 71445650,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 1381553.481
+    },
+    {
+      "code": "S",
+      "date": "2025-09-25",
+      "filing_date": "2025-09-29",
+      "owner": "HUANG JEN HSUN",
+      "price": 175.8554,
+      "shares": 3784,
+      "shares_after": 71441866,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 665436.8336
+    },
+    {
+      "code": "S",
+      "date": "2025-09-25",
+      "filing_date": "2025-09-29",
+      "owner": "HUANG JEN HSUN",
+      "price": 176.9408,
+      "shares": 20015,
+      "shares_after": 71421851,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 3541470.1119999997
+    },
+    {
+      "code": "S",
+      "date": "2025-09-25",
+      "filing_date": "2025-09-29",
+      "owner": "HUANG JEN HSUN",
+      "price": 177.6469,
+      "shares": 22300,
+      "shares_after": 71399551,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 3961525.8699999996
+    },
+    {
+      "code": "S",
       "date": "2025-09-25",
       "filing_date": "2025-09-29",
       "owner": "HUANG JEN HSUN",
@@ -1710,63 +1758,15 @@
     },
     {
       "code": "S",
-      "date": "2025-09-25",
-      "filing_date": "2025-09-29",
-      "owner": "HUANG JEN HSUN",
-      "price": 177.6469,
-      "shares": 22300,
-      "shares_after": 71399551,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 3961525.8699999996
-    },
-    {
-      "code": "S",
-      "date": "2025-09-25",
-      "filing_date": "2025-09-29",
-      "owner": "HUANG JEN HSUN",
-      "price": 176.9408,
-      "shares": 20015,
-      "shares_after": 71421851,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 3541470.1119999997
-    },
-    {
-      "code": "S",
-      "date": "2025-09-25",
-      "filing_date": "2025-09-29",
-      "owner": "HUANG JEN HSUN",
-      "price": 175.8554,
-      "shares": 3784,
-      "shares_after": 71441866,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 665436.8336
-    },
-    {
-      "code": "S",
-      "date": "2025-09-25",
-      "filing_date": "2025-09-29",
-      "owner": "HUANG JEN HSUN",
-      "price": 174.6591,
-      "shares": 7910,
-      "shares_after": 71445650,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 1381553.481
-    },
-    {
-      "code": "S",
       "date": "2025-09-24",
       "filing_date": "2025-09-24",
       "owner": "HUANG JEN HSUN",
-      "price": 178.9312,
-      "shares": 14767,
-      "shares_after": 71458473,
+      "price": 176.963,
+      "shares": 29827,
+      "shares_after": 71493828,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 2642277.0304
+      "value": 5278275.401
     },
     {
       "code": "S",
@@ -1785,24 +1785,24 @@
       "date": "2025-09-24",
       "filing_date": "2025-09-24",
       "owner": "HUANG JEN HSUN",
-      "price": 178.2274,
-      "shares": 20588,
-      "shares_after": 71473240,
+      "price": 178.9312,
+      "shares": 14767,
+      "shares_after": 71458473,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 3669345.7112
+      "value": 2642277.0304
     },
     {
       "code": "S",
       "date": "2025-09-24",
       "filing_date": "2025-09-24",
       "owner": "HUANG JEN HSUN",
-      "price": 176.963,
-      "shares": 29827,
-      "shares_after": 71493828,
+      "price": 178.2274,
+      "shares": 20588,
+      "shares_after": 71473240,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 5278275.401
+      "value": 3669345.7112
     },
     {
       "code": "S",
@@ -1953,6 +1953,18 @@
       "date": "2025-09-22",
       "filing_date": "2025-09-24",
       "owner": "HUANG JEN HSUN",
+      "price": 175.4751,
+      "shares": 33747,
+      "shares_after": 71649456,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 5921758.1997
+    },
+    {
+      "code": "S",
+      "date": "2025-09-22",
+      "filing_date": "2025-09-24",
+      "owner": "HUANG JEN HSUN",
       "price": 180.4656,
       "shares": 489,
       "shares_after": 71641668,
@@ -1971,18 +1983,6 @@
       "title": "President and CEO",
       "type": "SELL",
       "value": 118084.9432
-    },
-    {
-      "code": "S",
-      "date": "2025-09-22",
-      "filing_date": "2025-09-24",
-      "owner": "HUANG JEN HSUN",
-      "price": 175.4751,
-      "shares": 33747,
-      "shares_after": 71649456,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 5921758.1997
     },
     {
       "code": "S",
@@ -2037,36 +2037,12 @@
       "date": "2025-09-18",
       "filing_date": "2025-09-19",
       "owner": "HUANG JEN HSUN",
-      "price": 176.4828,
-      "shares": 39658,
-      "shares_after": 71758203,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 6998954.8824
-    },
-    {
-      "code": "S",
-      "date": "2025-09-18",
-      "filing_date": "2025-09-19",
-      "owner": "HUANG JEN HSUN",
       "price": 173.6174,
       "shares": 10025,
       "shares_after": 71823178,
       "title": "President and CEO",
       "type": "SELL",
       "value": 1740514.435
-    },
-    {
-      "code": "S",
-      "date": "2025-09-18",
-      "filing_date": "2025-09-19",
-      "owner": "HUANG JEN HSUN",
-      "price": 175.6291,
-      "shares": 16442,
-      "shares_after": 71797861,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 2887693.6621999997
     },
     {
       "code": "S",
@@ -2081,16 +2057,28 @@
       "value": 1549961.95
     },
     {
-      "code": "F",
-      "date": "2025-09-17",
+      "code": "S",
+      "date": "2025-09-18",
       "filing_date": "2025-09-19",
       "owner": "HUANG JEN HSUN",
-      "price": 174.88,
-      "shares": 40163,
-      "shares_after": 71908203,
+      "price": 176.4828,
+      "shares": 39658,
+      "shares_after": 71758203,
       "title": "President and CEO",
-      "type": "TAX",
-      "value": 7023705.4399999995
+      "type": "SELL",
+      "value": 6998954.8824
+    },
+    {
+      "code": "S",
+      "date": "2025-09-18",
+      "filing_date": "2025-09-19",
+      "owner": "HUANG JEN HSUN",
+      "price": 175.6291,
+      "shares": 16442,
+      "shares_after": 71797861,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 2887693.6621999997
     },
     {
       "code": "S",
@@ -2129,6 +2117,18 @@
       "value": 302164.7607
     },
     {
+      "code": "F",
+      "date": "2025-09-17",
+      "filing_date": "2025-09-19",
+      "owner": "HUANG JEN HSUN",
+      "price": 174.88,
+      "shares": 40163,
+      "shares_after": 71908203,
+      "title": "President and CEO",
+      "type": "TAX",
+      "value": 7023705.4399999995
+    },
+    {
       "code": "S",
       "date": "2025-09-17",
       "filing_date": "2025-09-19",
@@ -2151,18 +2151,6 @@
       "title": "President and CEO",
       "type": "SELL",
       "value": 1433244.1344
-    },
-    {
-      "code": "S",
-      "date": "2025-09-16",
-      "filing_date": "2025-09-16",
-      "owner": "HUANG JEN HSUN",
-      "price": 174.9819,
-      "shares": 36482,
-      "shares_after": 71986884,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 6383689.6758
     },
     {
       "code": "S",
@@ -2199,6 +2187,18 @@
       "title": "President and CEO",
       "type": "SELL",
       "value": 3580989.4329999997
+    },
+    {
+      "code": "S",
+      "date": "2025-09-16",
+      "filing_date": "2025-09-16",
+      "owner": "HUANG JEN HSUN",
+      "price": 174.9819,
+      "shares": 36482,
+      "shares_after": 71986884,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 6383689.6758
     },
     {
       "code": "S",
@@ -2301,24 +2301,24 @@
       "date": "2025-09-11",
       "filing_date": "2025-09-11",
       "owner": "HUANG JEN HSUN",
-      "price": 179.7707,
-      "shares": 2272,
-      "shares_after": 72173366,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 408439.0304
-    },
-    {
-      "code": "S",
-      "date": "2025-09-11",
-      "filing_date": "2025-09-11",
-      "owner": "HUANG JEN HSUN",
       "price": 179.1302,
       "shares": 1919,
       "shares_after": 72175638,
       "title": "President and CEO",
       "type": "SELL",
       "value": 343750.8538
+    },
+    {
+      "code": "S",
+      "date": "2025-09-11",
+      "filing_date": "2025-09-11",
+      "owner": "HUANG JEN HSUN",
+      "price": 177.2235,
+      "shares": 32834,
+      "shares_after": 72215532,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 5818956.399
     },
     {
       "code": "S",
@@ -2337,24 +2337,12 @@
       "date": "2025-09-11",
       "filing_date": "2025-09-11",
       "owner": "HUANG JEN HSUN",
-      "price": 177.2235,
-      "shares": 32834,
-      "shares_after": 72215532,
+      "price": 179.7707,
+      "shares": 2272,
+      "shares_after": 72173366,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 5818956.399
-    },
-    {
-      "code": "S",
-      "date": "2025-09-10",
-      "filing_date": "2025-09-11",
-      "owner": "HUANG JEN HSUN",
-      "price": 178.8976,
-      "shares": 6792,
-      "shares_after": 72248366,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 1215072.4992
+      "value": 408439.0304
     },
     {
       "code": "S",
@@ -2394,27 +2382,27 @@
     },
     {
       "code": "S",
-      "date": "2025-09-09",
+      "date": "2025-09-10",
       "filing_date": "2025-09-11",
       "owner": "HUANG JEN HSUN",
-      "price": 170.9278,
-      "shares": 661,
-      "shares_after": 72323366,
+      "price": 178.8976,
+      "shares": 6792,
+      "shares_after": 72248366,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 112983.27579999999
+      "value": 1215072.4992
     },
     {
       "code": "S",
       "date": "2025-09-09",
       "filing_date": "2025-09-11",
       "owner": "HUANG JEN HSUN",
-      "price": 170.2982,
-      "shares": 8519,
-      "shares_after": 72324027,
+      "price": 168.3267,
+      "shares": 38757,
+      "shares_after": 72344093,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 1450770.3658
+      "value": 6523837.9119
     },
     {
       "code": "S",
@@ -2433,12 +2421,24 @@
       "date": "2025-09-09",
       "filing_date": "2025-09-11",
       "owner": "HUANG JEN HSUN",
-      "price": 168.3267,
-      "shares": 38757,
-      "shares_after": 72344093,
+      "price": 170.2982,
+      "shares": 8519,
+      "shares_after": 72324027,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 6523837.9119
+      "value": 1450770.3658
+    },
+    {
+      "code": "S",
+      "date": "2025-09-09",
+      "filing_date": "2025-09-11",
+      "owner": "HUANG JEN HSUN",
+      "price": 170.9278,
+      "shares": 661,
+      "shares_after": 72323366,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 112983.27579999999
     },
     {
       "code": "S",
@@ -2505,12 +2505,12 @@
       "date": "2025-09-05",
       "filing_date": "2025-09-08",
       "owner": "HUANG JEN HSUN",
-      "price": 165.6337,
-      "shares": 13692,
-      "shares_after": 72527586,
+      "price": 168.4531,
+      "shares": 2829,
+      "shares_after": 72473366,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 2267856.6204
+      "value": 476553.8199
     },
     {
       "code": "S",
@@ -2541,12 +2541,12 @@
       "date": "2025-09-05",
       "filing_date": "2025-09-08",
       "owner": "HUANG JEN HSUN",
-      "price": 168.4531,
-      "shares": 2829,
-      "shares_after": 72473366,
+      "price": 165.6337,
+      "shares": 13692,
+      "shares_after": 72527586,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 476553.8199
+      "value": 2267856.6204
     },
     {
       "code": "S",
@@ -2559,6 +2559,18 @@
       "title": "President and CEO",
       "type": "SELL",
       "value": 1168109.488
+    },
+    {
+      "code": "S",
+      "date": "2025-09-04",
+      "filing_date": "2025-09-08",
+      "owner": "HUANG JEN HSUN",
+      "price": 170.8315,
+      "shares": 49673,
+      "shares_after": 72550845,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 8485713.0995
     },
     {
       "code": "S",
@@ -2583,30 +2595,6 @@
       "title": "President and CEO",
       "type": "SELL",
       "value": 425511.67350000003
-    },
-    {
-      "code": "S",
-      "date": "2025-09-04",
-      "filing_date": "2025-09-08",
-      "owner": "HUANG JEN HSUN",
-      "price": 170.8315,
-      "shares": 49673,
-      "shares_after": 72550845,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 8485713.0995
-    },
-    {
-      "code": "S",
-      "date": "2025-09-03",
-      "filing_date": "2025-09-03",
-      "owner": "HUANG JEN HSUN",
-      "price": 169.4812,
-      "shares": 16955,
-      "shares_after": 72681411,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 2873553.746
     },
     {
       "code": "S",
@@ -2646,15 +2634,27 @@
     },
     {
       "code": "S",
+      "date": "2025-09-03",
+      "filing_date": "2025-09-03",
+      "owner": "HUANG JEN HSUN",
+      "price": 169.4812,
+      "shares": 16955,
+      "shares_after": 72681411,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 2873553.746
+    },
+    {
+      "code": "S",
       "date": "2025-09-02",
       "filing_date": "2025-09-03",
       "owner": "HUANG JEN HSUN",
-      "price": 167.8642,
-      "shares": 9391,
-      "shares_after": 72763975,
+      "price": 170.6894,
+      "shares": 17540,
+      "shares_after": 72703243,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 1576412.7022000002
+      "value": 2993892.076
     },
     {
       "code": "S",
@@ -2685,18 +2685,6 @@
       "date": "2025-09-02",
       "filing_date": "2025-09-03",
       "owner": "HUANG JEN HSUN",
-      "price": 170.6894,
-      "shares": 17540,
-      "shares_after": 72703243,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 2993892.076
-    },
-    {
-      "code": "S",
-      "date": "2025-09-02",
-      "filing_date": "2025-09-03",
-      "owner": "HUANG JEN HSUN",
       "price": 171.7427,
       "shares": 4877,
       "shares_after": 72698366,
@@ -2706,39 +2694,15 @@
     },
     {
       "code": "S",
-      "date": "2025-08-29",
+      "date": "2025-09-02",
       "filing_date": "2025-09-03",
       "owner": "HUANG JEN HSUN",
-      "price": 174.5759,
-      "shares": 34773,
-      "shares_after": 72781105,
+      "price": 167.8642,
+      "shares": 9391,
+      "shares_after": 72763975,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 6070527.770699999
-    },
-    {
-      "code": "S",
-      "date": "2025-08-29",
-      "filing_date": "2025-09-03",
-      "owner": "HUANG JEN HSUN",
-      "price": 175.436,
-      "shares": 2860,
-      "shares_after": 72778245,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 501746.96
-    },
-    {
-      "code": "S",
-      "date": "2025-08-29",
-      "filing_date": "2025-09-03",
-      "owner": "HUANG JEN HSUN",
-      "price": 176.7084,
-      "shares": 3509,
-      "shares_after": 72774736,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 620069.7756
+      "value": 1576412.7022000002
     },
     {
       "code": "S",
@@ -2757,6 +2721,42 @@
       "date": "2025-08-29",
       "filing_date": "2025-09-03",
       "owner": "HUANG JEN HSUN",
+      "price": 176.7084,
+      "shares": 3509,
+      "shares_after": 72774736,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 620069.7756
+    },
+    {
+      "code": "S",
+      "date": "2025-08-29",
+      "filing_date": "2025-09-03",
+      "owner": "HUANG JEN HSUN",
+      "price": 175.436,
+      "shares": 2860,
+      "shares_after": 72778245,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 501746.96
+    },
+    {
+      "code": "S",
+      "date": "2025-08-29",
+      "filing_date": "2025-09-03",
+      "owner": "HUANG JEN HSUN",
+      "price": 174.5759,
+      "shares": 34773,
+      "shares_after": 72781105,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 6070527.770699999
+    },
+    {
+      "code": "S",
+      "date": "2025-08-29",
+      "filing_date": "2025-09-03",
+      "owner": "HUANG JEN HSUN",
       "price": 173.8729,
       "shares": 32488,
       "shares_after": 72815878,
@@ -2769,12 +2769,12 @@
       "date": "2025-08-15",
       "filing_date": "2025-08-18",
       "owner": "HUANG JEN HSUN",
-      "price": 180.433,
-      "shares": 15479,
-      "shares_after": 72850175,
+      "price": 181.3374,
+      "shares": 1950,
+      "shares_after": 72848225,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 2792922.4069999997
+      "value": 353607.93
     },
     {
       "code": "S",
@@ -2805,12 +2805,12 @@
       "date": "2025-08-15",
       "filing_date": "2025-08-18",
       "owner": "HUANG JEN HSUN",
-      "price": 181.3374,
-      "shares": 1950,
-      "shares_after": 72848225,
+      "price": 180.433,
+      "shares": 15479,
+      "shares_after": 72850175,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 353607.93
+      "value": 2792922.4069999997
     },
     {
       "code": "S",
@@ -2865,36 +2865,12 @@
       "date": "2025-08-13",
       "filing_date": "2025-08-13",
       "owner": "HUANG JEN HSUN",
-      "price": 180.9741,
-      "shares": 26758,
-      "shares_after": 73032319,
+      "price": 183.6417,
+      "shares": 3583,
+      "shares_after": 72998225,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 4842504.9678
-    },
-    {
-      "code": "S",
-      "date": "2025-08-13",
-      "filing_date": "2025-08-13",
-      "owner": "HUANG JEN HSUN",
-      "price": 180.026,
-      "shares": 14148,
-      "shares_after": 73059077,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 2547007.848
-    },
-    {
-      "code": "S",
-      "date": "2025-08-13",
-      "filing_date": "2025-08-13",
-      "owner": "HUANG JEN HSUN",
-      "price": 181.6989,
-      "shares": 20553,
-      "shares_after": 73011766,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 3734457.4917
+      "value": 657988.2111
     },
     {
       "code": "S",
@@ -2913,24 +2889,36 @@
       "date": "2025-08-13",
       "filing_date": "2025-08-13",
       "owner": "HUANG JEN HSUN",
-      "price": 183.6417,
-      "shares": 3583,
-      "shares_after": 72998225,
+      "price": 181.6989,
+      "shares": 20553,
+      "shares_after": 73011766,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 657988.2111
+      "value": 3734457.4917
     },
     {
       "code": "S",
-      "date": "2025-08-12",
+      "date": "2025-08-13",
       "filing_date": "2025-08-13",
       "owner": "HUANG JEN HSUN",
-      "price": 180.0479,
-      "shares": 3952,
-      "shares_after": 73144273,
+      "price": 180.9741,
+      "shares": 26758,
+      "shares_after": 73032319,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 711549.3008
+      "value": 4842504.9678
+    },
+    {
+      "code": "S",
+      "date": "2025-08-13",
+      "filing_date": "2025-08-13",
+      "owner": "HUANG JEN HSUN",
+      "price": 180.026,
+      "shares": 14148,
+      "shares_after": 73059077,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 2547007.848
     },
     {
       "code": "S",
@@ -2970,27 +2958,27 @@
     },
     {
       "code": "S",
-      "date": "2025-08-11",
+      "date": "2025-08-12",
       "filing_date": "2025-08-13",
       "owner": "HUANG JEN HSUN",
-      "price": 181.9676,
-      "shares": 12903,
-      "shares_after": 73206327,
+      "price": 180.0479,
+      "shares": 3952,
+      "shares_after": 73144273,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 2347927.9428
+      "value": 711549.3008
     },
     {
       "code": "S",
       "date": "2025-08-11",
       "filing_date": "2025-08-13",
       "owner": "HUANG JEN HSUN",
-      "price": 182.9039,
-      "shares": 46436,
-      "shares_after": 73159891,
+      "price": 180.9738,
+      "shares": 3995,
+      "shares_after": 73219230,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 8493325.5004
+      "value": 722990.331
     },
     {
       "code": "S",
@@ -3009,24 +2997,36 @@
       "date": "2025-08-11",
       "filing_date": "2025-08-13",
       "owner": "HUANG JEN HSUN",
-      "price": 180.9738,
-      "shares": 3995,
-      "shares_after": 73219230,
+      "price": 182.9039,
+      "shares": 46436,
+      "shares_after": 73159891,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 722990.331
+      "value": 8493325.5004
+    },
+    {
+      "code": "S",
+      "date": "2025-08-11",
+      "filing_date": "2025-08-13",
+      "owner": "HUANG JEN HSUN",
+      "price": 181.9676,
+      "shares": 12903,
+      "shares_after": 73206327,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 2347927.9428
     },
     {
       "code": "S",
       "date": "2025-08-08",
       "filing_date": "2025-08-08",
       "owner": "HUANG JEN HSUN",
-      "price": 180.9766,
-      "shares": 4683,
-      "shares_after": 73293542,
+      "price": 182.7448,
+      "shares": 40901,
+      "shares_after": 73223225,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 847513.4177999999
+      "value": 7474445.0648
     },
     {
       "code": "S",
@@ -3045,24 +3045,12 @@
       "date": "2025-08-08",
       "filing_date": "2025-08-08",
       "owner": "HUANG JEN HSUN",
-      "price": 182.7448,
-      "shares": 40901,
-      "shares_after": 73223225,
+      "price": 180.9766,
+      "shares": 4683,
+      "shares_after": 73293542,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 7474445.0648
-    },
-    {
-      "code": "S",
-      "date": "2025-08-07",
-      "filing_date": "2025-08-08",
-      "owner": "HUANG JEN HSUN",
-      "price": 179.4829,
-      "shares": 13294,
-      "shares_after": 73359931,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 2386045.6726
+      "value": 847513.4177999999
     },
     {
       "code": "S",
@@ -3075,6 +3063,18 @@
       "title": "President and CEO",
       "type": "SELL",
       "value": 3128547.4343999997
+    },
+    {
+      "code": "S",
+      "date": "2025-08-07",
+      "filing_date": "2025-08-08",
+      "owner": "HUANG JEN HSUN",
+      "price": 179.4829,
+      "shares": 13294,
+      "shares_after": 73359931,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 2386045.6726
     },
     {
       "code": "S",
@@ -3117,12 +3117,12 @@
       "date": "2025-08-06",
       "filing_date": "2025-08-08",
       "owner": "HUANG JEN HSUN",
-      "price": 177.8317,
-      "shares": 28725,
-      "shares_after": 73414691,
+      "price": 179.5238,
+      "shares": 12084,
+      "shares_after": 73373225,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 5108215.5825000005
+      "value": 2169365.5992
     },
     {
       "code": "S",
@@ -3141,12 +3141,12 @@
       "date": "2025-08-06",
       "filing_date": "2025-08-08",
       "owner": "HUANG JEN HSUN",
-      "price": 179.5238,
-      "shares": 12084,
-      "shares_after": 73373225,
+      "price": 177.8317,
+      "shares": 28725,
+      "shares_after": 73414691,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 2169365.5992
+      "value": 5108215.5825000005
     },
     {
       "code": "S",
@@ -3159,6 +3159,18 @@
       "title": "President and CEO",
       "type": "SELL",
       "value": 850594.7603999999
+    },
+    {
+      "code": "S",
+      "date": "2025-08-05",
+      "filing_date": "2025-08-05",
+      "owner": "HUANG JEN HSUN",
+      "price": 176.686,
+      "shares": 7876,
+      "shares_after": 73515349,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 1391578.936
     },
     {
       "code": "S",
@@ -3210,51 +3222,15 @@
     },
     {
       "code": "S",
-      "date": "2025-08-05",
-      "filing_date": "2025-08-05",
-      "owner": "HUANG JEN HSUN",
-      "price": 176.686,
-      "shares": 7876,
-      "shares_after": 73515349,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 1391578.936
-    },
-    {
-      "code": "S",
       "date": "2025-08-04",
       "filing_date": "2025-08-05",
       "owner": "HUANG JEN HSUN",
-      "price": 177.3531,
-      "shares": 20670,
-      "shares_after": 73568147,
+      "price": 178.2361,
+      "shares": 12243,
+      "shares_after": 73555904,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 3665888.577
-    },
-    {
-      "code": "S",
-      "date": "2025-08-04",
-      "filing_date": "2025-08-05",
-      "owner": "HUANG JEN HSUN",
-      "price": 179.9019,
-      "shares": 2482,
-      "shares_after": 73523225,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 446516.51580000005
-    },
-    {
-      "code": "S",
-      "date": "2025-08-04",
-      "filing_date": "2025-08-05",
-      "owner": "HUANG JEN HSUN",
-      "price": 176.3812,
-      "shares": 6221,
-      "shares_after": 73588817,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 1097267.4452
+      "value": 2182144.5723
     },
     {
       "code": "S",
@@ -3273,12 +3249,24 @@
       "date": "2025-08-04",
       "filing_date": "2025-08-05",
       "owner": "HUANG JEN HSUN",
-      "price": 178.2361,
-      "shares": 12243,
-      "shares_after": 73555904,
+      "price": 176.3812,
+      "shares": 6221,
+      "shares_after": 73588817,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 2182144.5723
+      "value": 1097267.4452
+    },
+    {
+      "code": "S",
+      "date": "2025-08-04",
+      "filing_date": "2025-08-05",
+      "owner": "HUANG JEN HSUN",
+      "price": 177.3531,
+      "shares": 20670,
+      "shares_after": 73568147,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 3665888.577
     },
     {
       "code": "S",
@@ -3294,15 +3282,27 @@
     },
     {
       "code": "S",
+      "date": "2025-08-04",
+      "filing_date": "2025-08-05",
+      "owner": "HUANG JEN HSUN",
+      "price": 179.9019,
+      "shares": 2482,
+      "shares_after": 73523225,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 446516.51580000005
+    },
+    {
+      "code": "S",
       "date": "2025-08-01",
       "filing_date": "2025-08-05",
       "owner": "HUANG JEN HSUN",
-      "price": 174.4972,
-      "shares": 17001,
-      "shares_after": 73616314,
+      "price": 171.5924,
+      "shares": 4067,
+      "shares_after": 73669158,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 2966626.8972
+      "value": 697866.2908
     },
     {
       "code": "S",
@@ -3333,6 +3333,18 @@
       "date": "2025-08-01",
       "filing_date": "2025-08-05",
       "owner": "HUANG JEN HSUN",
+      "price": 174.4972,
+      "shares": 17001,
+      "shares_after": 73616314,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 2966626.8972
+    },
+    {
+      "code": "S",
+      "date": "2025-08-01",
+      "filing_date": "2025-08-05",
+      "owner": "HUANG JEN HSUN",
       "price": 173.4905,
       "shares": 24897,
       "shares_after": 73633315,
@@ -3354,18 +3366,6 @@
     },
     {
       "code": "S",
-      "date": "2025-08-01",
-      "filing_date": "2025-08-05",
-      "owner": "HUANG JEN HSUN",
-      "price": 171.5924,
-      "shares": 4067,
-      "shares_after": 73669158,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 697866.2908
-    },
-    {
-      "code": "S",
       "date": "2025-07-31",
       "filing_date": "2025-07-31",
       "owner": "HUANG JEN HSUN",
@@ -3375,54 +3375,6 @@
       "title": "President and CEO",
       "type": "SELL",
       "value": 706435.2441
-    },
-    {
-      "code": "S",
-      "date": "2025-07-31",
-      "filing_date": "2025-07-31",
-      "owner": "HUANG JEN HSUN",
-      "price": 182.7007,
-      "shares": 2953,
-      "shares_after": 73673225,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 539515.1671000001
-    },
-    {
-      "code": "S",
-      "date": "2025-07-31",
-      "filing_date": "2025-07-31",
-      "owner": "HUANG JEN HSUN",
-      "price": 181.7127,
-      "shares": 17768,
-      "shares_after": 73676178,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 3228671.2536000004
-    },
-    {
-      "code": "S",
-      "date": "2025-07-31",
-      "filing_date": "2025-07-31",
-      "owner": "HUANG JEN HSUN",
-      "price": 180.7904,
-      "shares": 17547,
-      "shares_after": 73693946,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 3172329.1488
-    },
-    {
-      "code": "S",
-      "date": "2025-07-31",
-      "filing_date": "2025-07-31",
-      "owner": "HUANG JEN HSUN",
-      "price": 179.8009,
-      "shares": 11204,
-      "shares_after": 73711493,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 2014489.2836000002
     },
     {
       "code": "S",
@@ -3447,6 +3399,54 @@
       "title": "President and CEO",
       "type": "SELL",
       "value": 3487519.2603
+    },
+    {
+      "code": "S",
+      "date": "2025-07-31",
+      "filing_date": "2025-07-31",
+      "owner": "HUANG JEN HSUN",
+      "price": 179.8009,
+      "shares": 11204,
+      "shares_after": 73711493,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 2014489.2836000002
+    },
+    {
+      "code": "S",
+      "date": "2025-07-31",
+      "filing_date": "2025-07-31",
+      "owner": "HUANG JEN HSUN",
+      "price": 180.7904,
+      "shares": 17547,
+      "shares_after": 73693946,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 3172329.1488
+    },
+    {
+      "code": "S",
+      "date": "2025-07-31",
+      "filing_date": "2025-07-31",
+      "owner": "HUANG JEN HSUN",
+      "price": 181.7127,
+      "shares": 17768,
+      "shares_after": 73676178,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 3228671.2536000004
+    },
+    {
+      "code": "S",
+      "date": "2025-07-31",
+      "filing_date": "2025-07-31",
+      "owner": "HUANG JEN HSUN",
+      "price": 182.7007,
+      "shares": 2953,
+      "shares_after": 73673225,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 539515.1671000001
     },
     {
       "code": "S",
@@ -3501,36 +3501,12 @@
       "date": "2025-07-29",
       "filing_date": "2025-07-31",
       "owner": "HUANG JEN HSUN",
-      "price": 179.3038,
-      "shares": 444,
-      "shares_after": 73823225,
+      "price": 176.4785,
+      "shares": 23643,
+      "shares_after": 73851965,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 79610.8872
-    },
-    {
-      "code": "S",
-      "date": "2025-07-29",
-      "filing_date": "2025-07-31",
-      "owner": "HUANG JEN HSUN",
-      "price": 175.9113,
-      "shares": 22617,
-      "shares_after": 73875608,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 3978585.8721000003
-    },
-    {
-      "code": "S",
-      "date": "2025-07-29",
-      "filing_date": "2025-07-31",
-      "owner": "HUANG JEN HSUN",
-      "price": 178.652,
-      "shares": 20062,
-      "shares_after": 73823669,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 3584116.4239999996
+      "value": 4172481.1755
     },
     {
       "code": "S",
@@ -3549,12 +3525,36 @@
       "date": "2025-07-29",
       "filing_date": "2025-07-31",
       "owner": "HUANG JEN HSUN",
-      "price": 176.4785,
-      "shares": 23643,
-      "shares_after": 73851965,
+      "price": 178.652,
+      "shares": 20062,
+      "shares_after": 73823669,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 4172481.1755
+      "value": 3584116.4239999996
+    },
+    {
+      "code": "S",
+      "date": "2025-07-29",
+      "filing_date": "2025-07-31",
+      "owner": "HUANG JEN HSUN",
+      "price": 179.3038,
+      "shares": 444,
+      "shares_after": 73823225,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 79610.8872
+    },
+    {
+      "code": "S",
+      "date": "2025-07-29",
+      "filing_date": "2025-07-31",
+      "owner": "HUANG JEN HSUN",
+      "price": 175.9113,
+      "shares": 22617,
+      "shares_after": 73875608,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 3978585.8721000003
     },
     {
       "code": "S",
@@ -3621,18 +3621,6 @@
       "date": "2025-07-24",
       "filing_date": "2025-07-28",
       "owner": "HUANG JEN HSUN",
-      "price": 172.0758,
-      "shares": 13798,
-      "shares_after": 74109427,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 2374301.8883999996
-    },
-    {
-      "code": "S",
-      "date": "2025-07-24",
-      "filing_date": "2025-07-28",
-      "owner": "HUANG JEN HSUN",
       "price": 172.8449,
       "shares": 34909,
       "shares_after": 74074518,
@@ -3654,6 +3642,30 @@
     },
     {
       "code": "S",
+      "date": "2025-07-24",
+      "filing_date": "2025-07-28",
+      "owner": "HUANG JEN HSUN",
+      "price": 172.0758,
+      "shares": 13798,
+      "shares_after": 74109427,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 2374301.8883999996
+    },
+    {
+      "code": "S",
+      "date": "2025-07-23",
+      "filing_date": "2025-07-23",
+      "owner": "HUANG JEN HSUN",
+      "price": 171.1571,
+      "shares": 340,
+      "shares_after": 74123225,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 58193.414000000004
+    },
+    {
+      "code": "S",
       "date": "2025-07-23",
       "filing_date": "2025-07-23",
       "owner": "HUANG JEN HSUN",
@@ -3663,18 +3675,6 @@
       "title": "President and CEO",
       "type": "SELL",
       "value": 3467588.6815
-    },
-    {
-      "code": "S",
-      "date": "2025-07-23",
-      "filing_date": "2025-07-23",
-      "owner": "HUANG JEN HSUN",
-      "price": 168.7626,
-      "shares": 23208,
-      "shares_after": 74175017,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 3916642.4208
     },
     {
       "code": "S",
@@ -3693,36 +3693,12 @@
       "date": "2025-07-23",
       "filing_date": "2025-07-23",
       "owner": "HUANG JEN HSUN",
-      "price": 171.1571,
-      "shares": 340,
-      "shares_after": 74123225,
+      "price": 168.7626,
+      "shares": 23208,
+      "shares_after": 74175017,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 58193.414000000004
-    },
-    {
-      "code": "S",
-      "date": "2025-07-22",
-      "filing_date": "2025-07-23",
-      "owner": "HUANG JEN HSUN",
-      "price": 165.3619,
-      "shares": 2390,
-      "shares_after": 74270835,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 395214.941
-    },
-    {
-      "code": "S",
-      "date": "2025-07-22",
-      "filing_date": "2025-07-23",
-      "owner": "HUANG JEN HSUN",
-      "price": 166.2245,
-      "shares": 8414,
-      "shares_after": 74262421,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 1398612.943
+      "value": 3916642.4208
     },
     {
       "code": "S",
@@ -3786,15 +3762,27 @@
     },
     {
       "code": "S",
-      "date": "2025-07-21",
+      "date": "2025-07-22",
       "filing_date": "2025-07-23",
       "owner": "HUANG JEN HSUN",
-      "price": 172.6317,
-      "shares": 51901,
-      "shares_after": 74273555,
+      "price": 166.2245,
+      "shares": 8414,
+      "shares_after": 74262421,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 8959757.8617
+      "value": 1398612.943
+    },
+    {
+      "code": "S",
+      "date": "2025-07-22",
+      "filing_date": "2025-07-23",
+      "owner": "HUANG JEN HSUN",
+      "price": 165.3619,
+      "shares": 2390,
+      "shares_after": 74270835,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 395214.941
     },
     {
       "code": "S",
@@ -3813,12 +3801,36 @@
       "date": "2025-07-21",
       "filing_date": "2025-07-23",
       "owner": "HUANG JEN HSUN",
+      "price": 172.6317,
+      "shares": 51901,
+      "shares_after": 74273555,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 8959757.8617
+    },
+    {
+      "code": "S",
+      "date": "2025-07-21",
+      "filing_date": "2025-07-23",
+      "owner": "HUANG JEN HSUN",
       "price": 171.9176,
       "shares": 22769,
       "shares_after": 74325456,
       "title": "President and CEO",
       "type": "SELL",
       "value": 3914391.8344
+    },
+    {
+      "code": "S",
+      "date": "2025-07-18",
+      "filing_date": "2025-07-18",
+      "owner": "HUANG JEN HSUN",
+      "price": 172.0562,
+      "shares": 32909,
+      "shares_after": 74390316,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 5662197.4858
     },
     {
       "code": "S",
@@ -3843,18 +3855,6 @@
       "title": "President and CEO",
       "type": "SELL",
       "value": 4695757.11
-    },
-    {
-      "code": "S",
-      "date": "2025-07-18",
-      "filing_date": "2025-07-18",
-      "owner": "HUANG JEN HSUN",
-      "price": 172.0562,
-      "shares": 32909,
-      "shares_after": 74390316,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 5662197.4858
     },
     {
       "code": "S",
@@ -3909,12 +3909,12 @@
       "date": "2025-07-16",
       "filing_date": "2025-07-18",
       "owner": "HUANG JEN HSUN",
-      "price": 169.7369,
-      "shares": 8171,
-      "shares_after": 74565054,
+      "price": 170.4735,
+      "shares": 44727,
+      "shares_after": 74520327,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 1386920.2099
+      "value": 7624768.2345
     },
     {
       "code": "S",
@@ -3933,12 +3933,24 @@
       "date": "2025-07-16",
       "filing_date": "2025-07-18",
       "owner": "HUANG JEN HSUN",
-      "price": 170.4735,
-      "shares": 44727,
-      "shares_after": 74520327,
+      "price": 169.7369,
+      "shares": 8171,
+      "shares_after": 74565054,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 7624768.2345
+      "value": 1386920.2099
+    },
+    {
+      "code": "S",
+      "date": "2025-07-15",
+      "filing_date": "2025-07-15",
+      "owner": "HUANG JEN HSUN",
+      "price": 169.9454,
+      "shares": 9940,
+      "shares_after": 74638285,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 1689257.276
     },
     {
       "code": "S",
@@ -3963,30 +3975,6 @@
       "title": "President and CEO",
       "type": "SELL",
       "value": 7249748.0991
-    },
-    {
-      "code": "S",
-      "date": "2025-07-15",
-      "filing_date": "2025-07-15",
-      "owner": "HUANG JEN HSUN",
-      "price": 169.9454,
-      "shares": 9940,
-      "shares_after": 74638285,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 1689257.276
-    },
-    {
-      "code": "S",
-      "date": "2025-07-14",
-      "filing_date": "2025-07-15",
-      "owner": "HUANG JEN HSUN",
-      "price": 163.702,
-      "shares": 19824,
-      "shares_after": 74698460,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 3245228.448
     },
     {
       "code": "S",
@@ -4026,6 +4014,30 @@
     },
     {
       "code": "S",
+      "date": "2025-07-14",
+      "filing_date": "2025-07-15",
+      "owner": "HUANG JEN HSUN",
+      "price": 163.702,
+      "shares": 19824,
+      "shares_after": 74698460,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 3245228.448
+    },
+    {
+      "code": "S",
+      "date": "2025-07-11",
+      "filing_date": "2025-07-15",
+      "owner": "HUANG JEN HSUN",
+      "price": 167.1746,
+      "shares": 11324,
+      "shares_after": 74723997,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 1893085.1704
+    },
+    {
+      "code": "S",
       "date": "2025-07-11",
       "filing_date": "2025-07-15",
       "owner": "HUANG JEN HSUN",
@@ -4035,18 +4047,6 @@
       "title": "President and CEO",
       "type": "SELL",
       "value": 129518.3628
-    },
-    {
-      "code": "S",
-      "date": "2025-07-11",
-      "filing_date": "2025-07-15",
-      "owner": "HUANG JEN HSUN",
-      "price": 164.1768,
-      "shares": 2550,
-      "shares_after": 74795675,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 418650.83999999997
     },
     {
       "code": "S",
@@ -4077,12 +4077,12 @@
       "date": "2025-07-11",
       "filing_date": "2025-07-15",
       "owner": "HUANG JEN HSUN",
-      "price": 167.1746,
-      "shares": 11324,
-      "shares_after": 74723997,
+      "price": 164.1768,
+      "shares": 2550,
+      "shares_after": 74795675,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 1893085.1704
+      "value": 418650.83999999997
     },
     {
       "code": "S",
@@ -4125,24 +4125,24 @@
       "date": "2025-07-09",
       "filing_date": "2025-07-10",
       "owner": "HUANG JEN HSUN",
-      "price": 164.2916,
-      "shares": 343,
-      "shares_after": 74873225,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 56352.0188
-    },
-    {
-      "code": "S",
-      "date": "2025-07-09",
-      "filing_date": "2025-07-10",
-      "owner": "HUANG JEN HSUN",
       "price": 163.5914,
       "shares": 24031,
       "shares_after": 74873568,
       "title": "President and CEO",
       "type": "SELL",
       "value": 3931264.9334
+    },
+    {
+      "code": "S",
+      "date": "2025-07-09",
+      "filing_date": "2025-07-10",
+      "owner": "HUANG JEN HSUN",
+      "price": 164.2916,
+      "shares": 343,
+      "shares_after": 74873225,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 56352.0188
     },
     {
       "code": "S",
@@ -4197,18 +4197,6 @@
       "date": "2025-07-07",
       "filing_date": "2025-07-07",
       "owner": "HUANG JEN HSUN",
-      "price": 158.6077,
-      "shares": 28029,
-      "shares_after": 75023225,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 4445615.2233
-    },
-    {
-      "code": "S",
-      "date": "2025-07-07",
-      "filing_date": "2025-07-07",
-      "owner": "HUANG JEN HSUN",
       "price": 158.1943,
       "shares": 46971,
       "shares_after": 75051254,
@@ -4218,15 +4206,27 @@
     },
     {
       "code": "S",
+      "date": "2025-07-07",
+      "filing_date": "2025-07-07",
+      "owner": "HUANG JEN HSUN",
+      "price": 158.6077,
+      "shares": 28029,
+      "shares_after": 75023225,
+      "title": "President and CEO",
+      "type": "SELL",
+      "value": 4445615.2233
+    },
+    {
+      "code": "S",
       "date": "2025-07-03",
       "filing_date": "2025-07-07",
       "owner": "HUANG JEN HSUN",
-      "price": 159.3874,
-      "shares": 42970,
-      "shares_after": 75112931,
+      "price": 160.8423,
+      "shares": 948,
+      "shares_after": 75098225,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 6848876.578000001
+      "value": 152478.5004
     },
     {
       "code": "S",
@@ -4245,24 +4245,24 @@
       "date": "2025-07-03",
       "filing_date": "2025-07-07",
       "owner": "HUANG JEN HSUN",
-      "price": 160.125,
-      "shares": 13758,
-      "shares_after": 75099173,
+      "price": 159.3874,
+      "shares": 42970,
+      "shares_after": 75112931,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 2202999.75
+      "value": 6848876.578000001
     },
     {
       "code": "S",
       "date": "2025-07-03",
       "filing_date": "2025-07-07",
       "owner": "HUANG JEN HSUN",
-      "price": 160.8423,
-      "shares": 948,
-      "shares_after": 75098225,
+      "price": 160.125,
+      "shares": 13758,
+      "shares_after": 75099173,
       "title": "President and CEO",
       "type": "SELL",
-      "value": 152478.5004
+      "value": 2202999.75
     },
     {
       "code": "S",
@@ -4323,162 +4323,6 @@
       "title": "President and CEO",
       "type": "SELL",
       "value": 1643996.52
-    },
-    {
-      "code": "S",
-      "date": "2025-07-01",
-      "filing_date": "2025-07-01",
-      "owner": "HUANG JEN HSUN",
-      "price": 152.2292,
-      "shares": 4497,
-      "shares_after": 75318728,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 684574.7124
-    },
-    {
-      "code": "S",
-      "date": "2025-07-01",
-      "filing_date": "2025-07-01",
-      "owner": "HUANG JEN HSUN",
-      "price": 156.6425,
-      "shares": 4176,
-      "shares_after": 75248225,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 654139.0800000001
-    },
-    {
-      "code": "S",
-      "date": "2025-07-01",
-      "filing_date": "2025-07-01",
-      "owner": "HUANG JEN HSUN",
-      "price": 156.0585,
-      "shares": 12561,
-      "shares_after": 75252401,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 1960250.8185
-    },
-    {
-      "code": "S",
-      "date": "2025-07-01",
-      "filing_date": "2025-07-01",
-      "owner": "HUANG JEN HSUN",
-      "price": 154.6027,
-      "shares": 18612,
-      "shares_after": 75264962,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 2877465.4524
-    },
-    {
-      "code": "S",
-      "date": "2025-07-01",
-      "filing_date": "2025-07-01",
-      "owner": "HUANG JEN HSUN",
-      "price": 153.7314,
-      "shares": 21050,
-      "shares_after": 75283574,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 3236045.97
-    },
-    {
-      "code": "S",
-      "date": "2025-07-01",
-      "filing_date": "2025-07-01",
-      "owner": "HUANG JEN HSUN",
-      "price": 153.0139,
-      "shares": 14104,
-      "shares_after": 75304624,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 2158108.0456000003
-    },
-    {
-      "code": "S",
-      "date": "2025-06-30",
-      "filing_date": "2025-07-01",
-      "owner": "HUANG JEN HSUN",
-      "price": 156.8135,
-      "shares": 19624,
-      "shares_after": 75378601,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 3077308.1240000003
-    },
-    {
-      "code": "S",
-      "date": "2025-06-30",
-      "filing_date": "2025-07-01",
-      "owner": "HUANG JEN HSUN",
-      "price": 157.7268,
-      "shares": 49070,
-      "shares_after": 75329531,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 7739654.075999999
-    },
-    {
-      "code": "S",
-      "date": "2025-06-30",
-      "filing_date": "2025-07-01",
-      "owner": "HUANG JEN HSUN",
-      "price": 158.2701,
-      "shares": 6306,
-      "shares_after": 75323225,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 998051.2506
-    },
-    {
-      "code": "S",
-      "date": "2025-06-27",
-      "filing_date": "2025-07-01",
-      "owner": "HUANG JEN HSUN",
-      "price": 158.4551,
-      "shares": 2705,
-      "shares_after": 75398225,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 428621.04549999995
-    },
-    {
-      "code": "S",
-      "date": "2025-06-27",
-      "filing_date": "2025-07-01",
-      "owner": "HUANG JEN HSUN",
-      "price": 157.6498,
-      "shares": 26947,
-      "shares_after": 75400930,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 4248189.1606
-    },
-    {
-      "code": "S",
-      "date": "2025-06-27",
-      "filing_date": "2025-07-01",
-      "owner": "HUANG JEN HSUN",
-      "price": 156.8974,
-      "shares": 27574,
-      "shares_after": 75427877,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 4326288.9076000005
-    },
-    {
-      "code": "S",
-      "date": "2025-06-27",
-      "filing_date": "2025-07-01",
-      "owner": "HUANG JEN HSUN",
-      "price": 156.0159,
-      "shares": 17774,
-      "shares_after": 75455451,
-      "title": "President and CEO",
-      "type": "SELL",
-      "value": 2773026.6065999996
     }
   ]
 }

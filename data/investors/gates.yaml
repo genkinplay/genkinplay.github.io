@@ -1,0 +1,36 @@
+slug: gates
+display_name:
+  en: GATES FOUNDATION TRUST
+  zh-CN: 盖茨基金会信托
+  zh-HK: 蓋茨基金會信託
+tagline:
+  en: SEC 13F filer · AUM $35.36B
+  zh-CN: SEC 13F 机构 · 管理资产 $35.36B
+  zh-HK: SEC 13F 機構 · 管理資產 $35.36B
+role:
+  en: 'Institutional investor (rank #29, CIK 0001166559)'
+  zh-CN: '机构投资者（排名 #29，CIK 0001166559）'
+  zh-HK: '機構投資者（排名 #29，CIK 0001166559）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=GATES%20FOUNDATION%20TRUST&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001166559'
+holdings_source: 13f
+featured: false
+rank: 29
+aum_usd: 35360000000
+bio:
+  en: The Gates Foundation is an American private foundation founded by Bill Gates and Melinda French Gates. Based in Seattle, Washington, it was launched in 2000 and is reported to be the third-wealthiest charitable foundation in the world, holding $86 billion in assets as of July 31, 2025. The primary stated goals of the foundation are to enhance healthcare and reduce extreme poverty across the world, and to expand educational opportunities and access to information technology in the United States. Key individuals of the foundation include Warren Buffett, chief executive officer Mark Suzman, and Michael Larson.
+  zh-CN: |-
+    盖茨基金会（英语：Gates Foundation）是由比尔·盖茨与梅琳达·盖茨夫妇资助的，全球最大的慈善基金会。正式员工有1500人以上。
+    该基金会以美国华盛顿州西雅图市为基地，于2000年1月，通过盖茨学习基金会和威廉·盖茨基金会的合并而创立。老威廉·H·盖茨（比尔的父亲）在逝世前与比尔和梅琳达担任共同主席，Patty Stonesifer为基金会首任董事长。该基金会的总资产约519亿美金（2020年12月31日），为维持作为一个慈善基金会的地位，每年必须捐赠其全部财产的5%，在2020年度此基金会的捐赠和直接慈善费用约58亿美金。
+    由于盖茨夫妇在2021年离婚，比尔及梅琳达·盖茨基金会于2025年更名为盖茨基金会（Gates Foundation），比尔·盖茨将会成为基金会的唯一主席。2024年5月13日，梅琳达正式辞任基金会职务。
+  zh-HK: |-
+    蓋茨基金會（英語：Gates Foundation）是由比爾·蓋茨與美琳達·蓋茨夫婦資助的，全球最大的慈善基金會。正式員工有1500人以上。
+    該基金會以美國華盛頓州西雅圖市為基地，於2000年1月，通過蓋茨學習基金會和威廉·蓋茨基金會的合併而創立。老威廉·H·蓋茨（比爾的父親）在逝世前與比爾和美琳達擔任共同主席，Patty Stonesifer為基金會首任董事長。該基金會的總資產約519億美金（2020年12月31日），為維持作為一個慈善基金會的地位，每年必須捐贈其全部財產的5%，在2020年度此基金會的捐贈和直接慈善費用約58億美金。
+    由於蓋茨夫婦在2021年離婚，比爾及美琳達·蓋茨基金會於2025年更名為蓋茨基金會（Gates Foundation），比爾·蓋茨將會成為基金會的唯一主席。2024年5月13日，美琳達正式辭任基金會職務。
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  en: https://en.wikipedia.org/wiki/Gates_Foundation
+  zh: https://zh.wikipedia.org/wiki/%E8%93%8B%E8%8C%A8%E5%9F%BA%E9%87%91%E6%9C%83

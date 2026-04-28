@@ -1,0 +1,30 @@
+slug: mitsubishi-ufj-financial
+display_name:
+  en: MITSUBISHI UFJ FINANCIAL GROUP INC
+  zh-CN: 三菱日联金融集团
+  zh-HK: 三菱日聯金融集團
+tagline:
+  en: SEC 13F filer · AUM $66.94B
+  zh-CN: SEC 13F 机构 · 管理资产 $66.94B
+  zh-HK: SEC 13F 機構 · 管理資產 $66.94B
+role:
+  en: 'Institutional investor (rank #12, CIK 0000067088)'
+  zh-CN: '机构投资者（排名 #12，CIK 0000067088）'
+  zh-HK: '機構投資者（排名 #12，CIK 0000067088）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=MITSUBISHI%20UFJ%20FINANCIAL%20GROUP%20INC&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0000067088'
+holdings_source: 13f
+featured: false
+rank: 12
+aum_usd: 66940000000
+bio:
+  en: Mitsubishi UFJ Financial Group, Inc.  is a Japanese bank holding and financial services company headquartered in Chiyoda, Tokyo, Japan. MUFG was created in 2005 by merger between Mitsubishi Tokyo Financial Group  and UFJ Holdings. These two groups in turn brought together multiple predecessor banks including Mitsubishi Bank, Yokohama Specie Bank, Sanwa Bank, and Tokai Bank.
+  zh-CN: 三菱日联金融集团（日语：三菱UFJフィナンシャル・グループ，英语：Mitsubishi UFJ Financial Group, Inc.，简称MUFG），是日本最大的金融机构，由三菱东京金融集团（三菱東京フィナンシャルグループ）与日联控股（UFJホールディングス）于2005年10月1日合并后成立，总资产及整体规模均位居日本金融业首位，也是世界上屈指可数的综合性大型金融机构。2022年集团总资产位居全球金融集团第五位。
+  zh-HK: 三菱日聯金融集團（日語：三菱UFJフィナンシャル・グループ，英語：Mitsubishi UFJ Financial Group, Inc.，簡稱MUFG），是日本最大的金融機構，由三菱東京金融集團（三菱東京フィナンシャルグループ）與日聯控股（UFJホールディングス）於2005年10月1日合併後成立，總資產及整體規模均位居日本金融業首位，也是世界上屈指可數的綜合性大型金融機構。2022年集團總資產位居全球金融集團第五位。
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  en: https://en.wikipedia.org/wiki/Mitsubishi_UFJ_Financial_Group_Inc
+  zh: https://zh.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E6%97%A5%E8%81%94%E9%87%91%E8%9E%8D%E9%9B%86%E5%9B%A2

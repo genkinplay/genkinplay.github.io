@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001575677-26-000002",
+  "cik": "0001575677",
+  "filing_date": "2026-01-30",
+  "firm": "FLOSSBACH VON STORCH SE",
+  "holdings": [
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET - CLASS A",
+      "share_type": "SH",
+      "shares": 5965970,
+      "value_usd": 1867348587,
+      "weight_pct": "7.40",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT",
+      "share_type": "SH",
+      "shares": 3137572,
+      "value_usd": 1517392571,
+      "weight_pct": "6.01",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON.COM",
+      "share_type": "SH",
+      "shares": 6505958,
+      "value_usd": 1501705391,
+      "weight_pct": "5.95",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "084670702",
+      "name": "BERKSHIRE HATHAWAY B",
+      "share_type": "SH",
+      "shares": 2754237,
+      "value_usd": 1384417228,
+      "weight_pct": "5.49",
+      "ticker": null
+    },
+    {
+      "cusip": "883556102",
+      "name": "THERMO FISHER SCIENTIFIC",
+      "share_type": "SH",
+      "shares": 2178901,
+      "value_usd": 1262564184,
+      "weight_pct": "5.00",
+      "ticker": "TMO"
+    },
+    {
+      "cusip": "808513105",
+      "name": "CHARLES SCHWAB",
+      "share_type": "SH",
+      "shares": 10465592,
+      "value_usd": 1045617297,
+      "weight_pct": "4.14",
+      "ticker": null
+    },
+    {
+      "cusip": "032095101",
+      "name": "AMPHENOL",
+      "share_type": "SH",
+      "shares": 7280823,
+      "value_usd": 983930420,
+      "weight_pct": "3.90",
+      "ticker": "APH"
+    },
+    {
+      "cusip": "235851102",
+      "name": "DANAHER",
+      "share_type": "SH",
+      "shares": 4075809,
+      "value_usd": 933034196,
+      "weight_pct": "3.70",
+      "ticker": "DHR"
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE",
+      "share_type": "SH",
+      "shares": 3263728,
+      "value_usd": 887277094,
+      "weight_pct": "3.52",
+      "ticker": "AAPL"
+    },
+    {
+      "cusip": "713448108",
+      "name": "PEPSICO",
+      "share_type": "SH",
+      "shares": 6107676,
+      "value_usd": 876573660,
+      "weight_pct": "3.47",
+      "ticker": "PEP"
+    },
+    {
+      "cusip": "654106103",
+      "name": "NIKE",
+      "share_type": "SH",
+      "shares": 12753317,
+      "value_usd": 812513826,
+      "weight_pct": "3.22",
+      "ticker": "NKE"
+    },
+    {
+      "cusip": "002824100",
+      "name": "ABBOTT LABORATORIES",
+      "share_type": "SH",
+      "shares": 6457646,
+      "value_usd": 809078467,
+      "weight_pct": "3.21",
+      "ticker": "ABT"
+    },
+    {
+      "cusip": "45866F104",
+      "name": "INTERCONTINENTAL EXCHANGE",
+      "share_type": "SH",
+      "shares": 4852469,
+      "value_usd": 785905879,
+      "weight_pct": "3.12",
+      "ticker": "ICE"
+    },
+    {
+      "cusip": "031100100",
+      "name": "AMETEK",
+      "share_type": "SH",
+      "shares": 3820376,
+      "value_usd": 784361397,
+      "weight_pct": "3.11",
+      "ticker": "AME"
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA - CLASS A",
+      "share_type": "SH",
+      "shares": 2144231,
+      "value_usd": 752003254,
+      "weight_pct": "2.98",
+      "ticker": "V"
+    },
+    {
+      "cusip": "G1151C101",
+      "name": "ACCENTURE",
+      "share_type": "SH",
+      "shares": 2572746,
+      "value_usd": 690267752,
+      "weight_pct": "2.74",
+      "ticker": "ACN"
+    },
+    {
+      "cusip": "34959J108",
+      "name": "FORTIVE",
+      "share_type": "SH",
+      "shares": 11305369,
+      "value_usd": 624169422,
+      "weight_pct": "2.47",
+      "ticker": "FTV"
+    },
+    {
+      "cusip": "776696106",
+      "name": "ROPER TECHNOLOGIES",
+      "share_type": "SH",
+      "shares": 1144835,
+      "value_usd": 509600404,
+      "weight_pct": "2.02",
+      "ticker": "ROP"
+    },
+    {
+      "cusip": "G54950103",
+      "name": "LINDE",
+      "share_type": "SH",
+      "shares": 1085859,
+      "value_usd": 462999419,
+      "weight_pct": "1.84",
+      "ticker": "LIN"
+    },
+    {
+      "cusip": "742718109",
+      "name": "PROCTER & GAMBLE",
+      "share_type": "SH",
+      "shares": 3167654,
+      "value_usd": 453956495,
+      "weight_pct": "1.80",
+      "ticker": "PG"
+    },
+    {
+      "cusip": "09075V102",
+      "name": "BIONTECH ADR",
+      "share_type": "SH",
+      "shares": 4196048,
+      "value_usd": 399463770,
+      "weight_pct": "1.58",
+      "ticker": null
+    },
+    {
+      "cusip": "550021109",
+      "name": "LULULEMON ATHLETICA",
+      "share_type": "SH",
+      "shares": 1892537,
+      "value_usd": 393288114,
+      "weight_pct": "1.56",
+      "ticker": "LULU"
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL",
+      "share_type": "SH",
+      "shares": 704687,
+      "value_usd": 368262379,
+      "weight_pct": "1.46",
+      "ticker": "SPGI"
+    },
+    {
+      "cusip": "58733R102",
+      "name": "MERCADOLIBRE",
+      "share_type": "SH",
+      "shares": 179773,
+      "value_usd": 362109563,
+      "weight_pct": "1.44",
+      "ticker": "MELI"
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD",
+      "share_type": "SH",
+      "shares": 578461,
+      "value_usd": 330231816,
+      "weight_pct": "1.31",
+      "ticker": "MA"
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS",
+      "share_type": "SH",
+      "shares": 455066,
+      "value_usd": 300384516,
+      "weight_pct": "1.19",
+      "ticker": "META"
+    },
+    {
+      "cusip": "478160104",
+      "name": "JOHNSON & JOHNSON",
+      "share_type": "SH",
+      "shares": 1405626,
+      "value_usd": 290894301,
+      "weight_pct": "1.15",
+      "ticker": "JNJ"
+    },
+    {
+      "cusip": "384109104",
+      "name": "GRACO",
+      "share_type": "SH",
+      "shares": 3252150,
+      "value_usd": 266578736,
+      "weight_pct": "1.06",
+      "ticker": "GGG"
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE",
+      "share_type": "SH",
+      "shares": 870327,
+      "value_usd": 230558326,
+      "weight_pct": "0.91",
+      "ticker": "CRM"
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR ADR",
+      "share_type": "SH",
+      "shares": 737228,
+      "value_usd": 224036217,
+      "weight_pct": "0.89",
+      "ticker": null
+    },
+    {
+      "cusip": "032654105",
+      "name": "ANALOG DEVICES",
+      "share_type": "SH",
+      "shares": 807894,
+      "value_usd": 219100853,
+      "weight_pct": "0.87",
+      "ticker": "ADI"
+    },
+    {
+      "cusip": "038222105",
+      "name": "APPLIED MATERIALS",
+      "share_type": "SH",
+      "shares": 741520,
+      "value_usd": 190563225,
+      "weight_pct": "0.76",
+      "ticker": "AMAT"
+    },
+    {
+      "cusip": "750940108",
+      "name": "RALLIANT",
+      "share_type": "SH",
+      "shares": 3025421,
+      "value_usd": 154024183,
+      "weight_pct": "0.61",
+      "ticker": "RAL"
+    },
+    {
+      "cusip": "45167R104",
+      "name": "IDEX",
+      "share_type": "SH",
+      "shares": 798104,
+      "value_usd": 142014626,
+      "weight_pct": "0.56",
+      "ticker": "IEX"
+    },
+    {
+      "cusip": "55354G100",
+      "name": "MSCI",
+      "share_type": "SH",
+      "shares": 223465,
+      "value_usd": 128208574,
+      "weight_pct": "0.51",
+      "ticker": "MSCI"
+    },
+    {
+      "cusip": "824348106",
+      "name": "SHERWIN-WILLIAMS",
+      "share_type": "SH",
+      "shares": 392985,
+      "value_usd": 127338930,
+      "weight_pct": "0.50",
+      "ticker": "SHW"
+    },
+    {
+      "cusip": "580135101",
+      "name": "MCDONALDS",
+      "share_type": "SH",
+      "shares": 387434,
+      "value_usd": 118411453,
+      "weight_pct": "0.47",
+      "ticker": "MCD"
+    },
+    {
+      "cusip": "631103108",
+      "name": "NASDAQ",
+      "share_type": "SH",
+      "shares": 1147947,
+      "value_usd": 111500092,
+      "weight_pct": "0.44",
+      "ticker": "NDAQ"
+    },
+    {
+      "cusip": "256677105",
+      "name": "DOLLAR GENERAL",
+      "share_type": "SH",
+      "shares": 829687,
+      "value_usd": 110157543,
+      "weight_pct": "0.44",
+      "ticker": "DG"
+    },
+    {
+      "cusip": "09290D101",
+      "name": "BLACKROCK",
+      "share_type": "SH",
+      "shares": 101460,
+      "value_usd": 108596696,
+      "weight_pct": "0.43",
+      "ticker": "BLK"
+    },
+    {
+      "cusip": "88579Y101",
+      "name": "3M",
+      "share_type": "SH",
+      "shares": 663531,
+      "value_usd": 106231313,
+      "weight_pct": "0.42",
+      "ticker": "MMM"
+    },
+    {
+      "cusip": "G5960L103",
+      "name": "MEDTRONIC",
+      "share_type": "SH",
+      "shares": 1087747,
+      "value_usd": 104488977,
+      "weight_pct": "0.41",
+      "ticker": "MDT"
+    },
+    {
+      "cusip": "863667101",
+      "name": "STRYKER",
+      "share_type": "SH",
+      "shares": 284245,
+      "value_usd": 99903590,
+      "weight_pct": "0.40",
+      "ticker": "SYK"
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM",
+      "share_type": "SH",
+      "shares": 288529,
+      "value_usd": 99859887,
+      "weight_pct": "0.40",
+      "ticker": "AVGO"
+    },
+    {
+      "cusip": "N5505D105",
+      "name": "MAGNUM ICE CREAM CO.",
+      "share_type": "SH",
+      "shares": 5540122,
+      "value_usd": 88603205,
+      "weight_pct": "0.35",
+      "ticker": null
+    },
+    {
+      "cusip": "217204106",
+      "name": "COPART",
+      "share_type": "SH",
+      "shares": 1957416,
+      "value_usd": 76632836,
+      "weight_pct": "0.30",
+      "ticker": "CPRT"
+    },
+    {
+      "cusip": "452308109",
+      "name": "ILLINOIS TOOL WORKS",
+      "share_type": "SH",
+      "shares": 262323,
+      "value_usd": 64610155,
+      "weight_pct": "0.26",
+      "ticker": "ITW"
+    },
+    {
+      "cusip": "F92124100",
+      "name": "TOTALENERGIES",
+      "share_type": "SH",
+      "shares": 953936,
+      "value_usd": 62288218,
+      "weight_pct": "0.25",
+      "ticker": null
+    },
+    {
+      "cusip": "90353T100",
+      "name": "UBER TECHNOLOGIES",
+      "share_type": "SH",
+      "shares": 757668,
+      "value_usd": 61909052,
+      "weight_pct": "0.25",
+      "ticker": "UBER"
+    },
+    {
+      "cusip": "40415F101",
+      "name": "HDFC BANK ADR",
+      "share_type": "SH",
+      "shares": 1656810,
+      "value_usd": 60539837,
+      "weight_pct": "0.24",
+      "ticker": null
+    }
+  ],
+  "investor": "FLOSSBACH VON STORCH SE",
+  "period": "2025-12-31",
+  "total_holdings": 111,
+  "total_value_usd": 25229140777
+}

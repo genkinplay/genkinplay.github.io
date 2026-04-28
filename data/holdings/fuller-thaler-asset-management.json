@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001420506-26-000303",
+  "cik": "0001082327",
+  "filing_date": "2026-02-12",
+  "firm": "FULLER & THALER ASSET MANAGEMENT, INC.",
+  "holdings": [
+    {
+      "cusip": "42250P103",
+      "name": "Healthpeak Properties Inc",
+      "share_type": "SH",
+      "shares": 29648260,
+      "value_usd": 476744029,
+      "weight_pct": "1.64",
+      "ticker": "DOC"
+    },
+    {
+      "cusip": "74164F103",
+      "name": "Primoris Services Corp",
+      "share_type": "SH",
+      "shares": 3038248,
+      "value_usd": 377168107,
+      "weight_pct": "1.30",
+      "ticker": "PRIM"
+    },
+    {
+      "cusip": "302520101",
+      "name": "Fnb Corp",
+      "share_type": "SH",
+      "shares": 21013099,
+      "value_usd": 359323990,
+      "weight_pct": "1.23",
+      "ticker": "FNB"
+    },
+    {
+      "cusip": "55024U109",
+      "name": "Lumentum Holdings Inc",
+      "share_type": "SH",
+      "shares": 971609,
+      "value_usd": 358125422,
+      "weight_pct": "1.23",
+      "ticker": "LITE"
+    },
+    {
+      "cusip": "680033107",
+      "name": "Old Natl Bancorp Ind",
+      "share_type": "SH",
+      "shares": 15902994,
+      "value_usd": 354795803,
+      "weight_pct": "1.22",
+      "ticker": null
+    },
+    {
+      "cusip": "30161Q104",
+      "name": "Exelixis Inc",
+      "share_type": "SH",
+      "shares": 7960896,
+      "value_usd": 348926093,
+      "weight_pct": "1.20",
+      "ticker": "EXEL"
+    },
+    {
+      "cusip": "01973R101",
+      "name": "Allison Transmission Holdings Inc",
+      "share_type": "SH",
+      "shares": 3313661,
+      "value_usd": 324407453,
+      "weight_pct": "1.11",
+      "ticker": "ALSN"
+    },
+    {
+      "cusip": "G50871105",
+      "name": "Jazz Pharmaceuticals Plc Usd",
+      "share_type": "SH",
+      "shares": 1677132,
+      "value_usd": 285112523,
+      "weight_pct": "0.98",
+      "ticker": null
+    },
+    {
+      "cusip": "388689101",
+      "name": "Graphic Packaging Holding Co",
+      "share_type": "SH",
+      "shares": 18704259,
+      "value_usd": 281686143,
+      "weight_pct": "0.97",
+      "ticker": "GPK"
+    },
+    {
+      "cusip": "493267108",
+      "name": "Keycorp",
+      "share_type": "SH",
+      "shares": 13406380,
+      "value_usd": 276707693,
+      "weight_pct": "0.95",
+      "ticker": "KEY"
+    },
+    {
+      "cusip": "199908104",
+      "name": "Comfort Systems Usa Inc",
+      "share_type": "SH",
+      "shares": 289039,
+      "value_usd": 269756967,
+      "weight_pct": "0.93",
+      "ticker": "FIX"
+    },
+    {
+      "cusip": "001084102",
+      "name": "Agco Corp",
+      "share_type": "SH",
+      "shares": 2550165,
+      "value_usd": 266033255,
+      "weight_pct": "0.91",
+      "ticker": "AGCO"
+    },
+    {
+      "cusip": "808625107",
+      "name": "Science Applications Intl Corp",
+      "share_type": "SH",
+      "shares": 2626951,
+      "value_usd": 264428893,
+      "weight_pct": "0.91",
+      "ticker": "SAIC"
+    },
+    {
+      "cusip": "201723103",
+      "name": "Commercial Metals Co",
+      "share_type": "SH",
+      "shares": 3817829,
+      "value_usd": 264270141,
+      "weight_pct": "0.91",
+      "ticker": "CMC"
+    },
+    {
+      "cusip": "835495102",
+      "name": "Sonoco Products Company",
+      "share_type": "SH",
+      "shares": 5901950,
+      "value_usd": 257561080,
+      "weight_pct": "0.88",
+      "ticker": "SON"
+    },
+    {
+      "cusip": "25179M103",
+      "name": "Devon Energy Corp",
+      "share_type": "SH",
+      "shares": 6977967,
+      "value_usd": 255602922,
+      "weight_pct": "0.88",
+      "ticker": "DVN"
+    },
+    {
+      "cusip": "501889208",
+      "name": "Lkq Corp",
+      "share_type": "SH",
+      "shares": 8258251,
+      "value_usd": 249399192,
+      "weight_pct": "0.86",
+      "ticker": "LKQ"
+    },
+    {
+      "cusip": "40131M109",
+      "name": "Guardant Health Inc",
+      "share_type": "SH",
+      "shares": 2441730,
+      "value_usd": 249398349,
+      "weight_pct": "0.86",
+      "ticker": "GH"
+    },
+    {
+      "cusip": "093712107",
+      "name": "Bloom Energy Corp Cl A",
+      "share_type": "SH",
+      "shares": 2742201,
+      "value_usd": 238269864,
+      "weight_pct": "0.82",
+      "ticker": "BE"
+    },
+    {
+      "cusip": "741623102",
+      "name": "Primo Brands Corporation Class A",
+      "share_type": "SH",
+      "shares": 14454637,
+      "value_usd": 236333318,
+      "weight_pct": "0.81",
+      "ticker": "PRMB"
+    },
+    {
+      "cusip": "G4766E116",
+      "name": "Indivior Plc",
+      "share_type": "SH",
+      "shares": 6371534,
+      "value_usd": 228610629,
+      "weight_pct": "0.79",
+      "ticker": null
+    },
+    {
+      "cusip": "57667L107",
+      "name": "Match Group Inc",
+      "share_type": "SH",
+      "shares": 6965319,
+      "value_usd": 224910139,
+      "weight_pct": "0.77",
+      "ticker": "MTCH"
+    },
+    {
+      "cusip": "G9618E107",
+      "name": "White Mountains Ins Group Ltd",
+      "share_type": "SH",
+      "shares": 108172,
+      "value_usd": 224785147,
+      "weight_pct": "0.77",
+      "ticker": null
+    },
+    {
+      "cusip": "29084Q100",
+      "name": "Emcor Group Inc",
+      "share_type": "SH",
+      "shares": 363774,
+      "value_usd": 222553376,
+      "weight_pct": "0.76",
+      "ticker": "EME"
+    },
+    {
+      "cusip": "03064D108",
+      "name": "Americold Realty Trust",
+      "share_type": "SH",
+      "shares": 17295173,
+      "value_usd": 222415923,
+      "weight_pct": "0.76",
+      "ticker": "COLD"
+    },
+    {
+      "cusip": "68404L201",
+      "name": "Option Care Health Inc New",
+      "share_type": "SH",
+      "shares": 6958800,
+      "value_usd": 221707367,
+      "weight_pct": "0.76",
+      "ticker": "OPCH"
+    },
+    {
+      "cusip": "29261A100",
+      "name": "Encompass Health Corp",
+      "share_type": "SH",
+      "shares": 2053690,
+      "value_usd": 217978644,
+      "weight_pct": "0.75",
+      "ticker": "EHC"
+    },
+    {
+      "cusip": "902681105",
+      "name": "Ugi Corp",
+      "share_type": "SH",
+      "shares": 5546238,
+      "value_usd": 207595706,
+      "weight_pct": "0.71",
+      "ticker": "UGI"
+    },
+    {
+      "cusip": "G8060N102",
+      "name": "Sensata Technologies Holding Plc",
+      "share_type": "SH",
+      "shares": 6019414,
+      "value_usd": 200386289,
+      "weight_pct": "0.69",
+      "ticker": "ST"
+    },
+    {
+      "cusip": "008252108",
+      "name": "Affiliated Managers Group Inc",
+      "share_type": "SH",
+      "shares": 685588,
+      "value_usd": 197641206,
+      "weight_pct": "0.68",
+      "ticker": "AMG"
+    },
+    {
+      "cusip": "736508847",
+      "name": "Portland Gen Elec Co New",
+      "share_type": "SH",
+      "shares": 4084603,
+      "value_usd": 196020106,
+      "weight_pct": "0.67",
+      "ticker": null
+    },
+    {
+      "cusip": "35905A109",
+      "name": "Frontdoor Inc",
+      "share_type": "SH",
+      "shares": 3377903,
+      "value_usd": 194871204,
+      "weight_pct": "0.67",
+      "ticker": "FTDR"
+    },
+    {
+      "cusip": "04247X102",
+      "name": "Armstrong World Industries Inc",
+      "share_type": "SH",
+      "shares": 1005464,
+      "value_usd": 192144148,
+      "weight_pct": "0.66",
+      "ticker": "AWI"
+    },
+    {
+      "cusip": "109194100",
+      "name": "Bright Horizons Fam Sol In Del",
+      "share_type": "SH",
+      "shares": 1893014,
+      "value_usd": 191951653,
+      "weight_pct": "0.66",
+      "ticker": null
+    },
+    {
+      "cusip": "172755100",
+      "name": "Cirrus Logic Inc",
+      "share_type": "SH",
+      "shares": 1578555,
+      "value_usd": 187058804,
+      "weight_pct": "0.64",
+      "ticker": "CRUS"
+    },
+    {
+      "cusip": "257651109",
+      "name": "Donaldson Inc",
+      "share_type": "SH",
+      "shares": 2109595,
+      "value_usd": 187036664,
+      "weight_pct": "0.64",
+      "ticker": "DCI"
+    },
+    {
+      "cusip": "093671105",
+      "name": "H&R Block Inc",
+      "share_type": "SH",
+      "shares": 4285516,
+      "value_usd": 186762797,
+      "weight_pct": "0.64",
+      "ticker": "HRB"
+    },
+    {
+      "cusip": "859241101",
+      "name": "Sterling Contruction Inc",
+      "share_type": "SH",
+      "shares": 605452,
+      "value_usd": 185407579,
+      "weight_pct": "0.64",
+      "ticker": null
+    },
+    {
+      "cusip": "92537N108",
+      "name": "Vertiv Holdings Co Cl A",
+      "share_type": "SH",
+      "shares": 1142340,
+      "value_usd": 185070545,
+      "weight_pct": "0.64",
+      "ticker": "VRT"
+    },
+    {
+      "cusip": "589889104",
+      "name": "Merit Med Systems Inc",
+      "share_type": "SH",
+      "shares": 2077796,
+      "value_usd": 183136907,
+      "weight_pct": "0.63",
+      "ticker": null
+    },
+    {
+      "cusip": "44930G107",
+      "name": "Icu Medical Inc",
+      "share_type": "SH",
+      "shares": 1265799,
+      "value_usd": 180591541,
+      "weight_pct": "0.62",
+      "ticker": "ICUI"
+    },
+    {
+      "cusip": "366505105",
+      "name": "Garrett Motion Inc",
+      "share_type": "SH",
+      "shares": 10349004,
+      "value_usd": 180383132,
+      "weight_pct": "0.62",
+      "ticker": "GTX"
+    },
+    {
+      "cusip": "65336K103",
+      "name": "Nexstar Media Group Inc Cl A",
+      "share_type": "SH",
+      "shares": 863084,
+      "value_usd": 175249150,
+      "weight_pct": "0.60",
+      "ticker": "NXST"
+    },
+    {
+      "cusip": "410867105",
+      "name": "Hanover Insurance Group Inc",
+      "share_type": "SH",
+      "shares": 954272,
+      "value_usd": 174412300,
+      "weight_pct": "0.60",
+      "ticker": "THG"
+    },
+    {
+      "cusip": "49803T300",
+      "name": "Kite Realty Group Tr",
+      "share_type": "SH",
+      "shares": 7229883,
+      "value_usd": 173300292,
+      "weight_pct": "0.60",
+      "ticker": null
+    },
+    {
+      "cusip": "150870103",
+      "name": "Celanese Corp",
+      "share_type": "SH",
+      "shares": 4094781,
+      "value_usd": 173127359,
+      "weight_pct": "0.59",
+      "ticker": "CE"
+    },
+    {
+      "cusip": "00508Y102",
+      "name": "Acuity Inc Com",
+      "share_type": "SH",
+      "shares": 479177,
+      "value_usd": 172522795,
+      "weight_pct": "0.59",
+      "ticker": null
+    },
+    {
+      "cusip": "04621X108",
+      "name": "Assurant Inc",
+      "share_type": "SH",
+      "shares": 697555,
+      "value_usd": 168006059,
+      "weight_pct": "0.58",
+      "ticker": "AIZ"
+    },
+    {
+      "cusip": "12621E103",
+      "name": "Cno Financial Group Inc",
+      "share_type": "SH",
+      "shares": 3894342,
+      "value_usd": 165392724,
+      "weight_pct": "0.57",
+      "ticker": "CNO"
+    },
+    {
+      "cusip": "751212101",
+      "name": "Ralph Lauren Corp Cl A",
+      "share_type": "SH",
+      "shares": 444337,
+      "value_usd": 157121986,
+      "weight_pct": "0.54",
+      "ticker": "RL"
+    }
+  ],
+  "investor": "FULLER & THALER ASSET MANAGEMENT, INC.",
+  "period": "2025-12-31",
+  "total_holdings": 497,
+  "total_value_usd": 29103450352
+}

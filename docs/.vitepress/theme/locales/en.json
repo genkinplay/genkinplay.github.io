@@ -3,7 +3,9 @@
     "hero_title": "Follow the playbooks of the world's most watched investors",
     "hero_subtitle": "Real 13F snapshots, curated holdings, downloadable AI skills.",
     "cta_primary": "Explore",
-    "cta_ghost": "About"
+    "cta_ghost": "About",
+    "all_institutions": "More Investors",
+    "all_institutions_subtitle": "Ranked by assets under management"
   },
   "hero": {
     "title": {
@@ -11,6 +13,7 @@
       "accent": "Investors"
     },
     "following": "Following",
+    "names": ["Buffett", "Cathie Wood", "Musk", "Huang", "Altman"],
     "subtitle": "Real 13F snapshots, curated holdings, and downloadable AI skills — so you can explore the playbooks of the world's most watched investors inside Claude Code.",
     "cta": {
       "primary": "Explore Investors",
@@ -24,7 +27,7 @@
     "endpoints": "Holdings"
   },
   "detail": {
-    "bio": "Bio",
+    "bio": "About the Investor",
     "philosophy": "Investment Philosophy",
     "holdings_13f": "Top Holdings (13F)",
     "holdings_curated": "Notable Holdings",
@@ -36,7 +39,10 @@
     "download_desc": "Import this .skill into Claude Code to converse with the investor's playbook.",
     "download_cta": "Download .skill",
     "insider_trades": "Insider Trades · SEC Form 4",
-    "insider_ticker_label": "Ticker:"
+    "insider_ticker_label": "Ticker:",
+    "holdings_curated_disclaimer": "Public disclosure",
+    "source_link": "Source →",
+    "related": "Other Investors"
   },
   "badges": {
     "13f": "13F Filer",

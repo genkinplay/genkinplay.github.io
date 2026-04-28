@@ -1,0 +1,29 @@
+slug: rokos-capital-management
+display_name:
+  en: Rokos Capital Management LLP
+  zh-CN: 罗科斯资本
+  zh-HK: 羅科斯資本
+tagline:
+  en: SEC 13F filer · AUM $25.66B
+  zh-CN: SEC 13F 机构 · 管理资产 $25.66B
+  zh-HK: SEC 13F 機構 · 管理資產 $25.66B
+role:
+  en: 'Institutional investor (rank #42, CIK 0001666335)'
+  zh-CN: '机构投资者（排名 #42，CIK 0001666335）'
+  zh-HK: '機構投資者（排名 #42，CIK 0001666335）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=Rokos%20Capital%20Management%20LLP&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001666335'
+holdings_source: 13f
+featured: false
+rank: 42
+aum_usd: 25660000000
+bio:
+  en: Rokos Capital Management LLP (RCM) is a British Alternative Investment Fund Manager (AIFM). RCM is headquartered in London, with offices in New York, Washington DC and Singapore. It is authorised and regulated by the UK Financial Conduct Authority. The firm has around 200 employees.
+  zh-CN: '罗科斯资本 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $25.66B，在 SEC 13F 机构中排名 #42。'
+  zh-HK: '羅科斯資本 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $25.66B，在 SEC 13F 機構中排名 #42。'
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  en: https://en.wikipedia.org/wiki/Rokos_Capital_Management_LLP

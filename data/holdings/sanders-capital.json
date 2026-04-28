@@ -1,0 +1,408 @@
+{
+  "accession_number": "0001172661-26-000730",
+  "cik": "0001508097",
+  "filing_date": "2026-02-13",
+  "firm": "Sanders Capital, LLC",
+  "holdings": [
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 31914021,
+      "value_usd": 10014619790,
+      "weight_pct": "11.53",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "share_type": "SH",
+      "shares": 31958360,
+      "value_usd": 9711826020,
+      "weight_pct": "11.19",
+      "ticker": null
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "share_type": "SH",
+      "shares": 10038174,
+      "value_usd": 6626098276,
+      "weight_pct": "7.63",
+      "ticker": "META"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 12150215,
+      "value_usd": 5876086978,
+      "weight_pct": "6.77",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "40412C101",
+      "name": "HCA HEALTHCARE INC",
+      "share_type": "SH",
+      "shares": 10464168,
+      "value_usd": 4885301472,
+      "weight_pct": "5.63",
+      "ticker": "HCA"
+    },
+    {
+      "cusip": "G7997R103",
+      "name": "SEAGATE TECHNOLOGY HLDNGS PL",
+      "share_type": "SH",
+      "shares": 17180892,
+      "value_usd": 4731445848,
+      "weight_pct": "5.45",
+      "ticker": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 14900430,
+      "value_usd": 3439317253,
+      "weight_pct": "3.96",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "share_type": "SH",
+      "shares": 10910255,
+      "value_usd": 2966061924,
+      "weight_pct": "3.42",
+      "ticker": "AAPL"
+    },
+    {
+      "cusip": "G1151C101",
+      "name": "ACCENTURE PLC IRELAND",
+      "share_type": "SH",
+      "shares": 10963615,
+      "value_usd": 2941537905,
+      "weight_pct": "3.39",
+      "ticker": null
+    },
+    {
+      "cusip": "060505104",
+      "name": "BANK AMERICA CORP",
+      "share_type": "SH",
+      "shares": 45271028,
+      "value_usd": 2489906540,
+      "weight_pct": "2.87",
+      "ticker": "BAC"
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "share_type": "SH",
+      "shares": 8615819,
+      "value_usd": 2282416611,
+      "weight_pct": "2.63",
+      "ticker": "CRM"
+    },
+    {
+      "cusip": "038222105",
+      "name": "APPLIED MATLS INC",
+      "share_type": "SH",
+      "shares": 8835961,
+      "value_usd": 2270753617,
+      "weight_pct": "2.62",
+      "ticker": null
+    },
+    {
+      "cusip": "125523100",
+      "name": "THE CIGNA GROUP",
+      "share_type": "SH",
+      "shares": 7801089,
+      "value_usd": 2147093725,
+      "weight_pct": "2.47",
+      "ticker": "CI"
+    },
+    {
+      "cusip": "247361702",
+      "name": "DELTA AIR LINES INC DEL",
+      "share_type": "SH",
+      "shares": 29577814,
+      "value_usd": 2052700292,
+      "weight_pct": "2.36",
+      "ticker": null
+    },
+    {
+      "cusip": "036752103",
+      "name": "ELEVANCE HEALTH INC FORMERLY",
+      "share_type": "SH",
+      "shares": 5750865,
+      "value_usd": 2015965726,
+      "weight_pct": "2.32",
+      "ticker": null
+    },
+    {
+      "cusip": "91324P102",
+      "name": "UNITEDHEALTH GROUP INC",
+      "share_type": "SH",
+      "shares": 5997142,
+      "value_usd": 1979716546,
+      "weight_pct": "2.28",
+      "ticker": "UNH"
+    },
+    {
+      "cusip": "75513E101",
+      "name": "RTX CORPORATION",
+      "share_type": "SH",
+      "shares": 9395871,
+      "value_usd": 1723202741,
+      "weight_pct": "1.98",
+      "ticker": "RTX"
+    },
+    {
+      "cusip": "910047109",
+      "name": "UNITED AIRLS HLDGS INC",
+      "share_type": "SH",
+      "shares": 15182819,
+      "value_usd": 1697742821,
+      "weight_pct": "1.96",
+      "ticker": null
+    },
+    {
+      "cusip": "09857L108",
+      "name": "BOOKING HOLDINGS INC",
+      "share_type": "SH",
+      "shares": 297456,
+      "value_usd": 1592975040,
+      "weight_pct": "1.83",
+      "ticker": "BKNG"
+    },
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF TR",
+      "share_type": "SH",
+      "shares": 2050638,
+      "value_usd": 1398371065,
+      "weight_pct": "1.61",
+      "ticker": null
+    },
+    {
+      "cusip": "46625H100",
+      "name": "JPMORGAN CHASE & CO.",
+      "share_type": "SH",
+      "shares": 4305493,
+      "value_usd": 1387315954,
+      "weight_pct": "1.60",
+      "ticker": "JPM"
+    },
+    {
+      "cusip": "046353108",
+      "name": "ASTRAZENECA PLC",
+      "share_type": "SH",
+      "shares": 14139408,
+      "value_usd": 1299835777,
+      "weight_pct": "1.50",
+      "ticker": "AZN"
+    },
+    {
+      "cusip": "369550108",
+      "name": "GENERAL DYNAMICS CORP",
+      "share_type": "SH",
+      "shares": 3677624,
+      "value_usd": 1238108896,
+      "weight_pct": "1.43",
+      "ticker": "GD"
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "share_type": "SH",
+      "shares": 3315303,
+      "value_usd": 1162709915,
+      "weight_pct": "1.34",
+      "ticker": "V"
+    },
+    {
+      "cusip": "12572Q105",
+      "name": "CME GROUP INC",
+      "share_type": "SH",
+      "shares": 4177515,
+      "value_usd": 1140795796,
+      "weight_pct": "1.31",
+      "ticker": "CME"
+    },
+    {
+      "cusip": "666807102",
+      "name": "NORTHROP GRUMMAN CORP",
+      "share_type": "SH",
+      "shares": 1903403,
+      "value_usd": 1085339425,
+      "weight_pct": "1.25",
+      "ticker": "NOC"
+    },
+    {
+      "cusip": "742718109",
+      "name": "PROCTER AND GAMBLE CO",
+      "share_type": "SH",
+      "shares": 6775686,
+      "value_usd": 971023561,
+      "weight_pct": "1.12",
+      "ticker": null
+    },
+    {
+      "cusip": "722304102",
+      "name": "PDD HOLDINGS INC",
+      "share_type": "SH",
+      "shares": 8112327,
+      "value_usd": 919856759,
+      "weight_pct": "1.06",
+      "ticker": "PDD"
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "share_type": "SH",
+      "shares": 1548588,
+      "value_usd": 884057917,
+      "weight_pct": "1.02",
+      "ticker": "MA"
+    },
+    {
+      "cusip": "90384S303",
+      "name": "ULTA BEAUTY INC",
+      "share_type": "SH",
+      "shares": 1263736,
+      "value_usd": 764572917,
+      "weight_pct": "0.88",
+      "ticker": "ULTA"
+    },
+    {
+      "cusip": "89677Q107",
+      "name": "TRIP COM GROUP LTD",
+      "share_type": "SH",
+      "shares": 9890637,
+      "value_usd": 711235707,
+      "weight_pct": "0.82",
+      "ticker": "TCOM"
+    },
+    {
+      "cusip": "713448108",
+      "name": "PEPSICO INC",
+      "share_type": "SH",
+      "shares": 4245422,
+      "value_usd": 609302965,
+      "weight_pct": "0.70",
+      "ticker": "PEP"
+    },
+    {
+      "cusip": "539830109",
+      "name": "LOCKHEED MARTIN CORP",
+      "share_type": "SH",
+      "shares": 1143227,
+      "value_usd": 552944603,
+      "weight_pct": "0.64",
+      "ticker": "LMT"
+    },
+    {
+      "cusip": "922042775",
+      "name": "VANGUARD INTL EQUITY INDEX F",
+      "share_type": "SH",
+      "shares": 6463079,
+      "value_usd": 475424091,
+      "weight_pct": "0.55",
+      "ticker": null
+    },
+    {
+      "cusip": "404280406",
+      "name": "HSBC HLDGS PLC",
+      "share_type": "SH",
+      "shares": 2887470,
+      "value_usd": 227157265,
+      "weight_pct": "0.26",
+      "ticker": "HSBC"
+    },
+    {
+      "cusip": "337738108",
+      "name": "FISERV INC",
+      "share_type": "SH",
+      "shares": 2292304,
+      "value_usd": 153974060,
+      "weight_pct": "0.18",
+      "ticker": "FISV"
+    },
+    {
+      "cusip": "002824100",
+      "name": "ABBOTT LABS",
+      "share_type": "SH",
+      "shares": 1151585,
+      "value_usd": 144282085,
+      "weight_pct": "0.17",
+      "ticker": null
+    },
+    {
+      "cusip": "00287Y109",
+      "name": "ABBVIE INC",
+      "share_type": "SH",
+      "shares": 532163,
+      "value_usd": 121593924,
+      "weight_pct": "0.14",
+      "ticker": "ABBV"
+    },
+    {
+      "cusip": "89832Q109",
+      "name": "TRUIST FINL CORP",
+      "share_type": "SH",
+      "shares": 2102622,
+      "value_usd": 103470029,
+      "weight_pct": "0.12",
+      "ticker": "TFC"
+    },
+    {
+      "cusip": "824596100",
+      "name": "SHINHAN FINANCIAL GROUP CO L",
+      "share_type": "SH",
+      "shares": 157486,
+      "value_usd": 8445974,
+      "weight_pct": "0.01",
+      "ticker": null
+    },
+    {
+      "cusip": "904767803",
+      "name": "UNILEVER PLC",
+      "share_type": "SH",
+      "shares": 98335,
+      "value_usd": 6431109,
+      "weight_pct": "0.01",
+      "ticker": "UL"
+    },
+    {
+      "cusip": "639057207",
+      "name": "NATWEST GROUP PLC",
+      "share_type": "SH",
+      "shares": 205464,
+      "value_usd": 3595620,
+      "weight_pct": "0.00",
+      "ticker": "NWG"
+    },
+    {
+      "cusip": "456837103",
+      "name": "ING GROEP N.V.",
+      "share_type": "SH",
+      "shares": 128385,
+      "value_usd": 3569180,
+      "weight_pct": "0.00",
+      "ticker": null
+    },
+    {
+      "cusip": "87165B103",
+      "name": "SYNCHRONY FINANCIAL",
+      "share_type": "SH",
+      "shares": 19837,
+      "value_usd": 1655001,
+      "weight_pct": "0.00",
+      "ticker": "SYF"
+    }
+  ],
+  "investor": "Sanders Capital, LLC",
+  "period": "2025-12-31",
+  "total_holdings": 44,
+  "total_value_usd": 86819838720
+}

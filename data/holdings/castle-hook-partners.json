@@ -1,0 +1,462 @@
+{
+  "accession_number": "0000902664-26-001080",
+  "cik": "0001687241",
+  "filing_date": "2026-02-17",
+  "firm": "Castle Hook Partners LP",
+  "holdings": [
+    {
+      "cusip": "78463V107",
+      "name": "SPDR GOLD TR",
+      "share_type": "SH",
+      "shares": 21277400,
+      "value_usd": 8432446394,
+      "weight_pct": "35.03",
+      "ticker": null
+    },
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF TR",
+      "share_type": "SH",
+      "shares": 6383200,
+      "value_usd": 4352831744,
+      "weight_pct": "18.08",
+      "ticker": null
+    },
+    {
+      "cusip": "46090E103",
+      "name": "INVESCO QQQ TR",
+      "share_type": "SH",
+      "shares": 6383200,
+      "value_usd": 3921263592,
+      "weight_pct": "16.29",
+      "ticker": null
+    },
+    {
+      "cusip": "172967424",
+      "name": "CITIGROUP INC",
+      "share_type": "SH",
+      "shares": 5200555,
+      "value_usd": 606852763,
+      "weight_pct": "2.52",
+      "ticker": "C"
+    },
+    {
+      "cusip": "012653101",
+      "name": "ALBEMARLE CORP",
+      "share_type": "SH",
+      "shares": 4229299,
+      "value_usd": 598192051,
+      "weight_pct": "2.49",
+      "ticker": "ALB"
+    },
+    {
+      "cusip": "632307104",
+      "name": "NATERA INC",
+      "share_type": "SH",
+      "shares": 2167869,
+      "value_usd": 496637110,
+      "weight_pct": "2.06",
+      "ticker": "NTRA"
+    },
+    {
+      "cusip": "532457108",
+      "name": "ELI LILLY & CO",
+      "share_type": "SH",
+      "shares": 383550,
+      "value_usd": 412193514,
+      "weight_pct": "1.71",
+      "ticker": "LLY"
+    },
+    {
+      "cusip": "82509L107",
+      "name": "SHOPIFY INC",
+      "share_type": "SH",
+      "shares": 1979636,
+      "value_usd": 318662007,
+      "weight_pct": "1.32",
+      "ticker": "SHOP"
+    },
+    {
+      "cusip": "146869102",
+      "name": "CARVANA CO",
+      "share_type": "SH",
+      "shares": 695090,
+      "value_usd": 293341882,
+      "weight_pct": "1.22",
+      "ticker": "CVNA"
+    },
+    {
+      "cusip": "88160R101",
+      "name": "TESLA INC",
+      "share_type": "SH",
+      "shares": 605443,
+      "value_usd": 272279826,
+      "weight_pct": "1.13",
+      "ticker": "TSLA"
+    },
+    {
+      "cusip": "03831W108",
+      "name": "APPLOVIN CORP",
+      "share_type": "SH",
+      "shares": 393813,
+      "value_usd": 265359076,
+      "weight_pct": "1.10",
+      "ticker": "APP"
+    },
+    {
+      "cusip": "235851102",
+      "name": "DANAHER CORPORATION",
+      "share_type": "SH",
+      "shares": 1152081,
+      "value_usd": 263734382,
+      "weight_pct": "1.10",
+      "ticker": "DHR"
+    },
+    {
+      "cusip": "199908104",
+      "name": "COMFORT SYS USA INC",
+      "share_type": "SH",
+      "shares": 267834,
+      "value_usd": 249966794,
+      "weight_pct": "1.04",
+      "ticker": null
+    },
+    {
+      "cusip": "185899101",
+      "name": "CLEVELAND-CLIFFS INC NEW",
+      "share_type": "SH",
+      "shares": 18083029,
+      "value_usd": 240142625,
+      "weight_pct": "1.00",
+      "ticker": "CLF"
+    },
+    {
+      "cusip": "95040Q104",
+      "name": "WELLTOWER INC",
+      "share_type": "SH",
+      "shares": 1249056,
+      "value_usd": 231837284,
+      "weight_pct": "0.96",
+      "ticker": "WELL"
+    },
+    {
+      "cusip": "958102105",
+      "name": "WESTERN DIGITAL CORP",
+      "share_type": "SH",
+      "shares": 1325670,
+      "value_usd": 228373171,
+      "weight_pct": "0.95",
+      "ticker": "WDC"
+    },
+    {
+      "cusip": "931142103",
+      "name": "WALMART INC",
+      "share_type": "SH",
+      "shares": 2003962,
+      "value_usd": 223261407,
+      "weight_pct": "0.93",
+      "ticker": "WMT"
+    },
+    {
+      "cusip": "G7997R103",
+      "name": "SEAGATE TECHNOLOGY HLDNGS PL",
+      "share_type": "SH",
+      "shares": 802414,
+      "value_usd": 220976792,
+      "weight_pct": "0.92",
+      "ticker": null
+    },
+    {
+      "cusip": "91332U101",
+      "name": "UNITY SOFTWARE INC",
+      "share_type": "SH",
+      "shares": 4967901,
+      "value_usd": 219432187,
+      "weight_pct": "0.91",
+      "ticker": "U"
+    },
+    {
+      "cusip": "457669307",
+      "name": "INSMED INC",
+      "share_type": "SH",
+      "shares": 1253568,
+      "value_usd": 218170975,
+      "weight_pct": "0.91",
+      "ticker": "INSM"
+    },
+    {
+      "cusip": "013872106",
+      "name": "ALCOA CORP",
+      "share_type": "SH",
+      "shares": 3968265,
+      "value_usd": 210873602,
+      "weight_pct": "0.88",
+      "ticker": "AA"
+    },
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 634752,
+      "value_usd": 199185177,
+      "weight_pct": "0.83",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "13321L108",
+      "name": "CAMECO CORP",
+      "share_type": "SH",
+      "shares": 2088962,
+      "value_usd": 191119133,
+      "weight_pct": "0.79",
+      "ticker": "CCJ"
+    },
+    {
+      "cusip": "35671D857",
+      "name": "FREEPORT-MCMORAN INC",
+      "share_type": "SH",
+      "shares": 3534298,
+      "value_usd": 179506996,
+      "weight_pct": "0.75",
+      "ticker": "FCX"
+    },
+    {
+      "cusip": "252131107",
+      "name": "DEXCOM INC",
+      "share_type": "SH",
+      "shares": 2535011,
+      "value_usd": 168248680,
+      "weight_pct": "0.70",
+      "ticker": "DXCM"
+    },
+    {
+      "cusip": "87305R109",
+      "name": "TTM TECHNOLOGIES INC",
+      "share_type": "SH",
+      "shares": 1932618,
+      "value_usd": 133350642,
+      "weight_pct": "0.55",
+      "ticker": "TTMI"
+    },
+    {
+      "cusip": "253393102",
+      "name": "DICKS SPORTING GOODS INC",
+      "share_type": "SH",
+      "shares": 588331,
+      "value_usd": 116471888,
+      "weight_pct": "0.48",
+      "ticker": null
+    },
+    {
+      "cusip": "336433107",
+      "name": "FIRST SOLAR INC",
+      "share_type": "SH",
+      "shares": 443731,
+      "value_usd": 115915849,
+      "weight_pct": "0.48",
+      "ticker": "FSLR"
+    },
+    {
+      "cusip": "881624209",
+      "name": "TEVA PHARMACEUTICAL INDS LTD",
+      "share_type": "SH",
+      "shares": 2627792,
+      "value_usd": 82013389,
+      "weight_pct": "0.34",
+      "ticker": null
+    },
+    {
+      "cusip": "74340W103",
+      "name": "PROLOGIS INC.",
+      "share_type": "SH",
+      "shares": 572165,
+      "value_usd": 73042584,
+      "weight_pct": "0.30",
+      "ticker": "PLD"
+    },
+    {
+      "cusip": "833635105",
+      "name": "SOCIEDAD QUIMICA Y MINERA DE",
+      "share_type": "SH",
+      "shares": 1006637,
+      "value_usd": 69256626,
+      "weight_pct": "0.29",
+      "ticker": null
+    },
+    {
+      "cusip": "36266G107",
+      "name": "GE HEALTHCARE TECHNOLOGIES I",
+      "share_type": "SH",
+      "shares": 820007,
+      "value_usd": 67256974,
+      "weight_pct": "0.28",
+      "ticker": null
+    },
+    {
+      "cusip": "969457100",
+      "name": "WILLIAMS COS INC",
+      "share_type": "SH",
+      "shares": 1033774,
+      "value_usd": 62140155,
+      "weight_pct": "0.26",
+      "ticker": null
+    },
+    {
+      "cusip": "038222105",
+      "name": "APPLIED MATLS INC",
+      "share_type": "SH",
+      "shares": 241718,
+      "value_usd": 62119109,
+      "weight_pct": "0.26",
+      "ticker": null
+    },
+    {
+      "cusip": "83443Q103",
+      "name": "SOLSTICE ADVANCED MATLS INC",
+      "share_type": "SH",
+      "shares": 1190374,
+      "value_usd": 57828369,
+      "weight_pct": "0.24",
+      "ticker": null
+    },
+    {
+      "cusip": "25809K105",
+      "name": "DOORDASH INC",
+      "share_type": "SH",
+      "shares": 232908,
+      "value_usd": 52749004,
+      "weight_pct": "0.22",
+      "ticker": "DASH"
+    },
+    {
+      "cusip": "82489W107",
+      "name": "SHOALS TECHNOLOGIES GROUP IN",
+      "share_type": "SH",
+      "shares": 4717105,
+      "value_usd": 40095393,
+      "weight_pct": "0.17",
+      "ticker": null
+    },
+    {
+      "cusip": "N62509109",
+      "name": "NEWAMSTERDAM PHARMA COMPANY",
+      "share_type": "SH",
+      "shares": 1085008,
+      "value_usd": 38062080,
+      "weight_pct": "0.16",
+      "ticker": null
+    },
+    {
+      "cusip": "03990B101",
+      "name": "ARES MANAGEMENT CORPORATION",
+      "share_type": "SH",
+      "shares": 173679,
+      "value_usd": 28071737,
+      "weight_pct": "0.12",
+      "ticker": "ARES"
+    },
+    {
+      "cusip": "892356106",
+      "name": "TRACTOR SUPPLY CO",
+      "share_type": "SH",
+      "shares": 225000,
+      "value_usd": 11252250,
+      "weight_pct": "0.05",
+      "ticker": "TSCO"
+    },
+    {
+      "cusip": "03938L203",
+      "name": "ARCELORMITTAL SA LUXEMBOURG",
+      "share_type": "SH",
+      "shares": 130669,
+      "value_usd": 5954586,
+      "weight_pct": "0.02",
+      "ticker": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 30686,
+      "value_usd": 5722939,
+      "weight_pct": "0.02",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "14040H105",
+      "name": "CAPITAL ONE FINL CORP",
+      "share_type": "SH",
+      "shares": 21586,
+      "value_usd": 5231583,
+      "weight_pct": "0.02",
+      "ticker": "COF"
+    },
+    {
+      "cusip": "55024U109",
+      "name": "LUMENTUM HLDGS INC",
+      "share_type": "SH",
+      "shares": 10568,
+      "value_usd": 3895259,
+      "weight_pct": "0.02",
+      "ticker": "LITE"
+    },
+    {
+      "cusip": "30050B101",
+      "name": "EVOLENT HEALTH INC",
+      "share_type": "SH",
+      "shares": 937628,
+      "value_usd": 3750512,
+      "weight_pct": "0.02",
+      "ticker": "EVH"
+    },
+    {
+      "cusip": "48251W104",
+      "name": "KKR & CO INC",
+      "share_type": "SH",
+      "shares": 22303,
+      "value_usd": 2843186,
+      "weight_pct": "0.01",
+      "ticker": "KKR"
+    },
+    {
+      "cusip": "303250104",
+      "name": "FAIR ISAAC CORP",
+      "share_type": "SH",
+      "shares": 1639,
+      "value_usd": 2770926,
+      "weight_pct": "0.01",
+      "ticker": "FICO"
+    },
+    {
+      "cusip": "171779309",
+      "name": "CIENA CORP",
+      "share_type": "SH",
+      "shares": 11479,
+      "value_usd": 2684594,
+      "weight_pct": "0.01",
+      "ticker": "CIEN"
+    },
+    {
+      "cusip": "91680M107",
+      "name": "UPSTART HLDGS INC",
+      "share_type": "SH",
+      "shares": 48545,
+      "value_usd": 2122873,
+      "weight_pct": "0.01",
+      "ticker": "UPST"
+    },
+    {
+      "cusip": "015271109",
+      "name": "ALEXANDRIA REAL ESTATE EQ IN",
+      "share_type": "SH",
+      "shares": 38137,
+      "value_usd": 1866425,
+      "weight_pct": "0.01",
+      "ticker": null
+    }
+  ],
+  "investor": "Castle Hook Partners LP",
+  "period": "2025-12-31",
+  "total_holdings": 57,
+  "total_value_usd": 24069838432
+}

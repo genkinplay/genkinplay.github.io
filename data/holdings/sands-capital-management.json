@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001020066-26-000005",
+  "cik": "0001020066",
+  "filing_date": "2026-02-13",
+  "firm": "SANDS CAPITAL MANAGEMENT, LLC",
+  "holdings": [
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 20043571,
+      "value_usd": 3738125991,
+      "weight_pct": "11.37",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "share_type": "SH",
+      "shares": 6826175,
+      "value_usd": 2074406321,
+      "weight_pct": "6.31",
+      "ticker": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 7440012,
+      "value_usd": 1717303570,
+      "weight_pct": "5.22",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 4939049,
+      "value_usd": 1545922337,
+      "weight_pct": "4.70",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "82509L107",
+      "name": "SHOPIFY INC",
+      "share_type": "SH",
+      "shares": 9506036,
+      "value_usd": 1530186615,
+      "weight_pct": "4.65",
+      "ticker": "SHOP"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 2470769,
+      "value_usd": 1194913304,
+      "weight_pct": "3.63",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "share_type": "SH",
+      "shares": 3090129,
+      "value_usd": 1083739280,
+      "weight_pct": "3.30",
+      "ticker": "V"
+    },
+    {
+      "cusip": "146869102",
+      "name": "CARVANA CO",
+      "share_type": "SH",
+      "shares": 2442534,
+      "value_usd": 1030798199,
+      "weight_pct": "3.14",
+      "ticker": "CVNA"
+    },
+    {
+      "cusip": "58733R102",
+      "name": "MERCADOLIBRE INC",
+      "share_type": "SH",
+      "shares": 509645,
+      "value_usd": 1026557538,
+      "weight_pct": "3.12",
+      "ticker": "MELI"
+    },
+    {
+      "cusip": "25809K105",
+      "name": "DOORDASH INC",
+      "share_type": "SH",
+      "shares": 4496607,
+      "value_usd": 1018391553,
+      "weight_pct": "3.10",
+      "ticker": "DASH"
+    },
+    {
+      "cusip": "03831W108",
+      "name": "APPLOVIN CORP",
+      "share_type": "SH",
+      "shares": 1463351,
+      "value_usd": 986035171,
+      "weight_pct": "3.00",
+      "ticker": "APP"
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC",
+      "share_type": "SH",
+      "shares": 10023088,
+      "value_usd": 939764731,
+      "weight_pct": "2.86",
+      "ticker": "NFLX"
+    },
+    {
+      "cusip": "05464C101",
+      "name": "AXON ENTERPRISE INC",
+      "share_type": "SH",
+      "shares": 1609436,
+      "value_usd": 914046987,
+      "weight_pct": "2.78",
+      "ticker": "AXON"
+    },
+    {
+      "cusip": "45866F104",
+      "name": "INTERCONTINENTAL EXCHANGE IN",
+      "share_type": "SH",
+      "shares": 5502896,
+      "value_usd": 891249036,
+      "weight_pct": "2.71",
+      "ticker": null
+    },
+    {
+      "cusip": "L8681T102",
+      "name": "SPOTIFY TECHNOLOGY S A",
+      "share_type": "SH",
+      "shares": 1469848,
+      "value_usd": 853555432,
+      "weight_pct": "2.60",
+      "ticker": "SPOT"
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "share_type": "SH",
+      "shares": 1254871,
+      "value_usd": 828327798,
+      "weight_pct": "2.52",
+      "ticker": "META"
+    },
+    {
+      "cusip": "46120E602",
+      "name": "INTUITIVE SURGICAL INC",
+      "share_type": "SH",
+      "shares": 1376958,
+      "value_usd": 779853933,
+      "weight_pct": "2.37",
+      "ticker": "ISRG"
+    },
+    {
+      "cusip": "G6683N103",
+      "name": "NU HLDGS LTD",
+      "share_type": "SH",
+      "shares": 44423895,
+      "value_usd": 743656002,
+      "weight_pct": "2.26",
+      "ticker": "NU"
+    },
+    {
+      "cusip": "18915M107",
+      "name": "CLOUDFLARE INC",
+      "share_type": "SH",
+      "shares": 3731287,
+      "value_usd": 735623232,
+      "weight_pct": "2.24",
+      "ticker": "NET"
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM INC",
+      "share_type": "SH",
+      "shares": 2114521,
+      "value_usd": 731835718,
+      "weight_pct": "2.23",
+      "ticker": "AVGO"
+    },
+    {
+      "cusip": "N07059210",
+      "name": "ASML HOLDING N V",
+      "share_type": "SH",
+      "shares": 669985,
+      "value_usd": 716790152,
+      "weight_pct": "2.18",
+      "ticker": null
+    },
+    {
+      "cusip": "81141R100",
+      "name": "SEA LTD",
+      "share_type": "SH",
+      "shares": 5501013,
+      "value_usd": 701764228,
+      "weight_pct": "2.13",
+      "ticker": "SE"
+    },
+    {
+      "cusip": "79589L106",
+      "name": "SAMSARA INC",
+      "share_type": "SH",
+      "shares": 19123318,
+      "value_usd": 677921623,
+      "weight_pct": "2.06",
+      "ticker": "IOT"
+    },
+    {
+      "cusip": "81762P102",
+      "name": "SERVICENOW INC",
+      "share_type": "SH",
+      "shares": 3842914,
+      "value_usd": 588695996,
+      "weight_pct": "1.79",
+      "ticker": "NOW"
+    },
+    {
+      "cusip": "G3643J108",
+      "name": "FLUTTER ENTMT PLC",
+      "share_type": "SH",
+      "shares": 2087048,
+      "value_usd": 448798802,
+      "weight_pct": "1.37",
+      "ticker": null
+    },
+    {
+      "cusip": "852234103",
+      "name": "BLOCK INC",
+      "share_type": "SH",
+      "shares": 5929883,
+      "value_usd": 385976084,
+      "weight_pct": "1.17",
+      "ticker": "XYZ"
+    },
+    {
+      "cusip": "142339100",
+      "name": "CARLISLE COS INC",
+      "share_type": "SH",
+      "shares": 967640,
+      "value_usd": 309509330,
+      "weight_pct": "0.94",
+      "ticker": null
+    },
+    {
+      "cusip": "H5919C104",
+      "name": "ON HLDG AG",
+      "share_type": "SH",
+      "shares": 6635050,
+      "value_usd": 308397124,
+      "weight_pct": "0.94",
+      "ticker": null
+    },
+    {
+      "cusip": "450056106",
+      "name": "IRHYTHM TECHNOLOGIES INC",
+      "share_type": "SH",
+      "shares": 1699645,
+      "value_usd": 301585009,
+      "weight_pct": "0.92",
+      "ticker": null
+    },
+    {
+      "cusip": "04016X101",
+      "name": "ARGENX SE",
+      "share_type": "SH",
+      "shares": 356870,
+      "value_usd": 300109826,
+      "weight_pct": "0.91",
+      "ticker": "ARGX"
+    },
+    {
+      "cusip": "12008R107",
+      "name": "BUILDERS FIRSTSOURCE INC",
+      "share_type": "SH",
+      "shares": 2757969,
+      "value_usd": 283767430,
+      "weight_pct": "0.86",
+      "ticker": "BLDR"
+    },
+    {
+      "cusip": "771049103",
+      "name": "ROBLOX CORP",
+      "share_type": "SH",
+      "shares": 3183399,
+      "value_usd": 257950821,
+      "weight_pct": "0.78",
+      "ticker": "RBLX"
+    },
+    {
+      "cusip": "74762E102",
+      "name": "QUANTA SVCS INC",
+      "share_type": "SH",
+      "shares": 576896,
+      "value_usd": 243484726,
+      "weight_pct": "0.74",
+      "ticker": null
+    },
+    {
+      "cusip": "22266T109",
+      "name": "COUPANG INC",
+      "share_type": "SH",
+      "shares": 10319665,
+      "value_usd": 243440897,
+      "weight_pct": "0.74",
+      "ticker": "CPNG"
+    },
+    {
+      "cusip": "88162G103",
+      "name": "TETRA TECH INC NEW",
+      "share_type": "SH",
+      "shares": 7007004,
+      "value_usd": 235014914,
+      "weight_pct": "0.71",
+      "ticker": "TTEK"
+    },
+    {
+      "cusip": "40415F101",
+      "name": "HDFC BANK LTD",
+      "share_type": "SH",
+      "shares": 6117362,
+      "value_usd": 223528407,
+      "weight_pct": "0.68",
+      "ticker": "HDB"
+    },
+    {
+      "cusip": "23804L103",
+      "name": "DATADOG INC",
+      "share_type": "SH",
+      "shares": 1513800,
+      "value_usd": 205861662,
+      "weight_pct": "0.63",
+      "ticker": "DDOG"
+    },
+    {
+      "cusip": "531229755",
+      "name": "LIBERTY MEDIA CORP DEL",
+      "share_type": "SH",
+      "shares": 2082513,
+      "value_usd": 205148356,
+      "weight_pct": "0.62",
+      "ticker": "LLYVK"
+    },
+    {
+      "cusip": "144285103",
+      "name": "CARPENTER TECHNOLOGY CORP",
+      "share_type": "SH",
+      "shares": 621684,
+      "value_usd": 195730991,
+      "weight_pct": "0.60",
+      "ticker": "CRS"
+    },
+    {
+      "cusip": "94106B101",
+      "name": "WASTE CONNECTIONS INC",
+      "share_type": "SH",
+      "shares": 965880,
+      "value_usd": 169376717,
+      "weight_pct": "0.52",
+      "ticker": "WCN"
+    },
+    {
+      "cusip": "48581R205",
+      "name": "KASPI KZ JSC",
+      "share_type": "SH",
+      "shares": 1948761,
+      "value_usd": 152256697,
+      "weight_pct": "0.46",
+      "ticker": null
+    },
+    {
+      "cusip": "58155Q103",
+      "name": "MCKESSON CORP",
+      "share_type": "SH",
+      "shares": 174268,
+      "value_usd": 142950298,
+      "weight_pct": "0.43",
+      "ticker": "MCK"
+    },
+    {
+      "cusip": "893641100",
+      "name": "TRANSDIGM GROUP INC",
+      "share_type": "SH",
+      "shares": 103179,
+      "value_usd": 137212593,
+      "weight_pct": "0.42",
+      "ticker": "TDG"
+    },
+    {
+      "cusip": "776696106",
+      "name": "ROPER TECHNOLOGIES INC",
+      "share_type": "SH",
+      "shares": 287318,
+      "value_usd": 127893861,
+      "weight_pct": "0.39",
+      "ticker": "ROP"
+    },
+    {
+      "cusip": "032095101",
+      "name": "AMPHENOL CORP NEW",
+      "share_type": "SH",
+      "shares": 879004,
+      "value_usd": 118788601,
+      "weight_pct": "0.36",
+      "ticker": "APH"
+    },
+    {
+      "cusip": "N3167Y103",
+      "name": "FERRARI N V",
+      "share_type": "SH",
+      "shares": 309983,
+      "value_usd": 114557317,
+      "weight_pct": "0.35",
+      "ticker": "RACE"
+    },
+    {
+      "cusip": "803054204",
+      "name": "SAP SE",
+      "share_type": "SH",
+      "shares": 394117,
+      "value_usd": 95734960,
+      "weight_pct": "0.29",
+      "ticker": "SAP"
+    },
+    {
+      "cusip": "90400D108",
+      "name": "ULTRAGENYX PHARMACEUTICAL IN",
+      "share_type": "SH",
+      "shares": 3485724,
+      "value_usd": 80171652,
+      "weight_pct": "0.24",
+      "ticker": null
+    },
+    {
+      "cusip": "127387108",
+      "name": "CADENCE DESIGN SYSTEM INC",
+      "share_type": "SH",
+      "shares": 252008,
+      "value_usd": 78772661,
+      "weight_pct": "0.24",
+      "ticker": null
+    },
+    {
+      "cusip": "101137107",
+      "name": "BOSTON SCIENTIFIC CORP",
+      "share_type": "SH",
+      "shares": 805164,
+      "value_usd": 76772387,
+      "weight_pct": "0.23",
+      "ticker": "BSX"
+    }
+  ],
+  "investor": "SANDS CAPITAL MANAGEMENT, LLC",
+  "period": "2025-12-31",
+  "total_holdings": 66,
+  "total_value_usd": 32875165743
+}

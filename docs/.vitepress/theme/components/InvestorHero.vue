@@ -32,7 +32,7 @@ const tagline = computed(() => props.investor.tagline[props.lang])
 const role    = computed(() => props.investor.role[props.lang])
 const aumB    = computed(() => props.aum ? (props.aum / 1e9).toFixed(2) : null)
 const is13f   = computed(() => props.investor.holdings_source === '13f')
-const skillHref = computed(() => props.investor.skill_file ? `/skills/${props.investor.skill_file}` : null)
+const skillHref = computed(() => props.investor.skill_file ? `/install/${props.investor.skill_file}` : null)
 
 // 日期本地化：YYYY-MM-DD → en: "Dec 31, 2025" / zh-CN/HK: "2025 年 12 月 31 日"
 const periodLabel = computed(() => {
@@ -85,12 +85,15 @@ function badgeStyle(index: number) {
         class="w-32 h-32 md:w-48 md:h-48 rounded-full object-cover shadow-xl shrink-0"
       />
       <div class="flex-1 w-full">
-        <div v-if="is13f" class="text-sm font-semibold uppercase tracking-wider text-[var(--vp-c-brand-1,#00b8b8)] mb-2">
-          13F Filer
-        </div>
-
         <div class="flex flex-col md:flex-row md:items-start md:justify-between gap-4 md:gap-6">
-          <h1 class="text-4xl md:text-5xl font-bold leading-tight">{{ name }}</h1>
+          <div class="min-w-0">
+            <h1 class="text-4xl md:text-5xl font-bold leading-tight">{{ name }}</h1>
+            <!-- 中文页面展示英文副名（参照 longbridge 卡片"主标本地化 / 副标国际名"思路）-->
+            <div
+              v-if="lang !== 'en' && investor.display_name.en && investor.display_name.en !== name"
+              class="text-base md:text-lg font-medium text-[#4781ff] mt-1.5"
+            >{{ investor.display_name.en }}</div>
+          </div>
 
           <a
             v-if="skillHref && downloadLabel"
@@ -124,11 +127,24 @@ function badgeStyle(index: number) {
             class="philosophy-tag relative inline-flex items-center px-3 py-1 rounded-md text-sm font-semibold tracking-tight cursor-help transition-all"
           >
             {{ p.title[lang] }}
-            <!-- Tooltip：CSS-only，hover/focus 触发 -->
+            <!-- Hover 卡片：参照 longbridge.com 股票卡片视觉
+                 标题 + 英文副标 + 分隔线 + 描述。CSS-only 触发。-->
             <span
               role="tooltip"
-              class="philosophy-tooltip pointer-events-none absolute bottom-full left-0 mb-2 w-64 max-w-[80vw] px-3 py-2 rounded-lg text-sm font-normal leading-relaxed text-white bg-[var(--vp-c-text-1)] shadow-lg opacity-0 invisible translate-y-1 transition-all z-20"
-            >{{ p.body[lang] }}</span>
+              class="philosophy-card pointer-events-none absolute bottom-full left-0 mb-3 w-80 max-w-[90vw] rounded-2xl bg-[var(--vp-c-bg)] border border-[var(--vp-c-divider)] shadow-2xl opacity-0 invisible translate-y-1 transition-all z-20 text-left"
+            >
+              <div class="px-5 pt-5 pb-4">
+                <div class="text-base font-bold text-[var(--vp-c-text-1)] leading-tight">{{ p.title[lang] }}</div>
+                <div
+                  v-if="lang !== 'en' && p.title.en && p.title.en !== p.title[lang]"
+                  class="text-sm font-medium text-[#4781ff] mt-1"
+                >{{ p.title.en }}</div>
+              </div>
+              <div class="border-t border-[var(--vp-c-divider)]"></div>
+              <div class="px-5 py-4 text-sm text-[var(--vp-c-text-2)] leading-relaxed font-normal">
+                {{ p.body[lang] }}
+              </div>
+            </span>
           </span>
         </div>
 
@@ -151,9 +167,9 @@ function badgeStyle(index: number) {
   transform: translateY(-1px);
 }
 
-.philosophy-tag:hover .philosophy-tooltip,
-.philosophy-tag:focus .philosophy-tooltip,
-.philosophy-tag:focus-within .philosophy-tooltip {
+.philosophy-tag:hover .philosophy-card,
+.philosophy-tag:focus .philosophy-card,
+.philosophy-tag:focus-within .philosophy-card {
   opacity: 1;
   visibility: visible;
   transform: translateY(0);

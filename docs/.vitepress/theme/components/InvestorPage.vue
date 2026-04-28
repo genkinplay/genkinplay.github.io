@@ -9,6 +9,7 @@ import HoldingsTable from './HoldingsTable.vue'
 import NotableHoldings from './NotableHoldings.vue'
 import ChangesPanel from './ChangesPanel.vue'
 import InsiderTrades from './InsiderTrades.vue'
+import RelatedInvestors from './RelatedInvestors.vue'
 // QuotesList 已移除（按用户要求详情页不再展示金句）
 // MilestonesTimeline 已移除（按用户要求详情页不再展示里程碑）
 // DownloadSkillCTA 已并入 Hero 顶部，详情页底部不再重复展示
@@ -52,6 +53,18 @@ const changes = computed(() => findBySlug(changesMap, slug.value, 'json') as any
 const insider = computed(() => findBySlug(insiderMap, slug.value, 'json') as any)
 const lang = computed<Lang>(() => locale.value as Lang)
 const is13f = computed(() => investor.value?.holdings_source === '13f')
+
+// 候选关联投资人池：所有 investors yaml，附 slug（取自文件名），排除当前
+const otherInvestors = computed(() =>
+  Object.keys(yamlMap)
+    .map((path) => {
+      const m = path.match(/\/([^/]+)\.yaml$/)
+      const otherSlug = m ? m[1] : ''
+      const data = yamlMap[path]?.default as any
+      return data ? { ...data, slug: otherSlug } : null
+    })
+    .filter((x: any): x is any => !!x && x.slug && x.slug !== slug.value),
+)
 </script>
 
 <template>
@@ -70,7 +83,7 @@ const is13f = computed(() => investor.value?.holdings_source === '13f')
     <HoldingsTable
       v-if="is13f && holdings?.holdings?.length"
       :holdings="holdings.holdings"
-      :top-n="20"
+      :top-n="50"
       :label="t('detail.holdings_13f')"
       :period="holdings.period"
     />
@@ -80,7 +93,7 @@ const is13f = computed(() => investor.value?.holdings_source === '13f')
       :holdings="investor.notable_holdings"
       :lang="lang"
       :label="t('detail.holdings_curated')"
-      disclaimer="Public disclosure"
+      :disclaimer="t('detail.holdings_curated_disclaimer')"
     />
 
     <ChangesPanel
@@ -94,6 +107,13 @@ const is13f = computed(() => investor.value?.holdings_source === '13f')
       :data="insider"
       :label="t('detail.insider_trades')"
       :ticker_label="t('detail.insider_ticker_label')"
+    />
+
+    <RelatedInvestors
+      :investors="otherInvestors"
+      :current-slug="slug"
+      :lang="lang"
+      :label="t('detail.related')"
     />
   </div>
 </template>

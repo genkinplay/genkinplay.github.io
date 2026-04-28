@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001062993-26-000560",
+  "cik": "0001484429",
+  "filing_date": "2026-02-03",
+  "firm": "Alecta Tjanstepension Omsesidigt",
+  "holdings": [
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 4300000,
+      "value_usd": 2079480000,
+      "weight_pct": "9.14",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 6296000,
+      "value_usd": 1970270240,
+      "weight_pct": "8.66",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORP",
+      "share_type": "SH",
+      "shares": 7173600,
+      "value_usd": 1337804664,
+      "weight_pct": "5.88",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON.COM INC.",
+      "share_type": "SH",
+      "shares": 4853200,
+      "value_usd": 1120215624,
+      "weight_pct": "4.93",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "032095101",
+      "name": "AMPHENOL CORPORATION",
+      "share_type": "SH",
+      "shares": 6690000,
+      "value_usd": 904153500,
+      "weight_pct": "3.98",
+      "ticker": "APH"
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "share_type": "SH",
+      "shares": 2656000,
+      "value_usd": 722007040,
+      "weight_pct": "3.17",
+      "ticker": "AAPL"
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM CORPORATION",
+      "share_type": "SH",
+      "shares": 2080000,
+      "value_usd": 719680000,
+      "weight_pct": "3.16",
+      "ticker": "AVGO"
+    },
+    {
+      "cusip": "872540109",
+      "name": "TJX COS INC",
+      "share_type": "SH",
+      "shares": 4509665,
+      "value_usd": 692774737,
+      "weight_pct": "3.05",
+      "ticker": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC A",
+      "share_type": "SH",
+      "shares": 1407600,
+      "value_usd": 493884612,
+      "weight_pct": "2.17",
+      "ticker": null
+    },
+    {
+      "cusip": "532457108",
+      "name": "ELI LILLY & CO",
+      "share_type": "SH",
+      "shares": 444100,
+      "value_usd": 477305357,
+      "weight_pct": "2.10",
+      "ticker": "LLY"
+    },
+    {
+      "cusip": "007903107",
+      "name": "ADVANCED MICRO DEV",
+      "share_type": "SH",
+      "shares": 2154000,
+      "value_usd": 461192940,
+      "weight_pct": "2.03",
+      "ticker": null
+    },
+    {
+      "cusip": "482480100",
+      "name": "KLA CORP",
+      "share_type": "SH",
+      "shares": 378000,
+      "value_usd": 459152820,
+      "weight_pct": "2.02",
+      "ticker": "KLAC"
+    },
+    {
+      "cusip": "882508104",
+      "name": "TEXAS INSTRUMENTS",
+      "share_type": "SH",
+      "shares": 2583000,
+      "value_usd": 448021350,
+      "weight_pct": "1.97",
+      "ticker": "TXN"
+    },
+    {
+      "cusip": "254687106",
+      "name": "WALT DISNEY CO/THE",
+      "share_type": "SH",
+      "shares": 3890400,
+      "value_usd": 442571904,
+      "weight_pct": "1.95",
+      "ticker": "DIS"
+    },
+    {
+      "cusip": "038222105",
+      "name": "APPLIED MATERIALS INC",
+      "share_type": "SH",
+      "shares": 1649000,
+      "value_usd": 423496180,
+      "weight_pct": "1.86",
+      "ticker": "AMAT"
+    },
+    {
+      "cusip": "46625H100",
+      "name": "J.P. MORGAN CHASE & CO",
+      "share_type": "SH",
+      "shares": 1242500,
+      "value_usd": 400445325,
+      "weight_pct": "1.76",
+      "ticker": null
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC",
+      "share_type": "SH",
+      "shares": 4260000,
+      "value_usd": 399375000,
+      "weight_pct": "1.76",
+      "ticker": "NFLX"
+    },
+    {
+      "cusip": "032654105",
+      "name": "ANALOG DEVICES",
+      "share_type": "SH",
+      "shares": 1306400,
+      "value_usd": 354204232,
+      "weight_pct": "1.56",
+      "ticker": "ADI"
+    },
+    {
+      "cusip": "L8681T102",
+      "name": "SPOTIFY TECHNOLOGY S.A",
+      "share_type": "SH",
+      "shares": 593000,
+      "value_usd": 344295800,
+      "weight_pct": "1.51",
+      "ticker": "SPOT"
+    },
+    {
+      "cusip": "060505104",
+      "name": "BANK OF AMERICA CORPORATION",
+      "share_type": "SH",
+      "shares": 5810300,
+      "value_usd": 319508397,
+      "weight_pct": "1.40",
+      "ticker": "BAC"
+    },
+    {
+      "cusip": "00287Y109",
+      "name": "ABBVIE INC",
+      "share_type": "SH",
+      "shares": 1343800,
+      "value_usd": 307004548,
+      "weight_pct": "1.35",
+      "ticker": "ABBV"
+    },
+    {
+      "cusip": "031100100",
+      "name": "AMETEK INC",
+      "share_type": "SH",
+      "shares": 1473965,
+      "value_usd": 302575535,
+      "weight_pct": "1.33",
+      "ticker": "AME"
+    },
+    {
+      "cusip": "883556102",
+      "name": "THERMO FISHER SCIENTIFIC INC",
+      "share_type": "SH",
+      "shares": 477900,
+      "value_usd": 276923934,
+      "weight_pct": "1.22",
+      "ticker": "TMO"
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "share_type": "SH",
+      "shares": 508000,
+      "value_usd": 265480800,
+      "weight_pct": "1.17",
+      "ticker": "SPGI"
+    },
+    {
+      "cusip": "101137107",
+      "name": "BOSTON SCIENTIFIC CORP",
+      "share_type": "SH",
+      "shares": 2743100,
+      "value_usd": 261582016,
+      "weight_pct": "1.15",
+      "ticker": "BSX"
+    },
+    {
+      "cusip": "172908105",
+      "name": "CINTAS CORPORATION",
+      "share_type": "SH",
+      "shares": 1390600,
+      "value_usd": 261516236,
+      "weight_pct": "1.15",
+      "ticker": "CTAS"
+    },
+    {
+      "cusip": "235851102",
+      "name": "DANAHER CORP",
+      "share_type": "SH",
+      "shares": 1114000,
+      "value_usd": 255072580,
+      "weight_pct": "1.12",
+      "ticker": "DHR"
+    },
+    {
+      "cusip": "G54950103",
+      "name": "LINDE PLC",
+      "share_type": "SH",
+      "shares": 546500,
+      "value_usd": 233000275,
+      "weight_pct": "1.02",
+      "ticker": "LIN"
+    },
+    {
+      "cusip": "68389X105",
+      "name": "ORACLE CORP",
+      "share_type": "SH",
+      "shares": 1193000,
+      "value_usd": 232563420,
+      "weight_pct": "1.02",
+      "ticker": "ORCL"
+    },
+    {
+      "cusip": "871607107",
+      "name": "SYNOPSYS INC.",
+      "share_type": "SH",
+      "shares": 466960,
+      "value_usd": 219321773,
+      "weight_pct": "0.96",
+      "ticker": "SNPS"
+    },
+    {
+      "cusip": "773903109",
+      "name": "ROCKWELL AUTOMATION INC",
+      "share_type": "SH",
+      "shares": 551275,
+      "value_usd": 214484564,
+      "weight_pct": "0.94",
+      "ticker": "ROK"
+    },
+    {
+      "cusip": "693475105",
+      "name": "PNC BANK CORP",
+      "share_type": "SH",
+      "shares": 981700,
+      "value_usd": 204880790,
+      "weight_pct": "0.90",
+      "ticker": null
+    },
+    {
+      "cusip": "452308109",
+      "name": "ILLINOIS TOOL WORKS INC",
+      "share_type": "SH",
+      "shares": 813700,
+      "value_usd": 200438721,
+      "weight_pct": "0.88",
+      "ticker": "ITW"
+    },
+    {
+      "cusip": "90384S303",
+      "name": "ULTA BEAUTY INC",
+      "share_type": "SH",
+      "shares": 320105,
+      "value_usd": 193666726,
+      "weight_pct": "0.85",
+      "ticker": "ULTA"
+    },
+    {
+      "cusip": "654106103",
+      "name": "NIKE INC",
+      "share_type": "SH",
+      "shares": 3030200,
+      "value_usd": 193144948,
+      "weight_pct": "0.85",
+      "ticker": "NKE"
+    },
+    {
+      "cusip": "002824100",
+      "name": "ABBOTT LABS",
+      "share_type": "SH",
+      "shares": 1388100,
+      "value_usd": 173887287,
+      "weight_pct": "0.76",
+      "ticker": null
+    },
+    {
+      "cusip": "58933Y105",
+      "name": "MERCK & CO",
+      "share_type": "SH",
+      "shares": 1640300,
+      "value_usd": 172674381,
+      "weight_pct": "0.76",
+      "ticker": "MRK"
+    },
+    {
+      "cusip": "863667101",
+      "name": "STRYKER CORP",
+      "share_type": "SH",
+      "shares": 487500,
+      "value_usd": 171317250,
+      "weight_pct": "0.75",
+      "ticker": "SYK"
+    },
+    {
+      "cusip": "G1151C101",
+      "name": "ACCENTURE PLC",
+      "share_type": "SH",
+      "shares": 630000,
+      "value_usd": 169079400,
+      "weight_pct": "0.74",
+      "ticker": "ACN"
+    },
+    {
+      "cusip": "617446448",
+      "name": "MORGAN STANLEY",
+      "share_type": "SH",
+      "shares": 942000,
+      "value_usd": 167242680,
+      "weight_pct": "0.74",
+      "ticker": "MS"
+    },
+    {
+      "cusip": "437076102",
+      "name": "HOME DEPOT INC",
+      "share_type": "SH",
+      "shares": 465700,
+      "value_usd": 160256684,
+      "weight_pct": "0.70",
+      "ticker": "HD"
+    },
+    {
+      "cusip": "743315103",
+      "name": "PROGRESSIVE CORP/THE",
+      "share_type": "SH",
+      "shares": 694800,
+      "value_usd": 158233752,
+      "weight_pct": "0.70",
+      "ticker": "PGR"
+    },
+    {
+      "cusip": "316773100",
+      "name": "FIFTH THIRD BANCORP",
+      "share_type": "SH",
+      "shares": 3367700,
+      "value_usd": 157541006,
+      "weight_pct": "0.69",
+      "ticker": "FITB"
+    },
+    {
+      "cusip": "G8994E103",
+      "name": "TRANE TECHNOLOGIES PLC",
+      "share_type": "SH",
+      "shares": 400000,
+      "value_usd": 155728000,
+      "weight_pct": "0.68",
+      "ticker": "TT"
+    },
+    {
+      "cusip": "91324P102",
+      "name": "UNITED HEALTHCARE",
+      "share_type": "SH",
+      "shares": 464800,
+      "value_usd": 153463016,
+      "weight_pct": "0.67",
+      "ticker": null
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE COM INC",
+      "share_type": "SH",
+      "shares": 560000,
+      "value_usd": 148344000,
+      "weight_pct": "0.65",
+      "ticker": null
+    },
+    {
+      "cusip": "384109104",
+      "name": "GRACO INC",
+      "share_type": "SH",
+      "shares": 1750000,
+      "value_usd": 143430000,
+      "weight_pct": "0.63",
+      "ticker": "GGG"
+    },
+    {
+      "cusip": "149123101",
+      "name": "CATERPILLAR INC.",
+      "share_type": "SH",
+      "shares": 248500,
+      "value_usd": 142333345,
+      "weight_pct": "0.63",
+      "ticker": "CAT"
+    },
+    {
+      "cusip": "931142103",
+      "name": "WAL-MART STORES, INC.",
+      "share_type": "SH",
+      "shares": 1277800,
+      "value_usd": 142244696,
+      "weight_pct": "0.63",
+      "ticker": null
+    },
+    {
+      "cusip": "216648501",
+      "name": "COOPER COS INC/THE",
+      "share_type": "SH",
+      "shares": 1563000,
+      "value_usd": 128072220,
+      "weight_pct": "0.56",
+      "ticker": null
+    }
+  ],
+  "investor": "Alecta Tjanstepension Omsesidigt",
+  "period": "2025-12-31",
+  "total_holdings": 73,
+  "total_value_usd": 22745431278
+}

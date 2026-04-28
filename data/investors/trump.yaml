@@ -15,7 +15,7 @@ born: 1946
 portrait: /portraits/trump.jpg
 cik: ""
 holdings_source: "curated"
-skill_file: trump-skill.skill
+skill_file: trump.skill
 
 bio:
   en: |

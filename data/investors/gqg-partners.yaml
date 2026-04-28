@@ -1,0 +1,29 @@
+slug: gqg-partners
+display_name:
+  en: GQG Partners LLC
+  zh-CN: GQG 合伙人
+  zh-HK: GQG 合夥人
+tagline:
+  en: SEC 13F filer · AUM $60.72B
+  zh-CN: SEC 13F 机构 · 管理资产 $60.72B
+  zh-HK: SEC 13F 機構 · 管理資產 $60.72B
+role:
+  en: 'Institutional investor (rank #15, CIK 0001697233)'
+  zh-CN: '机构投资者（排名 #15，CIK 0001697233）'
+  zh-HK: '機構投資者（排名 #15，CIK 0001697233）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=GQG%20Partners%20LLC&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001697233'
+holdings_source: 13f
+featured: false
+rank: 15
+aum_usd: 60720000000
+bio:
+  en: GQG Partners is an investment management company headquartered in Fort Lauderdale, Florida. The company focuses on active management of equity portfolios. It is currently traded on the Australian Securities Exchange and is a constituent member of the S&P/ASX 200 index.
+  zh-CN: 'GQG 合伙人 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $60.72B，在 SEC 13F 机构中排名 #15。'
+  zh-HK: 'GQG 合夥人 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $60.72B，在 SEC 13F 機構中排名 #15。'
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  en: https://en.wikipedia.org/wiki/GQG_Partners

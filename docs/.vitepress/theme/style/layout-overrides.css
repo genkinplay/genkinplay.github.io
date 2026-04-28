@@ -42,11 +42,18 @@
 
 /* 业务组件里的链接全部去掉默认下划线（VitePress 把 .vp-doc 下的 a 加了 underline） */
 .vp-doc .investor-card,
+.vp-doc .investor-card-compact,
+.vp-doc [data-investor-card-compact],
 .vp-doc .holding-top-card,
 .vp-doc .holding-row,
 .vp-doc .change-row,
+.vp-doc .notable-card,
+.vp-doc .related-card,
 .vp-doc [data-holding] a,
 .vp-doc [data-change] a,
+.vp-doc [data-holding-card] a,
+.vp-doc [data-trade] a,
+.vp-doc [data-related-card],
 .vp-doc .investor-card a,
 .vp-doc .hero-download {
   text-decoration: none !important;

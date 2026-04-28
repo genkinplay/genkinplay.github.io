@@ -1,0 +1,30 @@
+slug: artisan-partners-partnership
+display_name:
+  en: Artisan Partners Limited Partnership
+  zh-CN: 工匠资本
+  zh-HK: 工匠資本
+tagline:
+  en: SEC 13F filer · AUM $66.79B
+  zh-CN: SEC 13F 机构 · 管理资产 $66.79B
+  zh-HK: SEC 13F 機構 · 管理資產 $66.79B
+role:
+  en: 'Institutional investor (rank #13, CIK 0001466153)'
+  zh-CN: '机构投资者（排名 #13，CIK 0001466153）'
+  zh-HK: '機構投資者（排名 #13，CIK 0001466153）'
+born: 0
+portrait: >-
+  https://api.dicebear.com/7.x/initials/svg?seed=Artisan%20Partners%20Limited%20Partnership&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001466153'
+holdings_source: 13f
+featured: false
+rank: 13
+aum_usd: 66790000000
+bio:
+  en: >-
+    Artisan Partners Limited Partnership is an institutional investor managing approximately $66.79B in disclosed U.S.
+    equity holdings as of 2025-12-31, ranking #13 among SEC 13F filers.
+  zh-CN: '工匠资本 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $66.79B，在 SEC 13F 机构中排名 #13。'
+  zh-HK: '工匠資本 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $66.79B，在 SEC 13F 機構中排名 #13。'
+philosophy: []
+quotes: []
+milestones: []

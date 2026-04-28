@@ -1,0 +1,30 @@
+slug: mastercard-asset-management
+display_name:
+  en: Mastercard Foundation Asset Management Corp
+  zh-CN: 万事达卡基金会资产管理
+  zh-HK: 萬事達卡基金會資產管理
+tagline:
+  en: SEC 13F filer · AUM $41.10B
+  zh-CN: SEC 13F 机构 · 管理资产 $41.10B
+  zh-HK: SEC 13F 機構 · 管理資產 $41.10B
+role:
+  en: 'Institutional investor (rank #22, CIK 0002006397)'
+  zh-CN: '机构投资者（排名 #22，CIK 0002006397）'
+  zh-HK: '機構投資者（排名 #22，CIK 0002006397）'
+born: 0
+portrait: >-
+  https://api.dicebear.com/7.x/initials/svg?seed=Mastercard%20Foundation%20Asset%20Management%20Corp&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0002006397'
+holdings_source: 13f
+featured: false
+rank: 22
+aum_usd: 41100000000
+bio:
+  en: >-
+    Mastercard Foundation Asset Management Corp is an institutional investor managing approximately $41.10B in disclosed
+    U.S. equity holdings as of 2025-12-31, ranking #22 among SEC 13F filers.
+  zh-CN: '万事达卡基金会资产管理 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $41.10B，在 SEC 13F 机构中排名 #22。'
+  zh-HK: '萬事達卡基金會資產管理 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $41.10B，在 SEC 13F 機構中排名 #22。'
+philosophy: []
+quotes: []
+milestones: []

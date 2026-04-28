@@ -1,0 +1,29 @@
+slug: woodbridge
+display_name:
+  en: Woodbridge CO LTD
+  zh-CN: Woodbridge（汤森家族办公室）
+  zh-HK: Woodbridge（湯森家族辦公室）
+tagline:
+  en: SEC 13F filer · AUM $40.54B
+  zh-CN: SEC 13F 机构 · 管理资产 $40.54B
+  zh-HK: SEC 13F 機構 · 管理資產 $40.54B
+role:
+  en: 'Institutional investor (rank #23, CIK 0001397960)'
+  zh-CN: '机构投资者（排名 #23，CIK 0001397960）'
+  zh-HK: '機構投資者（排名 #23，CIK 0001397960）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=Woodbridge%20CO%20LTD&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001397960'
+holdings_source: 13f
+featured: false
+rank: 23
+aum_usd: 40540000000
+bio:
+  en: 'Woodbridge is a town in New Haven County, Connecticut, United States. The town is part of the South Central Connecticut Planning Region. The population was 9,087 at the 2020 census. The town center is listed on the National Register of Historic Places as Woodbridge Green Historic District. Woodbridge is part of the Amity Regional School District #5, rated the #1 school district in New Haven County and the 10th best school district in Connecticut by Niche in 2021. As of 2019, Woodbridge had the seventh highest median household income in Connecticut.'
+  zh-CN: 'Woodbridge（汤森家族办公室） 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $40.54B，在 SEC 13F 机构中排名 #23。'
+  zh-HK: 'Woodbridge（湯森家族辦公室） 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $40.54B，在 SEC 13F 機構中排名 #23。'
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  en: https://en.wikipedia.org/wiki/Woodbridge%2C_Connecticut

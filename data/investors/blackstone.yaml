@@ -1,0 +1,30 @@
+slug: blackstone
+display_name:
+  en: Blackstone Inc.
+  zh-CN: 黑石集团
+  zh-HK: 黑石集團
+tagline:
+  en: SEC 13F filer · AUM $25.31B
+  zh-CN: SEC 13F 机构 · 管理资产 $25.31B
+  zh-HK: SEC 13F 機構 · 管理資產 $25.31B
+role:
+  en: 'Institutional investor (rank #43, CIK 0001393818)'
+  zh-CN: '机构投资者（排名 #43，CIK 0001393818）'
+  zh-HK: '機構投資者（排名 #43，CIK 0001393818）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=Blackstone%20Inc.&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001393818'
+holdings_source: 13f
+featured: false
+rank: 43
+aum_usd: 25310000000
+bio:
+  en: Blackstone Inc. is an American alternative investment management company based in New York City. It was founded in 1985 as a mergers and acquisitions firm by Peter Peterson and Stephen Schwarzman, who had previously worked together at Lehman Brothers. Blackstone's private equity business has been one of the largest investors in leveraged buyouts in the last three decades, while its real estate business has actively acquired commercial real estate across the globe. Blackstone is also active in credit, infrastructure, hedge funds, secondaries, growth equity, and insurance solutions. As of September 30, 2025, Blackstone has $1.2 trillion in total assets under management, making it the world's largest alternative investment firm.
+  zh-CN: 黑石集团（英语：Blackstone Group，NYSE：BX）又译作“百仕通集团”，是美国的私人股权投资和投资管理公司，由苏世民及彼得·乔治·彼得森创建于1985年，总部位于美国纽约曼哈顿，在亚特兰大、波士顿、伦敦、杜塞尔多夫、巴黎、马德里、悉尼、东京、新加坡、北京、上海、香港、孟买和迪拜都设有办事机构。
+  zh-HK: 黑石集團（英語：Blackstone Group，NYSE：BX）又譯作「百仕通集團」，是美國的私人股權投資和投資管理公司，由蘇世民及彼得·喬治·彼得森創建於1985年，總部位於美國紐約曼哈頓，在亞特蘭大、波士頓、倫敦、杜塞爾多夫、巴黎、馬德里、悉尼、東京、新加坡、北京、上海、香港、孟買和杜拜都設有辦事機構。
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  en: https://en.wikipedia.org/wiki/Blackstone_Inc.
+  zh: https://zh.wikipedia.org/wiki/%E9%BB%91%E7%9F%B3%E9%9B%86%E5%9B%A2

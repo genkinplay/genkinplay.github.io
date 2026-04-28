@@ -1,0 +1,30 @@
+slug: fuller-thaler-asset-management
+display_name:
+  en: FULLER & THALER ASSET MANAGEMENT, INC.
+  zh-CN: 富勒·塞勒资管
+  zh-HK: 富勒·塞勒資管
+tagline:
+  en: SEC 13F filer · AUM $29.10B
+  zh-CN: SEC 13F 机构 · 管理资产 $29.10B
+  zh-HK: SEC 13F 機構 · 管理資產 $29.10B
+role:
+  en: 'Institutional investor (rank #39, CIK 0001082327)'
+  zh-CN: '机构投资者（排名 #39，CIK 0001082327）'
+  zh-HK: '機構投資者（排名 #39，CIK 0001082327）'
+born: 0
+portrait: >-
+  https://api.dicebear.com/7.x/initials/svg?seed=FULLER%20%26%20THALER%20ASSET%20MANAGEMENT%2C%20INC.&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001082327'
+holdings_source: 13f
+featured: false
+rank: 39
+aum_usd: 29100000000
+bio:
+  en: >-
+    FULLER & THALER ASSET MANAGEMENT, INC. is an institutional investor managing approximately $29.10B in disclosed U.S.
+    equity holdings as of 2025-12-31, ranking #39 among SEC 13F filers.
+  zh-CN: '富勒·塞勒资管 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $29.10B，在 SEC 13F 机构中排名 #39。'
+  zh-HK: '富勒·塞勒資管 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $29.10B，在 SEC 13F 機構中排名 #39。'
+philosophy: []
+quotes: []
+milestones: []

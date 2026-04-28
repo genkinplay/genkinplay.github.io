@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001017918-26-000015",
+  "cik": "0001017918",
+  "filing_date": "2026-02-17",
+  "firm": "BAMCO INC /NY/",
+  "holdings": [
+    {
+      "cusip": "88160R101",
+      "name": "TESLA INC",
+      "share_type": "SH",
+      "shares": 11927475,
+      "value_usd": 5364024057,
+      "weight_pct": "14.53",
+      "ticker": "TSLA"
+    },
+    {
+      "cusip": "G0450A105",
+      "name": "ARCH CAP GROUP LTD",
+      "share_type": "SH",
+      "shares": 17987505,
+      "value_usd": 1725361480,
+      "weight_pct": "4.67",
+      "ticker": null
+    },
+    {
+      "cusip": "55354G100",
+      "name": "MSCI INC",
+      "share_type": "SH",
+      "shares": 2755747,
+      "value_usd": 1581054726,
+      "weight_pct": "4.28",
+      "ticker": "MSCI"
+    },
+    {
+      "cusip": "22160N109",
+      "name": "COSTAR GROUP INC",
+      "share_type": "SH",
+      "shares": 19498099,
+      "value_usd": 1311052177,
+      "weight_pct": "3.55",
+      "ticker": "CSGP"
+    },
+    {
+      "cusip": "45168D104",
+      "name": "IDEXX LABS INC",
+      "share_type": "SH",
+      "shares": 1798041,
+      "value_usd": 1216428678,
+      "weight_pct": "3.30",
+      "ticker": null
+    },
+    {
+      "cusip": "366651107",
+      "name": "GARTNER INC",
+      "share_type": "SH",
+      "shares": 4212957,
+      "value_usd": 1062844792,
+      "weight_pct": "2.88",
+      "ticker": "IT"
+    },
+    {
+      "cusip": "40171V100",
+      "name": "GUIDEWIRE SOFTWARE INC",
+      "share_type": "SH",
+      "shares": 5147550,
+      "value_usd": 1034709025,
+      "weight_pct": "2.80",
+      "ticker": "GWRE"
+    },
+    {
+      "cusip": "448579102",
+      "name": "HYATT HOTELS CORP",
+      "share_type": "SH",
+      "shares": 6106485,
+      "value_usd": 978991675,
+      "weight_pct": "2.65",
+      "ticker": "H"
+    },
+    {
+      "cusip": "303075105",
+      "name": "FACTSET RESH SYS INC",
+      "share_type": "SH",
+      "shares": 2888845,
+      "value_usd": 838313931,
+      "weight_pct": "2.27",
+      "ticker": null
+    },
+    {
+      "cusip": "75700L108",
+      "name": "RED ROCK RESORTS INC",
+      "share_type": "SH",
+      "shares": 12519892,
+      "value_usd": 775607309,
+      "weight_pct": "2.10",
+      "ticker": "RRR"
+    },
+    {
+      "cusip": "808513105",
+      "name": "SCHWAB CHARLES CORP",
+      "share_type": "SH",
+      "shares": 7060309,
+      "value_usd": 705395472,
+      "weight_pct": "1.91",
+      "ticker": "SCHW"
+    },
+    {
+      "cusip": "169905106",
+      "name": "CHOICE HOTELS INTL INC",
+      "share_type": "SH",
+      "shares": 7386575,
+      "value_usd": 703645134,
+      "weight_pct": "1.91",
+      "ticker": "CHH"
+    },
+    {
+      "cusip": "49714P108",
+      "name": "KINSALE CAP GROUP INC",
+      "share_type": "SH",
+      "shares": 1781201,
+      "value_usd": 696663335,
+      "weight_pct": "1.89",
+      "ticker": null
+    },
+    {
+      "cusip": "30260D103",
+      "name": "FIGS INC",
+      "share_type": "SH",
+      "shares": 59959449,
+      "value_usd": 681139341,
+      "weight_pct": "1.85",
+      "ticker": "FIGS"
+    },
+    {
+      "cusip": "91879Q109",
+      "name": "VAIL RESORTS INC",
+      "share_type": "SH",
+      "shares": 4809928,
+      "value_usd": 638758438,
+      "weight_pct": "1.73",
+      "ticker": "MTN"
+    },
+    {
+      "cusip": "L8681T102",
+      "name": "SPOTIFY TECHNOLOGY S A",
+      "share_type": "SH",
+      "shares": 997291,
+      "value_usd": 579136857,
+      "weight_pct": "1.57",
+      "ticker": "SPOT"
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 2988943,
+      "value_usd": 557437869,
+      "weight_pct": "1.51",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "82509L107",
+      "name": "SHOPIFY INC",
+      "share_type": "SH",
+      "shares": 2288270,
+      "value_usd": 368342822,
+      "weight_pct": "1.00",
+      "ticker": "SHOP"
+    },
+    {
+      "cusip": "M2029K104",
+      "name": "BIRKENSTOCK HOLDING PLC",
+      "share_type": "SH",
+      "shares": 7966037,
+      "value_usd": 325810913,
+      "weight_pct": "0.88",
+      "ticker": "BIRK"
+    },
+    {
+      "cusip": "45841N107",
+      "name": "INTERACTIVE BROKERS GROUP IN",
+      "share_type": "SH",
+      "shares": 4643376,
+      "value_usd": 298615511,
+      "weight_pct": "0.81",
+      "ticker": null
+    },
+    {
+      "cusip": "74164M108",
+      "name": "PRIMERICA INC",
+      "share_type": "SH",
+      "shares": 1132544,
+      "value_usd": 292604068,
+      "weight_pct": "0.79",
+      "ticker": "PRI"
+    },
+    {
+      "cusip": "92345Y106",
+      "name": "VERISK ANALYTICS INC",
+      "share_type": "SH",
+      "shares": 1302611,
+      "value_usd": 291381055,
+      "weight_pct": "0.79",
+      "ticker": "VRSK"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 1225159,
+      "value_usd": 282791200,
+      "weight_pct": "0.77",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "617700109",
+      "name": "MORNINGSTAR INC",
+      "share_type": "SH",
+      "shares": 1241794,
+      "value_usd": 269854254,
+      "weight_pct": "0.73",
+      "ticker": "MORN"
+    },
+    {
+      "cusip": "82982L103",
+      "name": "SITEONE LANDSCAPE SUPPLY INC",
+      "share_type": "SH",
+      "shares": 2028366,
+      "value_usd": 252653269,
+      "weight_pct": "0.68",
+      "ticker": "SITE"
+    },
+    {
+      "cusip": "H5919C104",
+      "name": "ON HLDG AG",
+      "share_type": "SH",
+      "shares": 5405486,
+      "value_usd": 251246989,
+      "weight_pct": "0.68",
+      "ticker": null
+    },
+    {
+      "cusip": "92537N108",
+      "name": "VERTIV HOLDINGS CO",
+      "share_type": "SH",
+      "shares": 1545572,
+      "value_usd": 250398120,
+      "weight_pct": "0.68",
+      "ticker": "VRT"
+    },
+    {
+      "cusip": "95040Q104",
+      "name": "WELLTOWER INC",
+      "share_type": "SH",
+      "shares": 1277492,
+      "value_usd": 237115290,
+      "weight_pct": "0.64",
+      "ticker": "WELL"
+    },
+    {
+      "cusip": "032095101",
+      "name": "AMPHENOL CORP",
+      "share_type": "SH",
+      "shares": 1710742,
+      "value_usd": 231189674,
+      "weight_pct": "0.63",
+      "ticker": "APH"
+    },
+    {
+      "cusip": "12504L109",
+      "name": "CBRE GROUP INC",
+      "share_type": "SH",
+      "shares": 1359332,
+      "value_usd": 218566992,
+      "weight_pct": "0.59",
+      "ticker": "CBRE"
+    },
+    {
+      "cusip": "592688105",
+      "name": "METTLER TOLEDO INTERNATIONAL",
+      "share_type": "SH",
+      "shares": 146334,
+      "value_usd": 204017399,
+      "weight_pct": "0.55",
+      "ticker": "MTD"
+    },
+    {
+      "cusip": "441593100",
+      "name": "HOULIHAN LOKEY INC",
+      "share_type": "SH",
+      "shares": 1123951,
+      "value_usd": 195781025,
+      "weight_pct": "0.53",
+      "ticker": "HLI"
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "share_type": "SH",
+      "shares": 634652,
+      "value_usd": 192864396,
+      "weight_pct": "0.52",
+      "ticker": null
+    },
+    {
+      "cusip": "48020Q107",
+      "name": "JONES LANG LASALLE INC",
+      "share_type": "SH",
+      "shares": 564297,
+      "value_usd": 189869012,
+      "weight_pct": "0.51",
+      "ticker": "JLL"
+    },
+    {
+      "cusip": "185123106",
+      "name": "CLEARWATER ANALYTICS HLDGS I",
+      "share_type": "SH",
+      "shares": 7816447,
+      "value_usd": 188532702,
+      "weight_pct": "0.51",
+      "ticker": null
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM INC",
+      "share_type": "SH",
+      "shares": 537840,
+      "value_usd": 186146424,
+      "weight_pct": "0.50",
+      "ticker": "AVGO"
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "share_type": "SH",
+      "shares": 270126,
+      "value_usd": 178307471,
+      "weight_pct": "0.48",
+      "ticker": "META"
+    },
+    {
+      "cusip": "11271J107",
+      "name": "BROOKFIELD CORP",
+      "share_type": "SH",
+      "shares": 3635917,
+      "value_usd": 166852231,
+      "weight_pct": "0.45",
+      "ticker": "BN"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 341758,
+      "value_usd": 165281004,
+      "weight_pct": "0.45",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "26142V105",
+      "name": "DRAFTKINGS INC",
+      "share_type": "SH",
+      "shares": 4674455,
+      "value_usd": 161081719,
+      "weight_pct": "0.44",
+      "ticker": "DKNG"
+    },
+    {
+      "cusip": "889478103",
+      "name": "TOLL BROTHERS INC",
+      "share_type": "SH",
+      "shares": 1166270,
+      "value_usd": 157703029,
+      "weight_pct": "0.43",
+      "ticker": "TOL"
+    },
+    {
+      "cusip": "01609W102",
+      "name": "ALIBABA GROUP HLDG LTD",
+      "share_type": "SH",
+      "shares": 1071647,
+      "value_usd": 157082017,
+      "weight_pct": "0.43",
+      "ticker": null
+    },
+    {
+      "cusip": "45827U109",
+      "name": "INTAPP INC",
+      "share_type": "SH",
+      "shares": 3327989,
+      "value_usd": 152488456,
+      "weight_pct": "0.41",
+      "ticker": "INTA"
+    },
+    {
+      "cusip": "983134107",
+      "name": "WYNN RESORTS LTD",
+      "share_type": "SH",
+      "shares": 1219590,
+      "value_usd": 146753265,
+      "weight_pct": "0.40",
+      "ticker": "WYNN"
+    },
+    {
+      "cusip": "79589L106",
+      "name": "SAMSARA INC",
+      "share_type": "SH",
+      "shares": 4120031,
+      "value_usd": 146055099,
+      "weight_pct": "0.40",
+      "ticker": "IOT"
+    },
+    {
+      "cusip": "53947R105",
+      "name": "LOAR HOLDINGS INC",
+      "share_type": "SH",
+      "shares": 2119505,
+      "value_usd": 144126340,
+      "weight_pct": "0.39",
+      "ticker": "LOAR"
+    },
+    {
+      "cusip": "74340W103",
+      "name": "PROLOGIS INC.",
+      "share_type": "SH",
+      "shares": 1109127,
+      "value_usd": 141591153,
+      "weight_pct": "0.38",
+      "ticker": "PLD"
+    },
+    {
+      "cusip": "485924104",
+      "name": "KARMAN HLDGS INC",
+      "share_type": "SH",
+      "shares": 1914221,
+      "value_usd": 140063551,
+      "weight_pct": "0.38",
+      "ticker": "KRMN"
+    },
+    {
+      "cusip": "74762E102",
+      "name": "QUANTA SVCS INC",
+      "share_type": "SH",
+      "shares": 328010,
+      "value_usd": 138439901,
+      "weight_pct": "0.38",
+      "ticker": null
+    },
+    {
+      "cusip": "75524B104",
+      "name": "RBC BEARINGS INC",
+      "share_type": "SH",
+      "shares": 303110,
+      "value_usd": 135923617,
+      "weight_pct": "0.37",
+      "ticker": "RBC"
+    }
+  ],
+  "investor": "BAMCO INC /NY/",
+  "period": "2025-12-31",
+  "total_holdings": 327,
+  "total_value_usd": 36910805474
+}

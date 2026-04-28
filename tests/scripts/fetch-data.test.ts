@@ -14,7 +14,7 @@ born: 1970
 portrait: /portraits/${slug}.jpg
 cik: "${cik}"
 holdings_source: "${source}"
-skill_file: ${slug}-skill.skill
+skill_file: ${slug}.skill
 bio: { en: b, zh-CN: b, zh-HK: b }
 philosophy: []
 quotes: []

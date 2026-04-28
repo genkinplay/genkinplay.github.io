@@ -1,0 +1,462 @@
+{
+  "accession_number": "0000900973-26-000002",
+  "cik": "0000900973",
+  "filing_date": "2026-02-12",
+  "firm": "Winslow Capital Management, LLC",
+  "holdings": [
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA Corp",
+      "share_type": "SH",
+      "shares": 16920537,
+      "value_usd": 3161142507,
+      "weight_pct": "10.61",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "594918104",
+      "name": "Microsoft Corporation",
+      "share_type": "SH",
+      "shares": 6334918,
+      "value_usd": 3063582679,
+      "weight_pct": "10.28",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "037833100",
+      "name": "Apple Inc",
+      "share_type": "SH",
+      "shares": 8279618,
+      "value_usd": 2238946427,
+      "weight_pct": "7.51",
+      "ticker": "AAPL"
+    },
+    {
+      "cusip": "02079K107",
+      "name": "Alphabet Inc",
+      "share_type": "SH",
+      "shares": 6025229,
+      "value_usd": 1896237299,
+      "weight_pct": "6.36",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "023135106",
+      "name": "Amazon.com Inc.",
+      "share_type": "SH",
+      "shares": 8071815,
+      "value_usd": 1871643814,
+      "weight_pct": "6.28",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "11135F101",
+      "name": "Broadcom Inc",
+      "share_type": "SH",
+      "shares": 4452976,
+      "value_usd": 1540042371,
+      "weight_pct": "5.17",
+      "ticker": "AVGO"
+    },
+    {
+      "cusip": "30303M102",
+      "name": "Meta Platforms Inc",
+      "share_type": "SH",
+      "shares": 1834788,
+      "value_usd": 1209126472,
+      "weight_pct": "4.06",
+      "ticker": "META"
+    },
+    {
+      "cusip": "532457108",
+      "name": "Lilly(Eli) & Co",
+      "share_type": "SH",
+      "shares": 757228,
+      "value_usd": 816547777,
+      "weight_pct": "2.74",
+      "ticker": null
+    },
+    {
+      "cusip": "46120E602",
+      "name": "Intuitive Surgical Inc",
+      "share_type": "SH",
+      "shares": 1269563,
+      "value_usd": 722499853,
+      "weight_pct": "2.42",
+      "ticker": "ISRG"
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "Mastercard Incorporated",
+      "share_type": "SH",
+      "shares": 1239121,
+      "value_usd": 708662328,
+      "weight_pct": "2.38",
+      "ticker": "MA"
+    },
+    {
+      "cusip": "92826C839",
+      "name": "Visa Inc",
+      "share_type": "SH",
+      "shares": 1986742,
+      "value_usd": 697634603,
+      "weight_pct": "2.34",
+      "ticker": "V"
+    },
+    {
+      "cusip": "833445109",
+      "name": "Snowflake Inc",
+      "share_type": "SH",
+      "shares": 3120063,
+      "value_usd": 688906880,
+      "weight_pct": "2.31",
+      "ticker": "SNOW"
+    },
+    {
+      "cusip": "88160R101",
+      "name": "Tesla Inc",
+      "share_type": "SH",
+      "shares": 1511503,
+      "value_usd": 676965633,
+      "weight_pct": "2.27",
+      "ticker": "TSLA"
+    },
+    {
+      "cusip": "L8681T102",
+      "name": "Spotify Technology S.A.",
+      "share_type": "SH",
+      "shares": 1111438,
+      "value_usd": 644246434,
+      "weight_pct": "2.16",
+      "ticker": "SPOT"
+    },
+    {
+      "cusip": "461202103",
+      "name": "Intuit Inc",
+      "share_type": "SH",
+      "shares": 909751,
+      "value_usd": 601620917,
+      "weight_pct": "2.02",
+      "ticker": "INTU"
+    },
+    {
+      "cusip": "25809K105",
+      "name": "DoorDash Inc",
+      "share_type": "SH",
+      "shares": 2343835,
+      "value_usd": 531709255,
+      "weight_pct": "1.78",
+      "ticker": "DASH"
+    },
+    {
+      "cusip": "64110L106",
+      "name": "Netflix Inc.",
+      "share_type": "SH",
+      "shares": 5651852,
+      "value_usd": 528579033,
+      "weight_pct": "1.77",
+      "ticker": "NFLX"
+    },
+    {
+      "cusip": "032095101",
+      "name": "Amphenol Corp.",
+      "share_type": "SH",
+      "shares": 3702170,
+      "value_usd": 501698983,
+      "weight_pct": "1.68",
+      "ticker": "APH"
+    },
+    {
+      "cusip": "43300A203",
+      "name": "Hilton Worldwide Holdings Inc",
+      "share_type": "SH",
+      "shares": 1668542,
+      "value_usd": 480214752,
+      "weight_pct": "1.61",
+      "ticker": "HLT"
+    },
+    {
+      "cusip": "36828A101",
+      "name": "GE Vernova Inc.",
+      "share_type": "SH",
+      "shares": 732813,
+      "value_usd": 479625071,
+      "weight_pct": "1.61",
+      "ticker": "GEV"
+    },
+    {
+      "cusip": "82509L107",
+      "name": "Shopify Inc",
+      "share_type": "SH",
+      "shares": 2956282,
+      "value_usd": 477553677,
+      "weight_pct": "1.60",
+      "ticker": "SHOP"
+    },
+    {
+      "cusip": "863667101",
+      "name": "Stryker Corp.",
+      "share_type": "SH",
+      "shares": 1299426,
+      "value_usd": 458564964,
+      "weight_pct": "1.54",
+      "ticker": "SYK"
+    },
+    {
+      "cusip": "81762P102",
+      "name": "ServiceNow Inc",
+      "share_type": "SH",
+      "shares": 2781207,
+      "value_usd": 425414157,
+      "weight_pct": "1.43",
+      "ticker": "NOW"
+    },
+    {
+      "cusip": "92532F100",
+      "name": "Vertex Pharmaceuticals, Inc.",
+      "share_type": "SH",
+      "shares": 887640,
+      "value_usd": 405097722,
+      "weight_pct": "1.36",
+      "ticker": null
+    },
+    {
+      "cusip": "369604301",
+      "name": "GE Aerospace",
+      "share_type": "SH",
+      "shares": 1285902,
+      "value_usd": 398389002,
+      "weight_pct": "1.34",
+      "ticker": null
+    },
+    {
+      "cusip": "127387108",
+      "name": "Cadence Design Systems, Inc.",
+      "share_type": "SH",
+      "shares": 1151476,
+      "value_usd": 360830721,
+      "weight_pct": "1.21",
+      "ticker": "CDNS"
+    },
+    {
+      "cusip": "58155Q103",
+      "name": "Mckesson Corporation",
+      "share_type": "SH",
+      "shares": 437073,
+      "value_usd": 358699410,
+      "weight_pct": "1.20",
+      "ticker": "MCK"
+    },
+    {
+      "cusip": "172908105",
+      "name": "Cintas Corporation",
+      "share_type": "SH",
+      "shares": 1822369,
+      "value_usd": 342503288,
+      "weight_pct": "1.15",
+      "ticker": "CTAS"
+    },
+    {
+      "cusip": "68389X105",
+      "name": "Oracle Corp.",
+      "share_type": "SH",
+      "shares": 1728534,
+      "value_usd": 336578155,
+      "weight_pct": "1.13",
+      "ticker": "ORCL"
+    },
+    {
+      "cusip": "443201108",
+      "name": "Howmet Aerospace Inc",
+      "share_type": "SH",
+      "shares": 1569254,
+      "value_usd": 322673871,
+      "weight_pct": "1.08",
+      "ticker": "HWM"
+    },
+    {
+      "cusip": "05464C101",
+      "name": "Axon Enterprise Inc",
+      "share_type": "SH",
+      "shares": 547802,
+      "value_usd": 314332255,
+      "weight_pct": "1.05",
+      "ticker": "AXON"
+    },
+    {
+      "cusip": "03990B101",
+      "name": "Ares Management Corp",
+      "share_type": "SH",
+      "shares": 1911513,
+      "value_usd": 310627804,
+      "weight_pct": "1.04",
+      "ticker": "ARES"
+    },
+    {
+      "cusip": "74762E102",
+      "name": "Quanta Services, Inc.",
+      "share_type": "SH",
+      "shares": 673593,
+      "value_usd": 285268397,
+      "weight_pct": "0.96",
+      "ticker": "PWR"
+    },
+    {
+      "cusip": "48251W104",
+      "name": "KKR & Co. Inc",
+      "share_type": "SH",
+      "shares": 2114593,
+      "value_usd": 270213954,
+      "weight_pct": "0.91",
+      "ticker": "KKR"
+    },
+    {
+      "cusip": "69608A108",
+      "name": "Palantir Technologies Inc",
+      "share_type": "SH",
+      "shares": 1468291,
+      "value_usd": 261596719,
+      "weight_pct": "0.88",
+      "ticker": "PLTR"
+    },
+    {
+      "cusip": "631103108",
+      "name": "Nasdaq Inc",
+      "share_type": "SH",
+      "shares": 2568537,
+      "value_usd": 250498541,
+      "weight_pct": "0.84",
+      "ticker": "NDAQ"
+    },
+    {
+      "cusip": "040413205",
+      "name": "Arista Networks Inc",
+      "share_type": "SH",
+      "shares": 1896528,
+      "value_usd": 248502064,
+      "weight_pct": "0.83",
+      "ticker": "ANET"
+    },
+    {
+      "cusip": "007903107",
+      "name": "Advanced Micro Devices Inc.",
+      "share_type": "SH",
+      "shares": 831730,
+      "value_usd": 177733772,
+      "weight_pct": "0.60",
+      "ticker": "AMD"
+    },
+    {
+      "cusip": "278865100",
+      "name": "Ecolab, Inc.",
+      "share_type": "SH",
+      "shares": 633821,
+      "value_usd": 166390689,
+      "weight_pct": "0.56",
+      "ticker": "ECL"
+    },
+    {
+      "cusip": "032654105",
+      "name": "Analog Devices Inc.",
+      "share_type": "SH",
+      "shares": 572634,
+      "value_usd": 157804014,
+      "weight_pct": "0.53",
+      "ticker": "ADI"
+    },
+    {
+      "cusip": "701094104",
+      "name": "Parker-Hannifin Corp.",
+      "share_type": "SH",
+      "shares": 164111,
+      "value_usd": 144454899,
+      "weight_pct": "0.48",
+      "ticker": "PH"
+    },
+    {
+      "cusip": "482480100",
+      "name": "KLA Corp.",
+      "share_type": "SH",
+      "shares": 96480,
+      "value_usd": 117230918,
+      "weight_pct": "0.39",
+      "ticker": "KLAC"
+    },
+    {
+      "cusip": "20464U100",
+      "name": "Compass Inc",
+      "share_type": "SH",
+      "shares": 6934620,
+      "value_usd": 73298933,
+      "weight_pct": "0.25",
+      "ticker": "COMP"
+    },
+    {
+      "cusip": "464287614",
+      "name": "ISHARES TR RSSLL 1000 GRWT",
+      "share_type": "SH",
+      "shares": 70412,
+      "value_usd": 33326000,
+      "weight_pct": "0.11",
+      "ticker": null
+    },
+    {
+      "cusip": "615369105",
+      "name": "Moody`s Corp.",
+      "share_type": "SH",
+      "shares": 24150,
+      "value_usd": 12337027,
+      "weight_pct": "0.04",
+      "ticker": null
+    },
+    {
+      "cusip": "G8994E103",
+      "name": "Trane Technologies plc",
+      "share_type": "SH",
+      "shares": 28162,
+      "value_usd": 10960650,
+      "weight_pct": "0.04",
+      "ticker": "TT"
+    },
+    {
+      "cusip": "922908736",
+      "name": "VANGUARD INDEX TR GROWTH VIPER",
+      "share_type": "SH",
+      "shares": 14044,
+      "value_usd": 6851506,
+      "weight_pct": "0.02",
+      "ticker": null
+    },
+    {
+      "cusip": "512807306",
+      "name": "LAM RESEARCH CORP COM NEW",
+      "share_type": "SH",
+      "shares": 21970,
+      "value_usd": 3760825,
+      "weight_pct": "0.01",
+      "ticker": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET CLASS A",
+      "share_type": "SH",
+      "shares": 9174,
+      "value_usd": 2871462,
+      "weight_pct": "0.01",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "67103H107",
+      "name": "O'REILLY AUTOMOTIVE INC NEW CO",
+      "share_type": "SH",
+      "shares": 14830,
+      "value_usd": 1352644,
+      "weight_pct": "0.00",
+      "ticker": "ORLY"
+    }
+  ],
+  "investor": "Winslow Capital Management, LLC",
+  "period": "2025-12-31",
+  "total_holdings": 62,
+  "total_value_usd": 29802721291
+}

@@ -1,0 +1,30 @@
+slug: eagle-capital-management
+display_name:
+  en: EAGLE CAPITAL MANAGEMENT LLC
+  zh-CN: 鹰冠资本
+  zh-HK: 鷹冠資本
+tagline:
+  en: SEC 13F filer · AUM $32.11B
+  zh-CN: SEC 13F 机构 · 管理资产 $32.11B
+  zh-HK: SEC 13F 機構 · 管理資產 $32.11B
+role:
+  en: 'Institutional investor (rank #34, CIK 0000945631)'
+  zh-CN: '机构投资者（排名 #34，CIK 0000945631）'
+  zh-HK: '機構投資者（排名 #34，CIK 0000945631）'
+born: 0
+portrait: >-
+  https://api.dicebear.com/7.x/initials/svg?seed=EAGLE%20CAPITAL%20MANAGEMENT%20LLC&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0000945631'
+holdings_source: 13f
+featured: false
+rank: 34
+aum_usd: 32110000000
+bio:
+  en: >-
+    EAGLE CAPITAL MANAGEMENT LLC is an institutional investor managing approximately $32.11B in disclosed U.S. equity
+    holdings as of 2025-12-31, ranking #34 among SEC 13F filers.
+  zh-CN: '鹰冠资本 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $32.11B，在 SEC 13F 机构中排名 #34。'
+  zh-HK: '鷹冠資本 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $32.11B，在 SEC 13F 機構中排名 #34。'
+philosophy: []
+quotes: []
+milestones: []

@@ -1,0 +1,29 @@
+slug: sanders-capital
+display_name:
+  en: Sanders Capital, LLC
+  zh-CN: 桑德斯资本
+  zh-HK: 桑德斯資本
+tagline:
+  en: SEC 13F filer · AUM $86.82B
+  zh-CN: SEC 13F 机构 · 管理资产 $86.82B
+  zh-HK: SEC 13F 機構 · 管理資產 $86.82B
+role:
+  en: 'Institutional investor (rank #9, CIK 0001508097)'
+  zh-CN: '机构投资者（排名 #9，CIK 0001508097）'
+  zh-HK: '機構投資者（排名 #9，CIK 0001508097）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=Sanders%20Capital%2C%20LLC&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001508097'
+holdings_source: 13f
+featured: false
+rank: 9
+aum_usd: 86820000000
+bio:
+  en: 'Sanders Capital, LLC is an institutional investor managing approximately $86.82B in disclosed U.S. equity holdings as of 2025-12-31, ranking #9 among SEC 13F filers.'
+  zh-CN: 桑德斯内本（德语：Sandesneben）是德国石勒苏益格－荷尔斯泰因州的一个市镇。总面积6.13平方公里，总人口1691人，其中男性858人，女性833人（2011年12月31日），人口密度276人/平方公里。
+  zh-HK: 桑德斯內本（德語：Sandesneben）是德國石勒蘇益格－荷爾斯泰因州的一個市鎮。總面積6.13平方公里，總人口1691人，其中男性858人，女性833人（2011年12月31日），人口密度276人/平方公里。
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  zh: https://zh.wikipedia.org/wiki/%E6%A1%91%E5%BE%B7%E6%96%AF%E5%86%85%E6%9C%AC

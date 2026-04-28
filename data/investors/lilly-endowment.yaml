@@ -1,0 +1,29 @@
+slug: lilly-endowment
+display_name:
+  en: LILLY ENDOWMENT INC
+  zh-CN: 礼来基金会
+  zh-HK: 禮來基金會
+tagline:
+  en: SEC 13F filer · AUM $99.08B
+  zh-CN: SEC 13F 机构 · 管理资产 $99.08B
+  zh-HK: SEC 13F 機構 · 管理資產 $99.08B
+role:
+  en: 'Institutional investor (rank #8, CIK 0000316011)'
+  zh-CN: '机构投资者（排名 #8，CIK 0000316011）'
+  zh-HK: '機構投資者（排名 #8，CIK 0000316011）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=LILLY%20ENDOWMENT%20INC&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0000316011'
+holdings_source: 13f
+featured: false
+rank: 8
+aum_usd: 99080000000
+bio:
+  en: Lilly Endowment Inc., headquartered in Indianapolis, Indiana, is one of the world's largest private philanthropic foundations and among the largest endowments in the United States. It was founded in 1937 by Josiah K. Lilly Sr. and his sons, Eli Jr. and Josiah Jr. (Joe), with an initial gift of Eli Lilly and Company stock valued at $280,000 USD. As of 2023, its total assets were worth $62.2 billion.
+  zh-CN: '礼来基金会 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $99.08B，在 SEC 13F 机构中排名 #8。'
+  zh-HK: '禮來基金會 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $99.08B，在 SEC 13F 機構中排名 #8。'
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  en: https://en.wikipedia.org/wiki/Lilly_Endowment%2C_Inc.

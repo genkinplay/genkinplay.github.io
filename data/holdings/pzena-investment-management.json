@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001027796-26-000024",
+  "cik": "0001027796",
+  "filing_date": "2026-04-24",
+  "firm": "PZENA INVESTMENT MANAGEMENT LLC",
+  "holdings": [
+    {
+      "cusip": "559222401",
+      "name": "MAGNA INTL INC",
+      "share_type": "SH",
+      "shares": 25329355,
+      "value_usd": 1967837607,
+      "weight_pct": "6.39",
+      "ticker": "MGA"
+    },
+    {
+      "cusip": "192446102",
+      "name": "COGNIZANT TECHNOLOGY SOLUTIO",
+      "share_type": "SH",
+      "shares": 20262362,
+      "value_usd": 1243095908,
+      "weight_pct": "4.04",
+      "ticker": null
+    },
+    {
+      "cusip": "902494103",
+      "name": "TYSON FOODS INC",
+      "share_type": "SH",
+      "shares": 17155713,
+      "value_usd": 1099166532,
+      "weight_pct": "3.57",
+      "ticker": "TSN"
+    },
+    {
+      "cusip": "071813109",
+      "name": "BAXTER INTL INC",
+      "share_type": "SH",
+      "shares": 64527823,
+      "value_usd": 1084067427,
+      "weight_pct": "3.52",
+      "ticker": "BAX"
+    },
+    {
+      "cusip": "110122108",
+      "name": "BRISTOL-MYERS SQUIBB CO",
+      "share_type": "SH",
+      "shares": 17095731,
+      "value_usd": 1036856085,
+      "weight_pct": "3.37",
+      "ticker": "BMY"
+    },
+    {
+      "cusip": "126650100",
+      "name": "CVS HEALTH CORP",
+      "share_type": "SH",
+      "shares": 13773053,
+      "value_usd": 989180667,
+      "weight_pct": "3.21",
+      "ticker": "CVS"
+    },
+    {
+      "cusip": "444859102",
+      "name": "HUMANA INC",
+      "share_type": "SH",
+      "shares": 5470982,
+      "value_usd": 948613569,
+      "weight_pct": "3.08",
+      "ticker": "HUM"
+    },
+    {
+      "cusip": "172967424",
+      "name": "CITIGROUP INC",
+      "share_type": "SH",
+      "shares": 8175364,
+      "value_usd": 927168031,
+      "weight_pct": "3.01",
+      "ticker": "C"
+    },
+    {
+      "cusip": "83088M102",
+      "name": "SKYWORKS SOLUTIONS INC",
+      "share_type": "SH",
+      "shares": 16108138,
+      "value_usd": 862590790,
+      "weight_pct": "2.80",
+      "ticker": "SWKS"
+    },
+    {
+      "cusip": "14040H105",
+      "name": "CAPITAL ONE FINL CORP",
+      "share_type": "SH",
+      "shares": 4580120,
+      "value_usd": 835551292,
+      "weight_pct": "2.71",
+      "ticker": "COF"
+    },
+    {
+      "cusip": "G02602103",
+      "name": "AMDOCS LTD",
+      "share_type": "SH",
+      "shares": 12681089,
+      "value_usd": 827567868,
+      "weight_pct": "2.69",
+      "ticker": "DOX"
+    },
+    {
+      "cusip": "256677105",
+      "name": "DOLLAR GEN CORP",
+      "share_type": "SH",
+      "shares": 6897541,
+      "value_usd": 818945043,
+      "weight_pct": "2.66",
+      "ticker": null
+    },
+    {
+      "cusip": "521865204",
+      "name": "LEAR CORP",
+      "share_type": "SH",
+      "shares": 6758505,
+      "value_usd": 818319785,
+      "weight_pct": "2.66",
+      "ticker": "LEA"
+    },
+    {
+      "cusip": "H42097107",
+      "name": "UBS GROUP AG",
+      "share_type": "SH",
+      "shares": 26544355,
+      "value_usd": 815708023,
+      "weight_pct": "2.65",
+      "ticker": "UBS"
+    },
+    {
+      "cusip": "59156R108",
+      "name": "METLIFE INC",
+      "share_type": "SH",
+      "shares": 11303819,
+      "value_usd": 799406080,
+      "weight_pct": "2.60",
+      "ticker": "MET"
+    },
+    {
+      "cusip": "693506107",
+      "name": "PPG INDS INC",
+      "share_type": "SH",
+      "shares": 7478646,
+      "value_usd": 799317684,
+      "weight_pct": "2.60",
+      "ticker": null
+    },
+    {
+      "cusip": "260557103",
+      "name": "DOW HLDGS INC",
+      "share_type": "SH",
+      "shares": 18947602,
+      "value_usd": 789167623,
+      "weight_pct": "2.56",
+      "ticker": "DOW"
+    },
+    {
+      "cusip": "37940X102",
+      "name": "GLOBAL PMTS INC",
+      "share_type": "SH",
+      "shares": 11615577,
+      "value_usd": 781728332,
+      "weight_pct": "2.54",
+      "ticker": null
+    },
+    {
+      "cusip": "62955J103",
+      "name": "NOV INC",
+      "share_type": "SH",
+      "shares": 37535449,
+      "value_usd": 706041796,
+      "weight_pct": "2.29",
+      "ticker": "NOV"
+    },
+    {
+      "cusip": "949746101",
+      "name": "WELLS FARGO & CO",
+      "share_type": "SH",
+      "shares": 8773128,
+      "value_usd": 698428720,
+      "weight_pct": "2.27",
+      "ticker": "WFC"
+    },
+    {
+      "cusip": "78467J100",
+      "name": "SS&C TECH HLDGS",
+      "share_type": "SH",
+      "shares": 9699260,
+      "value_usd": 655378998,
+      "weight_pct": "2.13",
+      "ticker": null
+    },
+    {
+      "cusip": "21871X109",
+      "name": "COREBRIDGE FINL INC",
+      "share_type": "SH",
+      "shares": 27045794,
+      "value_usd": 645312645,
+      "weight_pct": "2.10",
+      "ticker": "CRBG"
+    },
+    {
+      "cusip": "654902204",
+      "name": "NOKIA CORP",
+      "share_type": "SH",
+      "shares": 63425518,
+      "value_usd": 509941161,
+      "weight_pct": "1.66",
+      "ticker": "NOK"
+    },
+    {
+      "cusip": "G1151C101",
+      "name": "ACCENTURE PLC IRELAND",
+      "share_type": "SH",
+      "shares": 2405683,
+      "value_usd": 477022806,
+      "weight_pct": "1.55",
+      "ticker": null
+    },
+    {
+      "cusip": "693656100",
+      "name": "PVH CORPORATION",
+      "share_type": "SH",
+      "shares": 5768906,
+      "value_usd": 402438882,
+      "weight_pct": "1.31",
+      "ticker": "PVH"
+    },
+    {
+      "cusip": "053807103",
+      "name": "AVNET INC",
+      "share_type": "SH",
+      "shares": 5692230,
+      "value_usd": 350755213,
+      "weight_pct": "1.14",
+      "ticker": "AVT"
+    },
+    {
+      "cusip": "913903100",
+      "name": "UNIVERSAL HLTH SVCS INC",
+      "share_type": "SH",
+      "shares": 1912235,
+      "value_usd": 342232698,
+      "weight_pct": "1.11",
+      "ticker": null
+    },
+    {
+      "cusip": "358029106",
+      "name": "FRESENIUS MEDICAL CARE AG",
+      "share_type": "SH",
+      "shares": 15052822,
+      "value_usd": 339591653,
+      "weight_pct": "1.10",
+      "ticker": "FMS"
+    },
+    {
+      "cusip": "060505104",
+      "name": "BANK AMERICA CORP",
+      "share_type": "SH",
+      "shares": 6422754,
+      "value_usd": 313109258,
+      "weight_pct": "1.02",
+      "ticker": "BAC"
+    },
+    {
+      "cusip": "G2519Y108",
+      "name": "CREDICORP LTD",
+      "share_type": "SH",
+      "shares": 912060,
+      "value_usd": 309352511,
+      "weight_pct": "1.00",
+      "ticker": "BAP"
+    },
+    {
+      "cusip": "780259305",
+      "name": "SHELL PLC",
+      "share_type": "SH",
+      "shares": 3196449,
+      "value_usd": 297269711,
+      "weight_pct": "0.97",
+      "ticker": "SHEL"
+    },
+    {
+      "cusip": "G5960L103",
+      "name": "MEDTRONIC PLC",
+      "share_type": "SH",
+      "shares": 3157015,
+      "value_usd": 273555338,
+      "weight_pct": "0.89",
+      "ticker": "MDT"
+    },
+    {
+      "cusip": "929089100",
+      "name": "VOYA FINANCIAL INC",
+      "share_type": "SH",
+      "shares": 3673118,
+      "value_usd": 250947422,
+      "weight_pct": "0.81",
+      "ticker": "VOYA"
+    },
+    {
+      "cusip": "00751Y106",
+      "name": "ADVANCE AUTO PARTS INC",
+      "share_type": "SH",
+      "shares": 4301089,
+      "value_usd": 226882445,
+      "weight_pct": "0.74",
+      "ticker": "AAP"
+    },
+    {
+      "cusip": "48581R205",
+      "name": "KASPI KZ JSC",
+      "share_type": "SH",
+      "shares": 2672387,
+      "value_usd": 197943705,
+      "weight_pct": "0.64",
+      "ticker": null
+    },
+    {
+      "cusip": "98980A105",
+      "name": "ZTO EXPRESS CAYMAN INC",
+      "share_type": "SH",
+      "shares": 7460931,
+      "value_usd": 187791633,
+      "weight_pct": "0.61",
+      "ticker": null
+    },
+    {
+      "cusip": "247361702",
+      "name": "DELTA AIR LINES INC",
+      "share_type": "SH",
+      "shares": 2807667,
+      "value_usd": 186653702,
+      "weight_pct": "0.61",
+      "ticker": "DAL"
+    },
+    {
+      "cusip": "501889208",
+      "name": "LKQ CORP",
+      "share_type": "SH",
+      "shares": 6232900,
+      "value_usd": 183060273,
+      "weight_pct": "0.59",
+      "ticker": "LKQ"
+    },
+    {
+      "cusip": "84790A105",
+      "name": "SPECTRUM BRANDS HOLDINGS INC",
+      "share_type": "SH",
+      "shares": 2338423,
+      "value_usd": 172341775,
+      "weight_pct": "0.56",
+      "ticker": "SPB"
+    },
+    {
+      "cusip": "717081103",
+      "name": "PFIZER INC",
+      "share_type": "SH",
+      "shares": 5924892,
+      "value_usd": 166370967,
+      "weight_pct": "0.54",
+      "ticker": "PFE"
+    },
+    {
+      "cusip": "29452E101",
+      "name": "EQUITABLE HLDGS INC",
+      "share_type": "SH",
+      "shares": 4464347,
+      "value_usd": 165671917,
+      "weight_pct": "0.54",
+      "ticker": "EQH"
+    },
+    {
+      "cusip": "651229106",
+      "name": "NEWELL BRANDS INC",
+      "share_type": "SH",
+      "shares": 47802935,
+      "value_usd": 163964067,
+      "weight_pct": "0.53",
+      "ticker": "NWL"
+    },
+    {
+      "cusip": "406216101",
+      "name": "HALLIBURTON CO",
+      "share_type": "SH",
+      "shares": 4067041,
+      "value_usd": 158573929,
+      "weight_pct": "0.51",
+      "ticker": "HAL"
+    },
+    {
+      "cusip": "125523100",
+      "name": "THE CIGNA GROUP",
+      "share_type": "SH",
+      "shares": 578448,
+      "value_usd": 154301004,
+      "weight_pct": "0.50",
+      "ticker": "CI"
+    },
+    {
+      "cusip": "48268K101",
+      "name": "KT CORP",
+      "share_type": "SH",
+      "shares": 7175547,
+      "value_usd": 153915483,
+      "weight_pct": "0.50",
+      "ticker": "KT"
+    },
+    {
+      "cusip": "770323103",
+      "name": "ROBERT HALF INC.",
+      "share_type": "SH",
+      "shares": 5966734,
+      "value_usd": 151555044,
+      "weight_pct": "0.49",
+      "ticker": "RHI"
+    },
+    {
+      "cusip": "37959E102",
+      "name": "GLOBE LIFE INC",
+      "share_type": "SH",
+      "shares": 1026246,
+      "value_usd": 142822656,
+      "weight_pct": "0.46",
+      "ticker": "GL"
+    },
+    {
+      "cusip": "L44385109",
+      "name": "GLOBANT S A",
+      "share_type": "SH",
+      "shares": 2968828,
+      "value_usd": 136892659,
+      "weight_pct": "0.44",
+      "ticker": "GLOB"
+    },
+    {
+      "cusip": "12514G108",
+      "name": "CDW CORP",
+      "share_type": "SH",
+      "shares": 1115535,
+      "value_usd": 135002045,
+      "weight_pct": "0.44",
+      "ticker": "CDW"
+    },
+    {
+      "cusip": "680665205",
+      "name": "OLIN CORP",
+      "share_type": "SH",
+      "shares": 4431613,
+      "value_usd": 131751854,
+      "weight_pct": "0.43",
+      "ticker": "OLN"
+    }
+  ],
+  "investor": "PZENA INVESTMENT MANAGEMENT LLC",
+  "period": "2026-03-31",
+  "total_holdings": 158,
+  "total_value_usd": 30796447662
+}

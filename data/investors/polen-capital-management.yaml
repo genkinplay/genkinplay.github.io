@@ -1,0 +1,29 @@
+slug: polen-capital-management
+display_name:
+  en: POLEN CAPITAL MANAGEMENT LLC
+  zh-CN: 波伦资本
+  zh-HK: 波倫資本
+tagline:
+  en: SEC 13F filer · AUM $23.42B
+  zh-CN: SEC 13F 机构 · 管理资产 $23.42B
+  zh-HK: SEC 13F 機構 · 管理資產 $23.42B
+role:
+  en: 'Institutional investor (rank #48, CIK 0001034524)'
+  zh-CN: '机构投资者（排名 #48，CIK 0001034524）'
+  zh-HK: '機構投資者（排名 #48，CIK 0001034524）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=POLEN%20CAPITAL%20MANAGEMENT%20LLC&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001034524'
+holdings_source: 13f
+featured: false
+rank: 48
+aum_usd: 23420000000
+bio:
+  en: Polen Capital is an American investment management firm headquartered in Boca Raton, Florida. The firm's main strategy is growth investing in a limited number of growth equities. In recent years, the firm has expanded into investments in the credit market.
+  zh-CN: '波伦资本 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $23.42B，在 SEC 13F 机构中排名 #48。'
+  zh-HK: '波倫資本 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $23.42B，在 SEC 13F 機構中排名 #48。'
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  en: https://en.wikipedia.org/wiki/Polen_Capital

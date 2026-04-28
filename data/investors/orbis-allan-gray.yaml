@@ -1,0 +1,30 @@
+slug: orbis-allan-gray
+display_name:
+  en: Orbis Allan Gray Ltd
+  zh-CN: Orbis Allan Gray Ltd
+  zh-HK: Orbis Allan Gray Ltd
+tagline:
+  en: SEC 13F filer · AUM $23.87B
+  zh-CN: SEC 13F 机构 · 管理资产 $23.87B
+  zh-HK: SEC 13F 機構 · 管理資產 $23.87B
+role:
+  en: 'Institutional investor (rank #47, CIK 0001663865)'
+  zh-CN: '机构投资者（排名 #47，CIK 0001663865）'
+  zh-HK: '機構投資者（排名 #47，CIK 0001663865）'
+born: 0
+portrait: >-
+  https://api.dicebear.com/7.x/initials/svg?seed=Orbis%20Allan%20Gray%20Ltd&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001663865'
+holdings_source: 13f
+featured: false
+rank: 47
+aum_usd: 23870000000
+bio:
+  en: >-
+    Orbis Allan Gray Ltd is an institutional investor managing approximately $23.87B in disclosed U.S. equity holdings
+    as of 2025-12-31, ranking #47 among SEC 13F filers.
+  zh-CN: 'Orbis Allan Gray Ltd 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $23.87B，在 SEC 13F 机构中排名 #47。'
+  zh-HK: 'Orbis Allan Gray Ltd 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $23.87B，在 SEC 13F 機構中排名 #47。'
+philosophy: []
+quotes: []
+milestones: []

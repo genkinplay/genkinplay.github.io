@@ -1,0 +1,39 @@
+slug: bamco
+display_name:
+  en: BAMCO INC /NY/
+  zh-CN: BAMCO（巴龙基金）
+  zh-HK: BAMCO（巴龍基金）
+tagline:
+  en: SEC 13F filer · AUM $36.91B
+  zh-CN: SEC 13F 机构 · 管理资产 $36.91B
+  zh-HK: SEC 13F 機構 · 管理資產 $36.91B
+role:
+  en: 'Institutional investor (rank #27, CIK 0001017918)'
+  zh-CN: '机构投资者（排名 #27，CIK 0001017918）'
+  zh-HK: '機構投資者（排名 #27，CIK 0001017918）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=BAMCO%20INC%20%2FNY%2F&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001017918'
+holdings_source: 13f
+featured: false
+rank: 27
+aum_usd: 36910000000
+bio:
+  en: |-
+    Bandai Namco Holdings Inc. is a Japanese mass media and entertainment conglomerate founded in 2005 by the merger of Namco and Bandai. The company specializes in toys, video games, arcades, anime, restaurants, and amusement parks. They are unofficially nicknamed "Bamco" by some. The conglomerate is made up of:Bandai, toy company; includes Bandai Spirits
+    Bandai Namco Entertainment, video game publisher; includes Bandai Namco Studios
+    Bandai Namco Experience, amusement machine developer and operator; includes Bandai Namco Amusement
+    Bandai Namco Filmworks, film/anime production; includes Sunrise and Bandai Namco Pictures
+    Bandai Namco Music Live, film/anime and music production
+  zh-CN: |-
+    《BAMBOO BLADE》是土冢理弘原作、五十岚あぐり作画的以剑道为题材的日本漫画作品。从2004年12月3日在杂志YOUNG GANGAN上（创刊号）连载，于2010年9月17日（Vol.18）完结。台湾中文版由尚禾出版社代理。于2007年10月改编为电视动画并开始播放，于2008年3月播放完毕。而香港有线电视儿童台由2009年7月6日起播映。
+    自2009年起，本作被称作日本第一女子剑道漫画。
+  zh-HK: |-
+    《劍道甜心》是土塚理弘原作、五十嵐あぐり作畫的以劍道為題材的日本漫畫作品。從2004年12月3日在雜誌YOUNG GANGAN上（創刊號）連載，於2010年9月17日（Vol.18）完結。台灣中文版由尚禾出版社代理。於2007年10月改編為電視動畫並開始播放，於2008年3月播放完畢。而香港有線電視兒童台由2009年7月6日起播映。
+    自2009年起，本作被稱作日本第一女子劍道漫畫。
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  en: https://en.wikipedia.org/wiki/Bamco
+  zh: https://zh.wikipedia.org/wiki/BAMBOO_BLADE

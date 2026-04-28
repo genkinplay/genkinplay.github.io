@@ -1,0 +1,26 @@
+{
+  "added": 1,
+  "changes": [
+    {
+      "action": "ADDED",
+      "cusip": "617446448",
+      "delta_pct": "11.68",
+      "delta_usd": 7002471552,
+      "name": "Morgan Stanley",
+      "prev_shares": 377085167,
+      "prev_value_usd": 59941458146,
+      "shares": 377085167,
+      "value_usd": 66943929698,
+      "ticker": "MS"
+    }
+  ],
+  "cik": "0000067088",
+  "exited": 0,
+  "filing_date": "2026-02-04",
+  "firm": "MITSUBISHI UFJ FINANCIAL GROUP INC",
+  "investor": "MITSUBISHI UFJ FINANCIAL GROUP INC",
+  "new": 0,
+  "period": "2025-12-31",
+  "prev_report_date": "2025-09-30",
+  "reduced": 0
+}

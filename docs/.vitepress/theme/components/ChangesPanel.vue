@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, ref } from 'vue'
+import { computed, ref, watch } from 'vue'
 import { useData } from 'vitepress'
 
 type Action = 'NEW' | 'ADDED' | 'REDUCED' | 'EXITED'
@@ -51,9 +51,14 @@ function classify(ch: ChangeItem): Action {
   return ch.action  // 股数无变化的边界情况，沿用上游 action
 }
 
-// 重新分类后的全量 changes（ch.action 已被覆盖成基于股数的分类）
+// 数据卫生：剔除 shares 等于 prev_shares 的条目。
+// longbridge CLI 会把"shares 没变但股价波动 → 市值变化"的条目误标成 ADDED/REDUCED，
+// 这种条目本质是 mark-to-market 估值波动，不是实际买卖，不应混在"季度变化"里。
+// 重新分类基于股数变化方向，让 NEW/ADDED/REDUCED/EXITED 跟实际操作方向一致。
 const reclassified = computed<ChangeItem[]>(() =>
-  props.data.changes.map((ch) => ({ ...ch, action: classify(ch) })),
+  props.data.changes
+    .filter((ch) => ch.shares !== (ch.prev_shares ?? 0))
+    .map((ch) => ({ ...ch, action: classify(ch) })),
 )
 
 const counts = computed(() => {
@@ -65,13 +70,25 @@ const counts = computed(() => {
 // 默认显示 NEW（最关键的"新进仓位"），点击切换到其它动作
 const selectedAction = ref<Action>('NEW')
 
-const displayedChanges = computed(() =>
-  reclassified.value.filter((ch) => ch.action === selectedAction.value).slice(0, 20),
+// 折叠：每个分类下超过 10 条默认收起，按钮展开。切换分类时自动重置。
+const COLLAPSED_LIMIT = 10
+const expanded = ref(false)
+watch(selectedAction, () => {
+  expanded.value = false
+})
+
+const filteredByAction = computed(() =>
+  reclassified.value.filter((ch) => ch.action === selectedAction.value),
 )
 
-const totalForSelected = computed(() =>
-  reclassified.value.filter((ch) => ch.action === selectedAction.value).length,
-)
+const totalForSelected = computed(() => filteredByAction.value.length)
+
+const collapsible = computed(() => totalForSelected.value > COLLAPSED_LIMIT)
+
+const displayedChanges = computed(() => {
+  if (!collapsible.value || expanded.value) return filteredByAction.value
+  return filteredByAction.value.slice(0, COLLAPSED_LIMIT)
+})
 
 // 用当前路由 lang 拼 longbridge 行情页 URL
 const { lang } = useData()
@@ -186,13 +203,6 @@ function actionLabel(a: Action): string {
   return a
 }
 
-// footer 文案
-function footerText(shown: number, total: number, action: Action): string {
-  if (lang.value === 'zh-CN') return `仅显示前 ${shown} 项，共 ${total} 项${actionLabel(action)}`
-  if (lang.value === 'zh-HK') return `僅顯示前 ${shown} 項，共 ${total} 項${actionLabel(action)}`
-  return `Showing top ${shown} of ${total} ${action} positions.`
-}
-
 // 空态文案
 const emptyText = computed(() => {
   const a = selectedAction.value
@@ -201,11 +211,20 @@ const emptyText = computed(() => {
   return `No ${a} positions this quarter.`
 })
 
+// 展开/收起按钮文案
+const toggleLabel = computed(() => {
+  const a = selectedAction.value
+  const total = totalForSelected.value
+  if (lang.value === 'zh-CN') return expanded.value ? '收起' : `展开全部 ${total} 项${actionLabel(a)}`
+  if (lang.value === 'zh-HK') return expanded.value ? '收起' : `展開全部 ${total} 項${actionLabel(a)}`
+  return expanded.value ? 'Show less' : `Show all ${total} ${a}`
+})
+
 </script>
 
 <template>
-  <section class="max-w-7xl mx-auto px-6 py-7">
-    <div class="flex items-baseline justify-between mb-6 flex-wrap gap-2">
+  <section class="max-w-7xl mx-auto px-6 py-5">
+    <div class="flex items-baseline justify-between mb-3 flex-wrap gap-2">
       <div class="text-xl font-bold text-[var(--vp-c-text-1)]">{{ label }}</div>
       <div class="text-sm text-[var(--vp-c-text-2)]">
         <span v-if="periodText">{{ periodText }} · </span>
@@ -213,27 +232,31 @@ const emptyText = computed(() => {
       </div>
     </div>
 
-    <!-- ───── 顶部 4 张 action 类别卡：圆形 badge + 大数字 + 切换 ───── -->
-    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
+    <!-- ───── 顶部 action segmented pill：紧凑横排，让下方列表成为视觉重心 ───── -->
+    <div class="flex flex-wrap gap-2 mb-3">
       <button
         v-for="k in ACTIONS"
         :key="k"
         type="button"
-        class="action-card no-underline relative rounded-2xl border border-[var(--vp-c-divider)] bg-transparent p-5 block text-left hover:bg-[var(--vp-c-bg-soft)] hover:shadow-md hover:-translate-y-0.5 focus-visible:bg-[var(--vp-c-bg-soft)] focus-visible:shadow-md focus-visible:outline-none transition-all text-[var(--vp-c-text-1)] cursor-pointer"
-        :class="selectedAction === k ? 'bg-[var(--vp-c-bg-soft)] shadow-md -translate-y-0.5' : ''"
+        class="action-pill inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full border text-sm transition-all cursor-pointer focus-visible:outline-none"
+        :class="selectedAction === k
+          ? 'font-bold shadow-sm'
+          : 'border-[var(--vp-c-divider)] text-[var(--vp-c-text-2)] hover:bg-[var(--vp-c-bg-soft)]'"
+        :style="selectedAction === k
+          ? { backgroundColor: ACTION_COLOR[k] + '1F', borderColor: ACTION_COLOR[k] + '66', color: ACTION_COLOR[k] }
+          : {}"
         @click="selectedAction = k"
       >
-        <!-- action 名称（顶部 + colored）-->
-        <div
-          class="text-sm font-bold uppercase tracking-wide"
-          :style="{ color: ACTION_COLOR[k] }"
-        >{{ k }}</div>
-
-        <!-- 数量 + 本地化标签 -->
-        <div class="mt-3 flex items-baseline gap-2">
-          <span class="text-3xl font-bold tabular-nums">{{ counts[k] }}</span>
-          <span class="text-sm text-[var(--vp-c-text-3)]">{{ actionLabel(k) }}</span>
-        </div>
+        <span
+          class="w-2 h-2 rounded-full shrink-0"
+          :style="{ backgroundColor: ACTION_COLOR[k] }"
+        ></span>
+        <!-- 中文环境直接显示中文（"加仓"），英文环境显示大写英文（"ADDED"），不再混排 -->
+        <span
+          class="font-semibold tracking-wide"
+          :class="lang === 'en' ? 'uppercase' : ''"
+        >{{ actionLabel(k) }}</span>
+        <span class="tabular-nums">{{ counts[k] }}</span>
       </button>
     </div>
 
@@ -250,11 +273,11 @@ const emptyText = computed(() => {
         :target="ch.ticker ? '_blank' : undefined"
         :rel="ch.ticker ? 'noopener' : undefined"
         data-change
-        class="change-row no-underline grid grid-cols-[2.5rem_2.25rem_1fr_auto] sm:grid-cols-[2.5rem_2.25rem_1fr_8rem_8rem] items-center gap-3 px-4 py-3 hover:bg-[var(--vp-c-bg-soft)] transition-colors text-[var(--vp-c-text-1)]"
+        class="change-row no-underline grid grid-cols-[2rem_1.75rem_1fr_auto] sm:grid-cols-[2rem_1.75rem_1fr_7rem_7rem] items-center gap-2.5 px-4 py-1.5 hover:bg-[var(--vp-c-bg-soft)] transition-colors text-[var(--vp-c-text-1)]"
       >
         <!-- 序号圆形 badge：背景色 = action 主色 -->
         <span
-          class="flex items-center justify-center w-7 h-7 rounded-full text-sm font-bold tabular-nums text-white"
+          class="flex items-center justify-center w-5 h-5 rounded-full text-xs font-bold tabular-nums text-white"
           :style="{ backgroundColor: ACTION_COLOR[ch.action] }"
         >{{ i + 1 }}</span>
 
@@ -262,17 +285,17 @@ const emptyText = computed(() => {
         <img
           :src="tickerIconUrl(ch.ticker, ch.name)"
           :alt="ch.name"
-          class="w-9 h-9 rounded-full object-cover bg-[var(--vp-c-bg-soft)]"
+          class="w-7 h-7 rounded-full object-cover bg-[var(--vp-c-bg-soft)]"
           loading="lazy"
         />
 
-        <!-- ticker + 弱化公司名 -->
-        <div class="min-w-0">
+        <!-- ticker + 弱化公司名（leading-tight 让两行紧贴）-->
+        <div class="min-w-0 leading-tight">
           <div class="font-bold text-sm truncate tabular-nums">
             <span v-if="ch.ticker" class="text-[#4781ff] mr-1">US</span>
             <span>{{ ch.ticker || ch.name }}</span>
           </div>
-          <div v-if="ch.ticker" class="text-sm text-[var(--vp-c-text-3)] truncate">
+          <div v-if="ch.ticker" class="text-[11px] text-[var(--vp-c-text-3)] truncate mt-0.5">
             {{ ch.name }}
           </div>
         </div>
@@ -305,11 +328,22 @@ const emptyText = computed(() => {
       {{ emptyText }}
     </div>
 
-    <div
-      v-if="totalForSelected > displayedChanges.length"
-      class="mt-3 text-sm text-[var(--vp-c-text-3)] text-right"
-    >
-      {{ footerText(displayedChanges.length, totalForSelected, selectedAction) }}
+    <!-- 展开/收起按钮（仅当此分类下超过 10 项时显示）-->
+    <div v-if="collapsible" class="mt-3">
+      <button
+        type="button"
+        class="changes-toggle text-sm font-semibold cursor-pointer hover:underline focus-visible:underline focus-visible:outline-none"
+        @click="expanded = !expanded"
+      >
+        {{ toggleLabel }}
+        <span aria-hidden="true" class="ml-0.5">{{ expanded ? '↑' : '↓' }}</span>
+      </button>
     </div>
   </section>
 </template>
+
+<style scoped>
+.changes-toggle {
+  color: var(--vp-c-brand-1, #00b8b8);
+}
+</style>

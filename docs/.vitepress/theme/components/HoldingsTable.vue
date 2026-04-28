@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, ref } from 'vue'
 import { useData } from 'vitepress'
 
 interface Holding {
@@ -70,18 +70,29 @@ const sharesUnit = computed(() => {
   return 'shares'
 })
 
-// "Showing top X of Y positions" 三语
-function footerText(shown: number, total: number): string {
-  if (lang.value === 'zh-CN') return `仅显示前 ${shown} 只，共 ${total} 只持仓`
-  if (lang.value === 'zh-HK') return `僅顯示前 ${shown} 隻，共 ${total} 隻持倉`
-  return `Showing top ${shown} of ${total} positions.`
-}
+// 折叠逻辑：超过 20 条默认收起，按钮展开后显示到 topN（默认 50）。
+// Top 3 永远显示，折叠只影响第 4 名以后的 rest 列表长度。
+const COLLAPSED_LIMIT = 20
+const expanded = ref(false)
+const totalAvailable = computed(() => Math.min(props.holdings.length, props.topN))
+const collapsible = computed(() => totalAvailable.value > COLLAPSED_LIMIT)
+const currentLimit = computed(() =>
+  !collapsible.value || expanded.value ? props.topN : COLLAPSED_LIMIT,
+)
 
-const rows = computed(() => props.holdings.slice(0, props.topN))
+const rows = computed(() => props.holdings.slice(0, currentLimit.value))
 
 // 头部 3 大重仓单独突出展示
 const top3 = computed(() => props.holdings.slice(0, 3))
-const rest = computed(() => props.holdings.slice(3, props.topN))
+const rest = computed(() => props.holdings.slice(3, currentLimit.value))
+
+// 展开/收起按钮文案
+const toggleLabel = computed(() => {
+  const total = totalAvailable.value
+  if (lang.value === 'zh-CN') return expanded.value ? '收起' : `展开全部 ${total} 只`
+  if (lang.value === 'zh-HK') return expanded.value ? '收起' : `展開全部 ${total} 隻`
+  return expanded.value ? 'Show less' : `Show all ${total}`
+})
 
 // 全部持仓的总市值（用于"占总仓位百分比"显示一致性校验）
 const totalShown = computed(() =>
@@ -253,13 +264,25 @@ function restCircleStyle(pct: string): { backgroundColor: string } {
       </component>
     </div>
 
-    <div v-if="holdings.length > rows.length" class="mt-3 text-sm text-[var(--vp-c-text-3)] text-right">
-      {{ footerText(rows.length, holdings.length) }}
+    <!-- 展开/收起按钮（仅当超过折叠阈值时显示）-->
+    <div v-if="collapsible" class="mt-3">
+      <button
+        type="button"
+        class="holdings-toggle text-sm font-semibold cursor-pointer hover:underline focus-visible:underline focus-visible:outline-none"
+        @click="expanded = !expanded"
+      >
+        {{ toggleLabel }}
+        <span aria-hidden="true" class="ml-0.5">{{ expanded ? '↑' : '↓' }}</span>
+      </button>
     </div>
   </section>
 </template>
 
 <style scoped>
+.holdings-toggle {
+  color: var(--vp-c-brand-1, #00b8b8);
+}
+
 .line-clamp-2 {
   display: -webkit-box;
   -webkit-line-clamp: 2;

@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001103804-26-000002",
+  "cik": "0001103804",
+  "filing_date": "2026-02-17",
+  "firm": "VIKING GLOBAL INVESTORS LP",
+  "holdings": [
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 3217642,
+      "value_usd": 1556116024,
+      "weight_pct": "4.13",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "693475105",
+      "name": "PNC FINL SVCS GROUP INC",
+      "share_type": "SH",
+      "shares": 7287068,
+      "value_usd": 1521029704,
+      "weight_pct": "4.04",
+      "ticker": null
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "share_type": "SH",
+      "shares": 4914896,
+      "value_usd": 1493587745,
+      "weight_pct": "3.96",
+      "ticker": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "share_type": "SH",
+      "shares": 3984205,
+      "value_usd": 1397300536,
+      "weight_pct": "3.71",
+      "ticker": "V"
+    },
+    {
+      "cusip": "808513105",
+      "name": "SCHWAB CHARLES CORP",
+      "share_type": "SH",
+      "shares": 13872905,
+      "value_usd": 1386041939,
+      "weight_pct": "3.68",
+      "ticker": "SCHW"
+    },
+    {
+      "cusip": "254687106",
+      "name": "DISNEY WALT CO",
+      "share_type": "SH",
+      "shares": 11193504,
+      "value_usd": 1273484950,
+      "weight_pct": "3.38",
+      "ticker": null
+    },
+    {
+      "cusip": "009158106",
+      "name": "AIR PRODS & CHEMS INC",
+      "share_type": "SH",
+      "shares": 4782534,
+      "value_usd": 1181381549,
+      "weight_pct": "3.14",
+      "ticker": null
+    },
+    {
+      "cusip": "580135101",
+      "name": "MCDONALDS CORP",
+      "share_type": "SH",
+      "shares": 3619215,
+      "value_usd": 1106140680,
+      "weight_pct": "2.94",
+      "ticker": "MCD"
+    },
+    {
+      "cusip": "10806X102",
+      "name": "BRIDGEBIO PHARMA INC",
+      "share_type": "SH",
+      "shares": 14393934,
+      "value_usd": 1100992012,
+      "weight_pct": "2.92",
+      "ticker": "BBIO"
+    },
+    {
+      "cusip": "34959J108",
+      "name": "FORTIVE CORP",
+      "share_type": "SH",
+      "shares": 19228265,
+      "value_usd": 1061592511,
+      "weight_pct": "2.82",
+      "ticker": "FTV"
+    },
+    {
+      "cusip": "824348106",
+      "name": "SHERWIN WILLIAMS CO",
+      "share_type": "SH",
+      "shares": 3172308,
+      "value_usd": 1027922961,
+      "weight_pct": "2.73",
+      "ticker": "SHW"
+    },
+    {
+      "cusip": "097023105",
+      "name": "BOEING CO",
+      "share_type": "SH",
+      "shares": 3953087,
+      "value_usd": 858294249,
+      "weight_pct": "2.28",
+      "ticker": "BA"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 2666272,
+      "value_usd": 834543136,
+      "weight_pct": "2.21",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "007903107",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "share_type": "SH",
+      "shares": 3742191,
+      "value_usd": 801427625,
+      "weight_pct": "2.13",
+      "ticker": "AMD"
+    },
+    {
+      "cusip": "45866F104",
+      "name": "INTERCONTINENTAL EXCHANGE IN",
+      "share_type": "SH",
+      "shares": 4803197,
+      "value_usd": 777925786,
+      "weight_pct": "2.06",
+      "ticker": null
+    },
+    {
+      "cusip": "88160R101",
+      "name": "TESLA INC",
+      "share_type": "SH",
+      "shares": 1699741,
+      "value_usd": 764407523,
+      "weight_pct": "2.03",
+      "ticker": "TSLA"
+    },
+    {
+      "cusip": "872590104",
+      "name": "T-MOBILE US INC",
+      "share_type": "SH",
+      "shares": 3754218,
+      "value_usd": 762256423,
+      "weight_pct": "2.02",
+      "ticker": "TMUS"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 3126816,
+      "value_usd": 721731669,
+      "weight_pct": "1.92",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "14040H105",
+      "name": "CAPITAL ONE FINL CORP",
+      "share_type": "SH",
+      "shares": 2952317,
+      "value_usd": 715523548,
+      "weight_pct": "1.90",
+      "ticker": "COF"
+    },
+    {
+      "cusip": "G51502105",
+      "name": "JOHNSON CTLS INTL PLC",
+      "share_type": "SH",
+      "shares": 5918707,
+      "value_usd": 708765163,
+      "weight_pct": "1.88",
+      "ticker": null
+    },
+    {
+      "cusip": "26142V105",
+      "name": "DRAFTKINGS INC NEW",
+      "share_type": "SH",
+      "shares": 19119912,
+      "value_usd": 658872168,
+      "weight_pct": "1.75",
+      "ticker": "DKNG"
+    },
+    {
+      "cusip": "46625H100",
+      "name": "JPMORGAN CHASE & CO.",
+      "share_type": "SH",
+      "shares": 1905982,
+      "value_usd": 614145520,
+      "weight_pct": "1.63",
+      "ticker": "JPM"
+    },
+    {
+      "cusip": "778296103",
+      "name": "ROSS STORES INC",
+      "share_type": "SH",
+      "shares": 3167479,
+      "value_usd": 570589667,
+      "weight_pct": "1.51",
+      "ticker": "ROST"
+    },
+    {
+      "cusip": "37045V100",
+      "name": "GENERAL MTRS CO",
+      "share_type": "SH",
+      "shares": 6806095,
+      "value_usd": 553471645,
+      "weight_pct": "1.47",
+      "ticker": null
+    },
+    {
+      "cusip": "59522J103",
+      "name": "MID-AMER APT CMNTYS INC",
+      "share_type": "SH",
+      "shares": 3880048,
+      "value_usd": 538977468,
+      "weight_pct": "1.43",
+      "ticker": null
+    },
+    {
+      "cusip": "133131102",
+      "name": "CAMDEN PPTY TR",
+      "share_type": "SH",
+      "shares": 4764495,
+      "value_usd": 524475610,
+      "weight_pct": "1.39",
+      "ticker": null
+    },
+    {
+      "cusip": "253393102",
+      "name": "DICKS SPORTING GOODS INC",
+      "share_type": "SH",
+      "shares": 2572969,
+      "value_usd": 509370673,
+      "weight_pct": "1.35",
+      "ticker": null
+    },
+    {
+      "cusip": "15101Q207",
+      "name": "CELESTICA INC",
+      "share_type": "SH",
+      "shares": 1699236,
+      "value_usd": 502311154,
+      "weight_pct": "1.33",
+      "ticker": "CLS"
+    },
+    {
+      "cusip": "126408103",
+      "name": "CSX CORP",
+      "share_type": "SH",
+      "shares": 13817539,
+      "value_usd": 500885789,
+      "weight_pct": "1.33",
+      "ticker": "CSX"
+    },
+    {
+      "cusip": "00650F109",
+      "name": "ADAPTIVE BIOTECHNOLOGIES COR",
+      "share_type": "SH",
+      "shares": 29993708,
+      "value_usd": 487097818,
+      "weight_pct": "1.29",
+      "ticker": null
+    },
+    {
+      "cusip": "81141R100",
+      "name": "SEA LTD",
+      "share_type": "SH",
+      "shares": 3671545,
+      "value_usd": 468378996,
+      "weight_pct": "1.24",
+      "ticker": "SE"
+    },
+    {
+      "cusip": "40412C101",
+      "name": "HCA HEALTHCARE INC",
+      "share_type": "SH",
+      "shares": 999180,
+      "value_usd": 466477175,
+      "weight_pct": "1.24",
+      "ticker": "HCA"
+    },
+    {
+      "cusip": "883556102",
+      "name": "THERMO FISHER SCIENTIFIC INC",
+      "share_type": "SH",
+      "shares": 793187,
+      "value_usd": 459612207,
+      "weight_pct": "1.22",
+      "ticker": "TMO"
+    },
+    {
+      "cusip": "758750103",
+      "name": "REGAL REXNORD CORPORATION",
+      "share_type": "SH",
+      "shares": 3223940,
+      "value_usd": 452383261,
+      "weight_pct": "1.20",
+      "ticker": "RRX"
+    },
+    {
+      "cusip": "146869102",
+      "name": "CARVANA CO",
+      "share_type": "SH",
+      "shares": 1061533,
+      "value_usd": 447988157,
+      "weight_pct": "1.19",
+      "ticker": "CVNA"
+    },
+    {
+      "cusip": "16679L109",
+      "name": "CHEWY INC",
+      "share_type": "SH",
+      "shares": 13536645,
+      "value_usd": 447386117,
+      "weight_pct": "1.19",
+      "ticker": "CHWY"
+    },
+    {
+      "cusip": "00187Y100",
+      "name": "API GROUP CORP",
+      "share_type": "SH",
+      "shares": 11537518,
+      "value_usd": 441425439,
+      "weight_pct": "1.17",
+      "ticker": "APG"
+    },
+    {
+      "cusip": "N82405106",
+      "name": "STELLANTIS N.V",
+      "share_type": "SH",
+      "shares": 39062551,
+      "value_usd": 434319598,
+      "weight_pct": "1.15",
+      "ticker": "STLA"
+    },
+    {
+      "cusip": "143658300",
+      "name": "CARNIVAL CORP",
+      "share_type": "SH",
+      "shares": 14061827,
+      "value_usd": 429448197,
+      "weight_pct": "1.14",
+      "ticker": "CCL"
+    },
+    {
+      "cusip": "H42097107",
+      "name": "UBS GROUP AG",
+      "share_type": "SH",
+      "shares": 9128817,
+      "value_usd": 425957677,
+      "weight_pct": "1.13",
+      "ticker": "UBS"
+    },
+    {
+      "cusip": "91324P102",
+      "name": "UNITEDHEALTH GROUP INC",
+      "share_type": "SH",
+      "shares": 1197273,
+      "value_usd": 395231790,
+      "weight_pct": "1.05",
+      "ticker": "UNH"
+    },
+    {
+      "cusip": "09061G101",
+      "name": "BIOMARIN PHARMACEUTICAL INC",
+      "share_type": "SH",
+      "shares": 6036936,
+      "value_usd": 358775106,
+      "weight_pct": "0.95",
+      "ticker": "BMRN"
+    },
+    {
+      "cusip": "78709Y105",
+      "name": "SAIA INC",
+      "share_type": "SH",
+      "shares": 1088582,
+      "value_usd": 355443795,
+      "weight_pct": "0.94",
+      "ticker": "SAIA"
+    },
+    {
+      "cusip": "00510N102",
+      "name": "TIC SOLUTIONS INC",
+      "share_type": "SH",
+      "shares": 34360000,
+      "value_usd": 347379600,
+      "weight_pct": "0.92",
+      "ticker": "TIC"
+    },
+    {
+      "cusip": "H1467J104",
+      "name": "CHUBB LIMITED",
+      "share_type": "SH",
+      "shares": 1013839,
+      "value_usd": 316439429,
+      "weight_pct": "0.84",
+      "ticker": "CB"
+    },
+    {
+      "cusip": "743315103",
+      "name": "PROGRESSIVE CORP",
+      "share_type": "SH",
+      "shares": 1331538,
+      "value_usd": 303217833,
+      "weight_pct": "0.80",
+      "ticker": "PGR"
+    },
+    {
+      "cusip": "526107107",
+      "name": "LENNOX INTL INC",
+      "share_type": "SH",
+      "shares": 621311,
+      "value_usd": 301696195,
+      "weight_pct": "0.80",
+      "ticker": "LII"
+    },
+    {
+      "cusip": "892672106",
+      "name": "TRADEWEB MKTS INC",
+      "share_type": "SH",
+      "shares": 2768659,
+      "value_usd": 297741589,
+      "weight_pct": "0.79",
+      "ticker": null
+    },
+    {
+      "cusip": "58507V107",
+      "name": "MEDLINE INC",
+      "share_type": "SH",
+      "shares": 6959157,
+      "value_usd": 292284594,
+      "weight_pct": "0.78",
+      "ticker": "MDLN"
+    },
+    {
+      "cusip": "G0403H108",
+      "name": "AON PLC",
+      "share_type": "SH",
+      "shares": 783650,
+      "value_usd": 276534412,
+      "weight_pct": "0.73",
+      "ticker": "AON"
+    }
+  ],
+  "investor": "VIKING GLOBAL INVESTORS LP",
+  "period": "2025-12-31",
+  "total_holdings": 76,
+  "total_value_usd": 37677848898
+}

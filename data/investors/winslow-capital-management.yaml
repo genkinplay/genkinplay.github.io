@@ -1,0 +1,30 @@
+slug: winslow-capital-management
+display_name:
+  en: Winslow Capital Management, LLC
+  zh-CN: 温斯洛资本
+  zh-HK: 溫斯洛資本
+tagline:
+  en: SEC 13F filer · AUM $29.80B
+  zh-CN: SEC 13F 机构 · 管理资产 $29.80B
+  zh-HK: SEC 13F 機構 · 管理資產 $29.80B
+role:
+  en: 'Institutional investor (rank #37, CIK 0000900973)'
+  zh-CN: '机构投资者（排名 #37，CIK 0000900973）'
+  zh-HK: '機構投資者（排名 #37，CIK 0000900973）'
+born: 0
+portrait: >-
+  https://api.dicebear.com/7.x/initials/svg?seed=Winslow%20Capital%20Management%2C%20LLC&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0000900973'
+holdings_source: 13f
+featured: false
+rank: 37
+aum_usd: 29800000000
+bio:
+  en: >-
+    Winslow Capital Management, LLC is an institutional investor managing approximately $29.80B in disclosed U.S. equity
+    holdings as of 2025-12-31, ranking #37 among SEC 13F filers.
+  zh-CN: '温斯洛资本 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $29.80B，在 SEC 13F 机构中排名 #37。'
+  zh-HK: '溫斯洛資本 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $29.80B，在 SEC 13F 機構中排名 #37。'
+philosophy: []
+quotes: []
+milestones: []

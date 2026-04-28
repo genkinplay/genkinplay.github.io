@@ -1,0 +1,30 @@
+slug: hotchkis-wiley-capital-management
+display_name:
+  en: HOTCHKIS & WILEY CAPITAL MANAGEMENT LLC
+  zh-CN: 霍奇基斯·威利资本
+  zh-HK: 霍奇基斯·威利資本
+tagline:
+  en: SEC 13F filer · AUM $33.48B
+  zh-CN: SEC 13F 机构 · 管理资产 $33.48B
+  zh-HK: SEC 13F 機構 · 管理資產 $33.48B
+role:
+  en: 'Institutional investor (rank #31, CIK 0001164833)'
+  zh-CN: '机构投资者（排名 #31，CIK 0001164833）'
+  zh-HK: '機構投資者（排名 #31，CIK 0001164833）'
+born: 0
+portrait: >-
+  https://api.dicebear.com/7.x/initials/svg?seed=HOTCHKIS%20%26%20WILEY%20CAPITAL%20MANAGEMENT%20LLC&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001164833'
+holdings_source: 13f
+featured: false
+rank: 31
+aum_usd: 33480000000
+bio:
+  en: >-
+    HOTCHKIS & WILEY CAPITAL MANAGEMENT LLC is an institutional investor managing approximately $33.48B in disclosed
+    U.S. equity holdings as of 2025-12-31, ranking #31 among SEC 13F filers.
+  zh-CN: '霍奇基斯·威利资本 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $33.48B，在 SEC 13F 机构中排名 #31。'
+  zh-HK: '霍奇基斯·威利資本 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $33.48B，在 SEC 13F 機構中排名 #31。'
+philosophy: []
+quotes: []
+milestones: []

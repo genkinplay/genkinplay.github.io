@@ -37,7 +37,10 @@ export interface Investor {
   portrait: string
   cik: string
   holdings_source: HoldingsSource
-  skill_file: string
+  /** 编辑精选投资人有手工整理的 .skill 文件可下载；批量生成的机构默认没有 */
+  skill_file?: string
+  /** false 表示批量生成、未由编辑团队精选 —— 首页只展示 featured !== false 的人物 */
+  featured?: boolean
   bio: LocalizedString
   philosophy: PhilosophyItem[]
   quotes: QuoteItem[]
@@ -67,7 +70,8 @@ export function validateInvestor(inv: Investor): ValidationResult {
   if (!inv.display_name?.en) errors.push('display_name.en is required')
   if (!inv.display_name?.['zh-CN']) errors.push('display_name.zh-CN is required')
   if (!inv.display_name?.['zh-HK']) errors.push('display_name.zh-HK is required')
-  if (!inv.skill_file) errors.push('skill_file is required')
+  // skill_file 仅 featured 投资人需要 —— 批量生成的机构没有手工整理的 skill
+  if (inv.featured !== false && !inv.skill_file) errors.push('skill_file is required for featured investors')
 
   if (inv.holdings_source === '13f') {
     if (!inv.cik) errors.push('cik is required when holdings_source=13f')

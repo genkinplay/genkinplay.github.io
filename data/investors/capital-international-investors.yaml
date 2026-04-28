@@ -1,0 +1,30 @@
+slug: capital-international-investors
+display_name:
+  en: Capital International Investors
+  zh-CN: 资本集团国际投资者
+  zh-HK: 資本集團國際投資者
+tagline:
+  en: SEC 13F filer · AUM $637.97B
+  zh-CN: SEC 13F 机构 · 管理资产 $637.97B
+  zh-HK: SEC 13F 機構 · 管理資產 $637.97B
+role:
+  en: 'Institutional investor (rank #1, CIK 0001562230)'
+  zh-CN: '机构投资者（排名 #1，CIK 0001562230）'
+  zh-HK: '機構投資者（排名 #1，CIK 0001562230）'
+born: 0
+portrait: >-
+  https://api.dicebear.com/7.x/initials/svg?seed=Capital%20International%20Investors&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001562230'
+holdings_source: 13f
+featured: false
+rank: 1
+aum_usd: 637970000000
+bio:
+  en: >-
+    Capital International Investors is an institutional investor managing approximately $637.97B in disclosed U.S.
+    equity holdings as of 2025-12-31, ranking #1 among SEC 13F filers.
+  zh-CN: '资本集团国际投资者 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $637.97B，在 SEC 13F 机构中排名 #1。'
+  zh-HK: '資本集團國際投資者 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $637.97B，在 SEC 13F 機構中排名 #1。'
+philosophy: []
+quotes: []
+milestones: []

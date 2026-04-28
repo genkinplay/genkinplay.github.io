@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001193125-26-054623",
+  "cik": "0001393818",
+  "filing_date": "2026-02-17",
+  "firm": "Blackstone Inc.",
+  "holdings": [
+    {
+      "cusip": "16411Q101",
+      "name": "CHENIERE ENERGY PARTNERS LP",
+      "share_type": "SH",
+      "shares": 102346331,
+      "value_usd": 5473481782,
+      "weight_pct": "21.62",
+      "ticker": null
+    },
+    {
+      "cusip": "21871X109",
+      "name": "COREBRIDGE FINL INC",
+      "share_type": "SH",
+      "shares": 61962123,
+      "value_usd": 1869397251,
+      "weight_pct": "7.39",
+      "ticker": "CRBG"
+    },
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF TR",
+      "share_type": "SH",
+      "shares": 2648110,
+      "value_usd": 1805799171,
+      "weight_pct": "7.13",
+      "ticker": null
+    },
+    {
+      "cusip": "337932107",
+      "name": "FIRSTENERGY CORP",
+      "share_type": "SH",
+      "shares": 28832099,
+      "value_usd": 1290813072,
+      "weight_pct": "5.10",
+      "ticker": "FE"
+    },
+    {
+      "cusip": "52476L109",
+      "name": "LEGENCE CORP",
+      "share_type": "SH",
+      "shares": 25821570,
+      "value_usd": 1111360373,
+      "weight_pct": "4.39",
+      "ticker": "LGN"
+    },
+    {
+      "cusip": "969457100",
+      "name": "WILLIAMS COS INC",
+      "share_type": "SH",
+      "shares": 17647639,
+      "value_usd": 1060799580,
+      "weight_pct": "4.19",
+      "ticker": null
+    },
+    {
+      "cusip": "26884L109",
+      "name": "EQT CORP",
+      "share_type": "SH",
+      "shares": 18431631,
+      "value_usd": 987935421,
+      "weight_pct": "3.90",
+      "ticker": "EQT"
+    },
+    {
+      "cusip": "55336V100",
+      "name": "MPLX LP",
+      "share_type": "SH",
+      "shares": 15705485,
+      "value_usd": 838201734,
+      "weight_pct": "3.31",
+      "ticker": "MPLX"
+    },
+    {
+      "cusip": "16411R208",
+      "name": "CHENIERE ENERGY INC",
+      "share_type": "SH",
+      "shares": 3889928,
+      "value_usd": 756163104,
+      "weight_pct": "2.99",
+      "ticker": "LNG"
+    },
+    {
+      "cusip": "29250N105",
+      "name": "ENBRIDGE INC",
+      "share_type": "SH",
+      "shares": 14841870,
+      "value_usd": 709886642,
+      "weight_pct": "2.80",
+      "ticker": "ENB"
+    },
+    {
+      "cusip": "87612G101",
+      "name": "TARGA RES CORP",
+      "share_type": "SH",
+      "shares": 3752528,
+      "value_usd": 692341416,
+      "weight_pct": "2.74",
+      "ticker": null
+    },
+    {
+      "cusip": "293792107",
+      "name": "ENTERPRISE PRODS PARTNERS L",
+      "share_type": "SH",
+      "shares": 19255355,
+      "value_usd": 617326681,
+      "weight_pct": "2.44",
+      "ticker": null
+    },
+    {
+      "cusip": "49456B101",
+      "name": "KINDER MORGAN INC DEL",
+      "share_type": "SH",
+      "shares": 21373863,
+      "value_usd": 587567494,
+      "weight_pct": "2.32",
+      "ticker": null
+    },
+    {
+      "cusip": "464287655",
+      "name": "ISHARES TR",
+      "share_type": "SH",
+      "shares": 1967601,
+      "value_usd": 484344662,
+      "weight_pct": "1.91",
+      "ticker": null
+    },
+    {
+      "cusip": "69349H107",
+      "name": "TXNM ENERGY INC",
+      "share_type": "SH",
+      "shares": 8000000,
+      "value_usd": 471040000,
+      "weight_pct": "1.86",
+      "ticker": "TXNM"
+    },
+    {
+      "cusip": "958669103",
+      "name": "WESTERN MIDSTREAM PARTNERS L",
+      "share_type": "SH",
+      "shares": 11092895,
+      "value_usd": 438169353,
+      "weight_pct": "1.73",
+      "ticker": null
+    },
+    {
+      "cusip": "02215L209",
+      "name": "KINETIK HOLDINGS INC",
+      "share_type": "SH",
+      "shares": 11914273,
+      "value_usd": 429509542,
+      "weight_pct": "1.70",
+      "ticker": "KNTK"
+    },
+    {
+      "cusip": "29273V100",
+      "name": "ENERGY TRANSFER L P",
+      "share_type": "SH",
+      "shares": 25775241,
+      "value_usd": 425033724,
+      "weight_pct": "1.68",
+      "ticker": null
+    },
+    {
+      "cusip": "46090E103",
+      "name": "INVESCO QQQ TR",
+      "share_type": "SH",
+      "shares": 500000,
+      "value_usd": 307155000,
+      "weight_pct": "1.21",
+      "ticker": null
+    },
+    {
+      "cusip": "23345M107",
+      "name": "DT MIDSTREAM INC",
+      "share_type": "SH",
+      "shares": 2230647,
+      "value_usd": 266963833,
+      "weight_pct": "1.05",
+      "ticker": "DTM"
+    },
+    {
+      "cusip": "682680103",
+      "name": "ONEOK INC NEW",
+      "share_type": "SH",
+      "shares": 3524100,
+      "value_usd": 259021350,
+      "weight_pct": "1.02",
+      "ticker": "OKE"
+    },
+    {
+      "cusip": "53947R105",
+      "name": "LOAR HOLDINGS INC",
+      "share_type": "SH",
+      "shares": 3548506,
+      "value_usd": 241298408,
+      "weight_pct": "0.95",
+      "ticker": "LOAR"
+    },
+    {
+      "cusip": "726503105",
+      "name": "PLAINS ALL AMERN PIPELINE L",
+      "share_type": "SH",
+      "shares": 13292576,
+      "value_usd": 238734665,
+      "weight_pct": "0.94",
+      "ticker": null
+    },
+    {
+      "cusip": "64361Q101",
+      "name": "VIPER ENERGY INC",
+      "share_type": "SH",
+      "shares": 5000000,
+      "value_usd": 193150000,
+      "weight_pct": "0.76",
+      "ticker": "VNOM"
+    },
+    {
+      "cusip": "09257W100",
+      "name": "BLACKSTONE MTG TR INC",
+      "share_type": "SH",
+      "shares": 9283323,
+      "value_usd": 177589969,
+      "weight_pct": "0.70",
+      "ticker": null
+    },
+    {
+      "cusip": "703481101",
+      "name": "PATTERSON-UTI ENERGY INC",
+      "share_type": "SH",
+      "shares": 28061526,
+      "value_usd": 171455924,
+      "weight_pct": "0.68",
+      "ticker": "PTEN"
+    },
+    {
+      "cusip": "12047B105",
+      "name": "BUMBLE INC",
+      "share_type": "SH",
+      "shares": 37387500,
+      "value_usd": 133473375,
+      "weight_pct": "0.53",
+      "ticker": "BMBL"
+    },
+    {
+      "cusip": "86765K109",
+      "name": "SUNOCO LP/SUNOCO FIN CORP",
+      "share_type": "SH",
+      "shares": 2434594,
+      "value_usd": 127597072,
+      "weight_pct": "0.50",
+      "ticker": null
+    },
+    {
+      "cusip": "428103105",
+      "name": "HESS MIDSTREAM LP",
+      "share_type": "SH",
+      "shares": 3647075,
+      "value_usd": 125824088,
+      "weight_pct": "0.50",
+      "ticker": "HESM"
+    },
+    {
+      "cusip": "87807B107",
+      "name": "TC ENERGY CORP",
+      "share_type": "SH",
+      "shares": 2251984,
+      "value_usd": 123881640,
+      "weight_pct": "0.49",
+      "ticker": "TRP"
+    },
+    {
+      "cusip": "87652V109",
+      "name": "TASKUS INC",
+      "share_type": "SH",
+      "shares": 10094674,
+      "value_usd": 119016206,
+      "weight_pct": "0.47",
+      "ticker": "TASK"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 507780,
+      "value_usd": 117205780,
+      "weight_pct": "0.46",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 215459,
+      "value_usd": 104200282,
+      "weight_pct": "0.41",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "185123106",
+      "name": "CLEARWATER ANALYTICS HLDGS I",
+      "share_type": "SH",
+      "shares": 4067360,
+      "value_usd": 98104723,
+      "weight_pct": "0.39",
+      "ticker": null
+    },
+    {
+      "cusip": "G6964L206",
+      "name": "PAYSAFE LIMITED",
+      "share_type": "SH",
+      "shares": 10961114,
+      "value_usd": 88675412,
+      "weight_pct": "0.35",
+      "ticker": "PSFE"
+    },
+    {
+      "cusip": "90138A103",
+      "name": "VNET GROUP INC",
+      "share_type": "SH",
+      "shares": 10402130,
+      "value_usd": 88002020,
+      "weight_pct": "0.35",
+      "ticker": "VNET"
+    },
+    {
+      "cusip": "09261X102",
+      "name": "BLACKSTONE SECD LENDING FD",
+      "share_type": "SH",
+      "shares": 3206530,
+      "value_usd": 84427935,
+      "weight_pct": "0.33",
+      "ticker": null
+    },
+    {
+      "cusip": "151290889",
+      "name": "CEMEX SAB DE CV",
+      "share_type": "SH",
+      "shares": 7316901,
+      "value_usd": 84071192,
+      "weight_pct": "0.33",
+      "ticker": "CX"
+    },
+    {
+      "cusip": "86765Q106",
+      "name": "SUNOCOCORP LLC",
+      "share_type": "SH",
+      "shares": 1634855,
+      "value_usd": 80565654,
+      "weight_pct": "0.32",
+      "ticker": "SUNC"
+    },
+    {
+      "cusip": "576323109",
+      "name": "MASTEC INC",
+      "share_type": "SH",
+      "shares": 363924,
+      "value_usd": 79106160,
+      "weight_pct": "0.31",
+      "ticker": "MTZ"
+    },
+    {
+      "cusip": "867892101",
+      "name": "SUNSTONE HOTEL INVS INC NEW",
+      "share_type": "SH",
+      "shares": 8645000,
+      "value_usd": 77286300,
+      "weight_pct": "0.31",
+      "ticker": null
+    },
+    {
+      "cusip": "G3643J108",
+      "name": "FLUTTER ENTMT PLC",
+      "share_type": "SH",
+      "shares": 335000,
+      "value_usd": 72038400,
+      "weight_pct": "0.28",
+      "ticker": null
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "share_type": "SH",
+      "shares": 198293,
+      "value_usd": 69543338,
+      "weight_pct": "0.27",
+      "ticker": "V"
+    },
+    {
+      "cusip": "34959J108",
+      "name": "FORTIVE CORP",
+      "share_type": "SH",
+      "shares": 1170000,
+      "value_usd": 64595700,
+      "weight_pct": "0.26",
+      "ticker": "FTV"
+    },
+    {
+      "cusip": "060505104",
+      "name": "BANK AMERICA CORP",
+      "share_type": "SH",
+      "shares": 1155000,
+      "value_usd": 63525000,
+      "weight_pct": "0.25",
+      "ticker": "BAC"
+    },
+    {
+      "cusip": "G6700G107",
+      "name": "NVENT ELECTRIC PLC",
+      "share_type": "SH",
+      "shares": 610000,
+      "value_usd": 62201700,
+      "weight_pct": "0.25",
+      "ticker": "NVT"
+    },
+    {
+      "cusip": "225655109",
+      "name": "CRESCENT CAP BDC INC",
+      "share_type": "SH",
+      "shares": 4205307,
+      "value_usd": 59084563,
+      "weight_pct": "0.23",
+      "ticker": null
+    },
+    {
+      "cusip": "03945R102",
+      "name": "ARCHER AVIATION INC",
+      "share_type": "SH",
+      "shares": 7812500,
+      "value_usd": 58750000,
+      "weight_pct": "0.23",
+      "ticker": "ACHR"
+    },
+    {
+      "cusip": "14040H105",
+      "name": "CAPITAL ONE FINL CORP",
+      "share_type": "SH",
+      "shares": 214030,
+      "value_usd": 51872311,
+      "weight_pct": "0.20",
+      "ticker": "COF"
+    },
+    {
+      "cusip": "03676B102",
+      "name": "ANTERO MIDSTREAM CORP",
+      "share_type": "SH",
+      "shares": 2797376,
+      "value_usd": 49765319,
+      "weight_pct": "0.20",
+      "ticker": "AM"
+    }
+  ],
+  "investor": "Blackstone Inc.",
+  "period": "2025-12-31",
+  "total_holdings": 241,
+  "total_value_usd": 25311211508
+}

@@ -1,0 +1,29 @@
+slug: ctc
+display_name:
+  en: CTC LLC
+  zh-CN: CTC（芝加哥贸易公司）
+  zh-HK: CTC（芝加哥貿易公司）
+tagline:
+  en: SEC 13F filer · AUM $404.44B
+  zh-CN: SEC 13F 机构 · 管理资产 $404.44B
+  zh-HK: SEC 13F 機構 · 管理資產 $404.44B
+role:
+  en: 'Institutional investor (rank #3, CIK 0001445893)'
+  zh-CN: '机构投资者（排名 #3，CIK 0001445893）'
+  zh-HK: '機構投資者（排名 #3，CIK 0001445893）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=CTC%20LLC&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001445893'
+holdings_source: 13f
+featured: false
+rank: 3
+aum_usd: 404440000000
+bio:
+  en: A circulating tumor cell (CTC) is a cancer cell from a primary tumor that has shed into the blood of the circulatory system, or the lymph of the lymphatic system. The circulatory system is a highly toxic environment for CTCs, and they must make significant adaptations to survive. If CTCs successfully adapt to the physical and biological threats of the circulatory system, they will be carried around the body to other organs where they may leave the circulation. When CTCs exit circulation they become the seeds for the subsequent growth of secondary tumors. This is known as metastasis, which is responsible for most cancer-related deaths.
+  zh-CN: 'CTC（芝加哥贸易公司） 是一家机构投资者，截至 2025-09-30 公开披露的美股持仓约 $404.44B，在 SEC 13F 机构中排名 #3。'
+  zh-HK: 'CTC（芝加哥貿易公司） 是一家機構投資者，截至 2025-09-30 公開披露的美股持倉約 $404.44B，在 SEC 13F 機構中排名 #3。'
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  en: https://en.wikipedia.org/wiki/CTC_clusters

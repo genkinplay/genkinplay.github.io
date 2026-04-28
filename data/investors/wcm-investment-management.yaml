@@ -1,0 +1,30 @@
+slug: wcm-investment-management
+display_name:
+  en: WCM INVESTMENT MANAGEMENT, LLC
+  zh-CN: WCM 投资管理
+  zh-HK: WCM 投資管理
+tagline:
+  en: SEC 13F filer · AUM $48.57B
+  zh-CN: SEC 13F 机构 · 管理资产 $48.57B
+  zh-HK: SEC 13F 機構 · 管理資產 $48.57B
+role:
+  en: 'Institutional investor (rank #18, CIK 0001061186)'
+  zh-CN: '机构投资者（排名 #18，CIK 0001061186）'
+  zh-HK: '機構投資者（排名 #18，CIK 0001061186）'
+born: 0
+portrait: >-
+  https://api.dicebear.com/7.x/initials/svg?seed=WCM%20INVESTMENT%20MANAGEMENT%2C%20LLC&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001061186'
+holdings_source: 13f
+featured: false
+rank: 18
+aum_usd: 48570000000
+bio:
+  en: >-
+    WCM INVESTMENT MANAGEMENT, LLC is an institutional investor managing approximately $48.57B in disclosed U.S. equity
+    holdings as of 2025-12-31, ranking #18 among SEC 13F filers.
+  zh-CN: 'WCM 投资管理 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $48.57B，在 SEC 13F 机构中排名 #18。'
+  zh-HK: 'WCM 投資管理 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $48.57B，在 SEC 13F 機構中排名 #18。'
+philosophy: []
+quotes: []
+milestones: []

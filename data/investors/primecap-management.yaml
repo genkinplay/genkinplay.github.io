@@ -1,0 +1,30 @@
+slug: primecap-management
+display_name:
+  en: PRIMECAP MANAGEMENT CO/CA/
+  zh-CN: 普信资本（PRIMECAP）
+  zh-HK: 普信資本（PRIMECAP）
+tagline:
+  en: SEC 13F filer · AUM $132.11B
+  zh-CN: SEC 13F 机构 · 管理资产 $132.11B
+  zh-HK: SEC 13F 機構 · 管理資產 $132.11B
+role:
+  en: 'Institutional investor (rank #6, CIK 0000763212)'
+  zh-CN: '机构投资者（排名 #6，CIK 0000763212）'
+  zh-HK: '機構投資者（排名 #6，CIK 0000763212）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=PRIMECAP%20MANAGEMENT%20CO%2FCA%2F&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0000763212'
+holdings_source: 13f
+featured: false
+rank: 6
+aum_usd: 132110000000
+bio:
+  en: PRIMECAP Management Company (Primecap) is an American investment management firm based in Pasadena, California. The firm is known for managing US-focused equity portfolios for The Vanguard Group (Vanguard). In 2004, it launched its own mutual funds, the Odyssey Funds. In addition, it also handles separately managed accounts for institutional investors.
+  zh-CN: '普信资本（PRIMECAP） 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $132.11B，在 SEC 13F 机构中排名 #6。'
+  zh-HK: '普信資本（PRIMECAP） 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $132.11B，在 SEC 13F 機構中排名 #6。'
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  en: https://en.wikipedia.org/wiki/PRIMECAP_Management_Company
+  zh: https://zh.wikipedia.org/wiki/Prima_Porta

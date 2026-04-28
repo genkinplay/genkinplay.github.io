@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001666335-26-000002",
+  "cik": "0001666335",
+  "filing_date": "2026-02-13",
+  "firm": "Rokos Capital Management LLP",
+  "holdings": [
+    {
+      "cusip": "46090E103",
+      "name": "INVESCO QQQ TR",
+      "share_type": "SH",
+      "shares": 22072056,
+      "value_usd": 13556767156,
+      "weight_pct": "52.83",
+      "ticker": null
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 6098395,
+      "value_usd": 1908797635,
+      "weight_pct": "7.44",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 5875297,
+      "value_usd": 1095889773,
+      "weight_pct": "4.27",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "464286400",
+      "name": "ISHARES INC",
+      "share_type": "SH",
+      "shares": 27816451,
+      "value_usd": 883867731,
+      "weight_pct": "3.44",
+      "ticker": null
+    },
+    {
+      "cusip": "68389X105",
+      "name": "ORACLE CORP",
+      "share_type": "SH",
+      "shares": 3713600,
+      "value_usd": 723984890,
+      "weight_pct": "2.82",
+      "ticker": "ORCL"
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM INC",
+      "share_type": "SH",
+      "shares": 1529796,
+      "value_usd": 529492992,
+      "weight_pct": "2.06",
+      "ticker": "AVGO"
+    },
+    {
+      "cusip": "007903107",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "share_type": "SH",
+      "shares": 2131877,
+      "value_usd": 456466844,
+      "weight_pct": "1.78",
+      "ticker": "AMD"
+    },
+    {
+      "cusip": "595112103",
+      "name": "MICRON TECHNOLOGY INC",
+      "share_type": "SH",
+      "shares": 1420743,
+      "value_usd": 405487156,
+      "weight_pct": "1.58",
+      "ticker": "MU"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 755375,
+      "value_usd": 365265361,
+      "weight_pct": "1.42",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 1472409,
+      "value_usd": 339861445,
+      "weight_pct": "1.32",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "81369Y605",
+      "name": "SELECT SECTOR SPDR TR",
+      "share_type": "SH",
+      "shares": 4700000,
+      "value_usd": 257395500,
+      "weight_pct": "1.00",
+      "ticker": null
+    },
+    {
+      "cusip": "81369Y209",
+      "name": "SELECT SECTOR SPDR TR",
+      "share_type": "SH",
+      "shares": 1657495,
+      "value_usd": 256588514,
+      "weight_pct": "1.00",
+      "ticker": null
+    },
+    {
+      "cusip": "464287655",
+      "name": "ISHARES TR",
+      "share_type": "SH",
+      "shares": 1000000,
+      "value_usd": 246125000,
+      "weight_pct": "0.96",
+      "ticker": null
+    },
+    {
+      "cusip": "78464A870",
+      "name": "SPDR SERIES TRUST",
+      "share_type": "SH",
+      "shares": 2006960,
+      "value_usd": 244738737,
+      "weight_pct": "0.95",
+      "ticker": null
+    },
+    {
+      "cusip": "931142103",
+      "name": "WALMART INC",
+      "share_type": "SH",
+      "shares": 1860000,
+      "value_usd": 207213300,
+      "weight_pct": "0.81",
+      "ticker": "WMT"
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "share_type": "SH",
+      "shares": 643312,
+      "value_usd": 174932616,
+      "weight_pct": "0.68",
+      "ticker": "AAPL"
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "share_type": "SH",
+      "shares": 231052,
+      "value_usd": 152501252,
+      "weight_pct": "0.59",
+      "ticker": "META"
+    },
+    {
+      "cusip": "81369Y506",
+      "name": "SELECT SECTOR SPDR TR",
+      "share_type": "SH",
+      "shares": 3180000,
+      "value_usd": 142225500,
+      "weight_pct": "0.55",
+      "ticker": null
+    },
+    {
+      "cusip": "35671D857",
+      "name": "FREEPORT-MCMORAN INC",
+      "share_type": "SH",
+      "shares": 2740000,
+      "value_usd": 139150900,
+      "weight_pct": "0.54",
+      "ticker": "FCX"
+    },
+    {
+      "cusip": "617446448",
+      "name": "MORGAN STANLEY",
+      "share_type": "SH",
+      "shares": 753862,
+      "value_usd": 133855737,
+      "weight_pct": "0.52",
+      "ticker": "MS"
+    },
+    {
+      "cusip": "172967424",
+      "name": "CITIGROUP INC",
+      "share_type": "SH",
+      "shares": 1055890,
+      "value_usd": 123195966,
+      "weight_pct": "0.48",
+      "ticker": "C"
+    },
+    {
+      "cusip": "38141G104",
+      "name": "GOLDMAN SACHS GROUP INC",
+      "share_type": "SH",
+      "shares": 128347,
+      "value_usd": 112822790,
+      "weight_pct": "0.44",
+      "ticker": "GS"
+    },
+    {
+      "cusip": "459200101",
+      "name": "INTERNATIONAL BUSINESS MACHS",
+      "share_type": "SH",
+      "shares": 377700,
+      "value_usd": 111884183,
+      "weight_pct": "0.44",
+      "ticker": null
+    },
+    {
+      "cusip": "038222105",
+      "name": "APPLIED MATLS INC",
+      "share_type": "SH",
+      "shares": 402854,
+      "value_usd": 103525421,
+      "weight_pct": "0.40",
+      "ticker": null
+    },
+    {
+      "cusip": "22788C105",
+      "name": "CROWDSTRIKE HLDGS INC",
+      "share_type": "SH",
+      "shares": 216542,
+      "value_usd": 101531130,
+      "weight_pct": "0.40",
+      "ticker": "CRWD"
+    },
+    {
+      "cusip": "165167735",
+      "name": "EXPAND ENERGY CORPORATION",
+      "share_type": "SH",
+      "shares": 862568,
+      "value_usd": 95180066,
+      "weight_pct": "0.37",
+      "ticker": "EXE"
+    },
+    {
+      "cusip": "G7997R103",
+      "name": "SEAGATE TECHNOLOGY HLDNGS PL",
+      "share_type": "SH",
+      "shares": 345495,
+      "value_usd": 95123411,
+      "weight_pct": "0.37",
+      "ticker": null
+    },
+    {
+      "cusip": "26884L109",
+      "name": "EQT CORP",
+      "share_type": "SH",
+      "shares": 1740515,
+      "value_usd": 93300307,
+      "weight_pct": "0.36",
+      "ticker": "EQT"
+    },
+    {
+      "cusip": "958102105",
+      "name": "WESTERN DIGITAL CORP",
+      "share_type": "SH",
+      "shares": 535000,
+      "value_usd": 92161775,
+      "weight_pct": "0.36",
+      "ticker": "WDC"
+    },
+    {
+      "cusip": "15101Q207",
+      "name": "CELESTICA INC",
+      "share_type": "SH",
+      "shares": 285615,
+      "value_usd": 84439219,
+      "weight_pct": "0.33",
+      "ticker": "CLS"
+    },
+    {
+      "cusip": "166764100",
+      "name": "CHEVRON CORP NEW",
+      "share_type": "SH",
+      "shares": 539500,
+      "value_usd": 82219800,
+      "weight_pct": "0.32",
+      "ticker": "CVX"
+    },
+    {
+      "cusip": "69331C108",
+      "name": "PG&E CORP",
+      "share_type": "SH",
+      "shares": 5005307,
+      "value_usd": 80560416,
+      "weight_pct": "0.31",
+      "ticker": "PCG"
+    },
+    {
+      "cusip": "55024U109",
+      "name": "LUMENTUM HLDGS INC",
+      "share_type": "SH",
+      "shares": 200624,
+      "value_usd": 73940978,
+      "weight_pct": "0.29",
+      "ticker": "LITE"
+    },
+    {
+      "cusip": "92840M102",
+      "name": "VISTRA CORP",
+      "share_type": "SH",
+      "shares": 441944,
+      "value_usd": 71309874,
+      "weight_pct": "0.28",
+      "ticker": "VST"
+    },
+    {
+      "cusip": "278768106",
+      "name": "ECHOSTAR CORP",
+      "share_type": "SH",
+      "shares": 647097,
+      "value_usd": 70352386,
+      "weight_pct": "0.27",
+      "ticker": "SATS"
+    },
+    {
+      "cusip": "21873S108",
+      "name": "COREWEAVE INC",
+      "share_type": "SH",
+      "shares": 955468,
+      "value_usd": 68406731,
+      "weight_pct": "0.27",
+      "ticker": "CRWV"
+    },
+    {
+      "cusip": "19247G107",
+      "name": "COHERENT CORP",
+      "share_type": "SH",
+      "shares": 368038,
+      "value_usd": 67879089,
+      "weight_pct": "0.26",
+      "ticker": "COHR"
+    },
+    {
+      "cusip": "573874104",
+      "name": "MARVELL TECHNOLOGY INC",
+      "share_type": "SH",
+      "shares": 773937,
+      "value_usd": 65788515,
+      "weight_pct": "0.26",
+      "ticker": "MRVL"
+    },
+    {
+      "cusip": "01609W102",
+      "name": "ALIBABA GROUP HLDG LTD",
+      "share_type": "SH",
+      "shares": 442758,
+      "value_usd": 64890612,
+      "weight_pct": "0.25",
+      "ticker": null
+    },
+    {
+      "cusip": "060505104",
+      "name": "BANK AMERICA CORP",
+      "share_type": "SH",
+      "shares": 1165800,
+      "value_usd": 64113172,
+      "weight_pct": "0.25",
+      "ticker": "BAC"
+    },
+    {
+      "cusip": "36828A101",
+      "name": "GE VERNOVA INC",
+      "share_type": "SH",
+      "shares": 91171,
+      "value_usd": 59581160,
+      "weight_pct": "0.23",
+      "ticker": "GEV"
+    },
+    {
+      "cusip": "H2927K103",
+      "name": "AMRIZE LTD",
+      "share_type": "SH",
+      "shares": 1082175,
+      "value_usd": 58529435,
+      "weight_pct": "0.23",
+      "ticker": "AMRZ"
+    },
+    {
+      "cusip": "632307104",
+      "name": "NATERA INC",
+      "share_type": "SH",
+      "shares": 242902,
+      "value_usd": 55633060,
+      "weight_pct": "0.22",
+      "ticker": "NTRA"
+    },
+    {
+      "cusip": "60937P106",
+      "name": "MONGODB INC",
+      "share_type": "SH",
+      "shares": 131234,
+      "value_usd": 55103188,
+      "weight_pct": "0.21",
+      "ticker": "MDB"
+    },
+    {
+      "cusip": "23804L103",
+      "name": "DATADOG INC",
+      "share_type": "SH",
+      "shares": 391875,
+      "value_usd": 53296959,
+      "weight_pct": "0.21",
+      "ticker": "DDOG"
+    },
+    {
+      "cusip": "171779309",
+      "name": "CIENA CORP",
+      "share_type": "SH",
+      "shares": 210676,
+      "value_usd": 49243408,
+      "weight_pct": "0.19",
+      "ticker": "CIEN"
+    },
+    {
+      "cusip": "097023105",
+      "name": "BOEING CO",
+      "share_type": "SH",
+      "shares": 226654,
+      "value_usd": 49205450,
+      "weight_pct": "0.19",
+      "ticker": "BA"
+    },
+    {
+      "cusip": "04626A103",
+      "name": "ASTERA LABS INC",
+      "share_type": "SH",
+      "shares": 273694,
+      "value_usd": 45548155,
+      "weight_pct": "0.18",
+      "ticker": "ALAB"
+    },
+    {
+      "cusip": "G25457105",
+      "name": "CREDO TECHNOLOGY GROUP HOLDI",
+      "share_type": "SH",
+      "shares": 305631,
+      "value_usd": 43978773,
+      "weight_pct": "0.17",
+      "ticker": null
+    },
+    {
+      "cusip": "58733R102",
+      "name": "MERCADOLIBRE INC",
+      "share_type": "SH",
+      "shares": 21684,
+      "value_usd": 43678732,
+      "weight_pct": "0.17",
+      "ticker": "MELI"
+    }
+  ],
+  "investor": "Rokos Capital Management LLP",
+  "period": "2025-12-31",
+  "total_holdings": 109,
+  "total_value_usd": 25660594992
+}

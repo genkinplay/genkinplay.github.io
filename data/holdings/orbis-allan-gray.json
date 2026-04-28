@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001663865-26-000002",
+  "cik": "0001663865",
+  "filing_date": "2026-02-17",
+  "firm": "Orbis Allan Gray Ltd",
+  "holdings": [
+    {
+      "cusip": "82846H405",
+      "name": "QXO INC",
+      "share_type": "SH",
+      "shares": 85484474,
+      "value_usd": 1648995504,
+      "weight_pct": "6.91",
+      "ticker": "QXO"
+    },
+    {
+      "cusip": "219948106",
+      "name": "CORPAY INC",
+      "share_type": "SH",
+      "shares": 4987968,
+      "value_usd": 1501029210,
+      "weight_pct": "6.29",
+      "ticker": "CPAY"
+    },
+    {
+      "cusip": "91324P102",
+      "name": "UNITEDHEALTH GROUP INC",
+      "share_type": "SH",
+      "shares": 2581182,
+      "value_usd": 852073990,
+      "weight_pct": "3.57",
+      "ticker": "UNH"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 2663789,
+      "value_usd": 833765957,
+      "weight_pct": "3.49",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "G4705A100",
+      "name": "ICON PLC",
+      "share_type": "SH",
+      "shares": 4214661,
+      "value_usd": 767995527,
+      "weight_pct": "3.22",
+      "ticker": "ICLR"
+    },
+    {
+      "cusip": "457669307",
+      "name": "INSMED INC",
+      "share_type": "SH",
+      "shares": 4179957,
+      "value_usd": 727479716,
+      "weight_pct": "3.05",
+      "ticker": "INSM"
+    },
+    {
+      "cusip": "36262G101",
+      "name": "GXO LOGISTICS INCORPORATED",
+      "share_type": "SH",
+      "shares": 13424844,
+      "value_usd": 706683788,
+      "weight_pct": "2.96",
+      "ticker": "GXO"
+    },
+    {
+      "cusip": "116794108",
+      "name": "BRUKER CORP",
+      "share_type": "SH",
+      "shares": 14906730,
+      "value_usd": 702256050,
+      "weight_pct": "2.94",
+      "ticker": "BRKR"
+    },
+    {
+      "cusip": "02043Q107",
+      "name": "ALNYLAM PHARMACEUTICALS INC",
+      "share_type": "SH",
+      "shares": 1618219,
+      "value_usd": 643484786,
+      "weight_pct": "2.70",
+      "ticker": "ALNY"
+    },
+    {
+      "cusip": "651639106",
+      "name": "NEWMONT CORP",
+      "share_type": "SH",
+      "shares": 6322769,
+      "value_usd": 631328485,
+      "weight_pct": "2.65",
+      "ticker": "NEM"
+    },
+    {
+      "cusip": "45841N107",
+      "name": "INTERACTIVE BROKERS GROUP IN",
+      "share_type": "SH",
+      "shares": 9273735,
+      "value_usd": 596393898,
+      "weight_pct": "2.50",
+      "ticker": null
+    },
+    {
+      "cusip": "465562106",
+      "name": "ITAU UNIBANCO HLDG S A",
+      "share_type": "SH",
+      "shares": 81682615,
+      "value_usd": 584847523,
+      "weight_pct": "2.45",
+      "ticker": null
+    },
+    {
+      "cusip": "G8473T100",
+      "name": "STERIS PLC",
+      "share_type": "SH",
+      "shares": 2249511,
+      "value_usd": 570296029,
+      "weight_pct": "2.39",
+      "ticker": "STE"
+    },
+    {
+      "cusip": "G8267P108",
+      "name": "SMURFIT WESTROCK PLC",
+      "share_type": "SH",
+      "shares": 13956868,
+      "value_usd": 539712086,
+      "weight_pct": "2.26",
+      "ticker": "SW"
+    },
+    {
+      "cusip": "110448107",
+      "name": "BRITISH AMERN TOB PLC",
+      "share_type": "SH",
+      "shares": 9300901,
+      "value_usd": 526617014,
+      "weight_pct": "2.21",
+      "ticker": null
+    },
+    {
+      "cusip": "983793100",
+      "name": "XPO INC",
+      "share_type": "SH",
+      "shares": 3652589,
+      "value_usd": 496423371,
+      "weight_pct": "2.08",
+      "ticker": "XPO"
+    },
+    {
+      "cusip": "620076307",
+      "name": "MOTOROLA SOLUTIONS INC",
+      "share_type": "SH",
+      "shares": 1283065,
+      "value_usd": 491824476,
+      "weight_pct": "2.06",
+      "ticker": "MSI"
+    },
+    {
+      "cusip": "64110W102",
+      "name": "NETEASE INC",
+      "share_type": "SH",
+      "shares": 3389449,
+      "value_usd": 466455971,
+      "weight_pct": "1.95",
+      "ticker": "NTES"
+    },
+    {
+      "cusip": "372303206",
+      "name": "GENMAB A/S",
+      "share_type": "SH",
+      "shares": 14418462,
+      "value_usd": 444088629,
+      "weight_pct": "1.86",
+      "ticker": "GMAB"
+    },
+    {
+      "cusip": "74982T103",
+      "name": "RXO INC",
+      "share_type": "SH",
+      "shares": 34677755,
+      "value_usd": 438326823,
+      "weight_pct": "1.84",
+      "ticker": "RXO"
+    },
+    {
+      "cusip": "036752103",
+      "name": "ELEVANCE HEALTH INC FORMERLY",
+      "share_type": "SH",
+      "shares": 1244946,
+      "value_usd": 436415820,
+      "weight_pct": "1.83",
+      "ticker": null
+    },
+    {
+      "cusip": "46266C105",
+      "name": "IQVIA HLDGS INC",
+      "share_type": "SH",
+      "shares": 1901091,
+      "value_usd": 428524922,
+      "weight_pct": "1.80",
+      "ticker": "IQV"
+    },
+    {
+      "cusip": "151290889",
+      "name": "CEMEX SAB DE CV",
+      "share_type": "SH",
+      "shares": 36132733,
+      "value_usd": 415165102,
+      "weight_pct": "1.74",
+      "ticker": "CX"
+    },
+    {
+      "cusip": "254687106",
+      "name": "DISNEY WALT CO",
+      "share_type": "SH",
+      "shares": 3563050,
+      "value_usd": 405368199,
+      "weight_pct": "1.70",
+      "ticker": null
+    },
+    {
+      "cusip": "74006W207",
+      "name": "PRAXIS PRECISION MEDICINES I",
+      "share_type": "SH",
+      "shares": 1255162,
+      "value_usd": 369946448,
+      "weight_pct": "1.55",
+      "ticker": null
+    },
+    {
+      "cusip": "34964C106",
+      "name": "FORTUNE BRANDS INNOVATIONS I",
+      "share_type": "SH",
+      "shares": 7272289,
+      "value_usd": 363759896,
+      "weight_pct": "1.52",
+      "ticker": null
+    },
+    {
+      "cusip": "17243V102",
+      "name": "CINEMARK HLDGS INC",
+      "share_type": "SH",
+      "shares": 15057911,
+      "value_usd": 349945852,
+      "weight_pct": "1.47",
+      "ticker": "CNK"
+    },
+    {
+      "cusip": "81141R100",
+      "name": "SEA LTD",
+      "share_type": "SH",
+      "shares": 2715855,
+      "value_usd": 346461622,
+      "weight_pct": "1.45",
+      "ticker": "SE"
+    },
+    {
+      "cusip": "960413102",
+      "name": "WESTLAKE CORPORATION",
+      "share_type": "SH",
+      "shares": 4386635,
+      "value_usd": 324347792,
+      "weight_pct": "1.36",
+      "ticker": "WLK"
+    },
+    {
+      "cusip": "H17182108",
+      "name": "CRISPR THERAPEUTICS AG",
+      "share_type": "SH",
+      "shares": 5950145,
+      "value_usd": 312025603,
+      "weight_pct": "1.31",
+      "ticker": "CRSP"
+    },
+    {
+      "cusip": "33767E202",
+      "name": "FIRSTSERVICE CORP NEW",
+      "share_type": "SH",
+      "shares": 1984677,
+      "value_usd": 308676813,
+      "weight_pct": "1.29",
+      "ticker": "FSV"
+    },
+    {
+      "cusip": "00130H105",
+      "name": "AES CORP",
+      "share_type": "SH",
+      "shares": 21317334,
+      "value_usd": 305690570,
+      "weight_pct": "1.28",
+      "ticker": "AES"
+    },
+    {
+      "cusip": "351858105",
+      "name": "FRANCO NEV CORP",
+      "share_type": "SH",
+      "shares": 1409189,
+      "value_usd": 292096696,
+      "weight_pct": "1.22",
+      "ticker": null
+    },
+    {
+      "cusip": "06849F108",
+      "name": "BARRICK MNG CORP",
+      "share_type": "SH",
+      "shares": 6682200,
+      "value_usd": 291009810,
+      "weight_pct": "1.22",
+      "ticker": null
+    },
+    {
+      "cusip": "49456B101",
+      "name": "KINDER MORGAN INC DEL",
+      "share_type": "SH",
+      "shares": 10550337,
+      "value_usd": 290028764,
+      "weight_pct": "1.22",
+      "ticker": null
+    },
+    {
+      "cusip": "N97284108",
+      "name": "NEBIUS GROUP N.V.",
+      "share_type": "SH",
+      "shares": 3335358,
+      "value_usd": 279186141,
+      "weight_pct": "1.17",
+      "ticker": "NBIS"
+    },
+    {
+      "cusip": "91912E105",
+      "name": "VALE S A",
+      "share_type": "SH",
+      "shares": 18242181,
+      "value_usd": 237695618,
+      "weight_pct": "1.00",
+      "ticker": "VALE"
+    },
+    {
+      "cusip": "78463V107",
+      "name": "SPDR GOLD TR",
+      "share_type": "SH",
+      "shares": 523786,
+      "value_usd": 207581629,
+      "weight_pct": "0.87",
+      "ticker": null
+    },
+    {
+      "cusip": "92763W103",
+      "name": "VIPSHOP HLDGS LTD",
+      "share_type": "SH",
+      "shares": 10814948,
+      "value_usd": 191316430,
+      "weight_pct": "0.80",
+      "ticker": "VIPS"
+    },
+    {
+      "cusip": "45245E109",
+      "name": "IMAX CORP",
+      "share_type": "SH",
+      "shares": 5151721,
+      "value_usd": 190407608,
+      "weight_pct": "0.80",
+      "ticker": "IMAX"
+    },
+    {
+      "cusip": "783549108",
+      "name": "RYDER SYS INC",
+      "share_type": "SH",
+      "shares": 974620,
+      "value_usd": 186532522,
+      "weight_pct": "0.78",
+      "ticker": null
+    },
+    {
+      "cusip": "26884L109",
+      "name": "EQT CORP",
+      "share_type": "SH",
+      "shares": 3479105,
+      "value_usd": 186480028,
+      "weight_pct": "0.78",
+      "ticker": "EQT"
+    },
+    {
+      "cusip": "G7496G103",
+      "name": "RENAISSANCERE HLDGS LTD",
+      "share_type": "SH",
+      "shares": 634937,
+      "value_usd": 178518887,
+      "weight_pct": "0.75",
+      "ticker": "RNR"
+    },
+    {
+      "cusip": "09857L108",
+      "name": "BOOKING HOLDINGS INC",
+      "share_type": "SH",
+      "shares": 30748,
+      "value_usd": 164665687,
+      "weight_pct": "0.69",
+      "ticker": "BKNG"
+    },
+    {
+      "cusip": "80706P103",
+      "name": "SCHOLAR ROCK HLDG CORP",
+      "share_type": "SH",
+      "shares": 3428929,
+      "value_usd": 151044322,
+      "weight_pct": "0.63",
+      "ticker": null
+    },
+    {
+      "cusip": "25243Q205",
+      "name": "DIAGEO PLC",
+      "share_type": "SH",
+      "shares": 1737346,
+      "value_usd": 149880839,
+      "weight_pct": "0.63",
+      "ticker": "DEO"
+    },
+    {
+      "cusip": "722304102",
+      "name": "PDD HOLDINGS INC",
+      "share_type": "SH",
+      "shares": 1168327,
+      "value_usd": 132476599,
+      "weight_pct": "0.56",
+      "ticker": "PDD"
+    },
+    {
+      "cusip": "704551100",
+      "name": "PEABODY ENERGY CORP",
+      "share_type": "SH",
+      "shares": 4397530,
+      "value_usd": 130606641,
+      "weight_pct": "0.55",
+      "ticker": "BTU"
+    },
+    {
+      "cusip": "962879102",
+      "name": "WHEATON PRECIOUS METALS CORP",
+      "share_type": "SH",
+      "shares": 1023924,
+      "value_usd": 120331548,
+      "weight_pct": "0.50",
+      "ticker": "WPM"
+    },
+    {
+      "cusip": "87157D109",
+      "name": "SYNAPTICS INC",
+      "share_type": "SH",
+      "shares": 1536228,
+      "value_usd": 113711596,
+      "weight_pct": "0.48",
+      "ticker": "SYNA"
+    }
+  ],
+  "investor": "Orbis Allan Gray Ltd",
+  "period": "2025-12-31",
+  "total_holdings": 89,
+  "total_value_usd": 23866116757
+}

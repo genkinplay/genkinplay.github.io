@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001398344-26-003246",
+  "cik": "0000860644",
+  "filing_date": "2026-02-17",
+  "firm": "Aristotle Capital Management, LLC",
+  "holdings": [
+    {
+      "cusip": "701094104",
+      "name": "PARKER-HANNIFIN CORP",
+      "share_type": "SH",
+      "shares": 2714350,
+      "value_usd": 2385867059,
+      "weight_pct": "4.78",
+      "ticker": "PH"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 3522958,
+      "value_usd": 1703800121,
+      "weight_pct": "3.41",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "14040H105",
+      "name": "CAPITAL ONE FINL CORP",
+      "share_type": "SH",
+      "shares": 7010674,
+      "value_usd": 1699122274,
+      "weight_pct": "3.40",
+      "ticker": "COF"
+    },
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 5363900,
+      "value_usd": 1683215127,
+      "weight_pct": "3.37",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "969904101",
+      "name": "WILLIAMS SONOMA INC",
+      "share_type": "SH",
+      "shares": 9131439,
+      "value_usd": 1630783691,
+      "weight_pct": "3.26",
+      "ticker": "WSM"
+    },
+    {
+      "cusip": "22052L104",
+      "name": "CORTEVA INC",
+      "share_type": "SH",
+      "shares": 20145048,
+      "value_usd": 1350325857,
+      "weight_pct": "2.70",
+      "ticker": "CTVA"
+    },
+    {
+      "cusip": "573284106",
+      "name": "MARTIN MARIETTA MATLS INC",
+      "share_type": "SH",
+      "shares": 2050277,
+      "value_usd": 1276677462,
+      "weight_pct": "2.56",
+      "ticker": null
+    },
+    {
+      "cusip": "835699307",
+      "name": "SONY GROUP CORP",
+      "share_type": "SH",
+      "shares": 45090159,
+      "value_usd": 1154309765,
+      "weight_pct": "2.31",
+      "ticker": "SONY"
+    },
+    {
+      "cusip": "03076C106",
+      "name": "AMERIPRISE FINL INC",
+      "share_type": "SH",
+      "shares": 2311930,
+      "value_usd": 1133673484,
+      "weight_pct": "2.27",
+      "ticker": "AMP"
+    },
+    {
+      "cusip": "031162100",
+      "name": "AMGEN INC",
+      "share_type": "SH",
+      "shares": 3292564,
+      "value_usd": 1077711633,
+      "weight_pct": "2.16",
+      "ticker": "AMGN"
+    },
+    {
+      "cusip": "747525103",
+      "name": "QUALCOMM INC",
+      "share_type": "SH",
+      "shares": 6257036,
+      "value_usd": 1070277567,
+      "weight_pct": "2.14",
+      "ticker": "QCOM"
+    },
+    {
+      "cusip": "049560105",
+      "name": "ATMOS ENERGY CORP",
+      "share_type": "SH",
+      "shares": 6370129,
+      "value_usd": 1067836362,
+      "weight_pct": "2.14",
+      "ticker": "ATO"
+    },
+    {
+      "cusip": "902973304",
+      "name": "US BANCORP DEL",
+      "share_type": "SH",
+      "shares": 19663880,
+      "value_usd": 1049267867,
+      "weight_pct": "2.10",
+      "ticker": null
+    },
+    {
+      "cusip": "278865100",
+      "name": "ECOLAB INC",
+      "share_type": "SH",
+      "shares": 3888572,
+      "value_usd": 1020846642,
+      "weight_pct": "2.04",
+      "ticker": "ECL"
+    },
+    {
+      "cusip": "949746101",
+      "name": "WELLS FARGO CO NEW",
+      "share_type": "SH",
+      "shares": 10804883,
+      "value_usd": 1007021787,
+      "weight_pct": "2.02",
+      "ticker": "WFC"
+    },
+    {
+      "cusip": "026874784",
+      "name": "AMERICAN INTL GROUP INC",
+      "share_type": "SH",
+      "shares": 10987850,
+      "value_usd": 940016941,
+      "weight_pct": "1.88",
+      "ticker": "AIG"
+    },
+    {
+      "cusip": "191216100",
+      "name": "COCA COLA CO",
+      "share_type": "SH",
+      "shares": 13000780,
+      "value_usd": 908888364,
+      "weight_pct": "1.82",
+      "ticker": "KO"
+    },
+    {
+      "cusip": "693475105",
+      "name": "PNC FINL SVCS GROUP INC",
+      "share_type": "SH",
+      "shares": 4306696,
+      "value_usd": 898950170,
+      "weight_pct": "1.80",
+      "ticker": null
+    },
+    {
+      "cusip": "526057104",
+      "name": "LENNAR CORP",
+      "share_type": "SH",
+      "shares": 8725950,
+      "value_usd": 897034304,
+      "weight_pct": "1.80",
+      "ticker": "LEN"
+    },
+    {
+      "cusip": "90353T100",
+      "name": "UBER TECHNOLOGIES INC",
+      "share_type": "SH",
+      "shares": 10894052,
+      "value_usd": 890158675,
+      "weight_pct": "1.78",
+      "ticker": "UBER"
+    },
+    {
+      "cusip": "871607107",
+      "name": "SYNOPSYS INC",
+      "share_type": "SH",
+      "shares": 1893563,
+      "value_usd": 889483156,
+      "weight_pct": "1.78",
+      "ticker": "SNPS"
+    },
+    {
+      "cusip": "879360105",
+      "name": "TELEDYNE TECHNOLOGIES INC",
+      "share_type": "SH",
+      "shares": 1707228,
+      "value_usd": 871975958,
+      "weight_pct": "1.75",
+      "ticker": "TDY"
+    },
+    {
+      "cusip": "98389B100",
+      "name": "XCEL ENERGY INC",
+      "share_type": "SH",
+      "shares": 11578918,
+      "value_usd": 855223628,
+      "weight_pct": "1.71",
+      "ticker": "XEL"
+    },
+    {
+      "cusip": "606822104",
+      "name": "MITSUBISHI UFJ FINL GROUP IN",
+      "share_type": "SH",
+      "shares": 53880015,
+      "value_usd": 854537037,
+      "weight_pct": "1.71",
+      "ticker": null
+    },
+    {
+      "cusip": "369550108",
+      "name": "GENERAL DYNAMICS CORP",
+      "share_type": "SH",
+      "shares": 2531282,
+      "value_usd": 852203563,
+      "weight_pct": "1.71",
+      "ticker": "GD"
+    },
+    {
+      "cusip": "235851102",
+      "name": "DANAHER CORPORATION",
+      "share_type": "SH",
+      "shares": 3705139,
+      "value_usd": 848195813,
+      "weight_pct": "1.70",
+      "ticker": "DHR"
+    },
+    {
+      "cusip": "F92124100",
+      "name": "TOTALENERGIES SE",
+      "share_type": "SH",
+      "shares": 12871803,
+      "value_usd": 841493590,
+      "weight_pct": "1.68",
+      "ticker": "TTE"
+    },
+    {
+      "cusip": "09260D107",
+      "name": "BLACKSTONE INC",
+      "share_type": "SH",
+      "shares": 5455372,
+      "value_usd": 840903623,
+      "weight_pct": "1.68",
+      "ticker": "BX"
+    },
+    {
+      "cusip": "548661107",
+      "name": "LOWES COS INC",
+      "share_type": "SH",
+      "shares": 3425962,
+      "value_usd": 826225636,
+      "weight_pct": "1.65",
+      "ticker": null
+    },
+    {
+      "cusip": "749685103",
+      "name": "RPM INTL INC",
+      "share_type": "SH",
+      "shares": 7763356,
+      "value_usd": 807395534,
+      "weight_pct": "1.62",
+      "ticker": "RPM"
+    },
+    {
+      "cusip": "00724F101",
+      "name": "ADOBE INC",
+      "share_type": "SH",
+      "shares": 2287173,
+      "value_usd": 800513528,
+      "weight_pct": "1.60",
+      "ticker": "ADBE"
+    },
+    {
+      "cusip": "H01301128",
+      "name": "ALCON AG",
+      "share_type": "SH",
+      "shares": 10148092,
+      "value_usd": 799779451,
+      "weight_pct": "1.60",
+      "ticker": null
+    },
+    {
+      "cusip": "92343V104",
+      "name": "VERIZON COMMUNICATIONS INC",
+      "share_type": "SH",
+      "shares": 19632715,
+      "value_usd": 799642856,
+      "weight_pct": "1.60",
+      "ticker": "VZ"
+    },
+    {
+      "cusip": "595017104",
+      "name": "MICROCHIP TECHNOLOGY INC.",
+      "share_type": "SH",
+      "shares": 12434973,
+      "value_usd": 792360446,
+      "weight_pct": "1.59",
+      "ticker": "MCHP"
+    },
+    {
+      "cusip": "030420103",
+      "name": "AMERICAN WTR WKS CO INC NEW",
+      "share_type": "SH",
+      "shares": 6009548,
+      "value_usd": 784256812,
+      "weight_pct": "1.57",
+      "ticker": null
+    },
+    {
+      "cusip": "127097103",
+      "name": "COTERRA ENERGY INC",
+      "share_type": "SH",
+      "shares": 29122162,
+      "value_usd": 766496315,
+      "weight_pct": "1.53",
+      "ticker": "CTRA"
+    },
+    {
+      "cusip": "58933Y105",
+      "name": "MERCK & CO INC",
+      "share_type": "SH",
+      "shares": 7280893,
+      "value_usd": 766394030,
+      "weight_pct": "1.53",
+      "ticker": "MRK"
+    },
+    {
+      "cusip": "742718109",
+      "name": "PROCTER AND GAMBLE CO",
+      "share_type": "SH",
+      "shares": 4897935,
+      "value_usd": 701932336,
+      "weight_pct": "1.41",
+      "ticker": null
+    },
+    {
+      "cusip": "688239201",
+      "name": "OSHKOSH CORP",
+      "share_type": "SH",
+      "shares": 5385990,
+      "value_usd": 676651098,
+      "weight_pct": "1.35",
+      "ticker": "OSK"
+    },
+    {
+      "cusip": "G5960L103",
+      "name": "MEDTRONIC PLC",
+      "share_type": "SH",
+      "shares": 6929619,
+      "value_usd": 665665598,
+      "weight_pct": "1.33",
+      "ticker": "MDT"
+    },
+    {
+      "cusip": "009158106",
+      "name": "AIR PRODS & CHEMS INC",
+      "share_type": "SH",
+      "shares": 2669621,
+      "value_usd": 659468372,
+      "weight_pct": "1.32",
+      "ticker": null
+    },
+    {
+      "cusip": "229899109",
+      "name": "CULLEN FROST BANKERS INC",
+      "share_type": "SH",
+      "shares": 5010178,
+      "value_usd": 634447428,
+      "weight_pct": "1.27",
+      "ticker": null
+    },
+    {
+      "cusip": "29472R108",
+      "name": "EQUITY LIFESTYLE PPTYS INC",
+      "share_type": "SH",
+      "shares": 8843848,
+      "value_usd": 536030136,
+      "weight_pct": "1.07",
+      "ticker": null
+    },
+    {
+      "cusip": "11271J107",
+      "name": "BROOKFIELD CORP",
+      "share_type": "SH",
+      "shares": 6447071,
+      "value_usd": 296134239,
+      "weight_pct": "0.59",
+      "ticker": "BN"
+    },
+    {
+      "cusip": "579780206",
+      "name": "MCCORMICK & CO INC",
+      "share_type": "SH",
+      "shares": 3816143,
+      "value_usd": 259917500,
+      "weight_pct": "0.52",
+      "ticker": "MKC"
+    },
+    {
+      "cusip": "G2519Y108",
+      "name": "CREDICORP LTD",
+      "share_type": "SH",
+      "shares": 759393,
+      "value_usd": 217958347,
+      "weight_pct": "0.44",
+      "ticker": "BAP"
+    },
+    {
+      "cusip": "G25839104",
+      "name": "COCA-COLA EUROPACIFIC PARTNE",
+      "share_type": "SH",
+      "shares": 1861181,
+      "value_usd": 168813025,
+      "weight_pct": "0.34",
+      "ticker": null
+    },
+    {
+      "cusip": "296036304",
+      "name": "ERSTE GROUP BANK AG SPONS ADR",
+      "share_type": "SH",
+      "shares": 2575818,
+      "value_usd": 155620180,
+      "weight_pct": "0.31",
+      "ticker": null
+    },
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF TR",
+      "share_type": "SH",
+      "shares": 216426,
+      "value_usd": 147604969,
+      "weight_pct": "0.30",
+      "ticker": null
+    },
+    {
+      "cusip": "00BPCPYT4",
+      "name": "CAMECO CORP",
+      "share_type": "SH",
+      "shares": 1603470,
+      "value_usd": 147017406,
+      "weight_pct": "0.29",
+      "ticker": "CCJ"
+    }
+  ],
+  "investor": "Aristotle Capital Management, LLC",
+  "period": "2025-12-31",
+  "total_holdings": 192,
+  "total_value_usd": 49959216827
+}

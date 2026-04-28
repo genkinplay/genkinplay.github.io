@@ -1,0 +1,48 @@
+slug: brookfield
+display_name:
+  en: BROOKFIELD Corp /ON/
+  zh-CN: 博枫资管
+  zh-HK: 博楓資管
+tagline:
+  en: SEC 13F filer · AUM $85.84B
+  zh-CN: SEC 13F 机构 · 管理资产 $85.84B
+  zh-HK: SEC 13F 機構 · 管理資產 $85.84B
+role:
+  en: 'Institutional investor (rank #10, CIK 0001001085)'
+  zh-CN: '机构投资者（排名 #10，CIK 0001001085）'
+  zh-HK: '機構投資者（排名 #10，CIK 0001001085）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=BROOKFIELD%20Corp%20%2FON%2F&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001001085'
+holdings_source: 13f
+featured: false
+rank: 10
+aum_usd: 85840000000
+bio:
+  en: "Brookfield Corporation is a Canadian multinational company that is one of the world's largest alternative investment management companies. It has over US$1\_trillion of assets under management, much of which is workers’ deferred income from global public pension funds. \nIt focuses on direct control investments in real estate, renewable power, infrastructure, credit and private equity. The company invests in distressed securities through Oaktree Capital, which it bought in 2019. Brookfield Corporation's headquarters are in Toronto, while its primary subsidiary, Brookfield Asset Management, relocated to New York City in 2024."
+  zh-CN: |-
+    布鲁克菲尔德镇区（英语：Brookfield Township）可能指：
+
+    布鲁克菲尔德镇区 (伊利诺伊州拉萨尔县)
+    布鲁克菲尔德镇区 (艾奥瓦州克林顿县)
+    布鲁克菲尔德镇区 (艾奥瓦州沃思县)
+    布鲁克菲尔德镇区 (密歇根州伊顿县)
+    布鲁克菲尔德镇区 (密歇根州休伦县)
+    布鲁克菲尔德镇区 (明尼苏达州伦维尔县)
+    布鲁克菲尔德镇区 (密苏里州林县)
+  zh-HK: |-
+    布祿菲鎮區（英語：Brookfield Township）可能指：
+
+    布祿菲鎮區 (伊利諾州拉薩爾縣)
+    布祿菲鎮區 (艾奧瓦州克林頓縣)
+    布祿菲鎮區 (艾奧瓦州沃思縣)
+    布祿菲鎮區 (密芝根州伊頓縣)
+    布祿菲鎮區 (密芝根州休倫縣)
+    布祿菲鎮區 (明尼蘇達州倫維爾縣)
+    布祿菲鎮區 (密蘇里州林縣)
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  en: https://en.wikipedia.org/wiki/Brookfield_Corporation
+  zh: https://zh.wikipedia.org/wiki/Brookfield_Township

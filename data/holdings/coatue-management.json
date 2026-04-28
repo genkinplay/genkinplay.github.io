@@ -1,0 +1,462 @@
+{
+  "accession_number": "0000919574-26-001239",
+  "cik": "0001135730",
+  "filing_date": "2026-02-17",
+  "firm": "COATUE MANAGEMENT LLC",
+  "holdings": [
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "share_type": "SH",
+      "shares": 8629524,
+      "value_usd": 2622426049,
+      "weight_pct": "6.56",
+      "ticker": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 5171976,
+      "value_usd": 2501271034,
+      "weight_pct": "6.26",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "share_type": "SH",
+      "shares": 3781949,
+      "value_usd": 2496426714,
+      "weight_pct": "6.25",
+      "ticker": "META"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 9932265,
+      "value_usd": 2292565408,
+      "weight_pct": "5.74",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "36828A101",
+      "name": "GE VERNOVA INC",
+      "share_type": "SH",
+      "shares": 3370174,
+      "value_usd": 2202644620,
+      "weight_pct": "5.51",
+      "ticker": "GEV"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 6841436,
+      "value_usd": 2141369468,
+      "weight_pct": "5.36",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "21037T109",
+      "name": "CONSTELLATION ENERGY CORP",
+      "share_type": "SH",
+      "shares": 5907174,
+      "value_usd": 2086827360,
+      "weight_pct": "5.22",
+      "ticker": "CEG"
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM INC",
+      "share_type": "SH",
+      "shares": 5510227,
+      "value_usd": 1907089565,
+      "weight_pct": "4.77",
+      "ticker": "AVGO"
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 9203338,
+      "value_usd": 1716422538,
+      "weight_pct": "4.30",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "512807306",
+      "name": "LAM RESEARCH CORP",
+      "share_type": "SH",
+      "shares": 9805565,
+      "value_usd": 1678516617,
+      "weight_pct": "4.20",
+      "ticker": "LRCX"
+    },
+    {
+      "cusip": "038222105",
+      "name": "APPLIED MATLS INC",
+      "share_type": "SH",
+      "shares": 5984332,
+      "value_usd": 1537913481,
+      "weight_pct": "3.85",
+      "ticker": null
+    },
+    {
+      "cusip": "G29183103",
+      "name": "EATON CORP PLC",
+      "share_type": "SH",
+      "shares": 4721223,
+      "value_usd": 1503756739,
+      "weight_pct": "3.76",
+      "ticker": "ETN"
+    },
+    {
+      "cusip": "03831W108",
+      "name": "APPLOVIN CORP",
+      "share_type": "SH",
+      "shares": 2185747,
+      "value_usd": 1472800044,
+      "weight_pct": "3.69",
+      "ticker": "APP"
+    },
+    {
+      "cusip": "L8681T102",
+      "name": "SPOTIFY TECHNOLOGY S A",
+      "share_type": "SH",
+      "shares": 2450881,
+      "value_usd": 1423251105,
+      "weight_pct": "3.56",
+      "ticker": "SPOT"
+    },
+    {
+      "cusip": "75734B100",
+      "name": "REDDIT INC",
+      "share_type": "SH",
+      "shares": 5550241,
+      "value_usd": 1275833901,
+      "weight_pct": "3.19",
+      "ticker": "RDDT"
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC",
+      "share_type": "SH",
+      "shares": 10861355,
+      "value_usd": 1018360645,
+      "weight_pct": "2.55",
+      "ticker": "NFLX"
+    },
+    {
+      "cusip": "25809K105",
+      "name": "DOORDASH INC",
+      "share_type": "SH",
+      "shares": 4365365,
+      "value_usd": 988667865,
+      "weight_pct": "2.47",
+      "ticker": "DASH"
+    },
+    {
+      "cusip": "68389X105",
+      "name": "ORACLE CORP",
+      "share_type": "SH",
+      "shares": 4440008,
+      "value_usd": 865401960,
+      "weight_pct": "2.17",
+      "ticker": "ORCL"
+    },
+    {
+      "cusip": "146869102",
+      "name": "CARVANA CO",
+      "share_type": "SH",
+      "shares": 1958229,
+      "value_usd": 826411802,
+      "weight_pct": "2.07",
+      "ticker": "CVNA"
+    },
+    {
+      "cusip": "871607107",
+      "name": "SYNOPSYS INC",
+      "share_type": "SH",
+      "shares": 1656489,
+      "value_usd": 778086013,
+      "weight_pct": "1.95",
+      "ticker": "SNPS"
+    },
+    {
+      "cusip": "G6683N103",
+      "name": "NU HLDGS LTD",
+      "share_type": "SH",
+      "shares": 45750363,
+      "value_usd": 765861077,
+      "weight_pct": "1.92",
+      "ticker": "NU"
+    },
+    {
+      "cusip": "88160R101",
+      "name": "TESLA INC",
+      "share_type": "SH",
+      "shares": 1641406,
+      "value_usd": 738173107,
+      "weight_pct": "1.85",
+      "ticker": "TSLA"
+    },
+    {
+      "cusip": "02079K107",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 2000536,
+      "value_usd": 627768196,
+      "weight_pct": "1.57",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "632307104",
+      "name": "NATERA INC",
+      "share_type": "SH",
+      "shares": 2633334,
+      "value_usd": 603270486,
+      "weight_pct": "1.51",
+      "ticker": "NTRA"
+    },
+    {
+      "cusip": "833445109",
+      "name": "SNOWFLAKE INC",
+      "share_type": "SH",
+      "shares": 2480963,
+      "value_usd": 544224044,
+      "weight_pct": "1.36",
+      "ticker": "SNOW"
+    },
+    {
+      "cusip": "46120E602",
+      "name": "INTUITIVE SURGICAL INC",
+      "share_type": "SH",
+      "shares": 807234,
+      "value_usd": 457185049,
+      "weight_pct": "1.14",
+      "ticker": "ISRG"
+    },
+    {
+      "cusip": "00724F101",
+      "name": "ADOBE INC",
+      "share_type": "SH",
+      "shares": 874150,
+      "value_usd": 305943759,
+      "weight_pct": "0.77",
+      "ticker": "ADBE"
+    },
+    {
+      "cusip": "31946M103",
+      "name": "FIRST CTZNS BANCSHARES INC D",
+      "share_type": "SH",
+      "shares": 139498,
+      "value_usd": 299387818,
+      "weight_pct": "0.75",
+      "ticker": null
+    },
+    {
+      "cusip": "007903107",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "share_type": "SH",
+      "shares": 1239043,
+      "value_usd": 265353449,
+      "weight_pct": "0.66",
+      "ticker": "AMD"
+    },
+    {
+      "cusip": "142152107",
+      "name": "CARIS LIFE SCIENCES INC",
+      "share_type": "SH",
+      "shares": 9819992,
+      "value_usd": 264943384,
+      "weight_pct": "0.66",
+      "ticker": "CAI"
+    },
+    {
+      "cusip": "16935C109",
+      "name": "CHIME FINL INC",
+      "share_type": "SH",
+      "shares": 10071992,
+      "value_usd": 253512039,
+      "weight_pct": "0.63",
+      "ticker": "CHYM"
+    },
+    {
+      "cusip": "042068205",
+      "name": "ARM HOLDINGS PLC",
+      "share_type": "SH",
+      "shares": 2300000,
+      "value_usd": 251413000,
+      "weight_pct": "0.63",
+      "ticker": "ARM"
+    },
+    {
+      "cusip": "573874104",
+      "name": "MARVELL TECHNOLOGY INC",
+      "share_type": "SH",
+      "shares": 2079046,
+      "value_usd": 176677329,
+      "weight_pct": "0.44",
+      "ticker": "MRVL"
+    },
+    {
+      "cusip": "576323109",
+      "name": "MASTEC INC",
+      "share_type": "SH",
+      "shares": 677909,
+      "value_usd": 147357080,
+      "weight_pct": "0.37",
+      "ticker": "MTZ"
+    },
+    {
+      "cusip": "92537N108",
+      "name": "VERTIV HOLDINGS CO",
+      "share_type": "SH",
+      "shares": 828947,
+      "value_usd": 134297703,
+      "weight_pct": "0.34",
+      "ticker": "VRT"
+    },
+    {
+      "cusip": "77311W101",
+      "name": "ROCKET COS INC",
+      "share_type": "SH",
+      "shares": 6747052,
+      "value_usd": 130622928,
+      "weight_pct": "0.33",
+      "ticker": null
+    },
+    {
+      "cusip": "70450Y103",
+      "name": "PAYPAL HLDGS INC",
+      "share_type": "SH",
+      "shares": 1697505,
+      "value_usd": 99100342,
+      "weight_pct": "0.25",
+      "ticker": "PYPL"
+    },
+    {
+      "cusip": "05464C101",
+      "name": "AXON ENTERPRISE INC",
+      "share_type": "SH",
+      "shares": 155387,
+      "value_usd": 88248939,
+      "weight_pct": "0.22",
+      "ticker": "AXON"
+    },
+    {
+      "cusip": "456788108",
+      "name": "INFOSYS LTD",
+      "share_type": "SH",
+      "shares": 4574706,
+      "value_usd": 81521261,
+      "weight_pct": "0.20",
+      "ticker": "INFY"
+    },
+    {
+      "cusip": "12541W209",
+      "name": "C H ROBINSON WORLDWIDE INC",
+      "share_type": "SH",
+      "shares": 341024,
+      "value_usd": 54823018,
+      "weight_pct": "0.14",
+      "ticker": "CHRW"
+    },
+    {
+      "cusip": "302130109",
+      "name": "EXPEDITORS INTL WASH INC",
+      "share_type": "SH",
+      "shares": 365987,
+      "value_usd": 54535723,
+      "weight_pct": "0.14",
+      "ticker": null
+    },
+    {
+      "cusip": "368736104",
+      "name": "GENERAC HLDGS INC",
+      "share_type": "SH",
+      "shares": 369210,
+      "value_usd": 50349168,
+      "weight_pct": "0.13",
+      "ticker": "GNRC"
+    },
+    {
+      "cusip": "85208M102",
+      "name": "SPROUTS FMRS MKT INC",
+      "share_type": "SH",
+      "shares": 601886,
+      "value_usd": 47952258,
+      "weight_pct": "0.12",
+      "ticker": null
+    },
+    {
+      "cusip": "74767V109",
+      "name": "QUANTUMSCAPE CORP",
+      "share_type": "SH",
+      "shares": 3694995,
+      "value_usd": 38501848,
+      "weight_pct": "0.10",
+      "ticker": "QS"
+    },
+    {
+      "cusip": "15743P104",
+      "name": "CHAGEE HLDGS LTD",
+      "share_type": "SH",
+      "shares": 3174115,
+      "value_usd": 36914957,
+      "weight_pct": "0.09",
+      "ticker": "CHA"
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "share_type": "SH",
+      "shares": 63451,
+      "value_usd": 33158858,
+      "weight_pct": "0.08",
+      "ticker": "SPGI"
+    },
+    {
+      "cusip": "615369105",
+      "name": "MOODYS CORP",
+      "share_type": "SH",
+      "shares": 64260,
+      "value_usd": 32827221,
+      "weight_pct": "0.08",
+      "ticker": "MCO"
+    },
+    {
+      "cusip": "58463J304",
+      "name": "MEDICAL PPTYS TRUST INC",
+      "share_type": "SH",
+      "shares": 4525398,
+      "value_usd": 22626990,
+      "weight_pct": "0.06",
+      "ticker": null
+    },
+    {
+      "cusip": "639193101",
+      "name": "NAVAN INC",
+      "share_type": "SH",
+      "shares": 599280,
+      "value_usd": 10235702,
+      "weight_pct": "0.03",
+      "ticker": "NAVN"
+    },
+    {
+      "cusip": "60770K107",
+      "name": "MODERNA INC",
+      "share_type": "SH",
+      "shares": 200000,
+      "value_usd": 5898000,
+      "weight_pct": "0.01",
+      "ticker": "MRNA"
+    }
+  ],
+  "investor": "COATUE MANAGEMENT LLC",
+  "period": "2025-12-31",
+  "total_holdings": 52,
+  "total_value_usd": 39962643007
+}

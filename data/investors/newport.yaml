@@ -1,0 +1,39 @@
+slug: newport
+display_name:
+  en: Newport Trust Company, LLC
+  zh-CN: 新港信托
+  zh-HK: 新港信託
+tagline:
+  en: SEC 13F filer · AUM $41.79B
+  zh-CN: SEC 13F 机构 · 管理资产 $41.79B
+  zh-HK: SEC 13F 機構 · 管理資產 $41.79B
+role:
+  en: 'Institutional investor (rank #21, CIK 0001722329)'
+  zh-CN: '机构投资者（排名 #21，CIK 0001722329）'
+  zh-HK: '機構投資者（排名 #21，CIK 0001722329）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=Newport%20Trust%20Company%2C%20LLC&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001722329'
+holdings_source: 13f
+featured: false
+rank: 21
+aum_usd: 41790000000
+bio:
+  en: |-
+    Newport most commonly refers to:
+
+    Newport, Wales
+    Newport, Rhode Island, United States
+    Newport or New Port may also refer to:
+  zh-CN: |-
+    纽波特（英语：Newport），中文别称新港，位于美国罗得岛州南部，是纽波特县县治，距离州首府普罗维登斯37公里，距离波士顿98公里。面积29.7平方公里。根据美国2010年人口普查，共有24,672人，其中白人占84.12%、非裔美国人占7.75%、亚裔美国人占1.33%。
+    纽波特是新英格兰的避暑胜地，以豪宅著称，亦是沙尔瓦·瑞金纳大学和纽波特海军基地（包括海军战争学院、海军水下战中心和一处美国海军培训中心）的所在地。新港是18世纪的重要港口城市，现在拥有美国所有城市中数量最多的保存下来的殖民时期建筑。在总统德怀特·D·艾森豪威尔和约翰·F·肯尼迪任期内，新港被称为“夏季白宫”之城。
+  zh-HK: |-
+    紐波特（英語：Newport），中文別稱新港，位於美國羅德島州南部，是紐波特縣縣治，距離州首府普羅維登斯37公里，距離波士頓98公里。面積29.7平方公里。根據美國2010年人口普查，共有24,672人，其中白人佔84.12%、非裔美國人佔7.75%、亞裔美國人佔1.33%。
+    紐波特是紐英倫的避暑勝地，以豪宅著稱，亦是沙爾瓦·瑞金納大學和紐波特海軍基地（包括海軍戰爭學院、海軍水下戰中心和一處美國海軍培訓中心）的所在地。新港是18世紀的重要港口城市，現在擁有美國所有城市中數量最多的保存下來的殖民時期建築。在總統德懷特·D·艾森豪威爾和約翰·F·甘迺迪任期內，新港被稱為「夏季白宮」之城。
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  en: https://en.wikipedia.org/wiki/Newport
+  zh: https://zh.wikipedia.org/wiki/Newport%2C_Rhode_Island

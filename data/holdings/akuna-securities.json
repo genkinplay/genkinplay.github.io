@@ -1,0 +1,237 @@
+{
+  "accession_number": "0001529090-26-000001",
+  "cik": "0001529090",
+  "filing_date": "2026-02-12",
+  "firm": "AKUNA SECURITIES LLC",
+  "holdings": [
+    {
+      "cusip": "46090E953",
+      "name": "INVESCO QQQ TR",
+      "share_type": "SH",
+      "shares": 12581600,
+      "value_usd": 7729002696,
+      "weight_pct": "29.46",
+      "ticker": null
+    },
+    {
+      "cusip": "78462F953",
+      "name": "SPDR S&P 500 ETF TR",
+      "share_type": "SH",
+      "shares": 9176300,
+      "value_usd": 6257502496,
+      "weight_pct": "23.85",
+      "ticker": null
+    },
+    {
+      "cusip": "78462F903",
+      "name": "SPDR S&P 500 ETF TR",
+      "share_type": "SH",
+      "shares": 8330500,
+      "value_usd": 5680734560,
+      "weight_pct": "21.65",
+      "ticker": null
+    },
+    {
+      "cusip": "46090E903",
+      "name": "INVESCO QQQ TR",
+      "share_type": "SH",
+      "shares": 7111900,
+      "value_usd": 4368911289,
+      "weight_pct": "16.65",
+      "ticker": null
+    },
+    {
+      "cusip": "464287955",
+      "name": "ISHARES TR",
+      "share_type": "SH",
+      "shares": 2913300,
+      "value_usd": 717137928,
+      "weight_pct": "2.73",
+      "ticker": null
+    },
+    {
+      "cusip": "464287905",
+      "name": "ISHARES TR",
+      "share_type": "SH",
+      "shares": 1924000,
+      "value_usd": 473611840,
+      "weight_pct": "1.80",
+      "ticker": null
+    },
+    {
+      "cusip": "78462F103",
+      "name": "SPDR S&P 500 ETF TR",
+      "share_type": "SH",
+      "shares": 361344,
+      "value_usd": 246407700,
+      "weight_pct": "0.94",
+      "ticker": null
+    },
+    {
+      "cusip": "67066G954",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 1159100,
+      "value_usd": 216172150,
+      "weight_pct": "0.82",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "67066G904",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 953500,
+      "value_usd": 177827750,
+      "weight_pct": "0.68",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "88160R901",
+      "name": "TESLA INC",
+      "share_type": "SH",
+      "shares": 295000,
+      "value_usd": 132667400,
+      "weight_pct": "0.51",
+      "ticker": "TSLA"
+    },
+    {
+      "cusip": "88160R951",
+      "name": "TESLA INC",
+      "share_type": "SH",
+      "shares": 212900,
+      "value_usd": 95745388,
+      "weight_pct": "0.36",
+      "ticker": "TSLA"
+    },
+    {
+      "cusip": "46438F901",
+      "name": "ISHARES BITCOIN TR",
+      "share_type": "SH",
+      "shares": 1621100,
+      "value_usd": 80487615,
+      "weight_pct": "0.31",
+      "ticker": null
+    },
+    {
+      "cusip": "46438F951",
+      "name": "ISHARES BITCOIN TR",
+      "share_type": "SH",
+      "shares": 788800,
+      "value_usd": 39163920,
+      "weight_pct": "0.15",
+      "ticker": null
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 42125,
+      "value_usd": 7856313,
+      "weight_pct": "0.03",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "007903907",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "share_type": "SH",
+      "shares": 27400,
+      "value_usd": 5867984,
+      "weight_pct": "0.02",
+      "ticker": "AMD"
+    },
+    {
+      "cusip": "007903957",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "share_type": "SH",
+      "shares": 25400,
+      "value_usd": 5439664,
+      "weight_pct": "0.02",
+      "ticker": "AMD"
+    },
+    {
+      "cusip": "46438F101",
+      "name": "ISHARES BITCOIN TR",
+      "share_type": "SH",
+      "shares": 38926,
+      "value_usd": 1932676,
+      "weight_pct": "0.01",
+      "ticker": null
+    },
+    {
+      "cusip": "74347X831",
+      "name": "PROSHARES TR",
+      "share_type": "SH",
+      "shares": 16850,
+      "value_usd": 888332,
+      "weight_pct": "0.00",
+      "ticker": null
+    },
+    {
+      "cusip": "464287200",
+      "name": "ISHARES TR",
+      "share_type": "SH",
+      "shares": 1074,
+      "value_usd": 735626,
+      "weight_pct": "0.00",
+      "ticker": null
+    },
+    {
+      "cusip": "74347X864",
+      "name": "PROSHARES TR",
+      "share_type": "SH",
+      "shares": 4809,
+      "value_usd": 556690,
+      "weight_pct": "0.00",
+      "ticker": null
+    },
+    {
+      "cusip": "922908363",
+      "name": "VANGUARD INDEX FDS",
+      "share_type": "SH",
+      "shares": 429,
+      "value_usd": 269039,
+      "weight_pct": "0.00",
+      "ticker": null
+    },
+    {
+      "cusip": "007903107",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "share_type": "SH",
+      "shares": 410,
+      "value_usd": 87806,
+      "weight_pct": "0.00",
+      "ticker": "AMD"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 132,
+      "value_usd": 63838,
+      "weight_pct": "0.00",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "share_type": "SH",
+      "shares": 3,
+      "value_usd": 816,
+      "weight_pct": "0.00",
+      "ticker": "AAPL"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 1,
+      "value_usd": 313,
+      "weight_pct": "0.00",
+      "ticker": "GOOGL"
+    }
+  ],
+  "investor": "AKUNA SECURITIES LLC",
+  "period": "2025-12-31",
+  "total_holdings": 25,
+  "total_value_usd": 26239071829
+}

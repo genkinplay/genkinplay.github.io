@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001177719-26-000005",
+  "cik": "0001177719",
+  "filing_date": "2026-02-11",
+  "firm": "WESTFIELD CAPITAL MANAGEMENT CO LP",
+  "holdings": [
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 5951049,
+      "value_usd": 1109870719,
+      "weight_pct": "4.62",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "04351P101",
+      "name": "ASCENDIS PHARMA A/S",
+      "share_type": "SH",
+      "shares": 5185696,
+      "value_usd": 1105797733,
+      "weight_pct": "4.61",
+      "ticker": "ASND"
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "share_type": "SH",
+      "shares": 3274318,
+      "value_usd": 890156149,
+      "weight_pct": "3.71",
+      "ticker": "AAPL"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 1621219,
+      "value_usd": 784054129,
+      "weight_pct": "3.27",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 2178478,
+      "value_usd": 681863695,
+      "weight_pct": "2.84",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "199908104",
+      "name": "COMFORT SYS USA INC",
+      "share_type": "SH",
+      "shares": 668835,
+      "value_usd": 624217111,
+      "weight_pct": "2.60",
+      "ticker": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 2330770,
+      "value_usd": 537988375,
+      "weight_pct": "2.24",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "05464C101",
+      "name": "AXON ENTERPRISE INC",
+      "share_type": "SH",
+      "shares": 831177,
+      "value_usd": 472050610,
+      "weight_pct": "1.97",
+      "ticker": "AXON"
+    },
+    {
+      "cusip": "G3730V105",
+      "name": "FTAI AVIATION LTD",
+      "share_type": "SH",
+      "shares": 2350625,
+      "value_usd": 462720531,
+      "weight_pct": "1.93",
+      "ticker": "FTAI"
+    },
+    {
+      "cusip": "443201108",
+      "name": "HOWMET AEROSPACE INC",
+      "share_type": "SH",
+      "shares": 2219125,
+      "value_usd": 454964962,
+      "weight_pct": "1.90",
+      "ticker": "HWM"
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "share_type": "SH",
+      "shares": 655283,
+      "value_usd": 432545694,
+      "weight_pct": "1.80",
+      "ticker": "META"
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM INC",
+      "share_type": "SH",
+      "shares": 1112318,
+      "value_usd": 384973115,
+      "weight_pct": "1.60",
+      "ticker": "AVGO"
+    },
+    {
+      "cusip": "92537N108",
+      "name": "VERTIV HOLDINGS CO",
+      "share_type": "SH",
+      "shares": 2277716,
+      "value_usd": 369012808,
+      "weight_pct": "1.54",
+      "ticker": "VRT"
+    },
+    {
+      "cusip": "532457108",
+      "name": "ELI LILLY & CO",
+      "share_type": "SH",
+      "shares": 277549,
+      "value_usd": 298276527,
+      "weight_pct": "1.24",
+      "ticker": "LLY"
+    },
+    {
+      "cusip": "876030107",
+      "name": "TAPESTRY INC",
+      "share_type": "SH",
+      "shares": 2098104,
+      "value_usd": 268074735,
+      "weight_pct": "1.12",
+      "ticker": "TPR"
+    },
+    {
+      "cusip": "76155X100",
+      "name": "REVOLUTION MEDICINES INC",
+      "share_type": "SH",
+      "shares": 2845013,
+      "value_usd": 226605319,
+      "weight_pct": "0.94",
+      "ticker": "RVMD"
+    },
+    {
+      "cusip": "81762P102",
+      "name": "SERVICENOW INC",
+      "share_type": "SH",
+      "shares": 1476803,
+      "value_usd": 226231524,
+      "weight_pct": "0.94",
+      "ticker": "NOW"
+    },
+    {
+      "cusip": "50212V100",
+      "name": "LPL FINL HLDGS INC",
+      "share_type": "SH",
+      "shares": 625562,
+      "value_usd": 223431883,
+      "weight_pct": "0.93",
+      "ticker": "LPLA"
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "share_type": "SH",
+      "shares": 603926,
+      "value_usd": 211802953,
+      "weight_pct": "0.88",
+      "ticker": "V"
+    },
+    {
+      "cusip": "060505104",
+      "name": "BANK AMERICA CORP",
+      "share_type": "SH",
+      "shares": 3823609,
+      "value_usd": 210298513,
+      "weight_pct": "0.88",
+      "ticker": "BAC"
+    },
+    {
+      "cusip": "88160R101",
+      "name": "TESLA INC",
+      "share_type": "SH",
+      "shares": 461675,
+      "value_usd": 207624330,
+      "weight_pct": "0.86",
+      "ticker": "TSLA"
+    },
+    {
+      "cusip": "574795100",
+      "name": "MASIMO CORP",
+      "share_type": "SH",
+      "shares": 1522049,
+      "value_usd": 197957646,
+      "weight_pct": "0.82",
+      "ticker": "MASI"
+    },
+    {
+      "cusip": "03990B101",
+      "name": "ARES MANAGEMENT CORPORATION",
+      "share_type": "SH",
+      "shares": 1151200,
+      "value_usd": 186068483,
+      "weight_pct": "0.78",
+      "ticker": "ARES"
+    },
+    {
+      "cusip": "031100100",
+      "name": "AMETEK INC",
+      "share_type": "SH",
+      "shares": 900216,
+      "value_usd": 184823313,
+      "weight_pct": "0.77",
+      "ticker": "AME"
+    },
+    {
+      "cusip": "773121108",
+      "name": "ROCKET LAB CORP",
+      "share_type": "SH",
+      "shares": 2592443,
+      "value_usd": 180848824,
+      "weight_pct": "0.75",
+      "ticker": "RKLB"
+    },
+    {
+      "cusip": "816850101",
+      "name": "SEMTECH CORP",
+      "share_type": "SH",
+      "shares": 2448612,
+      "value_usd": 180438198,
+      "weight_pct": "0.75",
+      "ticker": "SMTC"
+    },
+    {
+      "cusip": "42226A107",
+      "name": "HEALTHEQUITY INC",
+      "share_type": "SH",
+      "shares": 1952452,
+      "value_usd": 178864128,
+      "weight_pct": "0.75",
+      "ticker": "HQY"
+    },
+    {
+      "cusip": "316773100",
+      "name": "FIFTH THIRD BANCORP",
+      "share_type": "SH",
+      "shares": 3746926,
+      "value_usd": 175393613,
+      "weight_pct": "0.73",
+      "ticker": "FITB"
+    },
+    {
+      "cusip": "053332102",
+      "name": "AUTOZONE INC",
+      "share_type": "SH",
+      "shares": 51122,
+      "value_usd": 173379435,
+      "weight_pct": "0.72",
+      "ticker": "AZO"
+    },
+    {
+      "cusip": "573874104",
+      "name": "MARVELL TECHNOLOGY INC",
+      "share_type": "SH",
+      "shares": 1947807,
+      "value_usd": 165524653,
+      "weight_pct": "0.69",
+      "ticker": "MRVL"
+    },
+    {
+      "cusip": "632307104",
+      "name": "NATERA INC",
+      "share_type": "SH",
+      "shares": 714692,
+      "value_usd": 163728859,
+      "weight_pct": "0.68",
+      "ticker": "NTRA"
+    },
+    {
+      "cusip": "92243G108",
+      "name": "VAXCYTE INC",
+      "share_type": "SH",
+      "shares": 3539717,
+      "value_usd": 163322542,
+      "weight_pct": "0.68",
+      "ticker": "PCVX"
+    },
+    {
+      "cusip": "147448104",
+      "name": "CASELLA WASTE SYS INC",
+      "share_type": "SH",
+      "shares": 1665226,
+      "value_usd": 163092234,
+      "weight_pct": "0.68",
+      "ticker": null
+    },
+    {
+      "cusip": "64110L106",
+      "name": "NETFLIX INC",
+      "share_type": "SH",
+      "shares": 1597547,
+      "value_usd": 149786032,
+      "weight_pct": "0.62",
+      "ticker": "NFLX"
+    },
+    {
+      "cusip": "268150109",
+      "name": "DYNATRACE INC",
+      "share_type": "SH",
+      "shares": 3356708,
+      "value_usd": 145479725,
+      "weight_pct": "0.61",
+      "ticker": "DT"
+    },
+    {
+      "cusip": "833445109",
+      "name": "SNOWFLAKE INC",
+      "share_type": "SH",
+      "shares": 649105,
+      "value_usd": 142387741,
+      "weight_pct": "0.59",
+      "ticker": "SNOW"
+    },
+    {
+      "cusip": "443573100",
+      "name": "HUBSPOT INC",
+      "share_type": "SH",
+      "shares": 352154,
+      "value_usd": 141319255,
+      "weight_pct": "0.59",
+      "ticker": "HUBS"
+    },
+    {
+      "cusip": "79589L106",
+      "name": "SAMSARA INC",
+      "share_type": "SH",
+      "shares": 3953970,
+      "value_usd": 140168243,
+      "weight_pct": "0.58",
+      "ticker": "IOT"
+    },
+    {
+      "cusip": "00370M103",
+      "name": "ABIVAX SA",
+      "share_type": "SH",
+      "shares": 1009966,
+      "value_usd": 136198965,
+      "weight_pct": "0.57",
+      "ticker": null
+    },
+    {
+      "cusip": "76243J105",
+      "name": "RHYTHM PHARMACEUTICALS INC",
+      "share_type": "SH",
+      "shares": 1267158,
+      "value_usd": 135636592,
+      "weight_pct": "0.57",
+      "ticker": "RYTM"
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "share_type": "SH",
+      "shares": 446195,
+      "value_usd": 135594105,
+      "weight_pct": "0.56",
+      "ticker": null
+    },
+    {
+      "cusip": "55306N104",
+      "name": "MKS INC.",
+      "share_type": "SH",
+      "shares": 839773,
+      "value_usd": 134195725,
+      "weight_pct": "0.56",
+      "ticker": "MKSI"
+    },
+    {
+      "cusip": "52490G102",
+      "name": "LEGEND BIOTECH CORP",
+      "share_type": "SH",
+      "shares": 6164677,
+      "value_usd": 134020083,
+      "weight_pct": "0.56",
+      "ticker": "LEGN"
+    },
+    {
+      "cusip": "204166102",
+      "name": "COMMVAULT SYS INC",
+      "share_type": "SH",
+      "shares": 1057077,
+      "value_usd": 132515173,
+      "weight_pct": "0.55",
+      "ticker": null
+    },
+    {
+      "cusip": "81663L200",
+      "name": "GENEDX HOLDINGS CORP",
+      "share_type": "SH",
+      "shares": 1018261,
+      "value_usd": 132435026,
+      "weight_pct": "0.55",
+      "ticker": "WGS"
+    },
+    {
+      "cusip": "00187Y100",
+      "name": "API GROUP CORP",
+      "share_type": "SH",
+      "shares": 3453355,
+      "value_usd": 132125362,
+      "weight_pct": "0.55",
+      "ticker": "APG"
+    },
+    {
+      "cusip": "049468101",
+      "name": "ATLASSIAN CORPORATION",
+      "share_type": "SH",
+      "shares": 812215,
+      "value_usd": 131692460,
+      "weight_pct": "0.55",
+      "ticker": "TEAM"
+    },
+    {
+      "cusip": "000899104",
+      "name": "ADMA BIOLOGICS INC",
+      "share_type": "SH",
+      "shares": 6992907,
+      "value_usd": 127550624,
+      "weight_pct": "0.53",
+      "ticker": "ADMA"
+    },
+    {
+      "cusip": "758750103",
+      "name": "REGAL REXNORD CORPORATION",
+      "share_type": "SH",
+      "shares": 893100,
+      "value_usd": 125319792,
+      "weight_pct": "0.52",
+      "ticker": "RRX"
+    },
+    {
+      "cusip": "V7780T103",
+      "name": "ROYAL CARIBBEAN GROUP",
+      "share_type": "SH",
+      "shares": 448653,
+      "value_usd": 125138375,
+      "weight_pct": "0.52",
+      "ticker": null
+    }
+  ],
+  "investor": "WESTFIELD CAPITAL MANAGEMENT CO LP",
+  "period": "2025-12-31",
+  "total_holdings": 241,
+  "total_value_usd": 24005011742
+}

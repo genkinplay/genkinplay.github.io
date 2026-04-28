@@ -1,0 +1,30 @@
+slug: temasek
+display_name:
+  en: Temasek Holdings (Private) Ltd
+  zh-CN: 淡马锡
+  zh-HK: 淡馬錫
+tagline:
+  en: SEC 13F filer · AUM $31.57B
+  zh-CN: SEC 13F 机构 · 管理资产 $31.57B
+  zh-HK: SEC 13F 機構 · 管理資產 $31.57B
+role:
+  en: 'Institutional investor (rank #35, CIK 0001021944)'
+  zh-CN: '机构投资者（排名 #35，CIK 0001021944）'
+  zh-HK: '機構投資者（排名 #35，CIK 0001021944）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=Temasek%20Holdings%20(Private)%20Ltd&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001021944'
+holdings_source: 13f
+featured: false
+rank: 35
+aum_usd: 31570000000
+bio:
+  en: Temasek Holdings (Private) Limited is a Singaporean state-owned multinational investment firm. Incorporated on 25 June 1974, Temasek has a net portfolio of S$484 billion as of 31 March 2025. Headquartered at Orchard Road, Singapore, it has 13 offices in nine countries around the world, including in Beijing, Brussels, Hanoi, London, Mexico City, Mumbai, New York City, Paris, San Francisco, Shanghai, Shenzhen, and Washington D.C.
+  zh-CN: '淡马锡 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $31.57B，在 SEC 13F 机构中排名 #35。'
+  zh-HK: '淡馬錫 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $31.57B，在 SEC 13F 機構中排名 #35。'
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  en: https://en.wikipedia.org/wiki/Temasek_Holdings_(Private)_Limited
+  zh: https://zh.wikipedia.org/wiki/%E6%B7%A1%E9%A9%AC%E9%94%A1

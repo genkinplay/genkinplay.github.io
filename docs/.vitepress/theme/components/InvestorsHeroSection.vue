@@ -5,7 +5,7 @@ import FlickeringGrid from './inspira/FlickeringGrid.vue'
 import ColourfulText from './inspira/ColourfulText.vue'
 import InteractiveHoverButton from './inspira/InteractiveHoverButton.vue'
 
-const { t } = useI18n()
+const { t, tm } = useI18n()
 
 // Brand color scheme from lbus design tokens
 const brandColors = [
@@ -25,16 +25,20 @@ const flickerColors = [
   { color: '#fc5200', weight: 2.5 },
 ]
 
-// Cycle through investor names instead of product names
-const names = ['Buffett', 'Cathie Wood', 'Musk', 'Huang', 'Altman']
-const currentName = ref(names[0])
+// Cycle through investor names. 名字数组从 i18n locale 读取，三语化。
+// tm() 返回 LocaleMessage（vue-i18n），数组场景下直接转 string[]
+const names = computed<string[]>(() => {
+  const arr = tm('hero.names') as unknown
+  return Array.isArray(arr) && arr.length > 0 ? (arr as string[]) : ['']
+})
+const currentName = ref(names.value[0])
 let nameInterval: ReturnType<typeof setInterval> | undefined
 let nameIndex = 0
 
 onMounted(() => {
   nameInterval = setInterval(() => {
-    nameIndex = (nameIndex + 1) % names.length
-    currentName.value = names[nameIndex]
+    nameIndex = (nameIndex + 1) % names.value.length
+    currentName.value = names.value[nameIndex]
   }, 3000)
 })
 

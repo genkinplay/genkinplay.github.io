@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001104659-26-015596",
+  "cik": "0001021944",
+  "filing_date": "2026-02-17",
+  "firm": "Temasek Holdings (Private) Ltd",
+  "holdings": [
+    {
+      "cusip": "09290D101",
+      "name": "BLACKROCK INC",
+      "share_type": "SH",
+      "shares": 5092825,
+      "value_usd": 5451054311,
+      "weight_pct": "17.26",
+      "ticker": "BLK"
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "share_type": "SH",
+      "shares": 6491881,
+      "value_usd": 2276767586,
+      "weight_pct": "7.21",
+      "ticker": "V"
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 8981912,
+      "value_usd": 1675126588,
+      "weight_pct": "5.31",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "share_type": "SH",
+      "shares": 2769218,
+      "value_usd": 1580891172,
+      "weight_pct": "5.01",
+      "ticker": "MA"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 4839920,
+      "value_usd": 1514894960,
+      "weight_pct": "4.80",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 5792075,
+      "value_usd": 1336926752,
+      "weight_pct": "4.23",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 2703988,
+      "value_usd": 1307702677,
+      "weight_pct": "4.14",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "45104G104",
+      "name": "ICICI BANK LIMITED",
+      "share_type": "SH",
+      "shares": 29195789,
+      "value_usd": 870034512,
+      "weight_pct": "2.76",
+      "ticker": "IBN"
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM INC",
+      "share_type": "SH",
+      "shares": 2496276,
+      "value_usd": 863961124,
+      "weight_pct": "2.74",
+      "ticker": "AVGO"
+    },
+    {
+      "cusip": "45827U109",
+      "name": "INTAPP INC",
+      "share_type": "SH",
+      "shares": 17146805,
+      "value_usd": 785666605,
+      "weight_pct": "2.49",
+      "ticker": "INTA"
+    },
+    {
+      "cusip": "78409V104",
+      "name": "S&P GLOBAL INC",
+      "share_type": "SH",
+      "shares": 1300302,
+      "value_usd": 679524822,
+      "weight_pct": "2.15",
+      "ticker": "SPGI"
+    },
+    {
+      "cusip": "771049103",
+      "name": "ROBLOX CORP",
+      "share_type": "SH",
+      "shares": 7777760,
+      "value_usd": 630231893,
+      "weight_pct": "2.00",
+      "ticker": "RBLX"
+    },
+    {
+      "cusip": "872657101",
+      "name": "TPG INC",
+      "share_type": "SH",
+      "shares": 8791581,
+      "value_usd": 561254531,
+      "weight_pct": "1.78",
+      "ticker": "TPG"
+    },
+    {
+      "cusip": "722304102",
+      "name": "PDD HOLDINGS INC",
+      "share_type": "SH",
+      "shares": 4682894,
+      "value_usd": 530993351,
+      "weight_pct": "1.68",
+      "ticker": "PDD"
+    },
+    {
+      "cusip": "25809K105",
+      "name": "DOORDASH INC",
+      "share_type": "SH",
+      "shares": 2316423,
+      "value_usd": 524623481,
+      "weight_pct": "1.66",
+      "ticker": "DASH"
+    },
+    {
+      "cusip": "883556102",
+      "name": "THERMO FISHER SCIENTIFIC INC",
+      "share_type": "SH",
+      "shares": 891418,
+      "value_usd": 516532160,
+      "weight_pct": "1.64",
+      "ticker": "TMO"
+    },
+    {
+      "cusip": "36828A101",
+      "name": "GE VERNOVA INC",
+      "share_type": "SH",
+      "shares": 662572,
+      "value_usd": 433037182,
+      "weight_pct": "1.37",
+      "ticker": "GEV"
+    },
+    {
+      "cusip": "81141R100",
+      "name": "SEA LTD",
+      "share_type": "SH",
+      "shares": 3303217,
+      "value_usd": 421391393,
+      "weight_pct": "1.33",
+      "ticker": "SE"
+    },
+    {
+      "cusip": "40415F101",
+      "name": "HDFC BANK LTD",
+      "share_type": "SH",
+      "shares": 10873380,
+      "value_usd": 397313305,
+      "weight_pct": "1.26",
+      "ticker": "HDB"
+    },
+    {
+      "cusip": "009066101",
+      "name": "AIRBNB INC",
+      "share_type": "SH",
+      "shares": 2222194,
+      "value_usd": 301596170,
+      "weight_pct": "0.96",
+      "ticker": "ABNB"
+    },
+    {
+      "cusip": "46641Q837",
+      "name": "J P MORGAN EXCHANGE TRADED F",
+      "share_type": "SH",
+      "shares": 5919494,
+      "value_usd": 299467201,
+      "weight_pct": "0.95",
+      "ticker": null
+    },
+    {
+      "cusip": "07725L102",
+      "name": "BEONE MEDICINES LTD",
+      "share_type": "SH",
+      "shares": 919587,
+      "value_usd": 279379726,
+      "weight_pct": "0.88",
+      "ticker": "ONC"
+    },
+    {
+      "cusip": "N30577105",
+      "name": "ERMENEGILDO ZEGNA N V",
+      "share_type": "SH",
+      "shares": 27242276,
+      "value_usd": 279233329,
+      "weight_pct": "0.88",
+      "ticker": "ZGN"
+    },
+    {
+      "cusip": "878742204",
+      "name": "TECK RESOURCES LTD",
+      "share_type": "SH",
+      "shares": 5307384,
+      "value_usd": 254170620,
+      "weight_pct": "0.80",
+      "ticker": "TECK"
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "share_type": "SH",
+      "shares": 366511,
+      "value_usd": 241930246,
+      "weight_pct": "0.77",
+      "ticker": "META"
+    },
+    {
+      "cusip": "G54950103",
+      "name": "LINDE PLC",
+      "share_type": "SH",
+      "shares": 537458,
+      "value_usd": 229166717,
+      "weight_pct": "0.73",
+      "ticker": "LIN"
+    },
+    {
+      "cusip": "743315103",
+      "name": "PROGRESSIVE CORP",
+      "share_type": "SH",
+      "shares": 993588,
+      "value_usd": 226259859,
+      "weight_pct": "0.72",
+      "ticker": "PGR"
+    },
+    {
+      "cusip": "500767306",
+      "name": "KRANESHARES TRUST",
+      "share_type": "SH",
+      "shares": 6499382,
+      "value_usd": 221303957,
+      "weight_pct": "0.70",
+      "ticker": null
+    },
+    {
+      "cusip": "101137107",
+      "name": "BOSTON SCIENTIFIC CORP",
+      "share_type": "SH",
+      "shares": 2081626,
+      "value_usd": 198483039,
+      "weight_pct": "0.63",
+      "ticker": "BSX"
+    },
+    {
+      "cusip": "55354G100",
+      "name": "MSCI INC",
+      "share_type": "SH",
+      "shares": 340382,
+      "value_usd": 195287365,
+      "weight_pct": "0.62",
+      "ticker": "MSCI"
+    },
+    {
+      "cusip": "98850P109",
+      "name": "YUM CHINA HLDGS INC",
+      "share_type": "SH",
+      "shares": 4055217,
+      "value_usd": 193596060,
+      "weight_pct": "0.61",
+      "ticker": "YUMC"
+    },
+    {
+      "cusip": "893641100",
+      "name": "TRANSDIGM GROUP INC",
+      "share_type": "SH",
+      "shares": 145538,
+      "value_usd": 193543709,
+      "weight_pct": "0.61",
+      "ticker": "TDG"
+    },
+    {
+      "cusip": "01609W102",
+      "name": "ALIBABA GROUP HLDG LTD",
+      "share_type": "SH",
+      "shares": 1313262,
+      "value_usd": 192497944,
+      "weight_pct": "0.61",
+      "ticker": null
+    },
+    {
+      "cusip": "91332U101",
+      "name": "UNITY SOFTWARE INC",
+      "share_type": "SH",
+      "shares": 4198921,
+      "value_usd": 185466341,
+      "weight_pct": "0.59",
+      "ticker": "U"
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "share_type": "SH",
+      "shares": 683790,
+      "value_usd": 181142809,
+      "weight_pct": "0.57",
+      "ticker": "CRM"
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "share_type": "SH",
+      "shares": 666203,
+      "value_usd": 181113948,
+      "weight_pct": "0.57",
+      "ticker": "AAPL"
+    },
+    {
+      "cusip": "98138H101",
+      "name": "WORKDAY INC",
+      "share_type": "SH",
+      "shares": 811988,
+      "value_usd": 174398783,
+      "weight_pct": "0.55",
+      "ticker": "WDAY"
+    },
+    {
+      "cusip": "48251W104",
+      "name": "KKR & CO INC",
+      "share_type": "SH",
+      "shares": 1332549,
+      "value_usd": 169873347,
+      "weight_pct": "0.54",
+      "ticker": "KKR"
+    },
+    {
+      "cusip": "46138E628",
+      "name": "INVESCO EXCH TRADED FD TR II",
+      "share_type": "SH",
+      "shares": 1989001,
+      "value_usd": 167652894,
+      "weight_pct": "0.53",
+      "ticker": null
+    },
+    {
+      "cusip": "89677Q107",
+      "name": "TRIP COM GROUP LTD",
+      "share_type": "SH",
+      "shares": 2239671,
+      "value_usd": 161054742,
+      "weight_pct": "0.51",
+      "ticker": "TCOM"
+    },
+    {
+      "cusip": "464286772",
+      "name": "ISHARES INC",
+      "share_type": "SH",
+      "shares": 1594998,
+      "value_usd": 155065706,
+      "weight_pct": "0.49",
+      "ticker": null
+    },
+    {
+      "cusip": "573874104",
+      "name": "MARVELL TECHNOLOGY INC",
+      "share_type": "SH",
+      "shares": 1803487,
+      "value_usd": 153260325,
+      "weight_pct": "0.49",
+      "ticker": "MRVL"
+    },
+    {
+      "cusip": "09075V102",
+      "name": "BIONTECH SE",
+      "share_type": "SH",
+      "shares": 1506027,
+      "value_usd": 143373770,
+      "weight_pct": "0.45",
+      "ticker": "BNTX"
+    },
+    {
+      "cusip": "949746101",
+      "name": "WELLS FARGO CO NEW",
+      "share_type": "SH",
+      "shares": 1523823,
+      "value_usd": 142020304,
+      "weight_pct": "0.45",
+      "ticker": "WFC"
+    },
+    {
+      "cusip": "09857L108",
+      "name": "BOOKING HOLDINGS INC",
+      "share_type": "SH",
+      "shares": 25175,
+      "value_usd": 134820433,
+      "weight_pct": "0.43",
+      "ticker": "BKNG"
+    },
+    {
+      "cusip": "98980A105",
+      "name": "ZTO EXPRESS CAYMAN INC",
+      "share_type": "SH",
+      "shares": 6260241,
+      "value_usd": 130776434,
+      "weight_pct": "0.41",
+      "ticker": null
+    },
+    {
+      "cusip": "369604301",
+      "name": "GE AEROSPACE",
+      "share_type": "SH",
+      "shares": 419029,
+      "value_usd": 129073503,
+      "weight_pct": "0.41",
+      "ticker": null
+    },
+    {
+      "cusip": "249906108",
+      "name": "DESCARTES SYS GROUP INC",
+      "share_type": "SH",
+      "shares": 1464165,
+      "value_usd": 128348704,
+      "weight_pct": "0.41",
+      "ticker": null
+    },
+    {
+      "cusip": "532457108",
+      "name": "ELI LILLY & CO",
+      "share_type": "SH",
+      "shares": 117847,
+      "value_usd": 126647814,
+      "weight_pct": "0.40",
+      "ticker": "LLY"
+    },
+    {
+      "cusip": "03831W108",
+      "name": "APPLOVIN CORP",
+      "share_type": "SH",
+      "shares": 187127,
+      "value_usd": 126089915,
+      "weight_pct": "0.40",
+      "ticker": "APP"
+    }
+  ],
+  "investor": "Temasek Holdings (Private) Ltd",
+  "period": "2025-12-31",
+  "total_holdings": 129,
+  "total_value_usd": 31574813200
+}

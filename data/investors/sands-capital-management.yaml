@@ -1,0 +1,30 @@
+slug: sands-capital-management
+display_name:
+  en: SANDS CAPITAL MANAGEMENT, LLC
+  zh-CN: 桑兹资本
+  zh-HK: 桑茲資本
+tagline:
+  en: SEC 13F filer · AUM $32.88B
+  zh-CN: SEC 13F 机构 · 管理资产 $32.88B
+  zh-HK: SEC 13F 機構 · 管理資產 $32.88B
+role:
+  en: 'Institutional investor (rank #33, CIK 0001020066)'
+  zh-CN: '机构投资者（排名 #33，CIK 0001020066）'
+  zh-HK: '機構投資者（排名 #33，CIK 0001020066）'
+born: 0
+portrait: >-
+  https://api.dicebear.com/7.x/initials/svg?seed=SANDS%20CAPITAL%20MANAGEMENT%2C%20LLC&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001020066'
+holdings_source: 13f
+featured: false
+rank: 33
+aum_usd: 32880000000
+bio:
+  en: >-
+    SANDS CAPITAL MANAGEMENT, LLC is an institutional investor managing approximately $32.88B in disclosed U.S. equity
+    holdings as of 2025-12-31, ranking #33 among SEC 13F filers.
+  zh-CN: '桑兹资本 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $32.88B，在 SEC 13F 机构中排名 #33。'
+  zh-HK: '桑茲資本 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $32.88B，在 SEC 13F 機構中排名 #33。'
+philosophy: []
+quotes: []
+milestones: []

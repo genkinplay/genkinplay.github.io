@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001062993-26-000695",
+  "cik": "0001061186",
+  "filing_date": "2026-02-09",
+  "firm": "WCM INVESTMENT MANAGEMENT, LLC",
+  "holdings": [
+    {
+      "cusip": "81141R100",
+      "name": "SEA LTD",
+      "share_type": "SH",
+      "shares": 25862514,
+      "value_usd": 3319453672,
+      "weight_pct": "6.83",
+      "ticker": "SE"
+    },
+    {
+      "cusip": "03831W108",
+      "name": "APPLOVIN CORP",
+      "share_type": "SH",
+      "shares": 4756310,
+      "value_usd": 3299499810,
+      "weight_pct": "6.79",
+      "ticker": "APP"
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "share_type": "SH",
+      "shares": 9819196,
+      "value_usd": 2941634591,
+      "weight_pct": "6.06",
+      "ticker": null
+    },
+    {
+      "cusip": "N07059210",
+      "name": "ASML HOLDING N V",
+      "share_type": "SH",
+      "shares": 1890995,
+      "value_usd": 2027411765,
+      "weight_pct": "4.17",
+      "ticker": null
+    },
+    {
+      "cusip": "718172109",
+      "name": "PHILIP MORRIS INTL INC",
+      "share_type": "SH",
+      "shares": 10806217,
+      "value_usd": 1750066814,
+      "weight_pct": "3.60",
+      "ticker": "PM"
+    },
+    {
+      "cusip": "45104G104",
+      "name": "ICICI BANK LIMITED",
+      "share_type": "SH",
+      "shares": 53308528,
+      "value_usd": 1591259572,
+      "weight_pct": "3.28",
+      "ticker": "IBN"
+    },
+    {
+      "cusip": "G7997R103",
+      "name": "SEAGATE TECHNOLOGY HLDNGS PL",
+      "share_type": "SH",
+      "shares": 5154872,
+      "value_usd": 1443776642,
+      "weight_pct": "2.97",
+      "ticker": null
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 6138238,
+      "value_usd": 1427324482,
+      "weight_pct": "2.94",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "L8681T102",
+      "name": "SPOTIFY TECHNOLOGY S A",
+      "share_type": "SH",
+      "shares": 2455726,
+      "value_usd": 1416168070,
+      "weight_pct": "2.92",
+      "ticker": "SPOT"
+    },
+    {
+      "cusip": "G54950103",
+      "name": "LINDE PLC",
+      "share_type": "SH",
+      "shares": 3274048,
+      "value_usd": 1402471051,
+      "weight_pct": "2.89",
+      "ticker": "LIN"
+    },
+    {
+      "cusip": "G0450A105",
+      "name": "ARCH CAP GROUP LTD",
+      "share_type": "SH",
+      "shares": 13283915,
+      "value_usd": 1284023269,
+      "weight_pct": "2.64",
+      "ticker": null
+    },
+    {
+      "cusip": "G6683N103",
+      "name": "NU HLDGS LTD",
+      "share_type": "SH",
+      "shares": 73938595,
+      "value_usd": 1248083484,
+      "weight_pct": "2.57",
+      "ticker": "NU"
+    },
+    {
+      "cusip": "13646K108",
+      "name": "CANADIAN PACIFIC KANSAS CITY",
+      "share_type": "SH",
+      "shares": 16306938,
+      "value_usd": 1211442428,
+      "weight_pct": "2.49",
+      "ticker": "CP"
+    },
+    {
+      "cusip": "958102105",
+      "name": "WESTERN DIGITAL CORP",
+      "share_type": "SH",
+      "shares": 6691209,
+      "value_usd": 1178054257,
+      "weight_pct": "2.43",
+      "ticker": "WDC"
+    },
+    {
+      "cusip": "22266T109",
+      "name": "COUPANG INC",
+      "share_type": "SH",
+      "shares": 48251523,
+      "value_usd": 1164309250,
+      "weight_pct": "2.40",
+      "ticker": "CPNG"
+    },
+    {
+      "cusip": "94106B101",
+      "name": "WASTE CONNECTIONS INC",
+      "share_type": "SH",
+      "shares": 6286390,
+      "value_usd": 1119920334,
+      "weight_pct": "2.31",
+      "ticker": "WCN"
+    },
+    {
+      "cusip": "82509L107",
+      "name": "SHOPIFY INC",
+      "share_type": "SH",
+      "shares": 6700679,
+      "value_usd": 1097169179,
+      "weight_pct": "2.26",
+      "ticker": "SHOP"
+    },
+    {
+      "cusip": "31488V107",
+      "name": "FERGUSON ENTERPRISES INC",
+      "share_type": "SH",
+      "shares": 4406095,
+      "value_usd": 993882849,
+      "weight_pct": "2.05",
+      "ticker": "FERG"
+    },
+    {
+      "cusip": "58733R102",
+      "name": "MERCADOLIBRE INC",
+      "share_type": "SH",
+      "shares": 487561,
+      "value_usd": 985302274,
+      "weight_pct": "2.03",
+      "ticker": "MELI"
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 1942966,
+      "value_usd": 947157134,
+      "weight_pct": "1.95",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 4527198,
+      "value_usd": 849030713,
+      "weight_pct": "1.75",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "14149Y108",
+      "name": "CARDINAL HEALTH INC",
+      "share_type": "SH",
+      "shares": 4032682,
+      "value_usd": 835612037,
+      "weight_pct": "1.72",
+      "ticker": "CAH"
+    },
+    {
+      "cusip": "58155Q103",
+      "name": "MCKESSON CORP",
+      "share_type": "SH",
+      "shares": 944071,
+      "value_usd": 781058318,
+      "weight_pct": "1.61",
+      "ticker": "MCK"
+    },
+    {
+      "cusip": "92826C839",
+      "name": "VISA INC",
+      "share_type": "SH",
+      "shares": 2086267,
+      "value_usd": 737745793,
+      "weight_pct": "1.52",
+      "ticker": "V"
+    },
+    {
+      "cusip": "219350105",
+      "name": "CORNING INC",
+      "share_type": "SH",
+      "shares": 8224770,
+      "value_usd": 730853062,
+      "weight_pct": "1.50",
+      "ticker": "GLW"
+    },
+    {
+      "cusip": "369604301",
+      "name": "GE AEROSPACE",
+      "share_type": "SH",
+      "shares": 2312597,
+      "value_usd": 721044619,
+      "weight_pct": "1.48",
+      "ticker": null
+    },
+    {
+      "cusip": "G0403H108",
+      "name": "AON PLC",
+      "share_type": "SH",
+      "shares": 1986128,
+      "value_usd": 708034853,
+      "weight_pct": "1.46",
+      "ticker": "AON"
+    },
+    {
+      "cusip": "363576109",
+      "name": "GALLAGHER ARTHUR J & CO",
+      "share_type": "SH",
+      "shares": 2380294,
+      "value_usd": 623232443,
+      "weight_pct": "1.28",
+      "ticker": null
+    },
+    {
+      "cusip": "50212V100",
+      "name": "LPL FINL HLDGS INC",
+      "share_type": "SH",
+      "shares": 1721473,
+      "value_usd": 619299955,
+      "weight_pct": "1.28",
+      "ticker": "LPLA"
+    },
+    {
+      "cusip": "95040Q104",
+      "name": "WELLTOWER INC",
+      "share_type": "SH",
+      "shares": 3281537,
+      "value_usd": 616928956,
+      "weight_pct": "1.27",
+      "ticker": "WELL"
+    },
+    {
+      "cusip": "770700102",
+      "name": "ROBINHOOD MKTS INC",
+      "share_type": "SH",
+      "shares": 5157765,
+      "value_usd": 595463969,
+      "weight_pct": "1.23",
+      "ticker": null
+    },
+    {
+      "cusip": "22052L104",
+      "name": "CORTEVA INC",
+      "share_type": "SH",
+      "shares": 8805284,
+      "value_usd": 593212009,
+      "weight_pct": "1.22",
+      "ticker": "CTVA"
+    },
+    {
+      "cusip": "759351604",
+      "name": "REINSURANCE GRP OF AMERICA I",
+      "share_type": "SH",
+      "shares": 2747939,
+      "value_usd": 562942784,
+      "weight_pct": "1.16",
+      "ticker": null
+    },
+    {
+      "cusip": "M7S64H106",
+      "name": "MONDAY COM LTD",
+      "share_type": "SH",
+      "shares": 3761924,
+      "value_usd": 546682796,
+      "weight_pct": "1.13",
+      "ticker": "MNDY"
+    },
+    {
+      "cusip": "452327109",
+      "name": "ILLUMINA INC",
+      "share_type": "SH",
+      "shares": 4071325,
+      "value_usd": 540468394,
+      "weight_pct": "1.11",
+      "ticker": "ILMN"
+    },
+    {
+      "cusip": "92532F100",
+      "name": "VERTEX PHARMACEUTICALS INC",
+      "share_type": "SH",
+      "shares": 1129145,
+      "value_usd": 512338252,
+      "weight_pct": "1.05",
+      "ticker": null
+    },
+    {
+      "cusip": "881624209",
+      "name": "TEVA PHARMACEUTICAL INDS LTD",
+      "share_type": "SH",
+      "shares": 14007078,
+      "value_usd": 438981825,
+      "weight_pct": "0.90",
+      "ticker": null
+    },
+    {
+      "cusip": "380237107",
+      "name": "GODADDY INC",
+      "share_type": "SH",
+      "shares": 3280947,
+      "value_usd": 413661798,
+      "weight_pct": "0.85",
+      "ticker": "GDDY"
+    },
+    {
+      "cusip": "36828A101",
+      "name": "GE VERNOVA INC",
+      "share_type": "SH",
+      "shares": 597527,
+      "value_usd": 394152710,
+      "weight_pct": "0.81",
+      "ticker": "GEV"
+    },
+    {
+      "cusip": "58507V107",
+      "name": "MEDLINE INC",
+      "share_type": "SH",
+      "shares": 7324583,
+      "value_usd": 307046519,
+      "weight_pct": "0.63",
+      "ticker": "MDLN"
+    },
+    {
+      "cusip": "803054204",
+      "name": "SAP SE",
+      "share_type": "SH",
+      "shares": 1119733,
+      "value_usd": 273875458,
+      "weight_pct": "0.56",
+      "ticker": "SAP"
+    },
+    {
+      "cusip": "046353108",
+      "name": "ASTRAZENECA PLC",
+      "share_type": "SH",
+      "shares": 2662619,
+      "value_usd": 246318868,
+      "weight_pct": "0.51",
+      "ticker": "AZN"
+    },
+    {
+      "cusip": "H42097107",
+      "name": "UBS GROUP AG",
+      "share_type": "SH",
+      "shares": 5211089,
+      "value_usd": 242419876,
+      "weight_pct": "0.50",
+      "ticker": "UBS"
+    },
+    {
+      "cusip": "398182303",
+      "name": "AMERICAN HEALTHCARE REIT INC",
+      "share_type": "SH",
+      "shares": 3408275,
+      "value_usd": 162711049,
+      "weight_pct": "0.34",
+      "ticker": "AHR"
+    },
+    {
+      "cusip": "N3167Y103",
+      "name": "FERRARI N V",
+      "share_type": "SH",
+      "shares": 424528,
+      "value_usd": 158128126,
+      "weight_pct": "0.33",
+      "ticker": "RACE"
+    },
+    {
+      "cusip": "15101Q207",
+      "name": "CELESTICA INC",
+      "share_type": "SH",
+      "shares": 524725,
+      "value_usd": 157102665,
+      "weight_pct": "0.32",
+      "ticker": "CLS"
+    },
+    {
+      "cusip": "464287465",
+      "name": "ISHARES TR",
+      "share_type": "SH",
+      "shares": 1526607,
+      "value_usd": 147225979,
+      "weight_pct": "0.30",
+      "ticker": null
+    },
+    {
+      "cusip": "136385101",
+      "name": "CANADIAN NAT RES LTD",
+      "share_type": "SH",
+      "shares": 4183999,
+      "value_usd": 141879419,
+      "weight_pct": "0.29",
+      "ticker": null
+    },
+    {
+      "cusip": "144285103",
+      "name": "CARPENTER TECHNOLOGY CORP",
+      "share_type": "SH",
+      "shares": 433914,
+      "value_usd": 138245000,
+      "weight_pct": "0.28",
+      "ticker": "CRS"
+    },
+    {
+      "cusip": "670100205",
+      "name": "NOVO-NORDISK A S",
+      "share_type": "SH",
+      "shares": 2508292,
+      "value_usd": 128474693,
+      "weight_pct": "0.26",
+      "ticker": "NVO"
+    }
+  ],
+  "investor": "WCM INVESTMENT MANAGEMENT, LLC",
+  "period": "2025-12-31",
+  "total_holdings": 241,
+  "total_value_usd": 48567796451
+}

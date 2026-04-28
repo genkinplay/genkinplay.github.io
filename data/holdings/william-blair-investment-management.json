@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001644956-26-000007",
+  "cik": "0001644956",
+  "filing_date": "2026-02-09",
+  "firm": "WILLIAM BLAIR INVESTMENT MANAGEMENT, LLC",
+  "holdings": [
+    {
+      "cusip": "67066G104",
+      "name": "NVIDIA CORPORATION",
+      "share_type": "SH",
+      "shares": 10628667,
+      "value_usd": 1982246472,
+      "weight_pct": "5.53",
+      "ticker": "NVDA"
+    },
+    {
+      "cusip": "874039100",
+      "name": "TAIWAN SEMICONDUCTOR MFG LTD",
+      "share_type": "SH",
+      "shares": 5985330,
+      "value_usd": 1818691603,
+      "weight_pct": "5.07",
+      "ticker": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 3490302,
+      "value_usd": 1687980035,
+      "weight_pct": "4.71",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "037833100",
+      "name": "APPLE INC",
+      "share_type": "SH",
+      "shares": 5444328,
+      "value_usd": 1480095042,
+      "weight_pct": "4.13",
+      "ticker": "AAPL"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 4387003,
+      "value_usd": 1012608032,
+      "weight_pct": "2.82",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 3154973,
+      "value_usd": 987506420,
+      "weight_pct": "2.75",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "11135F101",
+      "name": "BROADCOM INC",
+      "share_type": "SH",
+      "shares": 2536611,
+      "value_usd": 877921123,
+      "weight_pct": "2.45",
+      "ticker": "AVGO"
+    },
+    {
+      "cusip": "30303M102",
+      "name": "META PLATFORMS INC",
+      "share_type": "SH",
+      "shares": 1186769,
+      "value_usd": 783374029,
+      "weight_pct": "2.19",
+      "ticker": "META"
+    },
+    {
+      "cusip": "57636Q104",
+      "name": "MASTERCARD INCORPORATED",
+      "share_type": "SH",
+      "shares": 1084947,
+      "value_usd": 619374340,
+      "weight_pct": "1.73",
+      "ticker": "MA"
+    },
+    {
+      "cusip": "14316J108",
+      "name": "CARLYLE GROUP INC",
+      "share_type": "SH",
+      "shares": 7131902,
+      "value_usd": 421566732,
+      "weight_pct": "1.18",
+      "ticker": "CG"
+    },
+    {
+      "cusip": "89400J107",
+      "name": "TRANSUNION",
+      "share_type": "SH",
+      "shares": 3965495,
+      "value_usd": 340041175,
+      "weight_pct": "0.95",
+      "ticker": "TRU"
+    },
+    {
+      "cusip": "58733R102",
+      "name": "MERCADOLIBRE INC",
+      "share_type": "SH",
+      "shares": 165579,
+      "value_usd": 333519157,
+      "weight_pct": "0.93",
+      "ticker": "MELI"
+    },
+    {
+      "cusip": "81762P102",
+      "name": "SERVICENOW INC",
+      "share_type": "SH",
+      "shares": 2148780,
+      "value_usd": 329171608,
+      "weight_pct": "0.92",
+      "ticker": "NOW"
+    },
+    {
+      "cusip": "G6683N103",
+      "name": "NU HLDGS LTD",
+      "share_type": "SH",
+      "shares": 18699367,
+      "value_usd": 313027404,
+      "weight_pct": "0.87",
+      "ticker": "NU"
+    },
+    {
+      "cusip": "81141R100",
+      "name": "SEA LTD",
+      "share_type": "SH",
+      "shares": 2370876,
+      "value_usd": 302415318,
+      "weight_pct": "0.84",
+      "ticker": "SE"
+    },
+    {
+      "cusip": "45168D104",
+      "name": "IDEXX LABS INC",
+      "share_type": "SH",
+      "shares": 441324,
+      "value_usd": 298568926,
+      "weight_pct": "0.83",
+      "ticker": null
+    },
+    {
+      "cusip": "833445109",
+      "name": "SNOWFLAKE INC",
+      "share_type": "SH",
+      "shares": 1346998,
+      "value_usd": 295477481,
+      "weight_pct": "0.82",
+      "ticker": "SNOW"
+    },
+    {
+      "cusip": "461202103",
+      "name": "INTUIT",
+      "share_type": "SH",
+      "shares": 442391,
+      "value_usd": 293048853,
+      "weight_pct": "0.82",
+      "ticker": "INTU"
+    },
+    {
+      "cusip": "61174X109",
+      "name": "MONSTER BEVERAGE CORP NEW",
+      "share_type": "SH",
+      "shares": 3761249,
+      "value_usd": 288374961,
+      "weight_pct": "0.80",
+      "ticker": "MNST"
+    },
+    {
+      "cusip": "007903107",
+      "name": "ADVANCED MICRO DEVICES INC",
+      "share_type": "SH",
+      "shares": 1339546,
+      "value_usd": 286877171,
+      "weight_pct": "0.80",
+      "ticker": "AMD"
+    },
+    {
+      "cusip": "22160K105",
+      "name": "COSTCO WHSL CORP NEW",
+      "share_type": "SH",
+      "shares": 328468,
+      "value_usd": 283251095,
+      "weight_pct": "0.79",
+      "ticker": null
+    },
+    {
+      "cusip": "00846U101",
+      "name": "AGILENT TECHNOLOGIES INC",
+      "share_type": "SH",
+      "shares": 2063009,
+      "value_usd": 280713658,
+      "weight_pct": "0.78",
+      "ticker": "A"
+    },
+    {
+      "cusip": "G54950103",
+      "name": "LINDE PLC",
+      "share_type": "SH",
+      "shares": 643470,
+      "value_usd": 274369173,
+      "weight_pct": "0.77",
+      "ticker": "LIN"
+    },
+    {
+      "cusip": "683344105",
+      "name": "ONTO INNOVATION INC",
+      "share_type": "SH",
+      "shares": 1726587,
+      "value_usd": 272559024,
+      "weight_pct": "0.76",
+      "ticker": "ONTO"
+    },
+    {
+      "cusip": "67103H107",
+      "name": "OREILLY AUTOMOTIVE INC",
+      "share_type": "SH",
+      "shares": 2981507,
+      "value_usd": 271943253,
+      "weight_pct": "0.76",
+      "ticker": null
+    },
+    {
+      "cusip": "465562106",
+      "name": "ITAU UNIBANCO HLDG S A",
+      "share_type": "SH",
+      "shares": 36551763,
+      "value_usd": 261678817,
+      "weight_pct": "0.73",
+      "ticker": null
+    },
+    {
+      "cusip": "171779309",
+      "name": "CIENA CORP",
+      "share_type": "SH",
+      "shares": 1098593,
+      "value_usd": 256927945,
+      "weight_pct": "0.72",
+      "ticker": "CIEN"
+    },
+    {
+      "cusip": "91324P102",
+      "name": "UNITEDHEALTH GROUP INC",
+      "share_type": "SH",
+      "shares": 762243,
+      "value_usd": 251624077,
+      "weight_pct": "0.70",
+      "ticker": "UNH"
+    },
+    {
+      "cusip": "74624M102",
+      "name": "PURE STORAGE INC",
+      "share_type": "SH",
+      "shares": 3742928,
+      "value_usd": 250813605,
+      "weight_pct": "0.70",
+      "ticker": null
+    },
+    {
+      "cusip": "68389X105",
+      "name": "ORACLE CORP",
+      "share_type": "SH",
+      "shares": 1256536,
+      "value_usd": 244911529,
+      "weight_pct": "0.68",
+      "ticker": "ORCL"
+    },
+    {
+      "cusip": "26622P107",
+      "name": "DOXIMITY INC",
+      "share_type": "SH",
+      "shares": 5456985,
+      "value_usd": 241635296,
+      "weight_pct": "0.67",
+      "ticker": "DOCS"
+    },
+    {
+      "cusip": "902252105",
+      "name": "TYLER TECHNOLOGIES INC",
+      "share_type": "SH",
+      "shares": 495297,
+      "value_usd": 224840073,
+      "weight_pct": "0.63",
+      "ticker": "TYL"
+    },
+    {
+      "cusip": "G2519Y108",
+      "name": "CREDICORP LTD",
+      "share_type": "SH",
+      "shares": 767413,
+      "value_usd": 220247531,
+      "weight_pct": "0.61",
+      "ticker": "BAP"
+    },
+    {
+      "cusip": "379577208",
+      "name": "GLOBUS MED INC",
+      "share_type": "SH",
+      "shares": 2519782,
+      "value_usd": 220002166,
+      "weight_pct": "0.61",
+      "ticker": null
+    },
+    {
+      "cusip": "87422Q109",
+      "name": "TALEN ENERGY CORP",
+      "share_type": "SH",
+      "shares": 569399,
+      "value_usd": 213433521,
+      "weight_pct": "0.60",
+      "ticker": "TLN"
+    },
+    {
+      "cusip": "457669307",
+      "name": "INSMED INC",
+      "share_type": "SH",
+      "shares": 1221096,
+      "value_usd": 212519548,
+      "weight_pct": "0.59",
+      "ticker": "INSM"
+    },
+    {
+      "cusip": "741623102",
+      "name": "PRIMO BRANDS CORPORATION",
+      "share_type": "SH",
+      "shares": 12627420,
+      "value_usd": 206458317,
+      "weight_pct": "0.58",
+      "ticker": "PRMB"
+    },
+    {
+      "cusip": "558868105",
+      "name": "MADRIGAL PHARMACEUTICALS INC",
+      "share_type": "SH",
+      "shares": 354220,
+      "value_usd": 206276475,
+      "weight_pct": "0.58",
+      "ticker": "MDGL"
+    },
+    {
+      "cusip": "624756102",
+      "name": "MUELLER INDS INC",
+      "share_type": "SH",
+      "shares": 1779906,
+      "value_usd": 204333209,
+      "weight_pct": "0.57",
+      "ticker": null
+    },
+    {
+      "cusip": "G3223R108",
+      "name": "EVEREST GROUP LTD",
+      "share_type": "SH",
+      "shares": 584301,
+      "value_usd": 198282544,
+      "weight_pct": "0.55",
+      "ticker": "EG"
+    },
+    {
+      "cusip": "922475108",
+      "name": "VEEVA SYS INC",
+      "share_type": "SH",
+      "shares": 881223,
+      "value_usd": 196715410,
+      "weight_pct": "0.55",
+      "ticker": null
+    },
+    {
+      "cusip": "74736L109",
+      "name": "Q2 HLDGS INC",
+      "share_type": "SH",
+      "shares": 2694718,
+      "value_usd": 194450851,
+      "weight_pct": "0.54",
+      "ticker": "QTWO"
+    },
+    {
+      "cusip": "05605H100",
+      "name": "BWX TECHNOLOGIES INC",
+      "share_type": "SH",
+      "shares": 1107600,
+      "value_usd": 191437584,
+      "weight_pct": "0.53",
+      "ticker": "BWXT"
+    },
+    {
+      "cusip": "90184D100",
+      "name": "TWIST BIOSCIENCE CORP",
+      "share_type": "SH",
+      "shares": 5954429,
+      "value_usd": 188874488,
+      "weight_pct": "0.53",
+      "ticker": "TWST"
+    },
+    {
+      "cusip": "04016X101",
+      "name": "ARGENX SE",
+      "share_type": "SH",
+      "shares": 223666,
+      "value_usd": 188070728,
+      "weight_pct": "0.52",
+      "ticker": "ARGX"
+    },
+    {
+      "cusip": "05589G102",
+      "name": "THE BALDWIN INSURANCE GRP IN",
+      "share_type": "SH",
+      "shares": 7543813,
+      "value_usd": 181277826,
+      "weight_pct": "0.51",
+      "ticker": null
+    },
+    {
+      "cusip": "13321L108",
+      "name": "CAMECO CORP",
+      "share_type": "SH",
+      "shares": 1980827,
+      "value_usd": 181225819,
+      "weight_pct": "0.51",
+      "ticker": "CCJ"
+    },
+    {
+      "cusip": "109696104",
+      "name": "BRINKS CO",
+      "share_type": "SH",
+      "shares": 1544641,
+      "value_usd": 180305944,
+      "weight_pct": "0.50",
+      "ticker": "BCO"
+    },
+    {
+      "cusip": "217204106",
+      "name": "COPART INC",
+      "share_type": "SH",
+      "shares": 4585833,
+      "value_usd": 179535362,
+      "weight_pct": "0.50",
+      "ticker": "CPRT"
+    },
+    {
+      "cusip": "946784105",
+      "name": "WAYSTAR HLDG CORP",
+      "share_type": "SH",
+      "shares": 5282220,
+      "value_usd": 172992705,
+      "weight_pct": "0.48",
+      "ticker": null
+    }
+  ],
+  "investor": "WILLIAM BLAIR INVESTMENT MANAGEMENT, LLC",
+  "period": "2025-12-31",
+  "total_holdings": 413,
+  "total_value_usd": 35851583813
+}

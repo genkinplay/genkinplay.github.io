@@ -3,7 +3,9 @@
     "hero_title": "跟隨全球最受關注投資人的真實打法",
     "hero_subtitle": "真實 13F 快照 · 精選持倉 · 可下載的 AI Skill。",
     "cta_primary": "開始瀏覽",
-    "cta_ghost": "關於"
+    "cta_ghost": "關於",
+    "all_institutions": "更多投資者",
+    "all_institutions_subtitle": "按管理資產規模排名"
   },
   "hero": {
     "title": {
@@ -11,6 +13,7 @@
       "accent": "Investors"
     },
     "following": "Following",
+    "names": ["巴菲特", "凱茜·伍德", "馬斯克", "黃仁勳", "奧特曼"],
     "subtitle": "真實 13F 快照、精選持倉、可下載的 AI Skill —— 在 Claude Code 裡，走進全球最受關注投資人的思維方式。",
     "cta": {
       "primary": "瀏覽投資人",
@@ -24,7 +27,7 @@
     "endpoints": "重倉股"
   },
   "detail": {
-    "bio": "人物介紹",
+    "bio": "投資者介紹",
     "philosophy": "投資哲學",
     "holdings_13f": "Top 持倉（13F）",
     "holdings_curated": "代表持倉",
@@ -36,7 +39,10 @@
     "download_desc": "將 .skill 檔案匯入 Claude Code，即可與該投資人的思維方式對話。",
     "download_cta": "下載 .skill",
     "insider_trades": "內部人交易 · SEC Form 4",
-    "insider_ticker_label": "標的："
+    "insider_ticker_label": "標的：",
+    "holdings_curated_disclaimer": "整理自公開資訊",
+    "source_link": "來源 →",
+    "related": "更多投資人"
   },
   "badges": {
     "13f": "13F 機構",

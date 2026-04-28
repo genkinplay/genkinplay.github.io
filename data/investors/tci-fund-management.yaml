@@ -1,0 +1,30 @@
+slug: tci-fund-management
+display_name:
+  en: TCI Fund Management Ltd
+  zh-CN: 儿童投资基金（TCI）
+  zh-HK: 兒童投資基金（TCI）
+tagline:
+  en: SEC 13F filer · AUM $53.65B
+  zh-CN: SEC 13F 机构 · 管理资产 $53.65B
+  zh-HK: SEC 13F 機構 · 管理資產 $53.65B
+role:
+  en: 'Institutional investor (rank #16, CIK 0001647251)'
+  zh-CN: '机构投资者（排名 #16，CIK 0001647251）'
+  zh-HK: '機構投資者（排名 #16，CIK 0001647251）'
+born: 0
+portrait: >-
+  https://api.dicebear.com/7.x/initials/svg?seed=TCI%20Fund%20Management%20Ltd&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001647251'
+holdings_source: 13f
+featured: false
+rank: 16
+aum_usd: 53650000000
+bio:
+  en: >-
+    TCI Fund Management Ltd is an institutional investor managing approximately $53.65B in disclosed U.S. equity
+    holdings as of 2025-12-31, ranking #16 among SEC 13F filers.
+  zh-CN: '儿童投资基金（TCI） 是一家机构投资者，截至 2025-12-31 公开披露的美股持仓约 $53.65B，在 SEC 13F 机构中排名 #16。'
+  zh-HK: '兒童投資基金（TCI） 是一家機構投資者，截至 2025-12-31 公開披露的美股持倉約 $53.65B，在 SEC 13F 機構中排名 #16。'
+philosophy: []
+quotes: []
+milestones: []

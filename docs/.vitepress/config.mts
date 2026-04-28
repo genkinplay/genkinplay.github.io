@@ -1,100 +1,125 @@
-import { defineConfig } from 'vitepress'
-import tailwind from '@tailwindcss/vite'
-import yaml from '@rollup/plugin-yaml'
-import { resolve, dirname } from 'node:path'
-import { fileURLToPath } from 'node:url'
+import { defineConfig } from "vitepress";
+import tailwind from "@tailwindcss/vite";
+import yaml from "@rollup/plugin-yaml";
+import { resolve, dirname } from "node:path";
+import { fileURLToPath } from "node:url";
 
 // NOTE: We intentionally do NOT import @vitejs/plugin-vue here.
 // VitePress bundles its own plugin-vue; re-registering our own causes
 // every .vue SFC to be transformed twice, which makes the second pass
 // re-parse already-compiled JS as an SFC and blow up with
 // "At least one <template> or <script> is required...".
-const __dirname = dirname(fileURLToPath(import.meta.url))
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 // Base path 由部署目标决定：
 //   - 本地 dev / preview / 自定义域名根：'/'
 //   - GitHub Pages 项目站（<owner>.github.io/<repo>/）：'/<repo>/'
 // CI 通过 actions/configure-pages 输出 base_path 注入到 VITEPRESS_BASE。
-const base = process.env.VITEPRESS_BASE || '/'
+const base = process.env.VITEPRESS_BASE || "/";
 
 // nav 上的 logo：本地的宽版（bars + LONGBRIDGE 文字一体），从 longbridge-com-hk.png 去掉 Hong Kong 后裁切而来
-const LOGO_NAV = '/brand/logo.png'
+const LOGO_NAV = "/brand/logo.png";
 // 浏览器 tab favicon：方形的纯 bars 图标（宽版图比例不适合 favicon）
-const LOGO_ICON = 'https://assets.wbrks.com/assets/logo/logo1.png'
+const LOGO_ICON = "https://assets.wbrks.com/assets/logo/logo1.png";
 
 // 通用 nav 构造：根据 locale 拼 longbridge.com 的对应页面
 // VitePress 默认外链 (https://...) 会带 target="_blank" + 外部图标；
 // 我们要求 nav 跳转在当前 tab 打开，所以显式 target="_self" + noIcon
-function buildNav(lang: 'en' | 'zh-CN' | 'zh-HK') {
+function buildNav(lang: "en" | "zh-CN" | "zh-HK") {
   const labels = {
-    en:      { home: 'Home',     community: 'Community', news: 'News',     about: 'About' },
-    'zh-CN': { home: '首页',     community: '社区',       news: '资讯',     about: '关于' },
-    'zh-HK': { home: '首頁',     community: '社群',       news: '資訊',     about: '關於' },
-  }[lang]
+    en: { home: "Home", community: "Community", news: "News", about: "About" },
+    "zh-CN": { home: "首页", community: "社区", news: "资讯", about: "关于" },
+    "zh-HK": { home: "首頁", community: "社群", news: "資訊", about: "關於" },
+  }[lang];
 
-  const sameTab = { target: '_self', noIcon: true } as const
+  const sameTab = { target: "_self", noIcon: true } as const;
 
   return [
-    { text: labels.home,      link: 'https://longbridge.com/',                          ...sameTab },
-    { text: labels.community, link: `https://longbridge.com/${lang}/topics`,            ...sameTab },
-    { text: labels.news,      link: `https://longbridge.com/${lang}/news`,              ...sameTab },
-    { text: labels.about,     link: `https://longbridge.com/${lang}/about`,             ...sameTab },
-  ]
+    { text: labels.home, link: "https://longbridge.com/", ...sameTab },
+    {
+      text: labels.community,
+      link: `https://longbridge.com/${lang}/topics`,
+      ...sameTab,
+    },
+    {
+      text: labels.news,
+      link: `https://longbridge.com/${lang}/news`,
+      ...sameTab,
+    },
+    {
+      text: labels.about,
+      link: `https://longbridge.com/${lang}/about`,
+      ...sameTab,
+    },
+  ];
+}
+
+// 网站底部数据来源 / 版权说明，三语化。
+// VitePress 的 themeConfig.footer.message 接受 HTML，在每个 locale 单独配置。
+const CLI_DOCS = "https://open.longbridge.com/docs/cli/";
+const LONGBRIDGE_HOME = "https://longbridge.com/";
+function buildFooter(lang: "en" | "zh-CN" | "zh-HK") {
+  const cliLink = `<a href="${CLI_DOCS}" target="_blank" rel="noopener">longbridge-terminal</a>`;
+  const lbLink = `<a href="${LONGBRIDGE_HOME}" target="_blank" rel="noopener">Longbridge</a>`;
+  const messages = {
+    en: `Data via ${cliLink}, by ${lbLink} · Portraits from Wikipedia under Creative Commons`,
+    "zh-CN": `数据来自 ${cliLink}（由 ${lbLink} 提供）· 头像取自维基百科（Creative Commons 协议）`,
+    "zh-HK": `資料來自 ${cliLink}（由 ${lbLink} 提供）· 頭像取自維基百科（Creative Commons 協議）`,
+  };
+  return {
+    message: messages[lang],
+    copyright: `© ${new Date().getFullYear()} Longbridge`,
+  };
 }
 
 export default defineConfig({
-  title: 'Longbridge',
-  description: 'Real 13F snapshots, curated holdings, downloadable AI skills.',
+  title: "Longbridge",
+  description: "Real 13F snapshots, curated holdings, downloadable AI skills.",
   base,
   cleanUrls: true,
-  lastUpdated: true,
+  lastUpdated: false,
   ignoreDeadLinks: true,
+
+  // 移除 nav 上的昼夜模式切换；强制 light 模式（避免某些自定义组件颜色在
+  // dark mode 下没有适配好导致显示异常）
+  appearance: false,
 
   // 浏览器 tab favicon + Apple touch icon
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: LOGO_ICON }],
-    ['link', { rel: 'apple-touch-icon', href: LOGO_ICON }],
+    ["link", { rel: "icon", type: "image/png", href: LOGO_ICON }],
+    ["link", { rel: "apple-touch-icon", href: LOGO_ICON }],
   ],
 
   // Exclude spec/plan meta docs from the VitePress content tree
   srcExclude: [
-    'superpowers/**',
-    'zh-CN/superpowers/**',
-    'zh-HK/superpowers/**',
+    "superpowers/**",
+    "zh-CN/superpowers/**",
+    "zh-HK/superpowers/**",
   ],
 
   locales: {
     root: {
-      label: 'English',
-      lang: 'en',
+      label: "English",
+      lang: "en",
       themeConfig: {
-        nav: buildNav('en'),
-        lastUpdated: {
-          text: 'Updated',
-          formatOptions: { dateStyle: 'long', forceLocale: true },
-        },
+        nav: buildNav("en"),
+        footer: buildFooter("en"),
       },
     },
-    'zh-CN': {
-      label: '简体中文',
-      lang: 'zh-CN',
+    "zh-CN": {
+      label: "简体中文",
+      lang: "zh-CN",
       themeConfig: {
-        nav: buildNav('zh-CN'),
-        lastUpdated: {
-          text: '更新于',
-          formatOptions: { dateStyle: 'long', forceLocale: true },
-        },
+        nav: buildNav("zh-CN"),
+        footer: buildFooter("zh-CN"),
       },
     },
-    'zh-HK': {
-      label: '繁體中文',
-      lang: 'zh-HK',
+    "zh-HK": {
+      label: "繁體中文",
+      lang: "zh-HK",
       themeConfig: {
-        nav: buildNav('zh-HK'),
-        lastUpdated: {
-          text: '更新於',
-          formatOptions: { dateStyle: 'long', forceLocale: true },
-        },
+        nav: buildNav("zh-HK"),
+        footer: buildFooter("zh-HK"),
       },
     },
   },
@@ -103,14 +128,14 @@ export default defineConfig({
     plugins: [tailwind(), yaml()],
     // public dir at project root (not docs/public/)
     // holds portraits/ (committed) + skills/ (copied at build time from root skills/)
-    publicDir: resolve(__dirname, '../../public'),
+    publicDir: resolve(__dirname, "../../public"),
     ssr: {
-      noExternal: ['vue-i18n'],
+      noExternal: ["vue-i18n"],
     },
     resolve: {
       alias: {
-        '@data': resolve(__dirname, '../../data'),
-        '@theme': resolve(__dirname, './theme'),
+        "@data": resolve(__dirname, "../../data"),
+        "@theme": resolve(__dirname, "./theme"),
       },
     },
   },
@@ -121,4 +146,4 @@ export default defineConfig({
     siteTitle: false,
     socialLinks: [],
   },
-})
+});

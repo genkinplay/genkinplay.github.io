@@ -8,7 +8,7 @@ const props = defineProps<{
   ctaLabel: string
 }>()
 
-const href = computed(() => `/skills/${props.skillFile}`)
+const href = computed(() => `/install/${props.skillFile}`)
 </script>
 
 <template>

@@ -1,0 +1,36 @@
+slug: akuna-securities
+display_name:
+  en: AKUNA SECURITIES LLC
+  zh-CN: AKUNA SECURITIES LLC
+  zh-HK: AKUNA SECURITIES LLC
+tagline:
+  en: SEC 13F filer · AUM $26.24B
+  zh-CN: SEC 13F 机构 · 管理资产 $26.24B
+  zh-HK: SEC 13F 機構 · 管理資產 $26.24B
+role:
+  en: 'Institutional investor (rank #40, CIK 0001529090)'
+  zh-CN: '机构投资者（排名 #40，CIK 0001529090）'
+  zh-HK: '機構投資者（排名 #40，CIK 0001529090）'
+born: 0
+portrait: https://api.dicebear.com/7.x/initials/svg?seed=AKUNA%20SECURITIES%20LLC&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001529090'
+holdings_source: 13f
+featured: false
+rank: 40
+aum_usd: 26240000000
+bio:
+  en: Gadsup is a Kainantu language spoken by the people of the same name in Papua New Guinea.
+  zh-CN: |-
+    Akonadi 是一个可扩展的个人信息管理系统（PIM）数据和元数据的跨桌面存储服务，提供读、写和查询服务。它提供了独特的桌面广泛目标识别和文件检索。 Akonadi将作为所有的PIM应用程序一个可扩展的数据存储。在KDE 3所有的PIM应用程序有不同的数据存储和处理方法，从而导致一些基本相同功能的实现。 除了数据存储， Akonadi还有其他几个组成部分，包括搜索和一个函数库（缓存）作为方便使用和通知数据的变化。
+    Akonadi通信借由服务来截取和发送数据，而不是通过一个专门的应用程序API 。数据可以借由模型设计取自Akonadi，旨在集合具体的数据（电子邮件，日历，联系人等）。应用程序本身将查看和编辑的数据显示给用户，让他们来输入数据。Akonadi也将支持应用程序的元数据创建。
+    由于Akonadi关注数据存储和检索，这是传统上建立PIM应用程序的困难部分，让PIM应用程序的发展容易得多。事实上，Mailody小组演示如何使用Akonadi创建一个邮件阅读器，只花了10分钟。
+  zh-HK: |-
+    Akonadi 是一個可延伸的個人資訊管理系統（PIM）數據和元數據的跨桌面儲存服務，提供讀、寫和查詢服務。它提供了獨特的桌面廣泛目標識別和檔案檢索。 Akonadi將作為所有的PIM應用程式一個可延伸的數據儲存。在KDE 3所有的PIM應用程式有不同的數據儲存和處理方法，從而導致一些基本相同功能的實現。 除了數據儲存， Akonadi還有其他幾個組成部分，包括搜尋和一個函式庫（快取）作為方便使用和通知數據的變化。
+    Akonadi通訊藉由服務來擷取和傳送數據，而不是通過一個專門的應用程式API 。數據可以藉由模型設計取自Akonadi，旨在集合具體的數據（電子郵件，日曆，聯絡人等）。應用程式本身將檢視和編輯的數據顯示給用戶，讓他們來輸入數據。Akonadi也將支援應用程式的元數據建立。
+    由於Akonadi關注數據儲存和檢索，這是傳統上建立PIM應用程式的困難部份，讓PIM應用程式的發展容易得多。事實上，Mailody小組演示如何使用Akonadi建立一個郵件閱讀器，只花了10分鐘。
+philosophy: []
+quotes: []
+milestones: []
+wiki_url:
+  en: https://en.wikipedia.org/wiki/Akuna
+  zh: https://zh.wikipedia.org/wiki/Akonadi

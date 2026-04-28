@@ -1,0 +1,462 @@
+{
+  "accession_number": "0001193125-26-050636",
+  "cik": "0000200217",
+  "filing_date": "2026-02-13",
+  "firm": "DODGE & COX",
+  "holdings": [
+    {
+      "cusip": "808513105",
+      "name": "The Charles Schwab Corp.",
+      "share_type": "SH",
+      "shares": 76513926,
+      "value_usd": 7644506390,
+      "weight_pct": "4.13",
+      "ticker": null
+    },
+    {
+      "cusip": "G51502105",
+      "name": "Johnson Controls International PLC",
+      "share_type": "SH",
+      "shares": 60382969,
+      "value_usd": 7230860538,
+      "weight_pct": "3.90",
+      "ticker": "JCI"
+    },
+    {
+      "cusip": "75513E101",
+      "name": "RTX Corp.",
+      "share_type": "SH",
+      "shares": 37571811,
+      "value_usd": 6890670137,
+      "weight_pct": "3.72",
+      "ticker": "RTX"
+    },
+    {
+      "cusip": "126650100",
+      "name": "CVS Health Corp.",
+      "share_type": "SH",
+      "shares": 62509988,
+      "value_usd": 4960792648,
+      "weight_pct": "2.68",
+      "ticker": "CVS"
+    },
+    {
+      "cusip": "31428X106",
+      "name": "FedEx Corp.",
+      "share_type": "SH",
+      "shares": 15582168,
+      "value_usd": 4501064943,
+      "weight_pct": "2.43",
+      "ticker": "FDX"
+    },
+    {
+      "cusip": "59156R108",
+      "name": "MetLife, Inc.",
+      "share_type": "SH",
+      "shares": 52252050,
+      "value_usd": 4124776827,
+      "weight_pct": "2.23",
+      "ticker": "MET"
+    },
+    {
+      "cusip": "02079K107",
+      "name": "Alphabet, Inc.",
+      "share_type": "SH",
+      "shares": 12875798,
+      "value_usd": 4040425412,
+      "weight_pct": "2.18",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "09857L108",
+      "name": "Booking Holdings, Inc.",
+      "share_type": "SH",
+      "shares": 732081,
+      "value_usd": 3920535342,
+      "weight_pct": "2.12",
+      "ticker": "BKNG"
+    },
+    {
+      "cusip": "594918104",
+      "name": "Microsoft Corp.",
+      "share_type": "SH",
+      "shares": 7441750,
+      "value_usd": 3598979135,
+      "weight_pct": "1.94",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "75886F107",
+      "name": "Regeneron Pharmaceuticals, Inc.",
+      "share_type": "SH",
+      "shares": 4596358,
+      "value_usd": 3547790849,
+      "weight_pct": "1.92",
+      "ticker": "REGN"
+    },
+    {
+      "cusip": "023135106",
+      "name": "Amazon.com, Inc.",
+      "share_type": "SH",
+      "shares": 15230394,
+      "value_usd": 3515479543,
+      "weight_pct": "1.90",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "02079K305",
+      "name": "Alphabet, Inc.",
+      "share_type": "SH",
+      "shares": 10833118,
+      "value_usd": 3390765934,
+      "weight_pct": "1.83",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "G87052109",
+      "name": "TE Connectivity PLC",
+      "share_type": "SH",
+      "shares": 14873850,
+      "value_usd": 3383949614,
+      "weight_pct": "1.83",
+      "ticker": "TEL"
+    },
+    {
+      "cusip": "20030N101",
+      "name": "Comcast Corp.",
+      "share_type": "SH",
+      "shares": 112967514,
+      "value_usd": 3376598993,
+      "weight_pct": "1.82",
+      "ticker": "CMCSA"
+    },
+    {
+      "cusip": "37733W204",
+      "name": "GSK PLC",
+      "share_type": "SH",
+      "shares": 68517969,
+      "value_usd": 3360121200,
+      "weight_pct": "1.81",
+      "ticker": "GSK"
+    },
+    {
+      "cusip": "337738108",
+      "name": "Fiserv, Inc.",
+      "share_type": "SH",
+      "shares": 49474622,
+      "value_usd": 3323210360,
+      "weight_pct": "1.79",
+      "ticker": "FISV"
+    },
+    {
+      "cusip": "30303M102",
+      "name": "Meta Platforms, Inc.",
+      "share_type": "SH",
+      "shares": 5019837,
+      "value_usd": 3313544205,
+      "weight_pct": "1.79",
+      "ticker": "META"
+    },
+    {
+      "cusip": "674599105",
+      "name": "Occidental Petroleum Corp.",
+      "share_type": "SH",
+      "shares": 79473071,
+      "value_usd": 3267932680,
+      "weight_pct": "1.76",
+      "ticker": "OXY"
+    },
+    {
+      "cusip": "31620M106",
+      "name": "Fidelity National Information Services, Inc.",
+      "share_type": "SH",
+      "shares": 49113297,
+      "value_usd": 3264069719,
+      "weight_pct": "1.76",
+      "ticker": "FIS"
+    },
+    {
+      "cusip": "375558103",
+      "name": "Gilead Sciences, Inc.",
+      "share_type": "SH",
+      "shares": 26283511,
+      "value_usd": 3226038140,
+      "weight_pct": "1.74",
+      "ticker": "GILD"
+    },
+    {
+      "cusip": "125523100",
+      "name": "The Cigna Group",
+      "share_type": "SH",
+      "shares": 11138614,
+      "value_usd": 3065680742,
+      "weight_pct": "1.65",
+      "ticker": "CI"
+    },
+    {
+      "cusip": "16119P108",
+      "name": "Charter Communications, Inc.",
+      "share_type": "SH",
+      "shares": 14609220,
+      "value_usd": 3049674675,
+      "weight_pct": "1.65",
+      "ticker": "CHTR"
+    },
+    {
+      "cusip": "91324P102",
+      "name": "UnitedHealth Group, Inc.",
+      "share_type": "SH",
+      "shares": 9172769,
+      "value_usd": 3028022775,
+      "weight_pct": "1.63",
+      "ticker": "UNH"
+    },
+    {
+      "cusip": "949746101",
+      "name": "Wells Fargo & Co.",
+      "share_type": "SH",
+      "shares": 32311711,
+      "value_usd": 3011451486,
+      "weight_pct": "1.63",
+      "ticker": "WFC"
+    },
+    {
+      "cusip": "064058100",
+      "name": "The Bank of New York Mellon Corp.",
+      "share_type": "SH",
+      "shares": 25811239,
+      "value_usd": 2996426736,
+      "weight_pct": "1.62",
+      "ticker": "BK"
+    },
+    {
+      "cusip": "444859102",
+      "name": "Humana, Inc.",
+      "share_type": "SH",
+      "shares": 11290435,
+      "value_usd": 2891819117,
+      "weight_pct": "1.56",
+      "ticker": "HUM"
+    },
+    {
+      "cusip": "655844108",
+      "name": "Norfolk Southern Corp.",
+      "share_type": "SH",
+      "shares": 9623885,
+      "value_usd": 2778608077,
+      "weight_pct": "1.50",
+      "ticker": "NSC"
+    },
+    {
+      "cusip": "G0403H108",
+      "name": "Aon PLC",
+      "share_type": "SH",
+      "shares": 7852456,
+      "value_usd": 2770974673,
+      "weight_pct": "1.50",
+      "ticker": "AON"
+    },
+    {
+      "cusip": "80105N105",
+      "name": "Sanofi SA",
+      "share_type": "SH",
+      "shares": 56492599,
+      "value_usd": 2737631348,
+      "weight_pct": "1.48",
+      "ticker": null
+    },
+    {
+      "cusip": "36266G107",
+      "name": "GE HealthCare Technologies, Inc.",
+      "share_type": "SH",
+      "shares": 31211229,
+      "value_usd": 2559945003,
+      "weight_pct": "1.38",
+      "ticker": "GEHC"
+    },
+    {
+      "cusip": "459506101",
+      "name": "International Flavors & Fragrances, Inc.",
+      "share_type": "SH",
+      "shares": 36401042,
+      "value_usd": 2453066220,
+      "weight_pct": "1.32",
+      "ticker": "IFF"
+    },
+    {
+      "cusip": "34959J108",
+      "name": "Fortive Corp.",
+      "share_type": "SH",
+      "shares": 44157822,
+      "value_usd": 2437953353,
+      "weight_pct": "1.32",
+      "ticker": "FTV"
+    },
+    {
+      "cusip": "78410G104",
+      "name": "SBA Communications Corp.",
+      "share_type": "SH",
+      "shares": 11996134,
+      "value_usd": 2320412200,
+      "weight_pct": "1.25",
+      "ticker": "SBAC"
+    },
+    {
+      "cusip": "009158106",
+      "name": "Air Products & Chemicals, Inc.",
+      "share_type": "SH",
+      "shares": 9236610,
+      "value_usd": 2281627402,
+      "weight_pct": "1.23",
+      "ticker": "APD"
+    },
+    {
+      "cusip": "G96629103",
+      "name": "Willis Towers Watson PLC",
+      "share_type": "SH",
+      "shares": 6925525,
+      "value_usd": 2275727515,
+      "weight_pct": "1.23",
+      "ticker": "WTW"
+    },
+    {
+      "cusip": "14040H105",
+      "name": "Capital One Financial Corp.",
+      "share_type": "SH",
+      "shares": 9163067,
+      "value_usd": 2220760918,
+      "weight_pct": "1.20",
+      "ticker": "COF"
+    },
+    {
+      "cusip": "03524A108",
+      "name": "Anheuser-Busch InBev SA/NV",
+      "share_type": "SH",
+      "shares": 33113431,
+      "value_usd": 2120584121,
+      "weight_pct": "1.14",
+      "ticker": "BUD"
+    },
+    {
+      "cusip": "98956P102",
+      "name": "Zimmer Biomet Holdings, Inc.",
+      "share_type": "SH",
+      "shares": 23506849,
+      "value_usd": 2113735862,
+      "weight_pct": "1.14",
+      "ticker": "ZBH"
+    },
+    {
+      "cusip": "11271J107",
+      "name": "Brookfield Corp.",
+      "share_type": "SH",
+      "shares": 41280320,
+      "value_usd": 1894353885,
+      "weight_pct": "1.02",
+      "ticker": "BN"
+    },
+    {
+      "cusip": "05722G100",
+      "name": "Baker Hughes Co.",
+      "share_type": "SH",
+      "shares": 40759438,
+      "value_usd": 1856184807,
+      "weight_pct": "1.00",
+      "ticker": "BKR"
+    },
+    {
+      "cusip": "866674104",
+      "name": "Sun Communities, Inc.",
+      "share_type": "SH",
+      "shares": 14491865,
+      "value_usd": 1795686992,
+      "weight_pct": "0.97",
+      "ticker": "SUI"
+    },
+    {
+      "cusip": "28414H103",
+      "name": "Elanco Animal Health, Inc.",
+      "share_type": "SH",
+      "shares": 79084305,
+      "value_usd": 1789677822,
+      "weight_pct": "0.97",
+      "ticker": "ELAN"
+    },
+    {
+      "cusip": "369604301",
+      "name": "GE Aerospace",
+      "share_type": "SH",
+      "shares": 5191577,
+      "value_usd": 1599161463,
+      "weight_pct": "0.86",
+      "ticker": null
+    },
+    {
+      "cusip": "H42097107",
+      "name": "UBS Group AG",
+      "share_type": "SH",
+      "shares": 33665342,
+      "value_usd": 1556249860,
+      "weight_pct": "0.84",
+      "ticker": "UBS"
+    },
+    {
+      "cusip": "405552100",
+      "name": "Haleon PLC",
+      "share_type": "SH",
+      "shares": 151755452,
+      "value_usd": 1534247620,
+      "weight_pct": "0.83",
+      "ticker": "HLN"
+    },
+    {
+      "cusip": "38141G104",
+      "name": "The Goldman Sachs Group, Inc.",
+      "share_type": "SH",
+      "shares": 1709674,
+      "value_usd": 1502803446,
+      "weight_pct": "0.81",
+      "ticker": "GS"
+    },
+    {
+      "cusip": "01609W102",
+      "name": "Alibaba Group Holding, Ltd.",
+      "share_type": "SH",
+      "shares": 10016870,
+      "value_usd": 1468272805,
+      "weight_pct": "0.79",
+      "ticker": "BABA"
+    },
+    {
+      "cusip": "50212V100",
+      "name": "LPL Financial Holdings, Inc.",
+      "share_type": "SH",
+      "shares": 3948970,
+      "value_usd": 1410453615,
+      "weight_pct": "0.76",
+      "ticker": "LPLA"
+    },
+    {
+      "cusip": "05352A100",
+      "name": "Avantor, Inc.",
+      "share_type": "SH",
+      "shares": 117065143,
+      "value_usd": 1341566539,
+      "weight_pct": "0.72",
+      "ticker": "AVTR"
+    },
+    {
+      "cusip": "45337C102",
+      "name": "Incyte Corp.",
+      "share_type": "SH",
+      "shares": 13261742,
+      "value_usd": 1309862257,
+      "weight_pct": "0.71",
+      "ticker": "INCY"
+    }
+  ],
+  "investor": "DODGE & COX",
+  "period": "2025-12-31",
+  "total_holdings": 222,
+  "total_value_usd": 185255649932
+}

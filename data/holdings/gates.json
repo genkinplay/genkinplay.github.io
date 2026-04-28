@@ -1,0 +1,219 @@
+{
+  "accession_number": "0001104659-26-016458",
+  "cik": "0001166559",
+  "filing_date": "2026-02-17",
+  "firm": "GATES FOUNDATION TRUST",
+  "holdings": [
+    {
+      "cusip": "084670702",
+      "name": "BERKSHIRE HATHAWAY INC DEL",
+      "share_type": "SH",
+      "shares": 19406764,
+      "value_usd": 9754809925,
+      "weight_pct": "27.59",
+      "ticker": null
+    },
+    {
+      "cusip": "94106L109",
+      "name": "WASTE MGMT INC DEL",
+      "share_type": "SH",
+      "shares": 28934344,
+      "value_usd": 6357164720,
+      "weight_pct": "17.98",
+      "ticker": null
+    },
+    {
+      "cusip": "136375102",
+      "name": "CANADIAN NATL RY CO",
+      "share_type": "SH",
+      "shares": 51826786,
+      "value_usd": 5123077796,
+      "weight_pct": "14.49",
+      "ticker": null
+    },
+    {
+      "cusip": "594918104",
+      "name": "MICROSOFT CORP",
+      "share_type": "SH",
+      "shares": 7691207,
+      "value_usd": 3719621529,
+      "weight_pct": "10.52",
+      "ticker": "MSFT"
+    },
+    {
+      "cusip": "149123101",
+      "name": "CATERPILLAR INC",
+      "share_type": "SH",
+      "shares": 6353614,
+      "value_usd": 3639794852,
+      "weight_pct": "10.29",
+      "ticker": "CAT"
+    },
+    {
+      "cusip": "244199105",
+      "name": "DEERE & CO",
+      "share_type": "SH",
+      "shares": 3557378,
+      "value_usd": 1656208475,
+      "weight_pct": "4.68",
+      "ticker": "DE"
+    },
+    {
+      "cusip": "278865100",
+      "name": "ECOLAB INC",
+      "share_type": "SH",
+      "shares": 5218044,
+      "value_usd": 1369840911,
+      "weight_pct": "3.87",
+      "ticker": "ECL"
+    },
+    {
+      "cusip": "931142103",
+      "name": "WALMART INC",
+      "share_type": "SH",
+      "shares": 8390477,
+      "value_usd": 934783043,
+      "weight_pct": "2.64",
+      "ticker": "WMT"
+    },
+    {
+      "cusip": "31428X106",
+      "name": "FEDEX CORP",
+      "share_type": "SH",
+      "shares": 2384362,
+      "value_usd": 688746807,
+      "weight_pct": "1.95",
+      "ticker": "FDX"
+    },
+    {
+      "cusip": "191241108",
+      "name": "COCA-COLA FEMSA SAB DE CV",
+      "share_type": "SH",
+      "shares": 6214719,
+      "value_usd": 588596036,
+      "weight_pct": "1.66",
+      "ticker": "KOF"
+    },
+    {
+      "cusip": "94106B101",
+      "name": "WASTE CONNECTIONS INC",
+      "share_type": "SH",
+      "shares": 2039175,
+      "value_usd": 357589728,
+      "weight_pct": "1.01",
+      "ticker": "WCN"
+    },
+    {
+      "cusip": "22266T109",
+      "name": "COUPANG INC",
+      "share_type": "SH",
+      "shares": 9248045,
+      "value_usd": 218161382,
+      "weight_pct": "0.62",
+      "ticker": "CPNG"
+    },
+    {
+      "cusip": "55825T103",
+      "name": "MADISON SQUARE GRDN SPRT COR",
+      "share_type": "SH",
+      "shares": 592406,
+      "value_usd": 153225812,
+      "weight_pct": "0.43",
+      "ticker": null
+    },
+    {
+      "cusip": "80810D103",
+      "name": "SCHRODINGER INC",
+      "share_type": "SH",
+      "shares": 6981664,
+      "value_usd": 124832152,
+      "weight_pct": "0.35",
+      "ticker": "SDGR"
+    },
+    {
+      "cusip": "955306105",
+      "name": "WEST PHARMACEUTICAL SVSC INC",
+      "share_type": "SH",
+      "shares": 444500,
+      "value_usd": 122299730,
+      "weight_pct": "0.35",
+      "ticker": null
+    },
+    {
+      "cusip": "693718108",
+      "name": "PACCAR INC",
+      "share_type": "SH",
+      "shares": 1000000,
+      "value_usd": 109510000,
+      "weight_pct": "0.31",
+      "ticker": "PCAR"
+    },
+    {
+      "cusip": "03524A108",
+      "name": "ANHEUSER BUSCH INBEV SA/NV",
+      "share_type": "SH",
+      "shares": 1703000,
+      "value_usd": 109060120,
+      "weight_pct": "0.31",
+      "ticker": "BUD"
+    },
+    {
+      "cusip": "580135101",
+      "name": "MCDONALDS CORP",
+      "share_type": "SH",
+      "shares": 334900,
+      "value_usd": 102355487,
+      "weight_pct": "0.29",
+      "ticker": "MCD"
+    },
+    {
+      "cusip": "235851102",
+      "name": "DANAHER CORPORATION",
+      "share_type": "SH",
+      "shares": 373000,
+      "value_usd": 85387160,
+      "weight_pct": "0.24",
+      "ticker": "DHR"
+    },
+    {
+      "cusip": "500754106",
+      "name": "KRAFT HEINZ CO",
+      "share_type": "SH",
+      "shares": 2472600,
+      "value_usd": 59960550,
+      "weight_pct": "0.17",
+      "ticker": "KHC"
+    },
+    {
+      "cusip": "440452100",
+      "name": "HORMEL FOODS CORP",
+      "share_type": "SH",
+      "shares": 2085290,
+      "value_usd": 49421373,
+      "weight_pct": "0.14",
+      "ticker": "HRL"
+    },
+    {
+      "cusip": "H5919C104",
+      "name": "ON HLDG AG",
+      "share_type": "SH",
+      "shares": 500000,
+      "value_usd": 23240000,
+      "weight_pct": "0.07",
+      "ticker": null
+    },
+    {
+      "cusip": "92338C103",
+      "name": "VERALTO CORP",
+      "share_type": "SH",
+      "shares": 124333,
+      "value_usd": 12405947,
+      "weight_pct": "0.04",
+      "ticker": "VLTO"
+    }
+  ],
+  "investor": "GATES FOUNDATION TRUST",
+  "period": "2025-12-31",
+  "total_holdings": 23,
+  "total_value_usd": 35360093535
+}

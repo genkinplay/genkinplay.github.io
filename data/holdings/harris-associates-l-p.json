@@ -1,0 +1,462 @@
+{
+  "accession_number": "0000813917-26-000022",
+  "cik": "0000813917",
+  "filing_date": "2026-02-17",
+  "firm": "HARRIS ASSOCIATES L P",
+  "holdings": [
+    {
+      "cusip": "02079K305",
+      "name": "ALPHABET INC",
+      "share_type": "SH",
+      "shares": 8918581,
+      "value_usd": 2791515947,
+      "weight_pct": "3.53",
+      "ticker": "GOOGL"
+    },
+    {
+      "cusip": "14040H105",
+      "name": "CAPITAL ONE FINL CORP",
+      "share_type": "SH",
+      "shares": 10825295,
+      "value_usd": 2623618472,
+      "weight_pct": "3.32",
+      "ticker": "COF"
+    },
+    {
+      "cusip": "79466L302",
+      "name": "SALESFORCE INC",
+      "share_type": "SH",
+      "shares": 9791328,
+      "value_usd": 2593820672,
+      "weight_pct": "3.28",
+      "ticker": "CRM"
+    },
+    {
+      "cusip": "46266C105",
+      "name": "IQVIA HLDGS INC",
+      "share_type": "SH",
+      "shares": 11319718,
+      "value_usd": 2551577575,
+      "weight_pct": "3.22",
+      "ticker": "IQV"
+    },
+    {
+      "cusip": "009066101",
+      "name": "AIRBNB INC",
+      "share_type": "SH",
+      "shares": 18694408,
+      "value_usd": 2537204988,
+      "weight_pct": "3.21",
+      "ticker": "ABNB"
+    },
+    {
+      "cusip": "45866F104",
+      "name": "INTERCONTINENTAL EXCHANGE IN",
+      "share_type": "SH",
+      "shares": 15584531,
+      "value_usd": 2524070560,
+      "weight_pct": "3.19",
+      "ticker": null
+    },
+    {
+      "cusip": "49271V100",
+      "name": "KEURIG DR PEPPER INC",
+      "share_type": "SH",
+      "shares": 86269175,
+      "value_usd": 2416399596,
+      "weight_pct": "3.05",
+      "ticker": "KDP"
+    },
+    {
+      "cusip": "934423104",
+      "name": "WARNER BROS DISCOVERY INC",
+      "share_type": "SH",
+      "shares": 78854809,
+      "value_usd": 2272595595,
+      "weight_pct": "2.87",
+      "ticker": "WBD"
+    },
+    {
+      "cusip": "20825C104",
+      "name": "CONOCOPHILLIPS",
+      "share_type": "SH",
+      "shares": 24002747,
+      "value_usd": 2246897137,
+      "weight_pct": "2.84",
+      "ticker": "COP"
+    },
+    {
+      "cusip": "808513105",
+      "name": "SCHWAB CHARLES CORP",
+      "share_type": "SH",
+      "shares": 22031493,
+      "value_usd": 2201166473,
+      "weight_pct": "2.78",
+      "ticker": "SCHW"
+    },
+    {
+      "cusip": "31946M103",
+      "name": "FIRST CTZNS BANCSHARES INC D",
+      "share_type": "SH",
+      "shares": 928944,
+      "value_usd": 1993681313,
+      "weight_pct": "2.52",
+      "ticker": null
+    },
+    {
+      "cusip": "026874784",
+      "name": "AMERICAN INTL GROUP INC",
+      "share_type": "SH",
+      "shares": 22144430,
+      "value_usd": 1894455960,
+      "weight_pct": "2.39",
+      "ticker": "AIG"
+    },
+    {
+      "cusip": "G96629103",
+      "name": "WILLIS TOWERS WATSON PLC LTD",
+      "share_type": "SH",
+      "shares": 5613089,
+      "value_usd": 1844461180,
+      "weight_pct": "2.33",
+      "ticker": "WTW"
+    },
+    {
+      "cusip": "718546104",
+      "name": "PHILLIPS 66",
+      "share_type": "SH",
+      "shares": 13978492,
+      "value_usd": 1803784642,
+      "weight_pct": "2.28",
+      "ticker": "PSX"
+    },
+    {
+      "cusip": "87612G101",
+      "name": "TARGA RES CORP",
+      "share_type": "SH",
+      "shares": 9729925,
+      "value_usd": 1795171127,
+      "weight_pct": "2.27",
+      "ticker": null
+    },
+    {
+      "cusip": "036752103",
+      "name": "ELEVANCE HEALTH INC FORMERLY",
+      "share_type": "SH",
+      "shares": 4794445,
+      "value_usd": 1680692576,
+      "weight_pct": "2.12",
+      "ticker": null
+    },
+    {
+      "cusip": "294429105",
+      "name": "EQUIFAX INC",
+      "share_type": "SH",
+      "shares": 7557127,
+      "value_usd": 1639745434,
+      "weight_pct": "2.07",
+      "ticker": "EFX"
+    },
+    {
+      "cusip": "58933Y105",
+      "name": "MERCK & CO INC",
+      "share_type": "SH",
+      "shares": 14088705,
+      "value_usd": 1482977135,
+      "weight_pct": "1.87",
+      "ticker": "MRK"
+    },
+    {
+      "cusip": "244199105",
+      "name": "DEERE & CO",
+      "share_type": "SH",
+      "shares": 3135045,
+      "value_usd": 1459582943,
+      "weight_pct": "1.84",
+      "ticker": "DE"
+    },
+    {
+      "cusip": "37045V100",
+      "name": "GENERAL MTRS CO",
+      "share_type": "SH",
+      "shares": 17407745,
+      "value_usd": 1415597798,
+      "weight_pct": "1.79",
+      "ticker": null
+    },
+    {
+      "cusip": "247361702",
+      "name": "DELTA AIR LINES INC DEL",
+      "share_type": "SH",
+      "shares": 19666515,
+      "value_usd": 1364856122,
+      "weight_pct": "1.73",
+      "ticker": null
+    },
+    {
+      "cusip": "337738108",
+      "name": "FISERV INC",
+      "share_type": "SH",
+      "shares": 20154703,
+      "value_usd": 1353791398,
+      "weight_pct": "1.71",
+      "ticker": "FISV"
+    },
+    {
+      "cusip": "36266G107",
+      "name": "GE HEALTHCARE TECHNOLOGIES I",
+      "share_type": "SH",
+      "shares": 15854646,
+      "value_usd": 1300398038,
+      "weight_pct": "1.64",
+      "ticker": null
+    },
+    {
+      "cusip": "02005N100",
+      "name": "ALLY FINL INC",
+      "share_type": "SH",
+      "shares": 27045748,
+      "value_usd": 1224901936,
+      "weight_pct": "1.55",
+      "ticker": "ALLY"
+    },
+    {
+      "cusip": "949746101",
+      "name": "WELLS FARGO CO NEW",
+      "share_type": "SH",
+      "shares": 12903643,
+      "value_usd": 1202619501,
+      "weight_pct": "1.52",
+      "ticker": "WFC"
+    },
+    {
+      "cusip": "172967424",
+      "name": "CITIGROUP INC",
+      "share_type": "SH",
+      "shares": 10041169,
+      "value_usd": 1171703962,
+      "weight_pct": "1.48",
+      "ticker": "C"
+    },
+    {
+      "cusip": "22052L104",
+      "name": "CORTEVA INC",
+      "share_type": "SH",
+      "shares": 17026221,
+      "value_usd": 1141267582,
+      "weight_pct": "1.44",
+      "ticker": "CTVA"
+    },
+    {
+      "cusip": "12504L109",
+      "name": "CBRE GROUP INC",
+      "share_type": "SH",
+      "shares": 6928621,
+      "value_usd": 1114053000,
+      "weight_pct": "1.41",
+      "ticker": "CBRE"
+    },
+    {
+      "cusip": "98956P102",
+      "name": "ZIMMER BIOMET HOLDINGS INC",
+      "share_type": "SH",
+      "shares": 12264703,
+      "value_usd": 1102842069,
+      "weight_pct": "1.39",
+      "ticker": "ZBH"
+    },
+    {
+      "cusip": "060505104",
+      "name": "BANK AMERICA CORP",
+      "share_type": "SH",
+      "shares": 19853400,
+      "value_usd": 1091937006,
+      "weight_pct": "1.38",
+      "ticker": "BAC"
+    },
+    {
+      "cusip": "023135106",
+      "name": "AMAZON COM INC",
+      "share_type": "SH",
+      "shares": 4463110,
+      "value_usd": 1030175013,
+      "weight_pct": "1.30",
+      "ticker": "AMZN"
+    },
+    {
+      "cusip": "654106103",
+      "name": "NIKE INC",
+      "share_type": "SH",
+      "shares": 14956882,
+      "value_usd": 952902964,
+      "weight_pct": "1.20",
+      "ticker": "NKE"
+    },
+    {
+      "cusip": "16119P108",
+      "name": "CHARTER COMMUNICATIONS INC N",
+      "share_type": "SH",
+      "shares": 4344822,
+      "value_usd": 906981640,
+      "weight_pct": "1.15",
+      "ticker": "CHTR"
+    },
+    {
+      "cusip": "14316J108",
+      "name": "CARLYLE GROUP INC",
+      "share_type": "SH",
+      "shares": 15198269,
+      "value_usd": 898369695,
+      "weight_pct": "1.14",
+      "ticker": "CG"
+    },
+    {
+      "cusip": "37940X102",
+      "name": "GLOBAL PMTS INC",
+      "share_type": "SH",
+      "shares": 11348361,
+      "value_usd": 878363143,
+      "weight_pct": "1.11",
+      "ticker": null
+    },
+    {
+      "cusip": "759351604",
+      "name": "REINSURANCE GRP OF AMERICA I",
+      "share_type": "SH",
+      "shares": 4261078,
+      "value_usd": 866958995,
+      "weight_pct": "1.10",
+      "ticker": null
+    },
+    {
+      "cusip": "907818108",
+      "name": "UNION PAC CORP",
+      "share_type": "SH",
+      "shares": 3656510,
+      "value_usd": 845823833,
+      "weight_pct": "1.07",
+      "ticker": "UNP"
+    },
+    {
+      "cusip": "N00985106",
+      "name": "AERCAP HOLDINGS NV",
+      "share_type": "SH",
+      "shares": 5840480,
+      "value_usd": 839627434,
+      "weight_pct": "1.06",
+      "ticker": null
+    },
+    {
+      "cusip": "631103108",
+      "name": "NASDAQ INC",
+      "share_type": "SH",
+      "shares": 8621689,
+      "value_usd": 837424691,
+      "weight_pct": "1.06",
+      "ticker": "NDAQ"
+    },
+    {
+      "cusip": "20030N101",
+      "name": "COMCAST CORP NEW",
+      "share_type": "SH",
+      "shares": 27458428,
+      "value_usd": 820732405,
+      "weight_pct": "1.04",
+      "ticker": "CMCSA"
+    },
+    {
+      "cusip": "857477103",
+      "name": "STATE STR CORP",
+      "share_type": "SH",
+      "shares": 6306244,
+      "value_usd": 813568549,
+      "weight_pct": "1.03",
+      "ticker": null
+    },
+    {
+      "cusip": "26875P101",
+      "name": "EOG RES INC",
+      "share_type": "SH",
+      "shares": 7372292,
+      "value_usd": 774164419,
+      "weight_pct": "0.98",
+      "ticker": null
+    },
+    {
+      "cusip": "21871X109",
+      "name": "COREBRIDGE FINL INC",
+      "share_type": "SH",
+      "shares": 24370017,
+      "value_usd": 735243427,
+      "weight_pct": "0.93",
+      "ticker": "CRBG"
+    },
+    {
+      "cusip": "G87052109",
+      "name": "TE CONNECTIVITY PLC",
+      "share_type": "SH",
+      "shares": 3229986,
+      "value_usd": 734854151,
+      "weight_pct": "0.93",
+      "ticker": "TEL"
+    },
+    {
+      "cusip": "574599106",
+      "name": "MASCO CORP",
+      "share_type": "SH",
+      "shares": 11501911,
+      "value_usd": 729911283,
+      "weight_pct": "0.92",
+      "ticker": "MAS"
+    },
+    {
+      "cusip": "N20944109",
+      "name": "CNH INDL N V",
+      "share_type": "SH",
+      "shares": 73420366,
+      "value_usd": 676935774,
+      "weight_pct": "0.86",
+      "ticker": null
+    },
+    {
+      "cusip": "56585A102",
+      "name": "MARATHON PETE CORP",
+      "share_type": "SH",
+      "shares": 4031962,
+      "value_usd": 655717903,
+      "weight_pct": "0.83",
+      "ticker": "MPC"
+    },
+    {
+      "cusip": "536797103",
+      "name": "LITHIA MTRS INC",
+      "share_type": "SH",
+      "shares": 1967035,
+      "value_usd": 653704742,
+      "weight_pct": "0.83",
+      "ticker": null
+    },
+    {
+      "cusip": "12514G108",
+      "name": "CDW CORP",
+      "share_type": "SH",
+      "shares": 4525812,
+      "value_usd": 616415559,
+      "weight_pct": "0.78",
+      "ticker": "CDW"
+    },
+    {
+      "cusip": "H2927K103",
+      "name": "AMRIZE LTD",
+      "share_type": "SH",
+      "shares": 11379547,
+      "value_usd": 615405896,
+      "weight_pct": "0.78",
+      "ticker": "AMRZ"
+    }
+  ],
+  "investor": "HARRIS ASSOCIATES L P",
+  "period": "2025-12-31",
+  "total_holdings": 167,
+  "total_value_usd": 79121382151
+}

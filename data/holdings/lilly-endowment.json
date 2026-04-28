@@ -1,0 +1,21 @@
+{
+  "accession_number": "0000316011-26-000009",
+  "cik": "0000316011",
+  "filing_date": "2026-04-20",
+  "firm": "LILLY ENDOWMENT INC",
+  "holdings": [
+    {
+      "cusip": "532457108",
+      "name": "Eli Lilly and Company",
+      "share_type": "SH",
+      "shares": 91896978,
+      "value_usd": 84524083455,
+      "weight_pct": "100.00",
+      "ticker": null
+    }
+  ],
+  "investor": "LILLY ENDOWMENT INC",
+  "period": "2026-03-31",
+  "total_holdings": 1,
+  "total_value_usd": 84524083455
+}

@@ -1,0 +1,122 @@
+{
+  "added": 6,
+  "changes": [
+    {
+      "action": "ADDED",
+      "cusip": "369604301",
+      "delta_pct": "2.40",
+      "delta_usd": 342550208,
+      "name": "GE AEROSPACE",
+      "prev_shares": 47510431,
+      "prev_value_usd": 14292087853,
+      "shares": 47510431,
+      "value_usd": 14634638061,
+      "ticker": null
+    },
+    {
+      "action": "ADDED",
+      "cusip": "92826C839",
+      "delta_pct": "1.51",
+      "delta_usd": 144947271,
+      "name": "VISA INC",
+      "prev_shares": 28057351,
+      "prev_value_usd": 9578218484,
+      "shares": 27724233,
+      "value_usd": 9723165755,
+      "ticker": "V"
+    },
+    {
+      "action": "ADDED",
+      "cusip": "615369105",
+      "delta_pct": "7.21",
+      "delta_usd": 457412423,
+      "name": "MOODYS CORP",
+      "prev_shares": 13308479,
+      "prev_value_usd": 6341224074,
+      "shares": 13308479,
+      "value_usd": 6798636497,
+      "ticker": "MCO"
+    },
+    {
+      "action": "ADDED",
+      "cusip": "78409V104",
+      "delta_pct": "13.13",
+      "delta_usd": 715276475,
+      "name": "S&P GLOBAL INC",
+      "prev_shares": 11189870,
+      "prev_value_usd": 5446221628,
+      "shares": 11790310,
+      "value_usd": 6161498103,
+      "ticker": "SPGI"
+    },
+    {
+      "action": "ADDED",
+      "cusip": "02079K107",
+      "delta_pct": "28.84",
+      "delta_usd": 533676535,
+      "name": "ALPHABET INC",
+      "prev_shares": 7596819,
+      "prev_value_usd": 1850205267,
+      "shares": 7596819,
+      "value_usd": 2383881802,
+      "ticker": "GOOGL"
+    },
+    {
+      "action": "ADDED",
+      "cusip": "N3168P101",
+      "delta_pct": "20.97",
+      "delta_usd": 233692159,
+      "name": "FERROVIAL SE",
+      "prev_shares": 19470666,
+      "prev_value_usd": 1114470781,
+      "shares": 20740214,
+      "value_usd": 1348162940,
+      "ticker": "FER"
+    },
+    {
+      "action": "REDUCED",
+      "cusip": "594918104",
+      "delta_pct": "-5.56",
+      "delta_usd": -477843952,
+      "name": "MICROSOFT CORP",
+      "prev_shares": 16592204,
+      "prev_value_usd": 8593932062,
+      "shares": 16781953,
+      "value_usd": 8116088110,
+      "ticker": "MSFT"
+    },
+    {
+      "action": "REDUCED",
+      "cusip": "13646K108",
+      "delta_pct": "-5.52",
+      "delta_usd": -204884498,
+      "name": "CANADIAN PACIFIC KANSAS CITY",
+      "prev_shares": 49865735,
+      "prev_value_usd": 3713514827,
+      "shares": 47654423,
+      "value_usd": 3508630329,
+      "ticker": "CP"
+    },
+    {
+      "action": "REDUCED",
+      "cusip": "136375102",
+      "delta_pct": "-44.96",
+      "delta_usd": -795558593,
+      "name": "CANADIAN NATL RY CO",
+      "prev_shares": 18767774,
+      "prev_value_usd": 1769673250,
+      "shares": 9849934,
+      "value_usd": 974114657,
+      "ticker": null
+    }
+  ],
+  "cik": "0001647251",
+  "exited": 0,
+  "filing_date": "2026-02-17",
+  "firm": "TCI Fund Management Ltd",
+  "investor": "TCI Fund Management Ltd",
+  "new": 0,
+  "period": "2025-12-31",
+  "prev_report_date": "2025-09-30",
+  "reduced": 3
+}

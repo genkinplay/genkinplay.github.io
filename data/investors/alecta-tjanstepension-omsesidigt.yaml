@@ -1,0 +1,30 @@
+slug: alecta-tjanstepension-omsesidigt
+display_name:
+  en: Alecta Tjanstepension Omsesidigt
+  zh-CN: Alecta 养老基金（瑞典）
+  zh-HK: Alecta 退休基金（瑞典）
+tagline:
+  en: SEC 13F filer · AUM $45.16B
+  zh-CN: SEC 13F 机构 · 管理资产 $45.16B
+  zh-HK: SEC 13F 機構 · 管理資產 $45.16B
+role:
+  en: 'Institutional investor (rank #20, CIK 0001484429)'
+  zh-CN: '机构投资者（排名 #20，CIK 0001484429）'
+  zh-HK: '機構投資者（排名 #20，CIK 0001484429）'
+born: 0
+portrait: >-
+  https://api.dicebear.com/7.x/initials/svg?seed=Alecta%20Tjanstepension%20Omsesidigt&backgroundColor=00b8b8,4781ff,ff7333,9d4edd&radius=50&fontWeight=700&size=400
+cik: '0001484429'
+holdings_source: 13f
+featured: false
+rank: 20
+aum_usd: 45160000000
+bio:
+  en: >-
+    Alecta Tjanstepension Omsesidigt is an institutional investor managing approximately $45.16B in disclosed U.S.
+    equity holdings as of 2025-09-30, ranking #20 among SEC 13F filers.
+  zh-CN: 'Alecta 养老基金（瑞典） 是一家机构投资者，截至 2025-09-30 公开披露的美股持仓约 $45.16B，在 SEC 13F 机构中排名 #20。'
+  zh-HK: 'Alecta 退休基金（瑞典） 是一家機構投資者，截至 2025-09-30 公開披露的美股持倉約 $45.16B，在 SEC 13F 機構中排名 #20。'
+philosophy: []
+quotes: []
+milestones: []
