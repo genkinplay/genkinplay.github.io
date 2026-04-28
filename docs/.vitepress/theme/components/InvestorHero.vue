@@ -99,8 +99,7 @@ function badgeStyle(index: number) {
             v-if="skillHref && downloadLabel"
             :href="skillHref"
             :download="investor.skill_file"
-            class="hero-download shrink-0 inline-flex items-center gap-2 self-start px-5 py-2.5 rounded-full font-semibold text-sm text-white bg-[var(--vp-c-brand-1,#00b8b8)] hover:bg-[var(--vp-c-brand-2,#00a3a3)] hover:shadow-lg hover:-translate-y-0.5 transition-all whitespace-nowrap"
-            :title="downloadHint"
+            class="hero-download relative shrink-0 inline-flex items-center gap-2 self-start px-5 py-2.5 rounded-full font-semibold text-sm text-white bg-[var(--vp-c-brand-1,#00b8b8)] hover:bg-[var(--vp-c-brand-2,#00a3a3)] hover:shadow-lg hover:-translate-y-0.5 transition-all whitespace-nowrap"
           >
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
               <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
@@ -108,6 +107,13 @@ function badgeStyle(index: number) {
               <line x1="12" y1="15" x2="12" y2="3"/>
             </svg>
             {{ downloadLabel }}
+
+            <!-- Hover 卡片：显示安装说明（参照哲学标签同款样式）-->
+            <span
+              v-if="downloadHint"
+              role="tooltip"
+              class="hero-download-card pointer-events-none absolute top-full right-0 mt-3 w-96 max-w-[90vw] rounded-2xl bg-[var(--vp-c-bg)] border border-[var(--vp-c-divider)] shadow-2xl opacity-0 invisible translate-y-1 transition-all z-20 text-left p-5 text-sm font-normal text-[var(--vp-c-text-2)] leading-relaxed normal-case whitespace-normal tracking-normal"
+            >{{ downloadHint }}</span>
           </a>
         </div>
 
@@ -170,6 +176,14 @@ function badgeStyle(index: number) {
 .philosophy-tag:hover .philosophy-card,
 .philosophy-tag:focus .philosophy-card,
 .philosophy-tag:focus-within .philosophy-card {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.hero-download:hover .hero-download-card,
+.hero-download:focus .hero-download-card,
+.hero-download:focus-within .hero-download-card {
   opacity: 1;
   visibility: visible;
   transform: translateY(0);

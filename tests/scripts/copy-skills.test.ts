@@ -10,17 +10,17 @@ describe('copySkills', () => {
     rmSync(TMP, { recursive: true, force: true })
     mkdirSync(join(TMP, 'skills'), { recursive: true })
     mkdirSync(join(TMP, 'public'), { recursive: true })
-    writeFileSync(join(TMP, 'skills/buffett.skill'), 'binary-content-1')
-    writeFileSync(join(TMP, 'skills/musk.skill'), 'binary-content-2')
+    writeFileSync(join(TMP, 'skills/buffett.zip'), 'binary-content-1')
+    writeFileSync(join(TMP, 'skills/musk.zip'), 'binary-content-2')
   })
   afterEach(() => rmSync(TMP, { recursive: true, force: true }))
 
-  it('copies every .skill file from skills/ to public/install/', async () => {
+  it('copies every .zip file from skills/ to public/install/', async () => {
     const copied = await copySkills({ root: TMP })
     expect(copied).toHaveLength(2)
-    expect(existsSync(join(TMP, 'public/install/buffett.skill'))).toBe(true)
-    expect(existsSync(join(TMP, 'public/install/musk.skill'))).toBe(true)
-    expect(readFileSync(join(TMP, 'public/install/buffett.skill'), 'utf-8')).toBe('binary-content-1')
+    expect(existsSync(join(TMP, 'public/install/buffett.zip'))).toBe(true)
+    expect(existsSync(join(TMP, 'public/install/musk.zip'))).toBe(true)
+    expect(readFileSync(join(TMP, 'public/install/buffett.zip'), 'utf-8')).toBe('binary-content-1')
   })
 
   it('creates public/install/ if missing', async () => {
@@ -29,9 +29,11 @@ describe('copySkills', () => {
     expect(existsSync(join(TMP, 'public/install'))).toBe(true)
   })
 
-  it('ignores non-.skill files', async () => {
-    writeFileSync(join(TMP, 'skills/readme.md'), 'not a skill')
+  it('ignores non-.zip files', async () => {
+    writeFileSync(join(TMP, 'skills/readme.md'), 'not a zip')
+    writeFileSync(join(TMP, 'skills/legacy.skill'), 'legacy format')
     const copied = await copySkills({ root: TMP })
     expect(copied).not.toContain('readme.md')
+    expect(copied).not.toContain('legacy.skill')
   })
 })

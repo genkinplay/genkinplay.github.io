@@ -12,7 +12,7 @@ export async function copySkills(opts: CopySkillsOpts = {}): Promise<string[]> {
   const dst = join(root, 'public/install')
   mkdirSync(dst, { recursive: true })
 
-  const files = readdirSync(src).filter((f) => f.endsWith('.skill'))
+  const files = readdirSync(src).filter((f) => f.endsWith('.zip'))
   for (const f of files) {
     copyFileSync(join(src, f), join(dst, f))
   }

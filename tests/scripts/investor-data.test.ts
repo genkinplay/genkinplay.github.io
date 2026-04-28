@@ -19,7 +19,7 @@ born: 1930
 portrait: /portraits/buffett.jpg
 cik: "0001067983"
 holdings_source: "13f"
-skill_file: buffett.skill
+skill_file: buffett.zip
 bio:
   en: Three paragraph intro.
   zh-CN: 三段介绍。

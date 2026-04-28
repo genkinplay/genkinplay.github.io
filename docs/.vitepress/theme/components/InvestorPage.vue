@@ -75,7 +75,7 @@ const otherInvestors = computed(() =>
       :period="holdings?.period"
       :aum="holdings?.total_value_usd"
       :download-label="t('detail.download_cta')"
-      :download-hint="t('detail.download_desc')"
+      :download-hint="investor.skill_file ? t('detail.download_desc', { filename: investor.skill_file }) : ''"
     />
 
     <BioSection :bio="investor.bio" :lang="lang" :label="t('detail.bio')" />
