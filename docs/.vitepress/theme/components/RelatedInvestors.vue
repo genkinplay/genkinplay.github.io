@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, onMounted, ref } from 'vue'
 
 type Lang = 'en' | 'zh-CN' | 'zh-HK'
 
@@ -32,9 +32,17 @@ function hash(s: string): number {
   return h
 }
 
+// SSR / 首屏渲染：用 currentSlug 做 seed（deterministic），保证 hydration 一致。
+// onMounted 后切到 Math.random() 生成的 seed —— 每次刷新页面看到不同的关联投资人。
+// 视觉上首帧后会发生一次卡片重排（轻微闪烁，可接受）。
+const clientSeed = ref<string | null>(null)
+onMounted(() => {
+  clientSeed.value = Math.random().toString(36).slice(2)
+})
+
 const picked = computed<Investor[]>(() => {
   const n = props.count ?? 4
-  const seed = props.currentSlug
+  const seed = clientSeed.value ?? props.currentSlug
   return [...props.investors]
     .map((inv) => ({ inv, key: hash(`${seed}|${inv.slug}`) }))
     .sort((a, b) => a.key - b.key)

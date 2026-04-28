@@ -61,13 +61,13 @@ describe('RelatedInvestors', () => {
     }
   })
 
-  it('produces the same shuffle order across renders for the same currentSlug (deterministic)', () => {
+  it('always renders exactly `count` cards regardless of shuffle order', () => {
+    // 每次 mount 后 onMounted 会用 Math.random 重新洗牌，所以同一 slug 多次
+    // mount 不再保证顺序一致；但卡片数量必须稳定。
     const make = () => mount(RelatedInvestors, {
-      props: { investors: POOL, currentSlug: 'buffett', lang: 'en', label: 'l' },
+      props: { investors: POOL, currentSlug: 'buffett', lang: 'en', label: 'l', count: 3 },
     })
-    const slugs1 = make().findAll('[data-related-card]').map((a) => a.attributes('href'))
-    const slugs2 = make().findAll('[data-related-card]').map((a) => a.attributes('href'))
-    expect(slugs1).toEqual(slugs2)
-    // 关键：SSR / client hydration 必须看到一致顺序，否则会闪烁/报错
+    expect(make().findAll('[data-related-card]')).toHaveLength(3)
+    expect(make().findAll('[data-related-card]')).toHaveLength(3)
   })
 })
